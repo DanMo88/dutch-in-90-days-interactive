@@ -1,0 +1,400 @@
+{
+ "day": 59,
+ "level": "A2",
+ "title": "Met de Museumkaart naar het Rijksmuseum",
+ "fa_title": "با کارت موزه به رایکس‌موزه",
+ "audio": "audio/day59.mp3",
+ "img": "img/day59.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Voor Moederdag kreeg ik van Alex en Mia een Museumkaart.",
+   "s": 7.12
+  },
+  {
+   "p": 0,
+   "t": "Daarmee kun je een jaar lang gratis naar meer dan vijfhonderd musea in Nederland.",
+   "s": 12.51
+  },
+  {
+   "p": 0,
+   "t": "De kaart kost vijfenzeventig euro.",
+   "s": 19.46
+  },
+  {
+   "p": 1,
+   "t": "Op een zondag in juni ging ik met Fatima naar het Rijksmuseum.",
+   "s": 23.43
+  },
+  {
+   "p": 1,
+   "t": "Het gebouw is enorm, met torens, ramen met gekleurd glas en een fietspad dwars door het midden.",
+   "s": 29.07
+  },
+  {
+   "p": 2,
+   "t": "Binnen liepen we eerst door de Eregalerij.",
+   "s": 37.73
+  },
+  {
+   "p": 2,
+   "t": "Aan het eind hangt het beroemdste schilderij van Nederland: De Nachtwacht.",
+   "s": 41.76
+  },
+  {
+   "p": 3,
+   "t": "Op dit moment wordt het schilderij gerestaureerd.",
+   "s": 47.85
+  },
+  {
+   "p": 3,
+   "t": "Dat gebeurt in een glazen ruimte, zodat bezoekers kunnen meekijken.",
+   "s": 52.4
+  },
+  {
+   "p": 3,
+   "t": "Twee restauratoren werkten heel voorzichtig met een wattenstaafje.",
+   "s": 58.38
+  },
+  {
+   "p": 3,
+   "t": "Sommige stukken zagen er lichter uit dan andere.",
+   "s": 64.02
+  },
+  {
+   "p": 3,
+   "t": "“Daar is de oude vernis al weg,” las Fatima.",
+   "s": 68.49
+  },
+  {
+   "p": 4,
+   "t": "Daarna zagen we Het melkmeisje van Vermeer.",
+   "s": 73.22
+  },
+  {
+   "p": 4,
+   "t": "Na drie uur gingen we op het gras van het Museumplein zitten.",
+   "s": 77.43
+  },
+  {
+   "p": 4,
+   "t": "“Volgende keer het Van Gogh Museum?” vroeg Fatima.",
+   "s": 82.77
+  },
+  {
+   "p": 4,
+   "t": "Mijn kaart is nog lang geldig!",
+   "s": 88.9
+  }
+ ],
+ "comp": [
+  {
+   "q": "Van wie kreeg Sara de Museumkaart?",
+   "o": [
+    "van Alex en Mia",
+    "van Fatima",
+    "van Dani",
+    "van Oma Anna"
+   ],
+   "a": 0,
+   "fa": "سارا کارت موزه را از چه کسانی گرفت؟"
+  },
+  {
+   "q": "Hoeveel kost de Museumkaart?",
+   "o": [
+    "vijftig euro",
+    "vijfenzeventig euro",
+    "honderd euro",
+    "vijfentwintig euro"
+   ],
+   "a": 1,
+   "fa": "کارت موزه چقدر است؟"
+  },
+  {
+   "q": "Wat is er bijzonder aan het gebouw?",
+   "o": [
+    "het is heel klein",
+    "het ligt onder water",
+    "er loopt een fietspad door het midden",
+    "het is helemaal van glas"
+   ],
+   "a": 2,
+   "fa": "چه چیزی در این ساختمان خاص است؟"
+  },
+  {
+   "q": "Waar wordt De Nachtwacht gerestaureerd?",
+   "o": [
+    "in een glazen ruimte",
+    "in de kelder",
+    "in een ander land",
+    "in een ander museum"
+   ],
+   "a": 0,
+   "fa": "تابلوی «نگهبانان شب» کجا مرمت می‌شود؟"
+  },
+  {
+   "q": "Waarom zagen sommige stukken er lichter uit?",
+   "o": [
+    "het schilderij is vies",
+    "de oude vernis was weg",
+    "Rembrandt gebruikte daar witte verf",
+    "het licht was slecht"
+   ],
+   "a": 1,
+   "fa": "چرا بعضی قسمت‌ها روشن‌تر به نظر می‌رسید؟"
+  },
+  {
+   "q": "Waar gingen ze daarna zitten?",
+   "o": [
+    "in een restaurant",
+    "op het gras van het Museumplein",
+    "in de tram",
+    "bij de gracht"
+   ],
+   "a": 1,
+   "fa": "بعد کجا نشستند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "museum",
+   "art": "het",
+   "w": "het museum",
+   "ipa": "/myˈzeːjʏm/",
+   "fa": "موزه",
+   "ex": "Volgende keer het Van Gogh Museum?",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "vernis",
+   "art": "de",
+   "w": "de vernis",
+   "ipa": "/vərˈnɪs/",
+   "fa": "لاک (روغن جلا)",
+   "ex": "Daar is de oude vernis al weg.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "dwars-door",
+   "art": "",
+   "w": "dwars door",
+   "ipa": "/dʋɑrz doːr/",
+   "fa": "درست از وسطِ",
+   "ex": "Het fietspad gaat dwars door het gebouw.",
+   "m": [
+    18,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "midden",
+   "art": "het",
+   "w": "het midden",
+   "ipa": "/ˈmɪdə(n)/",
+   "fa": "وسط",
+   "ex": "In het midden van de zaal staat een bank.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "restaureren",
+   "art": "",
+   "w": "restaureren",
+   "ipa": "/rɛstɔuˈreːrə(n)/",
+   "fa": "مرمت کردن",
+   "ex": "Op dit moment wordt het schilderij gerestaureerd.",
+   "m": [
+    35,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "meekijken",
+   "art": "",
+   "w": "meekijken",
+   "ipa": "/ˈmeːkɛikə(n)/",
+   "fa": "همراه تماشا کردن",
+   "ex": "Dat gebeurt in een glazen ruimte, zodat bezoekers kunnen meekijken.",
+   "m": [
+    57,
+    66
+   ],
+   "book": 1
+  },
+  {
+   "id": "toren",
+   "art": "de",
+   "w": "de toren",
+   "ipa": "/ˈtoːrə(n)/",
+   "fa": "برج",
+   "ex": "Het gebouw heeft twee hoge torens.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "ruimte",
+   "art": "de",
+   "w": "de ruimte",
+   "ipa": "/ˈrœymtə/",
+   "fa": "فضا، اتاق",
+   "ex": "Dat gebeurt in een glazen ruimte, zodat bezoekers kunnen meekijken.",
+   "m": [
+    26,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorzichtig",
+   "art": "",
+   "w": "voorzichtig",
+   "ipa": "/voːrˈzɪxtəx/",
+   "fa": "با احتیاط",
+   "ex": "Twee restauratoren werkten heel voorzichtig met een wattenstaafje.",
+   "m": [
+    32,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "geldig",
+   "art": "",
+   "w": "geldig",
+   "ipa": "/ˈɣɛldəx/",
+   "fa": "معتبر",
+   "ex": "Mijn kaart is nog lang geldig!",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "moederdag",
+   "art": "",
+   "w": "Moederdag",
+   "ipa": "/ˈmudərˌdɑx/",
+   "fa": "روز مادر",
+   "ex": "Voor Moederdag kreeg ik van Alex en Mia een Museumkaart.",
+   "m": [
+    5,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "glazen",
+   "art": "",
+   "w": "glazen",
+   "ipa": "/ˈɣlaːzə(n)/",
+   "fa": "شیشه‌ای",
+   "ex": "Dat gebeurt in een glazen ruimte, zodat bezoekers kunnen meekijken.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "wattenstaafje",
+   "art": "het",
+   "w": "het wattenstaafje",
+   "ipa": "/ˈʋɑtə(n)staːfjə/",
+   "fa": "گوش‌پاک‌کن",
+   "ex": "Twee restauratoren werkten heel voorzichtig met een wattenstaafje.",
+   "m": [
+    52,
+    65
+   ],
+   "book": 0
+  },
+  {
+   "id": "restaurator",
+   "art": "de",
+   "w": "de restaurator",
+   "ipa": "/rɛstɔuˈraːtɔr/",
+   "fa": "مرمت‌گر",
+   "ex": "Twee restauratoren werkten heel voorzichtig met een wattenstaafje.",
+   "m": [
+    5,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "sommige",
+   "art": "",
+   "w": "sommige",
+   "ipa": "/ˈsɔməɣə/",
+   "fa": "بعضی",
+   "ex": "Sommige stukken zagen er lichter uit dan andere.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "gebeuren",
+   "art": "",
+   "w": "gebeuren",
+   "ipa": "/ɣəˈbøːrə(n)/",
+   "fa": "اتفاق افتادن",
+   "ex": "Dat gebeurt in een glazen ruimte, zodat bezoekers kunnen meekijken.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "De kaart kost vijfenzeventig euro.",
+   "fa": "کارت هفتاد و پنج یورو قیمت دارد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Het gebouw is enorm.",
+   "fa": "ساختمان خیلی بزرگ است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Bezoekers kunnen meekijken.",
+   "fa": "بازدیدکنندگان می‌توانند تماشا کنند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ze werkten heel voorzichtig.",
+   "fa": "آن‌ها خیلی با احتیاط کار می‌کردند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Mijn kaart is nog lang geldig!",
+   "fa": "کارتم هنوز تا مدت‌ها معتبر است!",
+   "alt": []
+  }
+ ]
+}

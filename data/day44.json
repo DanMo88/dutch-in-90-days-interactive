@@ -1,0 +1,465 @@
+{
+ "day": 44,
+ "level": "A2",
+ "title": "Naar de IKEA",
+ "fa_title": "رفتن به ایکیا",
+ "audio": "audio/day44.mp3",
+ "img": "img/day44.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mia's kamer was mooi geverfd, maar ze had nog steeds geen goede kast.",
+   "s": 5.27
+  },
+  {
+   "p": 0,
+   "t": "Al haar kleren lagen in dozen.",
+   "s": 11.32
+  },
+  {
+   "p": 0,
+   "t": "Daarom gingen we op zondag naar de IKEA.",
+   "s": 14.85
+  },
+  {
+   "p": 0,
+   "t": "In Amsterdam zijn veel winkels op zondag open.",
+   "s": 18.68
+  },
+  {
+   "p": 0,
+   "t": "Het was heel druk, want dan heeft iedereen tijd.",
+   "s": 23.1
+  },
+  {
+   "p": 1,
+   "t": "De winkel was enorm.",
+   "s": 27.59
+  },
+  {
+   "p": 1,
+   "t": "Je volgt een lange route langs keukens, slaapkamers en badkamers.",
+   "s": 30.71
+  },
+  {
+   "p": 1,
+   "t": "Op de grond staan pijlen, zodat je niet verdwaalt.",
+   "s": 36.63
+  },
+  {
+   "p": 1,
+   "t": "Mia probeerde elk bed uit.",
+   "s": 41.4
+  },
+  {
+   "p": 2,
+   "t": "Na twee uur hadden we eindelijk een witte kast gekozen.",
+   "s": 44.85
+  },
+  {
+   "p": 2,
+   "t": "Daarna gingen we naar het restaurant.",
+   "s": 49.38
+  },
+  {
+   "p": 2,
+   "t": "Alex nam de beroemde balletjes met aardappelpuree en jam.",
+   "s": 52.84
+  },
+  {
+   "p": 3,
+   "t": "“Jam bij vlees?”",
+   "s": 58.24
+  },
+  {
+   "p": 3,
+   "t": "Ik keek hem aan.",
+   "s": 61.24
+  },
+  {
+   "p": 3,
+   "t": "“Dat is raar.”",
+   "s": 63.62
+  },
+  {
+   "p": 4,
+   "t": "“Het is Zweeds,” lachte hij.",
+   "s": 65.88
+  },
+  {
+   "p": 4,
+   "t": "“En het is lekker!”",
+   "s": 69.31
+  },
+  {
+   "p": 5,
+   "t": "Beneden haalden we de kast uit het magazijn.",
+   "s": 71.77
+  },
+  {
+   "p": 5,
+   "t": "Hij zat in drie zware, platte dozen.",
+   "s": 75.68
+  },
+  {
+   "p": 5,
+   "t": "Thuis zetten Alex en ik de kast samen in elkaar.",
+   "s": 79.93
+  },
+  {
+   "p": 5,
+   "t": "Na drie uur stond hij.",
+   "s": 84.31
+  },
+  {
+   "p": 5,
+   "t": "Er bleven vier schroefjes over.",
+   "s": 87.24
+  },
+  {
+   "p": 5,
+   "t": "Waar waren die voor?",
+   "s": 90.81
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom gingen ze naar de IKEA?",
+   "o": [
+    "voor een nieuw bed",
+    "voor een kast voor Mia",
+    "voor een bank",
+    "om te eten"
+   ],
+   "a": 1,
+   "fa": "چرا به ایکیا رفتند؟"
+  },
+  {
+   "q": "Waarom is het op zondag druk?",
+   "o": [
+    "dan is alles goedkoper",
+    "dan is het de enige dag",
+    "dan heeft iedereen tijd",
+    "dan is er een feest"
+   ],
+   "a": 2,
+   "fa": "چرا یکشنبه شلوغ است؟"
+  },
+  {
+   "q": "Waarvoor zijn de pijlen op de grond?",
+   "o": [
+    "zodat je niet verdwaalt",
+    "voor de kinderen",
+    "voor de kassa",
+    "voor de auto's"
+   ],
+   "a": 0,
+   "fa": "فلش‌های روی زمین برای چیست؟"
+  },
+  {
+   "q": "Wat at Alex?",
+   "o": [
+    "een pizza",
+    "soep",
+    "een broodje",
+    "balletjes met puree en jam"
+   ],
+   "a": 3,
+   "fa": "الکس چه خورد؟"
+  },
+  {
+   "q": "Hoeveel dozen waren er?",
+   "o": [
+    "één",
+    "twee",
+    "drie",
+    "vijf"
+   ],
+   "a": 2,
+   "fa": "چند جعبه بود؟"
+  },
+  {
+   "q": "Wat bleef er over?",
+   "o": [
+    "een deur",
+    "vier schroefjes",
+    "een plank",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "چه چیزی اضافه ماند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "kast",
+   "art": "de",
+   "w": "de kast",
+   "ipa": "/kɑst/",
+   "fa": "کمد",
+   "ex": "Mijn kleren liggen in de kast.",
+   "m": [
+    25,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "enorm",
+   "art": "",
+   "w": "enorm",
+   "ipa": "/eːˈnɔrm/",
+   "fa": "خیلی بزرگ",
+   "ex": "De winkel was enorm.",
+   "m": [
+    14,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "volgen",
+   "art": "",
+   "w": "volgen",
+   "ipa": "/ˈvɔlɣə(n)/",
+   "fa": "دنبال کردن",
+   "ex": "Je volgt een lange route langs keukens, slaapkamers en badkamers.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdwalen",
+   "art": "",
+   "w": "verdwalen",
+   "ipa": "/vərˈdʋaːlə(n)/",
+   "fa": "گم شدن (راه را گم کردن)",
+   "ex": "Op de grond staan pijlen, zodat je niet verdwaalt.",
+   "m": [
+    40,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitproberen",
+   "art": "",
+   "w": "uitproberen",
+   "ipa": "/ˈœytproːbeːrə(n)/",
+   "fa": "امتحان کردن",
+   "ex": "Mia wilde elk bed uitproberen.",
+   "m": [
+    18,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "beroemd",
+   "art": "",
+   "w": "beroemd",
+   "ipa": "/bəˈrumt/",
+   "fa": "مشهور",
+   "ex": "Alex nam de beroemde balletjes met aardappelpuree en jam.",
+   "m": [
+    12,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "raar",
+   "art": "",
+   "w": "raar",
+   "ipa": "/raːr/",
+   "fa": "عجیب",
+   "ex": "Dat is raar.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwaar",
+   "art": "",
+   "w": "zwaar",
+   "ipa": "/zʋaːr/",
+   "fa": "سنگین",
+   "ex": "Hij zat in drie zware, platte dozen.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "in-elkaar-zetten",
+   "art": "",
+   "w": "in elkaar zetten",
+   "ipa": "/ɪn ɛlˈkaːr ˈzɛtə(n)/",
+   "fa": "سوار کردن (مونتاژ)",
+   "ex": "We hebben de kast zelf in elkaar gezet.",
+   "m": [
+    23,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "overblijven",
+   "art": "",
+   "w": "overblijven",
+   "ipa": "/ˈoːvərblɛivə(n)/",
+   "fa": "باقی ماندن",
+   "ex": "Er zijn vier schroefjes overgebleven.",
+   "m": [
+    24,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "kleren",
+   "art": "de",
+   "w": "de kleren",
+   "ipa": "/ˈkleːrən/",
+   "fa": "لباس‌ها",
+   "ex": "Al haar kleren lagen in dozen.",
+   "m": [
+    8,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "route",
+   "art": "de",
+   "w": "de route",
+   "ipa": "/ˈrutə/",
+   "fa": "مسیر",
+   "ex": "Je volgt een lange route langs keukens, slaapkamers en badkamers.",
+   "m": [
+    19,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "slaapkamer",
+   "art": "de",
+   "w": "de slaapkamer",
+   "ipa": "/ˈslaːpˌkaːmər/",
+   "fa": "اتاق خواب",
+   "ex": "Je volgt een lange route langs keukens, slaapkamers en badkamers.",
+   "m": [
+    40,
+    51
+   ],
+   "book": 0
+  },
+  {
+   "id": "badkamer",
+   "art": "de",
+   "w": "de badkamer",
+   "ipa": "/ˈbɑtˌkaːmər/",
+   "fa": "حمام",
+   "ex": "Je volgt een lange route langs keukens, slaapkamers en badkamers.",
+   "m": [
+    55,
+    64
+   ],
+   "book": 0
+  },
+  {
+   "id": "pijl",
+   "art": "de",
+   "w": "de pijl",
+   "ipa": "/pɛil/",
+   "fa": "فلش، پیکان",
+   "ex": "Op de grond staan pijlen, zodat je niet verdwaalt.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "eindelijk",
+   "art": "",
+   "w": "eindelijk",
+   "ipa": "/ˈɛindələk/",
+   "fa": "بالاخره",
+   "ex": "Na twee uur hadden we eindelijk een witte kast gekozen.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "zweeds",
+   "art": "",
+   "w": "Zweeds",
+   "ipa": "/zʋeːts/",
+   "fa": "سوئدی",
+   "ex": "Het is Zweeds.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "plat",
+   "art": "",
+   "w": "plat",
+   "ipa": "/plɑt/",
+   "fa": "صاف، تخت",
+   "ex": "Hij zat in drie zware, platte dozen.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Veel winkels zijn op zondag open.",
+   "fa": "خیلی از مغازه‌ها یکشنبه باز هستند.",
+   "alt": [
+    "Op zondag zijn veel winkels open."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Mia probeerde elk bed uit.",
+   "fa": "میا همه‌ی تخت‌ها را امتحان کرد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Dat is raar.",
+   "fa": "عجیب است.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De dozen waren zwaar.",
+   "fa": "جعبه‌ها سنگین بودند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "We zetten de kast samen in elkaar.",
+   "fa": "کمد را با هم سوار می‌کنیم.",
+   "alt": [
+    "Samen zetten we de kast in elkaar."
+   ]
+  }
+ ]
+}

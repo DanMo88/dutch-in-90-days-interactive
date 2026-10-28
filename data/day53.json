@@ -1,0 +1,425 @@
+{
+ "day": 53,
+ "level": "A2",
+ "title": "Koningsdag: de vrijmarkt",
+ "fa_title": "روز پادشاه: بازار آزاد",
+ "audio": "audio/day53.mp3",
+ "img": "img/day53.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op 27 april viert Nederland de verjaardag van koning Willem-Alexander.",
+   "s": 6.15
+  },
+  {
+   "p": 0,
+   "t": "Het is Koningsdag, en heel Amsterdam is oranje.",
+   "s": 12.96
+  },
+  {
+   "p": 1,
+   "t": "Mia had de avond ervoor al haar oude speelgoed in een grote tas gedaan.",
+   "s": 18.1
+  },
+  {
+   "p": 1,
+   "t": "“Ik ga het verkopen op de vrijmarkt,” zei ze serieus.",
+   "s": 24.41
+  },
+  {
+   "p": 1,
+   "t": "Op Koningsdag mag iedereen op straat spullen verkopen.",
+   "s": 29.76
+  },
+  {
+   "p": 2,
+   "t": "Om half acht 's ochtends waren we al in het Vondelpark.",
+   "s": 34.83
+  },
+  {
+   "p": 2,
+   "t": "Daar is elk jaar een grote vrijmarkt alleen voor kinderen.",
+   "s": 39.57
+  },
+  {
+   "p": 2,
+   "t": "Mia legde een kleed op het gras en zette alles netjes neer.",
+   "s": 44.77
+  },
+  {
+   "p": 3,
+   "t": "“Hoeveel kost die puzzel?” vroeg een meisje.",
+   "s": 50.12
+  },
+  {
+   "p": 4,
+   "t": "“Een euro,” zei Mia.",
+   "s": 55.4
+  },
+  {
+   "p": 4,
+   "t": "“Maar voor jou vijftig cent.”",
+   "s": 58.52
+  },
+  {
+   "p": 5,
+   "t": "Na drie uur had Mia twaalf euro verdiend.",
+   "s": 61.6
+  },
+  {
+   "p": 5,
+   "t": "Daarna liepen we naar de grachten.",
+   "s": 66.02
+  },
+  {
+   "p": 5,
+   "t": "Daar voeren bootjes vol mensen in het oranje.",
+   "s": 69.29
+  },
+  {
+   "p": 5,
+   "t": "We aten oranje tompoucen.",
+   "s": 73.54
+  },
+  {
+   "p": 6,
+   "t": "Bij Dani in de straat deden de kinderen koekhappen.",
+   "s": 76.76
+  },
+  {
+   "p": 6,
+   "t": "Je moet met je handen op je rug een koek van een touwtje happen.",
+   "s": 81.51
+  },
+  {
+   "p": 6,
+   "t": "Het lukte Mia na vier keer.",
+   "s": 86.55
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat viert Nederland op 27 april?",
+   "o": [
+    "de verjaardag van de koning",
+    "het einde van de oorlog",
+    "het begin van de lente",
+    "Pasen"
+   ],
+   "a": 0,
+   "fa": "هلند در ۲۷ آوریل چه چیزی را جشن می‌گیرد؟"
+  },
+  {
+   "q": "Wat mag iedereen op Koningsdag doen?",
+   "o": [
+    "gratis met de tram",
+    "spullen op straat verkopen",
+    "vuurwerk afsteken",
+    "zwemmen in de grachten"
+   ],
+   "a": 1,
+   "fa": "در روز پادشاه همه اجازه دارند چه کار کنند؟"
+  },
+  {
+   "q": "Hoe laat waren ze in het Vondelpark?",
+   "o": [
+    "om tien uur",
+    "om negen uur",
+    "om half acht",
+    "om twaalf uur"
+   ],
+   "a": 2,
+   "fa": "ساعت چند در پارک فوندل بودند؟"
+  },
+  {
+   "q": "Hoeveel kostte de puzzel voor het meisje?",
+   "o": [
+    "een euro",
+    "twee euro",
+    "twintig cent",
+    "vijftig cent"
+   ],
+   "a": 3,
+   "fa": "پازل برای آن دختر چند بود؟"
+  },
+  {
+   "q": "Hoeveel had Mia verdiend?",
+   "o": [
+    "vijf euro",
+    "twaalf euro",
+    "twintig euro",
+    "dertig euro"
+   ],
+   "a": 1,
+   "fa": "میا چقدر پول درآورد؟"
+  },
+  {
+   "q": "Hoe doe je koekhappen?",
+   "o": [
+    "met je handen op je rug een koek happen",
+    "zo snel mogelijk koekjes eten",
+    "koekjes bakken",
+    "met een lepel eten"
+   ],
+   "a": 0,
+   "fa": "«کوک‌هاپن» چطور بازی می‌شود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "koning",
+   "art": "de",
+   "w": "de koning",
+   "ipa": "/ˈkoːnɪŋ/",
+   "fa": "پادشاه",
+   "ex": "Op 27 april viert Nederland de verjaardag van koning Willem-Alexander.",
+   "m": [
+    46,
+    52
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrijmarkt",
+   "art": "de",
+   "w": "de vrijmarkt",
+   "ipa": "/ˈvrɛimɑrkt/",
+   "fa": "بازار آزاد (فروش وسایل در خیابان)",
+   "ex": "Ik ga het verkopen op de vrijmarkt.",
+   "m": [
+    25,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "verkopen",
+   "art": "",
+   "w": "verkopen",
+   "ipa": "/vərˈkoːpə(n)/",
+   "fa": "فروختن",
+   "ex": "Ik ga het verkopen op de vrijmarkt.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "puzzel",
+   "art": "de",
+   "w": "de puzzel",
+   "ipa": "/ˈpʏzəl/",
+   "fa": "پازل",
+   "ex": "Hoeveel kost die puzzel?",
+   "m": [
+    17,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "serieus",
+   "art": "",
+   "w": "serieus",
+   "ipa": "/seːriˈjøːs/",
+   "fa": "جدی",
+   "ex": "Ze keek heel serieus.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "kleed",
+   "art": "het",
+   "w": "het kleed",
+   "ipa": "/kleːt/",
+   "fa": "زیرانداز، فرش کوچک",
+   "ex": "Mia legde een kleed op het gras en zette alles netjes neer.",
+   "m": [
+    14,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "netjes",
+   "art": "",
+   "w": "netjes",
+   "ipa": "/ˈnɛcəs/",
+   "fa": "مرتب",
+   "ex": "Mia legde een kleed op het gras en zette alles netjes neer.",
+   "m": [
+    47,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "touwtje",
+   "art": "het",
+   "w": "het touwtje",
+   "ipa": "/ˈtɑucə/",
+   "fa": "نخ، طناب کوچک",
+   "ex": "De koek hangt aan een touwtje.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "varen",
+   "art": "",
+   "w": "varen",
+   "ipa": "/ˈvaːrə(n)/",
+   "fa": "با قایق رفتن",
+   "ex": "Daar voeren bootjes vol mensen in het oranje.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "happen",
+   "art": "",
+   "w": "happen",
+   "ipa": "/ˈɦɑpə(n)/",
+   "fa": "گاز زدن",
+   "ex": "Je moet in de koek happen.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "april",
+   "art": "",
+   "w": "april",
+   "ipa": "/ɑˈprɪl/",
+   "fa": "آوریل",
+   "ex": "Op 27 april viert Nederland de verjaardag van koning Willem-Alexander.",
+   "m": [
+    6,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "bootje",
+   "art": "het",
+   "w": "het bootje",
+   "ipa": "/ˈboːcə/",
+   "fa": "قایق کوچک",
+   "ex": "Daar voeren bootjes vol mensen in het oranje.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "cent",
+   "art": "de",
+   "w": "de cent",
+   "ipa": "/sɛnt/",
+   "fa": "سنت",
+   "ex": "Maar voor jou vijftig cent.",
+   "m": [
+    22,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "koek",
+   "art": "de",
+   "w": "de koek",
+   "ipa": "/kuk/",
+   "fa": "کیک (نان شیرینی هلندی)",
+   "ex": "Je moet met je handen op je rug een koek van een touwtje happen.",
+   "m": [
+    36,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "rug",
+   "art": "de",
+   "w": "de rug",
+   "ipa": "/rʏx/",
+   "fa": "پشت (بدن)",
+   "ex": "Je moet met je handen op je rug een koek van een touwtje happen.",
+   "m": [
+    28,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "tompouce",
+   "art": "de",
+   "w": "de tompouce",
+   "ipa": "/tɔmˈpus/",
+   "fa": "تومپوس (شیرینی خامه‌ای)",
+   "ex": "We aten oranje tompoucen.",
+   "m": [
+    15,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "half",
+   "art": "",
+   "w": "half",
+   "ipa": "/ɦɑlf/",
+   "fa": "نیم",
+   "ex": "Om half acht 's ochtends waren we al in het Vondelpark.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik ga het verkopen op de vrijmarkt.",
+   "fa": "آن را در بازار آزاد می‌فروشم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hoeveel kost die puzzel?",
+   "fa": "آن پازل چند است؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Voor jou vijftig cent.",
+   "fa": "برای تو پنجاه سنت.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mia had twaalf euro verdiend.",
+   "fa": "میا دوازده یورو درآورده بود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het lukte Mia na vier keer.",
+   "fa": "میا بعد از چهار بار موفق شد.",
+   "alt": [
+    "Na vier keer lukte het Mia."
+   ]
+  }
+ ]
+}

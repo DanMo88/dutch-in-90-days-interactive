@@ -1,0 +1,435 @@
+{
+ "day": 35,
+ "level": "A2",
+ "title": "Schaatsen op natuurijs",
+ "fa_title": "اسکیت روی یخ طبیعی",
+ "audio": "audio/day35.mp3",
+ "img": "img/day35.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het heeft een week gevroren.",
+   "s": 5.88
+  },
+  {
+   "p": 0,
+   "t": "Overal hoor je dezelfde vraag: “Is het ijs al dik genoeg?”",
+   "s": 8.97
+  },
+  {
+   "p": 0,
+   "t": "Vanochtend zei het nieuws dat je in het Amsterdamse Bos mocht schaatsen.",
+   "s": 14.41
+  },
+  {
+   "p": 1,
+   "t": "Dani stond om negen uur al voor de deur met een tas vol schaatsen.",
+   "s": 20.21
+  },
+  {
+   "p": 1,
+   "t": "“Kom op!",
+   "s": 26.01
+  },
+  {
+   "p": 1,
+   "t": "Je weet nooit hoe lang het blijft vriezen.”",
+   "s": 27.85
+  },
+  {
+   "p": 2,
+   "t": "In het bos was het druk.",
+   "s": 31.58
+  },
+  {
+   "p": 2,
+   "t": "Honderden mensen schaatsten op het water: kinderen, opa's en oma's, zelfs mensen met een hond.",
+   "s": 34.33
+  },
+  {
+   "p": 2,
+   "t": "Ik had nog nooit op ijs gestaan.",
+   "s": 43.1
+  },
+  {
+   "p": 2,
+   "t": "Mijn benen trilden.",
+   "s": 46.41
+  },
+  {
+   "p": 2,
+   "t": "Dani gaf me een stoel om te duwen, net als de kleine kinderen.",
+   "s": 49.16
+  },
+  {
+   "p": 3,
+   "t": "Mia leerde het snel.",
+   "s": 54.99
+  },
+  {
+   "p": 3,
+   "t": "Na een uur schaatste ze al alleen.",
+   "s": 57.71
+  },
+  {
+   "p": 3,
+   "t": "Alex viel drie keer, maar hij bleef lachen.",
+   "s": 61.35
+  },
+  {
+   "p": 4,
+   "t": "“Vroeger was er vaker ijs,” vertelde Dani.",
+   "s": 65.79
+  },
+  {
+   "p": 4,
+   "t": "“Dan reden mensen de Elfstedentocht: tweehonderd kilometer langs elf steden in Friesland.",
+   "s": 70.32
+  },
+  {
+   "p": 4,
+   "t": "De laatste was in 1997.",
+   "s": 78.04
+  },
+  {
+   "p": 4,
+   "t": "Ik droom ervan om hem ooit te rijden.”",
+   "s": 82.82
+  },
+  {
+   "p": 5,
+   "t": "Aan de kant stond een kraampje: koek-en-zopie.",
+   "s": 86.57
+  },
+  {
+   "p": 5,
+   "t": "We kochten warme chocolademelk en erwtensoep.",
+   "s": 91.05
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe lang heeft het gevroren?",
+   "o": [
+    "een dag",
+    "een week",
+    "een maand",
+    "twee dagen"
+   ],
+   "a": 1,
+   "fa": "چه مدت یخبندان بوده؟"
+  },
+  {
+   "q": "Waar mochten mensen schaatsen?",
+   "o": [
+    "in het Vondelpark",
+    "op het IJ",
+    "in het Amsterdamse Bos",
+    "op de grachten"
+   ],
+   "a": 2,
+   "fa": "مردم کجا اجازه داشتند اسکیت کنند؟"
+  },
+  {
+   "q": "Wat gaf Dani aan Sara?",
+   "o": [
+    "een stoel om te duwen",
+    "een muts",
+    "nieuwe schaatsen",
+    "een hand"
+   ],
+   "a": 0,
+   "fa": "دانی به سارا چه داد؟"
+  },
+  {
+   "q": "Hoe vaak viel Alex?",
+   "o": [
+    "nooit",
+    "één keer",
+    "tien keer",
+    "drie keer"
+   ],
+   "a": 3,
+   "fa": "الکس چند بار زمین خورد؟"
+  },
+  {
+   "q": "Wanneer was de laatste Elfstedentocht?",
+   "o": [
+    "in 1997",
+    "in 2007",
+    "in 1987",
+    "vorig jaar"
+   ],
+   "a": 0,
+   "fa": "آخرین تور یازده‌شهر (Elfstedentocht) کِی بود؟"
+  },
+  {
+   "q": "Wat kochten ze bij de koek-en-zopie?",
+   "o": [
+    "oliebollen",
+    "chocolademelk en erwtensoep",
+    "patat",
+    "koffie en taart"
+   ],
+   "a": 1,
+   "fa": "از غرفه‌ی «کوک‌اِن‌زوپی» چه خریدند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "vriezen",
+   "art": "",
+   "w": "vriezen",
+   "ipa": "/ˈvrizə(n)/",
+   "fa": "یخ زدن (یخبندان شدن)",
+   "ex": "Je weet nooit hoe lang het blijft vriezen.",
+   "m": [
+    34,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "ijs",
+   "art": "het",
+   "w": "het ijs",
+   "ipa": "/ɛis/",
+   "fa": "یخ",
+   "ex": "Ik had nog nooit op ijs gestaan.",
+   "m": [
+    20,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "schaatsen",
+   "art": "",
+   "w": "schaatsen",
+   "ipa": "/ˈsxaːtsə(n)/",
+   "fa": "اسکیت کردن؛ کفش اسکیت",
+   "ex": "Na een uur schaatste ze al alleen.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "bos",
+   "art": "het",
+   "w": "het bos",
+   "ipa": "/bɔs/",
+   "fa": "جنگل",
+   "ex": "We wandelen graag in het bos.",
+   "m": [
+    25,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "duwen",
+   "art": "",
+   "w": "duwen",
+   "ipa": "/ˈdyʋə(n)/",
+   "fa": "هل دادن",
+   "ex": "Dani gaf me een stoel om te duwen, net als de kleine kinderen.",
+   "m": [
+    28,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "vallen",
+   "art": "",
+   "w": "vallen",
+   "ipa": "/ˈvɑlə(n)/",
+   "fa": "افتادن، زمین خوردن",
+   "ex": "Alex viel drie keer, maar hij bleef lachen.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "vroeger",
+   "art": "",
+   "w": "vroeger",
+   "ipa": "/ˈvruɣər/",
+   "fa": "قدیم‌ها، در گذشته",
+   "ex": "Vroeger was er vaker ijs.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "dromen",
+   "art": "",
+   "w": "dromen",
+   "ipa": "/ˈdroːmə(n)/",
+   "fa": "رؤیا داشتن، خواب دیدن",
+   "ex": "Ik droom ervan om hem ooit te rijden.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "kraampje",
+   "art": "het",
+   "w": "het kraampje",
+   "ipa": "/ˈkraːmpjə/",
+   "fa": "غرفه‌ی کوچک",
+   "ex": "Aan de kant stond een kraampje: koek-en-zopie.",
+   "m": [
+    22,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "trillen",
+   "art": "",
+   "w": "trillen",
+   "ipa": "/ˈtrɪlə(n)/",
+   "fa": "لرزیدن",
+   "ex": "Mijn benen trilden.",
+   "m": [
+    11,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "dik",
+   "art": "",
+   "w": "dik",
+   "ipa": "/dɪk/",
+   "fa": "ضخیم؛ چاق",
+   "ex": "Is het ijs al dik genoeg?",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "nieuws",
+   "art": "het",
+   "w": "het nieuws",
+   "ipa": "/nius/",
+   "fa": "اخبار",
+   "ex": "Vanochtend zei het nieuws dat je in het Amsterdamse Bos mocht schaatsen.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "kilometer",
+   "art": "de",
+   "w": "de kilometer",
+   "ipa": "/ˈkiloːˌmeːtər/",
+   "fa": "کیلومتر",
+   "ex": "Dan reden mensen de Elfstedentocht: tweehonderd kilometer langs elf steden in Friesland.",
+   "m": [
+    48,
+    57
+   ],
+   "book": 0
+  },
+  {
+   "id": "opa",
+   "art": "de",
+   "w": "de opa",
+   "ipa": "/ˈoːpaː/",
+   "fa": "پدربزرگ",
+   "ex": "Honderden mensen schaatsten op het water: kinderen, opa's en oma's, zelfs mensen met een hond.",
+   "m": [
+    52,
+    57
+   ],
+   "book": 0
+  },
+  {
+   "id": "alleen",
+   "art": "",
+   "w": "alleen",
+   "ipa": "/ɑˈleːn/",
+   "fa": "تنها، به‌تنهایی",
+   "ex": "Na een uur schaatste ze al alleen.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "laatste",
+   "art": "",
+   "w": "laatste",
+   "ipa": "/ˈlaːtstə/",
+   "fa": "آخرین",
+   "ex": "De laatste was in 1997.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "ooit",
+   "art": "",
+   "w": "ooit",
+   "ipa": "/oːit/",
+   "fa": "یک روزی؛ تا حالا",
+   "ex": "Ik droom ervan om hem ooit te rijden.",
+   "m": [
+    22,
+    26
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Is het ijs al dik genoeg?",
+   "fa": "آیا یخ به اندازه‌ی کافی ضخیم شده است؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik had nog nooit op ijs gestaan.",
+   "fa": "تا حالا هیچ‌وقت روی یخ نایستاده بودم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Mia leerde het snel.",
+   "fa": "میا زود یادش گرفت.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Alex viel drie keer.",
+   "fa": "الکس سه بار زمین خورد.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Vroeger was er vaker ijs.",
+   "fa": "قدیم‌ها بیشتر یخ می‌بست.",
+   "alt": [
+    "Er was vroeger vaker ijs."
+   ]
+  }
+ ]
+}

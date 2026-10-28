@@ -1,0 +1,455 @@
+{
+ "day": 36,
+ "level": "A2",
+ "title": "Snert en stamppot",
+ "fa_title": "سوپ نخود و استامپوت",
+ "audio": "audio/day36.mp3",
+ "img": "img/day36.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het ijs is gesmolten en het regent weer.",
+   "s": 5.62
+  },
+  {
+   "p": 0,
+   "t": "“Perfect weer voor winterkost,” zegt Emma.",
+   "s": 9.65
+  },
+  {
+   "p": 0,
+   "t": "“Kom vanavond eten.",
+   "s": 13.93
+  },
+  {
+   "p": 0,
+   "t": "Ik leer je twee Hollandse gerechten.”",
+   "s": 16.73
+  },
+  {
+   "p": 1,
+   "t": "Om vijf uur sta ik bij Emma in de keuken.",
+   "s": 20.23
+  },
+  {
+   "p": 1,
+   "t": "Haar buik is al heel groot.",
+   "s": 24.17
+  },
+  {
+   "p": 1,
+   "t": "“Nog drie weken,” zegt ze, “en dan is de baby er.”",
+   "s": 27.59
+  },
+  {
+   "p": 2,
+   "t": "Eerst maken we erwtensoep.",
+   "s": 32.48
+  },
+  {
+   "p": 2,
+   "t": "In Nederland noemen veel mensen het ook snert.",
+   "s": 35.31
+  },
+  {
+   "p": 2,
+   "t": "We doen spliterwten, prei, wortel, ui en selderij in een grote pan.",
+   "s": 39.67
+  },
+  {
+   "p": 2,
+   "t": "“Goede snert moet zo dik zijn dat de lepel erin blijft staan,” lacht Emma.",
+   "s": 45.93
+  },
+  {
+   "p": 3,
+   "t": "Daarna maken we stamppot boerenkool.",
+   "s": 51.74
+  },
+  {
+   "p": 3,
+   "t": "We koken aardappelen en boerenkool en stampen alles samen.",
+   "s": 55.51
+  },
+  {
+   "p": 3,
+   "t": "Dan doen we er melk, een klontje boter, peper en zout bij.",
+   "s": 60.57
+  },
+  {
+   "p": 4,
+   "t": "“Normaal hoort er een rookworst bij,” zegt Emma.",
+   "s": 66.01
+  },
+  {
+   "p": 4,
+   "t": "“Maar ik heb ook een vegetarische gekocht.",
+   "s": 70.32
+  },
+  {
+   "p": 4,
+   "t": "Die is zonder vlees.”",
+   "s": 74.38
+  },
+  {
+   "p": 5,
+   "t": "“Wat attent van je!” zeg ik.",
+   "s": 77.46
+  },
+  {
+   "p": 6,
+   "t": "Om zes uur zitten we met z'n allen aan tafel.",
+   "s": 82.09
+  },
+  {
+   "p": 6,
+   "t": "Dani maakt een kuiltje in zijn stamppot voor de jus.",
+   "s": 86.1
+  },
+  {
+   "p": 6,
+   "t": "Mia doet hem na.",
+   "s": 90.45
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom wil Emma winterkost koken?",
+   "o": [
+    "omdat het regent",
+    "omdat het warm is",
+    "omdat Dani jarig is",
+    "omdat het vriest"
+   ],
+   "a": 0,
+   "fa": "چرا اِما می‌خواهد غذای زمستانی بپزد؟"
+  },
+  {
+   "q": "Wanneer komt de baby?",
+   "o": [
+    "morgen",
+    "over een week",
+    "over drie weken",
+    "over drie maanden"
+   ],
+   "a": 2,
+   "fa": "بچه کِی به دنیا می‌آید؟"
+  },
+  {
+   "q": "Hoe noemen veel mensen erwtensoep ook?",
+   "o": [
+    "stamppot",
+    "snert",
+    "hutspot",
+    "bouillon"
+   ],
+   "a": 1,
+   "fa": "خیلی‌ها به سوپ نخودفرنگی چه می‌گویند؟"
+  },
+  {
+   "q": "Wat doen ze in de stamppot?",
+   "o": [
+    "rijst en kip",
+    "pasta en kaas",
+    "appels en peren",
+    "aardappelen en boerenkool"
+   ],
+   "a": 3,
+   "fa": "در استامپوت چه می‌ریزند؟"
+  },
+  {
+   "q": "Wat voor rookworst heeft Emma ook gekocht?",
+   "o": [
+    "een grote",
+    "een vegetarische",
+    "een kleine",
+    "een dure"
+   ],
+   "a": 1,
+   "fa": "اما چه نوع سوسیس دودی‌ای هم خریده؟"
+  },
+  {
+   "q": "Waarvoor maakt Dani een kuiltje?",
+   "o": [
+    "voor de jus",
+    "voor de soep",
+    "voor de boter",
+    "voor de worst"
+   ],
+   "a": 0,
+   "fa": "دانی گودی را برای چه درست می‌کند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "gerecht",
+   "art": "het",
+   "w": "het gerecht",
+   "ipa": "/ɣəˈrɛxt/",
+   "fa": "غذا (یک خوراک)",
+   "ex": "Ik leer je twee Hollandse gerechten.",
+   "m": [
+    26,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "erwtensoep",
+   "art": "de",
+   "w": "de erwtensoep",
+   "ipa": "/ˈɛrtə(n)sup/",
+   "fa": "سوپ نخودفرنگی",
+   "ex": "Eerst maken we erwtensoep.",
+   "m": [
+    15,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "prei",
+   "art": "de",
+   "w": "de prei",
+   "ipa": "/prɛi/",
+   "fa": "تره‌فرنگی",
+   "ex": "We doen spliterwten, prei, wortel, ui en selderij in een grote pan.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "koken",
+   "art": "",
+   "w": "koken",
+   "ipa": "/ˈkoːkə(n)/",
+   "fa": "پختن، آشپزی کردن",
+   "ex": "We koken aardappelen en boerenkool en stampen alles samen.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "stampen",
+   "art": "",
+   "w": "stampen",
+   "ipa": "/ˈstɑmpə(n)/",
+   "fa": "له کردن، کوبیدن",
+   "ex": "We koken aardappelen en boerenkool en stampen alles samen.",
+   "m": [
+    38,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "boter",
+   "art": "de",
+   "w": "de boter",
+   "ipa": "/ˈboːtər/",
+   "fa": "کره",
+   "ex": "Dan doen we er melk, een klontje boter, peper en zout bij.",
+   "m": [
+    33,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "vegetarisch",
+   "art": "",
+   "w": "vegetarisch",
+   "ipa": "/veːɣəˈtaːris/",
+   "fa": "گیاهی (بدون گوشت)",
+   "ex": "Maar ik heb ook een vegetarische gekocht.",
+   "m": [
+    20,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "vlees",
+   "art": "het",
+   "w": "het vlees",
+   "ipa": "/vleːs/",
+   "fa": "گوشت",
+   "ex": "Die is zonder vlees.",
+   "m": [
+    14,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "attent",
+   "art": "",
+   "w": "attent",
+   "ipa": "/ɑˈtɛnt/",
+   "fa": "باملاحظه، بافکر",
+   "ex": "Wat attent van je!",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "pan",
+   "art": "de",
+   "w": "de pan",
+   "ipa": "/pɑn/",
+   "fa": "قابلمه، ماهیتابه",
+   "ex": "We doen spliterwten, prei, wortel, ui en selderij in een grote pan.",
+   "m": [
+    63,
+    66
+   ],
+   "book": 1
+  },
+  {
+   "id": "winterkost",
+   "art": "de",
+   "w": "de winterkost",
+   "ipa": "/ˈʋɪntərkɔst/",
+   "fa": "غذای زمستانی",
+   "ex": "Perfect weer voor winterkost.",
+   "m": [
+    18,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "hollands",
+   "art": "",
+   "w": "Hollands",
+   "ipa": "/ˈɦɔlɑnts/",
+   "fa": "هلندی (به سبک هلند)",
+   "ex": "Ik leer je twee Hollandse gerechten.",
+   "m": [
+    16,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "spliterwt",
+   "art": "de",
+   "w": "de spliterwt",
+   "ipa": "/ˈsplɪtɛrt/",
+   "fa": "لپه‌ی نخودفرنگی (خشک)",
+   "ex": "We doen spliterwten, prei, wortel, ui en selderij in een grote pan.",
+   "m": [
+    8,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "selderij",
+   "art": "de",
+   "w": "de selderij",
+   "ipa": "/ˌsɛldəˈrɛi/",
+   "fa": "کرفس",
+   "ex": "We doen spliterwten, prei, wortel, ui en selderij in een grote pan.",
+   "m": [
+    41,
+    49
+   ],
+   "book": 0
+  },
+  {
+   "id": "boerenkool",
+   "art": "de",
+   "w": "de boerenkool",
+   "ipa": "/ˌburə(n)ˈkoːl/",
+   "fa": "کلم کیل",
+   "ex": "Daarna maken we stamppot boerenkool.",
+   "m": [
+    25,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "peper",
+   "art": "de",
+   "w": "de peper",
+   "ipa": "/ˈpeːpər/",
+   "fa": "فلفل",
+   "ex": "Dan doen we er melk, een klontje boter, peper en zout bij.",
+   "m": [
+    40,
+    45
+   ],
+   "book": 0
+  },
+  {
+   "id": "rookworst",
+   "art": "de",
+   "w": "de rookworst",
+   "ipa": "/ˈroːkʋɔrst/",
+   "fa": "سوسیس دودی",
+   "ex": "Normaal hoort er een rookworst bij.",
+   "m": [
+    21,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "jus",
+   "art": "de",
+   "w": "de jus",
+   "ipa": "/ʒy/",
+   "fa": "سس گوشت (گریوی)",
+   "ex": "Dani maakt een kuiltje in zijn stamppot voor de jus.",
+   "m": [
+    48,
+    51
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Kom vanavond eten.",
+   "fa": "امشب برای شام بیا.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De baby komt over drie weken.",
+   "fa": "بچه سه هفته‌ی دیگر می‌آید.",
+   "alt": [
+    "Over drie weken komt de baby."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "We koken aardappelen en boerenkool.",
+   "fa": "سیب‌زمینی و کلم کیل می‌پزیم.",
+   "alt": [
+    "We koken boerenkool en aardappelen."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Die is zonder vlees.",
+   "fa": "آن بدون گوشت است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Wat attent van je!",
+   "fa": "چقدر باملاحظه‌ای!",
+   "alt": []
+  }
+ ]
+}

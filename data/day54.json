@@ -1,0 +1,433 @@
+{
+ "day": 54,
+ "level": "A2",
+ "title": "Vier mei: twee minuten stilte",
+ "fa_title": "چهارم مه: دو دقیقه سکوت",
+ "audio": "audio/day54.mp3",
+ "img": "img/day54.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op 4 mei herdenkt Nederland alle mensen die zijn gestorven in oorlogen, vooral in de Tweede Wereldoorlog.",
+   "s": 2.71
+  },
+  {
+   "p": 0,
+   "t": "Het heet de Dodenherdenking.",
+   "s": 14.76
+  },
+  {
+   "p": 0,
+   "t": "Dan hangen de vlaggen halfstok.",
+   "s": 18.17
+  },
+  {
+   "p": 1,
+   "t": "Oma Anna kwam die avond bij ons eten.",
+   "s": 21.6
+  },
+  {
+   "p": 2,
+   "t": "Na het eten vertelde ze over haar vader.",
+   "s": 25.81
+  },
+  {
+   "p": 2,
+   "t": "“Hij was twaalf jaar toen de oorlog begon.",
+   "s": 30.01
+  },
+  {
+   "p": 2,
+   "t": "In de laatste winter was er bijna geen eten in Amsterdam.",
+   "s": 33.87
+  },
+  {
+   "p": 2,
+   "t": "Dat noemen we de Hongerwinter.",
+   "s": 38.81
+  },
+  {
+   "p": 2,
+   "t": "Soms aten ze zelfs tulpenbollen.”",
+   "s": 41.81
+  },
+  {
+   "p": 3,
+   "t": "“Tulpenbollen?” vroeg Mia met grote ogen.",
+   "s": 45.37
+  },
+  {
+   "p": 4,
+   "t": "“Ja, schat.",
+   "s": 51.15
+  },
+  {
+   "p": 4,
+   "t": "Er was niets anders.”",
+   "s": 53.79
+  },
+  {
+   "p": 5,
+   "t": "Om acht uur zetten we de televisie aan.",
+   "s": 56.71
+  },
+  {
+   "p": 5,
+   "t": "Op de Dam stonden duizenden mensen bij het Nationaal Monument.",
+   "s": 60.38
+  },
+  {
+   "p": 5,
+   "t": "De koning en de koningin legden een krans.",
+   "s": 65.54
+  },
+  {
+   "p": 5,
+   "t": "Toen werd heel Nederland twee minuten stil.",
+   "s": 69.56
+  },
+  {
+   "p": 5,
+   "t": "Op straat stopten zelfs de fietsers.",
+   "s": 73.45
+  },
+  {
+   "p": 6,
+   "t": "Oma Anna hield de hand van Mia vast.",
+   "s": 77.23
+  },
+  {
+   "p": 6,
+   "t": "Ik dacht aan alle mensen die nu nog in oorlog leven.",
+   "s": 80.93
+  },
+  {
+   "p": 7,
+   "t": "Na de twee minuten zei Oma Anna zacht: “Daarom moeten we het blijven vertellen.”",
+   "s": 85.38
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wie herdenkt Nederland op 4 mei?",
+   "o": [
+    "de koning",
+    "alle mensen die zijn gestorven in oorlogen",
+    "alle soldaten van nu",
+    "Oma Anna"
+   ],
+   "a": 1,
+   "fa": "هلند در ۴ مه یاد چه کسانی را گرامی می‌دارد؟"
+  },
+  {
+   "q": "Hoe hangen de vlaggen?",
+   "o": [
+    "halfstok",
+    "bovenaan",
+    "er hangen geen vlaggen",
+    "omgekeerd"
+   ],
+   "a": 0,
+   "fa": "پرچم‌ها چطور آویزان‌اند؟"
+  },
+  {
+   "q": "Hoe oud was de vader van Oma Anna toen de oorlog begon?",
+   "o": [
+    "twee jaar",
+    "twintig jaar",
+    "twaalf jaar",
+    "dertig jaar"
+   ],
+   "a": 2,
+   "fa": "پدر مادربزرگ آنا وقتی جنگ شروع شد چند ساله بود؟"
+  },
+  {
+   "q": "Wat aten mensen soms in de Hongerwinter?",
+   "o": [
+    "chocolade",
+    "vis",
+    "brood",
+    "tulpenbollen"
+   ],
+   "a": 3,
+   "fa": "مردم در «زمستان گرسنگی» گاهی چه می‌خوردند؟"
+  },
+  {
+   "q": "Hoe laat begon de stilte?",
+   "o": [
+    "om acht uur",
+    "om zes uur",
+    "om tien uur",
+    "om twaalf uur"
+   ],
+   "a": 0,
+   "fa": "سکوت ساعت چند شروع شد؟"
+  },
+  {
+   "q": "Wat deden de fietsers op straat?",
+   "o": [
+    "ze reden door",
+    "ze stopten",
+    "ze belden",
+    "ze zongen"
+   ],
+   "a": 1,
+   "fa": "دوچرخه‌سواران در خیابان چه کردند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "herdenken",
+   "art": "",
+   "w": "herdenken",
+   "ipa": "/ɦɛrˈdɛŋkə(n)/",
+   "fa": "یاد کسی را گرامی داشتن",
+   "ex": "Op 4 mei herdenken we de doden.",
+   "m": [
+    9,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "oorlog",
+   "art": "de",
+   "w": "de oorlog",
+   "ipa": "/ˈoːrlɔx/",
+   "fa": "جنگ",
+   "ex": "Hij was twaalf jaar toen de oorlog begon.",
+   "m": [
+    28,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "sterven",
+   "art": "",
+   "w": "sterven",
+   "ipa": "/ˈstɛrvə(n)/",
+   "fa": "مردن",
+   "ex": "Veel mensen zijn in de oorlog gestorven.",
+   "m": [
+    30,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "vlag",
+   "art": "de",
+   "w": "de vlag",
+   "ipa": "/vlɑx/",
+   "fa": "پرچم",
+   "ex": "Dan hangen de vlaggen halfstok.",
+   "m": [
+    14,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "honger",
+   "art": "de",
+   "w": "de honger",
+   "ipa": "/ˈɦɔŋər/",
+   "fa": "گرسنگی",
+   "ex": "In de oorlog hadden mensen honger.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "stilte",
+   "art": "de",
+   "w": "de stilte",
+   "ipa": "/ˈstɪltə/",
+   "fa": "سکوت",
+   "ex": "Na de stilte klonk muziek.",
+   "m": [
+    6,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "monument",
+   "art": "het",
+   "w": "het monument",
+   "ipa": "/moːnyˈmɛnt/",
+   "fa": "بنای یادبود",
+   "ex": "Op de Dam stonden duizenden mensen bij het Nationaal Monument.",
+   "m": [
+    53,
+    61
+   ],
+   "book": 1
+  },
+  {
+   "id": "krans",
+   "art": "de",
+   "w": "de krans",
+   "ipa": "/krɑns/",
+   "fa": "تاج گل",
+   "ex": "De koning en de koningin legden een krans.",
+   "m": [
+    36,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "stil",
+   "art": "",
+   "w": "stil",
+   "ipa": "/stɪl/",
+   "fa": "ساکت",
+   "ex": "Iedereen was twee minuten stil.",
+   "m": [
+    26,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "blijven",
+   "art": "",
+   "w": "blijven",
+   "ipa": "/ˈblɛivə(n)/",
+   "fa": "ماندن؛ ادامه دادن",
+   "ex": "We moeten het blijven vertellen.",
+   "m": [
+    14,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "halfstok",
+   "art": "",
+   "w": "halfstok",
+   "ipa": "/ɦɑlfˈstɔk/",
+   "fa": "نیمه‌افراشته",
+   "ex": "Dan hangen de vlaggen halfstok.",
+   "m": [
+    22,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "vader",
+   "art": "de",
+   "w": "de vader",
+   "ipa": "/ˈvaːdər/",
+   "fa": "پدر",
+   "ex": "Na het eten vertelde ze over haar vader.",
+   "m": [
+    34,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "winter",
+   "art": "de",
+   "w": "de winter",
+   "ipa": "/ˈʋɪntər/",
+   "fa": "زمستان",
+   "ex": "In de laatste winter was er bijna geen eten in Amsterdam.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "tulpenbol",
+   "art": "de",
+   "w": "de tulpenbol",
+   "ipa": "/ˈtʏlpə(n)ˌbɔl/",
+   "fa": "پیاز لاله",
+   "ex": "Soms aten ze zelfs tulpenbollen.",
+   "m": [
+    19,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "televisie",
+   "art": "de",
+   "w": "de televisie",
+   "ipa": "/teːləˈvizi/",
+   "fa": "تلویزیون",
+   "ex": "Om acht uur zetten we de televisie aan.",
+   "m": [
+    25,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "koningin",
+   "art": "de",
+   "w": "de koningin",
+   "ipa": "/ˌkoːnɪˈŋɪn/",
+   "fa": "ملکه",
+   "ex": "De koning en de koningin legden een krans.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "schat",
+   "art": "de",
+   "w": "de schat",
+   "ipa": "/sxɑt/",
+   "fa": "عزیزم؛ گنج",
+   "ex": "Ja, schat.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "De vlaggen hangen halfstok.",
+   "fa": "پرچم‌ها نیمه‌افراشته‌اند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Er was bijna geen eten.",
+   "fa": "تقریباً هیچ غذایی نبود.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Heel Nederland werd twee minuten stil.",
+   "fa": "تمام هلند دو دقیقه ساکت شد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Zelfs de fietsers stopten.",
+   "fa": "حتی دوچرخه‌سواران ایستادند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "We moeten het blijven vertellen.",
+   "fa": "باید همچنان آن را تعریف کنیم.",
+   "alt": []
+  }
+ ]
+}

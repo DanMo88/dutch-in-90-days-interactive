@@ -1,0 +1,448 @@
+{
+ "day": 56,
+ "level": "A2",
+ "title": "Een sollicitatiebrief",
+ "fa_title": "نامه‌ی درخواست کار",
+ "audio": "audio/day56.mp3",
+ "img": "img/day56.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een dag zag ik een vacature op de website van een ziekenhuis in Amsterdam: “Zorgassistent gezocht, 24 uur per week.",
+   "s": 5.79
+  },
+  {
+   "p": 0,
+   "t": "Nederlands op A2-niveau is voldoende.”",
+   "s": 14.73
+  },
+  {
+   "p": 1,
+   "t": "Mijn hart ging sneller kloppen.",
+   "s": 18.95
+  },
+  {
+   "p": 1,
+   "t": "Een zorgassistent helpt verpleegkundigen bij de zorg voor patiënten.",
+   "s": 22.38
+  },
+  {
+   "p": 1,
+   "t": "Het is niet mijn oude werk, maar het is een goede eerste stap.",
+   "s": 27.88
+  },
+  {
+   "p": 2,
+   "t": "Ik belde Fatima meteen.",
+   "s": 33.18
+  },
+  {
+   "p": 2,
+   "t": "“Help je me met mijn brief?”",
+   "s": 36.32
+  },
+  {
+   "p": 2,
+   "t": "“Natuurlijk!”",
+   "s": 39.21
+  },
+  {
+   "p": 3,
+   "t": "Eerst maakten we mijn cv.",
+   "s": 41.42
+  },
+  {
+   "p": 3,
+   "t": "Daarop staan mijn opleiding, mijn werkervaring en mijn talen.",
+   "s": 44.7
+  },
+  {
+   "p": 3,
+   "t": "“Schrijf ook je taalcursus erbij,” zei Fatima.",
+   "s": 49.95
+  },
+  {
+   "p": 4,
+   "t": "Toen schreven we de sollicitatiebrief.",
+   "s": 54.73
+  },
+  {
+   "p": 4,
+   "t": "“In Nederland moet een brief kort en duidelijk zijn,” legde Fatima uit.",
+   "s": 58.67
+  },
+  {
+   "p": 4,
+   "t": "“Niet te bescheiden.",
+   "s": 64.35
+  },
+  {
+   "p": 4,
+   "t": "Vertel wat je kunt.”",
+   "s": 66.82
+  },
+  {
+   "p": 5,
+   "t": "Ik schreef: “Ik ben verpleegkundige met tien jaar ervaring.",
+   "s": 69.52
+  },
+  {
+   "p": 5,
+   "t": "Ik werk graag met mensen en ik leer snel.",
+   "s": 74.85
+  },
+  {
+   "p": 5,
+   "t": "Ik zou graag in uw team werken.”",
+   "s": 78.82
+  },
+  {
+   "p": 6,
+   "t": "Fatima veranderde twee woorden.",
+   "s": 82.15
+  },
+  {
+   "p": 6,
+   "t": "“Perfect.",
+   "s": 85.76
+  },
+  {
+   "p": 6,
+   "t": "Nu op verzenden drukken!”",
+   "s": 87.81
+  },
+  {
+   "p": 6,
+   "t": "Ik klikte.",
+   "s": 90.81
+  },
+  {
+   "p": 6,
+   "t": "Spannend!",
+   "s": 92.87
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat voor vacature zag Sara?",
+   "o": [
+    "docent",
+    "zorgassistent",
+    "dokter",
+    "kok"
+   ],
+   "a": 1,
+   "fa": "سارا چه آگهی شغلی‌ای دید؟"
+  },
+  {
+   "q": "Hoeveel uur per week is de baan?",
+   "o": [
+    "acht",
+    "veertig",
+    "twaalf",
+    "vierentwintig"
+   ],
+   "a": 3,
+   "fa": "این شغل چند ساعت در هفته است؟"
+  },
+  {
+   "q": "Wat doet een zorgassistent?",
+   "o": [
+    "operaties doen",
+    "medicijnen voorschrijven",
+    "verpleegkundigen helpen",
+    "schoonmaken"
+   ],
+   "a": 2,
+   "fa": "دستیار مراقبت چه کار می‌کند؟"
+  },
+  {
+   "q": "Wat staat er op een cv?",
+   "o": [
+    "opleiding, werkervaring en talen",
+    "je favoriete eten",
+    "je adres alleen",
+    "foto's van je familie"
+   ],
+   "a": 0,
+   "fa": "در رزومه چه نوشته می‌شود؟"
+  },
+  {
+   "q": "Hoe moet een brief in Nederland zijn?",
+   "o": [
+    "lang en mooi",
+    "kort en duidelijk",
+    "heel bescheiden",
+    "met veel plaatjes"
+   ],
+   "a": 1,
+   "fa": "یک نامه در هلند چطور باید باشد؟"
+  },
+  {
+   "q": "Hoeveel jaar ervaring heeft Sara?",
+   "o": [
+    "twee jaar",
+    "vijf jaar",
+    "tien jaar",
+    "twintig jaar"
+   ],
+   "a": 2,
+   "fa": "سارا چند سال سابقه دارد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "vacature",
+   "art": "de",
+   "w": "de vacature",
+   "ipa": "/vɑkaːˈtyːrə/",
+   "fa": "آگهی استخدام",
+   "ex": "Ik zag een vacature op de website.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "solliciteren",
+   "art": "",
+   "w": "solliciteren",
+   "ipa": "/sɔlisiˈteːrə(n)/",
+   "fa": "درخواست کار دادن",
+   "ex": "Sara wil solliciteren bij het ziekenhuis.",
+   "m": [
+    9,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "ziekenhuis",
+   "art": "het",
+   "w": "het ziekenhuis",
+   "ipa": "/ˈzikə(n)ɦœys/",
+   "fa": "بیمارستان",
+   "ex": "Ze werkt in een groot ziekenhuis.",
+   "m": [
+    22,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "voldoende",
+   "art": "",
+   "w": "voldoende",
+   "ipa": "/vɔlˈdundə/",
+   "fa": "کافی",
+   "ex": "Nederlands op A2-niveau is voldoende.",
+   "m": [
+    27,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "patient",
+   "art": "de",
+   "w": "de patiënt",
+   "ipa": "/paːˈʃɛnt/",
+   "fa": "بیمار",
+   "ex": "Een zorgassistent helpt verpleegkundigen bij de zorg voor patiënten.",
+   "m": [
+    58,
+    67
+   ],
+   "book": 1
+  },
+  {
+   "id": "opleiding",
+   "art": "de",
+   "w": "de opleiding",
+   "ipa": "/ˈɔplɛidɪŋ/",
+   "fa": "تحصیلات، دوره‌ی آموزشی",
+   "ex": "Daarop staan mijn opleiding, mijn werkervaring en mijn talen.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "ervaring",
+   "art": "de",
+   "w": "de ervaring",
+   "ipa": "/ɛrˈvaːrɪŋ/",
+   "fa": "تجربه، سابقه",
+   "ex": "Ik ben verpleegkundige met tien jaar ervaring.",
+   "m": [
+    37,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "bescheiden",
+   "art": "",
+   "w": "bescheiden",
+   "ipa": "/bəˈsxɛidə(n)/",
+   "fa": "فروتن",
+   "ex": "Niet te bescheiden.",
+   "m": [
+    8,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "veranderen",
+   "art": "",
+   "w": "veranderen",
+   "ipa": "/vərˈɑndərə(n)/",
+   "fa": "تغییر دادن",
+   "ex": "Fatima veranderde twee woorden.",
+   "m": [
+    7,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "spannend",
+   "art": "",
+   "w": "spannend",
+   "ipa": "/ˈspɑnənt/",
+   "fa": "هیجان‌انگیز",
+   "ex": "Wat spannend, een nieuwe baan!",
+   "m": [
+    4,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "zorgassistent",
+   "art": "de",
+   "w": "de zorgassistent",
+   "ipa": "/ˈzɔrxɑsistɛnt/",
+   "fa": "دستیار مراقبت (بهیار)",
+   "ex": "Een zorgassistent helpt verpleegkundigen bij de zorg voor patiënten.",
+   "m": [
+    4,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "hart",
+   "art": "het",
+   "w": "het hart",
+   "ipa": "/ɦɑrt/",
+   "fa": "قلب",
+   "ex": "Mijn hart ging sneller kloppen.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "zorg",
+   "art": "de",
+   "w": "de zorg",
+   "ipa": "/zɔrx/",
+   "fa": "مراقبت؛ نگرانی",
+   "ex": "Een zorgassistent helpt verpleegkundigen bij de zorg voor patiënten.",
+   "m": [
+    48,
+    52
+   ],
+   "book": 0
+  },
+  {
+   "id": "stap",
+   "art": "de",
+   "w": "de stap",
+   "ipa": "/stɑp/",
+   "fa": "قدم",
+   "ex": "Het is niet mijn oude werk, maar het is een goede eerste stap.",
+   "m": [
+    57,
+    61
+   ],
+   "book": 0
+  },
+  {
+   "id": "cv",
+   "art": "het",
+   "w": "het cv",
+   "ipa": "/seːˈveː/",
+   "fa": "رزومه",
+   "ex": "Eerst maakten we mijn cv.",
+   "m": [
+    22,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "team",
+   "art": "het",
+   "w": "het team",
+   "ipa": "/tiːm/",
+   "fa": "تیم",
+   "ex": "Ik zou graag in uw team werken.",
+   "m": [
+    19,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "drukken",
+   "art": "",
+   "w": "drukken",
+   "ipa": "/ˈdrʏkə(n)/",
+   "fa": "فشار دادن",
+   "ex": "Nu op verzenden drukken!",
+   "m": [
+    16,
+    23
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Nederlands op A2-niveau is voldoende.",
+   "fa": "هلندی در سطح A2 کافی است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Help je me met mijn brief?",
+   "fa": "در نامه‌ام کمکم می‌کنی؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Een brief moet kort en duidelijk zijn.",
+   "fa": "نامه باید کوتاه و واضح باشد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik werk graag met mensen.",
+   "fa": "دوست دارم با مردم کار کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik leer snel.",
+   "fa": "سریع یاد می‌گیرم.",
+   "alt": []
+  }
+ ]
+}

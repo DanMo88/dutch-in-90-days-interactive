@@ -1,0 +1,445 @@
+{
+ "day": 37,
+ "level": "A2",
+ "title": "Gekocht op Marktplaats",
+ "fa_title": "خرید از مارکت‌پلاتس",
+ "audio": "audio/day37.mp3",
+ "img": "img/day37.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Alex wil al lang een bakfiets.",
+   "s": 5.91
+  },
+  {
+   "p": 0,
+   "t": "Dan kan hij Mia naar school brengen en grote boodschappen doen.",
+   "s": 9.1
+  },
+  {
+   "p": 0,
+   "t": "Maar een nieuwe bakfiets is duur: meer dan tweeduizend euro.",
+   "s": 14.38
+  },
+  {
+   "p": 1,
+   "t": "“Kijk op Marktplaats,” zei Dani.",
+   "s": 20.18
+  },
+  {
+   "p": 1,
+   "t": "“Daar vind je tweedehands spullen.”",
+   "s": 24.08
+  },
+  {
+   "p": 2,
+   "t": "Alex vond een mooie bakfiets in Amsterdam-West voor zevenhonderd euro.",
+   "s": 27.51
+  },
+  {
+   "p": 2,
+   "t": "Hij stuurde een bericht: “Hallo, is de bakfiets nog beschikbaar?”",
+   "s": 33.73
+  },
+  {
+   "p": 2,
+   "t": "Het antwoord kwam snel: “Ja!",
+   "s": 39.8
+  },
+  {
+   "p": 2,
+   "t": "Kom morgen maar kijken.”",
+   "s": 43.51
+  },
+  {
+   "p": 3,
+   "t": "De volgende avond gingen we samen met de tram naar West.",
+   "s": 46.33
+  },
+  {
+   "p": 3,
+   "t": "De verkoper heette Joris.",
+   "s": 51.16
+  },
+  {
+   "p": 3,
+   "t": "Zijn kinderen waren te groot geworden voor de bakfiets.",
+   "s": 54.38
+  },
+  {
+   "p": 3,
+   "t": "Alex maakte een proefrit.",
+   "s": 59.04
+  },
+  {
+   "p": 4,
+   "t": "“Hij is goed,” zei Alex.",
+   "s": 62.07
+  },
+  {
+   "p": 4,
+   "t": "“Maar de banden zijn oud.",
+   "s": 65.57
+  },
+  {
+   "p": 4,
+   "t": "Is zeshonderd euro goed?”",
+   "s": 68.38
+  },
+  {
+   "p": 5,
+   "t": "Joris dacht even na.",
+   "s": 71.63
+  },
+  {
+   "p": 5,
+   "t": "“Zeshonderdvijftig, en dan doe ik de regenhoes erbij.”",
+   "s": 74.49
+  },
+  {
+   "p": 6,
+   "t": "“Afgesproken!”",
+   "s": 79.63
+  },
+  {
+   "p": 6,
+   "t": "Alex betaalde via de app van de bank.",
+   "s": 81.94
+  },
+  {
+   "p": 7,
+   "t": "Alex fietste terug naar De Pijp, met Mia en mij in de bak.",
+   "s": 85.79
+  },
+  {
+   "p": 7,
+   "t": "Nu zijn we echte Amsterdammers!",
+   "s": 91.49
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom wil Alex een bakfiets?",
+   "o": [
+    "om te sporten",
+    "om Mia naar school te brengen en boodschappen te doen",
+    "om te verkopen",
+    "voor zijn werk"
+   ],
+   "a": 1,
+   "fa": "چرا الکس دوچرخه‌ی باری می‌خواهد؟"
+  },
+  {
+   "q": "Hoeveel kost een nieuwe bakfiets?",
+   "o": [
+    "meer dan tweeduizend euro",
+    "zevenhonderd euro",
+    "duizend euro",
+    "vijfhonderd euro"
+   ],
+   "a": 0,
+   "fa": "دوچرخه‌ی باری نو چقدر است؟"
+  },
+  {
+   "q": "Wat vroeg Alex in zijn bericht?",
+   "o": [
+    "waar de bakfiets stond",
+    "wat de kleur was",
+    "of de bakfiets nog beschikbaar was",
+    "hoe oud hij was"
+   ],
+   "a": 2,
+   "fa": "الکس در پیامش چه پرسید؟"
+  },
+  {
+   "q": "Waarom verkocht Joris de bakfiets?",
+   "o": [
+    "hij ging verhuizen",
+    "hij was kapot",
+    "hij had geen geld",
+    "zijn kinderen waren te groot"
+   ],
+   "a": 3,
+   "fa": "چرا یوریس دوچرخه‌ی باری را فروخت؟"
+  },
+  {
+   "q": "Hoeveel betaalde Alex uiteindelijk?",
+   "o": [
+    "zeshonderd euro",
+    "zeshonderdvijftig euro",
+    "zevenhonderd euro",
+    "vijfhonderd euro"
+   ],
+   "a": 1,
+   "fa": "الکس در آخر چقدر پرداخت؟"
+  },
+  {
+   "q": "Hoe ging de bakfiets naar huis?",
+   "o": [
+    "met de tram",
+    "met een auto",
+    "Alex fietste terug",
+    "Joris bracht hem"
+   ],
+   "a": 2,
+   "fa": "دوچرخه‌ی باری چطور به خانه رسید؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "tweedehands",
+   "art": "",
+   "w": "tweedehands",
+   "ipa": "/tʋeːdəˈɦɑnts/",
+   "fa": "دست دوم",
+   "ex": "Daar vind je tweedehands spullen.",
+   "m": [
+    13,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "verkoper",
+   "art": "de",
+   "w": "de verkoper",
+   "ipa": "/vərˈkoːpər/",
+   "fa": "فروشنده",
+   "ex": "De verkoper heette Joris.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "beschikbaar",
+   "art": "",
+   "w": "beschikbaar",
+   "ipa": "/bəˈsxɪɡbaːr/",
+   "fa": "موجود، در دسترس",
+   "ex": "Hallo, is de bakfiets nog beschikbaar?",
+   "m": [
+    26,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "bericht",
+   "art": "het",
+   "w": "het bericht",
+   "ipa": "/bəˈrɪxt/",
+   "fa": "پیام",
+   "ex": "Hij stuurde een bericht.",
+   "m": [
+    16,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "band",
+   "art": "de",
+   "w": "de band",
+   "ipa": "/bɑnt/",
+   "fa": "لاستیک (دوچرخه)",
+   "ex": "De achterste band is lek.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "regenhoes",
+   "art": "de",
+   "w": "de regenhoes",
+   "ipa": "/ˈreːɣə(n)ɦus/",
+   "fa": "روکش ضدباران",
+   "ex": "Zeshonderdvijftig, en dan doe ik de regenhoes erbij.",
+   "m": [
+    36,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "proefrit",
+   "art": "de",
+   "w": "de proefrit",
+   "ipa": "/ˈprufrɪt/",
+   "fa": "سواری آزمایشی",
+   "ex": "Alex maakte een proefrit.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "bieden",
+   "art": "",
+   "w": "bieden",
+   "ipa": "/ˈbidə(n)/",
+   "fa": "پیشنهاد قیمت دادن",
+   "ex": "Hij bood zeshonderd euro.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "nadenken",
+   "art": "",
+   "w": "nadenken",
+   "ipa": "/ˈnaːdɛŋkə(n)/",
+   "fa": "فکر کردن",
+   "ex": "Ik moet er even over nadenken.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "afgesproken",
+   "art": "",
+   "w": "Afgesproken!",
+   "ipa": "/ˈɑfxəsproːkə(n)/",
+   "fa": "قبول! (قرارمان باشد)",
+   "ex": "\"Morgen om acht uur?\" \"Afgesproken!\"",
+   "m": [
+    23,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "brengen",
+   "art": "",
+   "w": "brengen",
+   "ipa": "/ˈbrɛŋə(n)/",
+   "fa": "بردن، رساندن",
+   "ex": "Dan kan hij Mia naar school brengen en grote boodschappen doen.",
+   "m": [
+    28,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "antwoord",
+   "art": "het",
+   "w": "het antwoord",
+   "ipa": "/ˈɑntʋoːrt/",
+   "fa": "جواب",
+   "ex": "Het antwoord kwam snel.",
+   "m": [
+    4,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "avond",
+   "art": "de",
+   "w": "de avond",
+   "ipa": "/ˈaːvɔnt/",
+   "fa": "عصر، شب",
+   "ex": "De volgende avond gingen we samen met de tram naar West.",
+   "m": [
+    12,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "via",
+   "art": "",
+   "w": "via",
+   "ipa": "/ˈviaː/",
+   "fa": "از طریقِ",
+   "ex": "Alex betaalde via de app van de bank.",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "vinden",
+   "art": "",
+   "w": "vinden",
+   "ipa": "/ˈvɪndə(n)/",
+   "fa": "پیدا کردن؛ نظر داشتن",
+   "ex": "Daar vind je tweedehands spullen.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "amsterdammer",
+   "art": "de",
+   "w": "de Amsterdammer",
+   "ipa": "/ˌɑmstərˈdɑmər/",
+   "fa": "آمستردامی",
+   "ex": "Nu zijn we echte Amsterdammers!",
+   "m": [
+    17,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "morgen",
+   "art": "",
+   "w": "morgen",
+   "ipa": "/ˈmɔrɣə(n)/",
+   "fa": "فردا",
+   "ex": "Kom morgen maar kijken.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Is de bakfiets nog beschikbaar?",
+   "fa": "آیا دوچرخه‌ی باری هنوز موجود است؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Kom morgen maar kijken.",
+   "fa": "فردا بیا ببین.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "De banden zijn oud.",
+   "fa": "لاستیک‌ها کهنه‌اند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Is zeshonderd euro goed?",
+   "fa": "ششصد یورو خوب است؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Nu zijn we echte Amsterdammers!",
+   "fa": "حالا آمستردامیِ واقعی هستیم!",
+   "alt": [
+    "We zijn nu echte Amsterdammers!"
+   ]
+  }
+ ]
+}

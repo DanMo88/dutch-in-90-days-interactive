@@ -1,0 +1,448 @@
+{
+ "day": 33,
+ "level": "A2",
+ "title": "Ziek! Bellen met de huisarts",
+ "fa_title": "بیمار! تماس با پزشک خانواده",
+ "audio": "audio/day33.mp3",
+ "img": "img/day33.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vannacht werd Mia wakker.",
+   "s": 7.29
+  },
+  {
+   "p": 0,
+   "t": "Ik heb haar temperatuur opgenomen: negenendertig graden.",
+   "s": 10.21
+  },
+  {
+   "p": 0,
+   "t": "Ze had koorts en haar oor deed pijn.",
+   "s": 15.71
+  },
+  {
+   "p": 1,
+   "t": "Om acht uur 's ochtends belde ik de huisarts.",
+   "s": 19.46
+  },
+  {
+   "p": 1,
+   "t": "“Bel voor tien uur,” had Emma gezegd.",
+   "s": 23.69
+  },
+  {
+   "p": 1,
+   "t": "“Dan kun je vaak dezelfde dag nog komen.”",
+   "s": 27.99
+  },
+  {
+   "p": 2,
+   "t": "Eerst hoorde ik een bandje: “Toets 1 voor spoed.”",
+   "s": 31.98
+  },
+  {
+   "p": 2,
+   "t": "Na een kwartier nam de doktersassistente op.",
+   "s": 36.46
+  },
+  {
+   "p": 3,
+   "t": "“Wat zijn de klachten?” vroeg ze.",
+   "s": 40.85
+  },
+  {
+   "p": 4,
+   "t": "“Mijn dochter heeft sinds vannacht hoge koorts en oorpijn.”",
+   "s": 45.43
+  },
+  {
+   "p": 5,
+   "t": "“Hoe oud is ze?",
+   "s": 50.55
+  },
+  {
+   "p": 5,
+   "t": "Drinkt ze genoeg?”",
+   "s": 52.9
+  },
+  {
+   "p": 6,
+   "t": "“Ze is zeven.",
+   "s": 55.3
+  },
+  {
+   "p": 6,
+   "t": "Ze drinkt wel, maar ze eet bijna niets.”",
+   "s": 57.79
+  },
+  {
+   "p": 7,
+   "t": "“Dan mag u vanmiddag om half drie komen.”",
+   "s": 61.98
+  },
+  {
+   "p": 8,
+   "t": "De huisarts keek in Mia's oor met een klein lampje.",
+   "s": 66.04
+  },
+  {
+   "p": 8,
+   "t": "“Ze heeft een oorontsteking,” zei hij.",
+   "s": 70.76
+  },
+  {
+   "p": 8,
+   "t": "“Geef haar paracetamol en laat haar veel drinken.",
+   "s": 74.87
+  },
+  {
+   "p": 8,
+   "t": "Als de koorts na drie dagen niet weg is, belt u terug.”",
+   "s": 79.41
+  },
+  {
+   "p": 9,
+   "t": "Thuis viel Mia meteen in slaap.",
+   "s": 84.8
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe hoog was de koorts van Mia?",
+   "o": [
+    "zevenendertig graden",
+    "achtendertig graden",
+    "negenendertig graden",
+    "veertig graden"
+   ],
+   "a": 2,
+   "fa": "تب میا چند درجه بود؟"
+  },
+  {
+   "q": "Waarom belde Sara vóór tien uur?",
+   "o": [
+    "dan kun je vaak dezelfde dag komen",
+    "de huisarts is daarna dicht",
+    "dan is het gratis",
+    "Alex moest naar zijn werk"
+   ],
+   "a": 0,
+   "fa": "چرا سارا قبل از ساعت ده زنگ زد؟"
+  },
+  {
+   "q": "Wie nam de telefoon op?",
+   "o": [
+    "de huisarts",
+    "Emma",
+    "een verpleegster",
+    "de doktersassistente"
+   ],
+   "a": 3,
+   "fa": "چه کسی تلفن را جواب داد؟"
+  },
+  {
+   "q": "Hoe laat konden ze komen?",
+   "o": [
+    "om acht uur",
+    "om half drie",
+    "om tien uur",
+    "morgen"
+   ],
+   "a": 1,
+   "fa": "ساعت چند می‌توانستند بیایند؟"
+  },
+  {
+   "q": "Wat heeft Mia?",
+   "o": [
+    "griep",
+    "buikpijn",
+    "een oorontsteking",
+    "een gebroken arm"
+   ],
+   "a": 2,
+   "fa": "میا چه بیماری‌ای دارد؟"
+  },
+  {
+   "q": "Wanneer moet Sara terugbellen?",
+   "o": [
+    "als de koorts na drie dagen niet weg is",
+    "morgenochtend",
+    "nooit",
+    "na een week"
+   ],
+   "a": 0,
+   "fa": "سارا کِی باید دوباره زنگ بزند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "huisarts",
+   "art": "de",
+   "w": "de huisarts",
+   "ipa": "/ˈɦœysɑrts/",
+   "fa": "پزشک خانواده",
+   "ex": "Om acht uur 's ochtends belde ik de huisarts.",
+   "m": [
+    36,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "koorts",
+   "art": "de",
+   "w": "de koorts",
+   "ipa": "/koːrts/",
+   "fa": "تب",
+   "ex": "Ze had koorts en haar oor deed pijn.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "temperatuur",
+   "art": "de",
+   "w": "de temperatuur",
+   "ipa": "/tɛmpəraːˈtyːr/",
+   "fa": "دما",
+   "ex": "Ik heb haar temperatuur opgenomen: negenendertig graden.",
+   "m": [
+    12,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "pijn-doen",
+   "art": "",
+   "w": "pijn doen",
+   "ipa": "/pɛin dun/",
+   "fa": "درد کردن",
+   "ex": "Mijn oor doet pijn.",
+   "m": [
+    9,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "assistente",
+   "art": "de",
+   "w": "de assistente",
+   "ipa": "/ɑsɪˈstɛntə/",
+   "fa": "دستیار (زن)",
+   "ex": "De assistente vroeg naar de klachten.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "klacht",
+   "art": "de",
+   "w": "de klacht",
+   "ipa": "/klɑxt/",
+   "fa": "علائم بیماری؛ شکایت",
+   "ex": "Wat zijn de klachten?",
+   "m": [
+    12,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "spoed",
+   "art": "de",
+   "w": "de spoed",
+   "ipa": "/sput/",
+   "fa": "اورژانس، فوری",
+   "ex": "Toets 1 voor spoed.",
+   "m": [
+    13,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "wachten",
+   "art": "",
+   "w": "wachten",
+   "ipa": "/ˈʋɑxtə(n)/",
+   "fa": "صبر کردن",
+   "ex": "Ik moest een kwartier wachten.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "ontsteking",
+   "art": "de",
+   "w": "de ontsteking",
+   "ipa": "/ɔntˈsteːkɪŋ/",
+   "fa": "عفونت، التهاب",
+   "ex": "Ze heeft een ontsteking in haar oor.",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "terugbellen",
+   "art": "",
+   "w": "terugbellen",
+   "ipa": "/təˈrʏɣbɛlə(n)/",
+   "fa": "دوباره زنگ زدن",
+   "ex": "Kunt u me morgen terugbellen?",
+   "m": [
+    17,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "oor",
+   "art": "het",
+   "w": "het oor",
+   "ipa": "/oːr/",
+   "fa": "گوش",
+   "ex": "Ze had koorts en haar oor deed pijn.",
+   "m": [
+    22,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "oorpijn",
+   "art": "de",
+   "w": "de oorpijn",
+   "ipa": "/ˈoːrpɛin/",
+   "fa": "گوش‌درد",
+   "ex": "Mijn dochter heeft sinds vannacht hoge koorts en oorpijn.",
+   "m": [
+    49,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "kwartier",
+   "art": "het",
+   "w": "het kwartier",
+   "ipa": "/kʋɑrˈtiːr/",
+   "fa": "یک ربع",
+   "ex": "Na een kwartier nam de doktersassistente op.",
+   "m": [
+    7,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "genoeg",
+   "art": "",
+   "w": "genoeg",
+   "ipa": "/ɣəˈnux/",
+   "fa": "کافی، به‌اندازه‌ی کافی",
+   "ex": "Drinkt ze genoeg?",
+   "m": [
+    10,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "vanmiddag",
+   "art": "",
+   "w": "vanmiddag",
+   "ipa": "/vɑnˈmɪdɑx/",
+   "fa": "امروز بعدازظهر",
+   "ex": "Dan mag u vanmiddag om half drie komen.",
+   "m": [
+    10,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "paracetamol",
+   "art": "de",
+   "w": "de paracetamol",
+   "ipa": "/ˌpaːraːˌseːtaːˈmɔl/",
+   "fa": "پاراستامول",
+   "ex": "Geef haar paracetamol en laat haar veel drinken.",
+   "m": [
+    10,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "meteen",
+   "art": "",
+   "w": "meteen",
+   "ipa": "/məˈteːn/",
+   "fa": "فوراً",
+   "ex": "Thuis viel Mia meteen in slaap.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "dezelfde",
+   "art": "",
+   "w": "dezelfde",
+   "ipa": "/dəˈzɛlfdə/",
+   "fa": "همان",
+   "ex": "Dan kun je vaak dezelfde dag nog komen.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mijn dochter heeft hoge koorts.",
+   "fa": "دخترم تب بالایی دارد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Bel voor tien uur.",
+   "fa": "قبل از ساعت ده زنگ بزن.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Wat zijn de klachten?",
+   "fa": "علائم چیست؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "U mag vanmiddag komen.",
+   "fa": "می‌توانید امروز بعدازظهر بیایید.",
+   "alt": [
+    "Vanmiddag mag u komen."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Ze moet veel drinken.",
+   "fa": "او باید زیاد مایعات بنوشد.",
+   "alt": []
+  }
+ ]
+}

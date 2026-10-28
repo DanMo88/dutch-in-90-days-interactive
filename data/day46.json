@@ -1,0 +1,446 @@
+{
+ "day": 46,
+ "level": "A2",
+ "title": "De tandarts",
+ "fa_title": "دندان‌پزشک",
+ "audio": "audio/day46.mp3",
+ "img": "img/day46.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Al een paar dagen had ik kiespijn.",
+   "s": 4.99
+  },
+  {
+   "p": 0,
+   "t": "Eerst dacht ik: het gaat vanzelf over.",
+   "s": 8.26
+  },
+  {
+   "p": 0,
+   "t": "Maar op dinsdag kon ik niet meer kauwen.",
+   "s": 12.45
+  },
+  {
+   "p": 1,
+   "t": "Gelukkig hadden we ons in oktober al ingeschreven bij een tandarts in de buurt.",
+   "s": 16.45
+  },
+  {
+   "p": 1,
+   "t": "Ik belde en kon dezelfde middag nog komen.",
+   "s": 22.32
+  },
+  {
+   "p": 2,
+   "t": "“Doe uw mond maar wijd open,” zei de tandarts.",
+   "s": 26.59
+  },
+  {
+   "p": 2,
+   "t": "Ze keek met een spiegeltje.",
+   "s": 30.95
+  },
+  {
+   "p": 2,
+   "t": "“U heeft een gaatje.",
+   "s": 33.85
+  },
+  {
+   "p": 2,
+   "t": "Ik kan het vandaag vullen.",
+   "s": 36.46
+  },
+  {
+   "p": 2,
+   "t": "U krijgt eerst een verdoving, dan voelt u niets.”",
+   "s": 39.26
+  },
+  {
+   "p": 3,
+   "t": "Na een halfuur was het klaar.",
+   "s": 43.73
+  },
+  {
+   "p": 3,
+   "t": "De pijn was weg.",
+   "s": 46.84
+  },
+  {
+   "p": 4,
+   "t": "Bij de balie kreeg ik de rekening: honderdtwintig euro.",
+   "s": 49.27
+  },
+  {
+   "p": 5,
+   "t": "“Betaalt mijn zorgverzekering dat niet?” vroeg ik.",
+   "s": 54.15
+  },
+  {
+   "p": 6,
+   "t": "“Voor kinderen tot achttien jaar wel,” zei de assistente.",
+   "s": 59.84
+  },
+  {
+   "p": 6,
+   "t": "“Maar voor volwassenen zit de tandarts niet in het basispakket.",
+   "s": 64.6
+  },
+  {
+   "p": 6,
+   "t": "Daarvoor heeft u een aanvullende verzekering nodig.”",
+   "s": 69.74
+  },
+  {
+   "p": 7,
+   "t": "Thuis vertelde ik het aan Alex.",
+   "s": 73.99
+  },
+  {
+   "p": 7,
+   "t": "“Dan nemen we volgend jaar allebei een aanvullende verzekering,” zei hij.",
+   "s": 77.52
+  },
+  {
+   "p": 7,
+   "t": "“En tot die tijd: minder drop!”",
+   "s": 83.48
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat had Sara?",
+   "o": [
+    "hoofdpijn",
+    "buikpijn",
+    "kiespijn",
+    "oorpijn"
+   ],
+   "a": 2,
+   "fa": "سارا چه مشکلی داشت؟"
+  },
+  {
+   "q": "Wanneer kon Sara bij de tandarts komen?",
+   "o": [
+    "dezelfde middag",
+    "de volgende dag",
+    "na een week",
+    "na een maand"
+   ],
+   "a": 0,
+   "fa": "سارا کِی توانست پیش دندان‌پزشک برود؟"
+  },
+  {
+   "q": "Wat vond de tandarts?",
+   "o": [
+    "niets",
+    "een gaatje",
+    "een gebroken tand",
+    "een ontsteking"
+   ],
+   "a": 1,
+   "fa": "دندان‌پزشک چه پیدا کرد؟"
+  },
+  {
+   "q": "Wat kreeg Sara voor het vullen?",
+   "o": [
+    "een pil",
+    "een snoepje",
+    "een glas water",
+    "een verdoving"
+   ],
+   "a": 3,
+   "fa": "سارا قبل از پر کردن دندان چه گرفت؟"
+  },
+  {
+   "q": "Hoeveel kostte het?",
+   "o": [
+    "twintig euro",
+    "honderdtwintig euro",
+    "tweehonderd euro",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "هزینه چقدر شد؟"
+  },
+  {
+   "q": "Voor wie betaalt de basisverzekering de tandarts wel?",
+   "o": [
+    "voor kinderen tot achttien jaar",
+    "voor iedereen",
+    "voor niemand",
+    "voor oude mensen"
+   ],
+   "a": 0,
+   "fa": "بیمه‌ی پایه هزینه‌ی دندان‌پزشکی را برای چه کسانی می‌پردازد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "tandarts",
+   "art": "de",
+   "w": "de tandarts",
+   "ipa": "/ˈtɑntɑrts/",
+   "fa": "دندان‌پزشک",
+   "ex": "Maar voor volwassenen zit de tandarts niet in het basispakket.",
+   "m": [
+    29,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "kiespijn",
+   "art": "de",
+   "w": "de kiespijn",
+   "ipa": "/ˈkispɛin/",
+   "fa": "دندان‌درد",
+   "ex": "Al een paar dagen had ik kiespijn.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "kauwen",
+   "art": "",
+   "w": "kauwen",
+   "ipa": "/ˈkɑuʋə(n)/",
+   "fa": "جویدن",
+   "ex": "Maar op dinsdag kon ik niet meer kauwen.",
+   "m": [
+    33,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "vanzelf",
+   "art": "",
+   "w": "vanzelf",
+   "ipa": "/vɑnˈzɛlf/",
+   "fa": "خودبه‌خود",
+   "ex": "Eerst dacht ik: het gaat vanzelf over.",
+   "m": [
+    25,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "gaatje",
+   "art": "het",
+   "w": "het gaatje",
+   "ipa": "/ˈɣaːcə/",
+   "fa": "پوسیدگی (سوراخ کوچک دندان)",
+   "ex": "U heeft een gaatje.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdoving",
+   "art": "de",
+   "w": "de verdoving",
+   "ipa": "/vərˈdoːvɪŋ/",
+   "fa": "بی‌حسی",
+   "ex": "U krijgt eerst een verdoving, dan voelt u niets.",
+   "m": [
+    19,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "rekening",
+   "art": "de",
+   "w": "de rekening",
+   "ipa": "/ˈreːkənɪŋ/",
+   "fa": "صورت‌حساب",
+   "ex": "Bij de balie kreeg ik de rekening: honderdtwintig euro.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "basispakket",
+   "art": "het",
+   "w": "het basispakket",
+   "ipa": "/ˈbaːzɪspɑkɛt/",
+   "fa": "بیمه‌ی پایه",
+   "ex": "Maar voor volwassenen zit de tandarts niet in het basispakket.",
+   "m": [
+    50,
+    61
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanvullend",
+   "art": "",
+   "w": "aanvullend",
+   "ipa": "/ˈaːnvʏlənt/",
+   "fa": "تکمیلی",
+   "ex": "Daarvoor heeft u een aanvullende verzekering nodig.",
+   "m": [
+    21,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "allebei",
+   "art": "",
+   "w": "allebei",
+   "ipa": "/ɑləˈbɛi/",
+   "fa": "هر دو",
+   "ex": "Dan nemen we volgend jaar allebei een aanvullende verzekering.",
+   "m": [
+    26,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "mond",
+   "art": "de",
+   "w": "de mond",
+   "ipa": "/mɔnt/",
+   "fa": "دهان",
+   "ex": "Doe uw mond maar wijd open.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "wijd",
+   "art": "",
+   "w": "wijd",
+   "ipa": "/ˈʋɛɪt/",
+   "fa": "گشاد، کاملاً (باز)",
+   "ex": "Doe uw mond maar wijd open.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "spiegeltje",
+   "art": "het",
+   "w": "het spiegeltje",
+   "ipa": "/ˈspiɣəlcə/",
+   "fa": "آینه‌ی کوچک",
+   "ex": "Ze keek met een spiegeltje.",
+   "m": [
+    16,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "vullen",
+   "art": "",
+   "w": "vullen",
+   "ipa": "/ˈvʏlə(n)/",
+   "fa": "پر کردن",
+   "ex": "Ik kan het vandaag vullen.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "pijn",
+   "art": "de",
+   "w": "de pijn",
+   "ipa": "/pɛin/",
+   "fa": "درد",
+   "ex": "De pijn was weg.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "verzekering",
+   "art": "de",
+   "w": "de verzekering",
+   "ipa": "/vərˈzeːkərɪŋ/",
+   "fa": "بیمه",
+   "ex": "Daarvoor heeft u een aanvullende verzekering nodig.",
+   "m": [
+    33,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "drop",
+   "art": "de",
+   "w": "de drop",
+   "ipa": "/drɔp/",
+   "fa": "شیرین‌بیان (آبنبات هلندی)",
+   "ex": "En tot die tijd: minder drop!",
+   "m": [
+    24,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "minder",
+   "art": "",
+   "w": "minder",
+   "ipa": "/ˈmɪndər/",
+   "fa": "کمتر",
+   "ex": "En tot die tijd: minder drop!",
+   "m": [
+    17,
+    23
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik kon niet meer kauwen.",
+   "fa": "دیگر نمی‌توانستم بجوم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Doe uw mond maar wijd open.",
+   "fa": "دهانتان را کاملاً باز کنید.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "U heeft een gaatje.",
+   "fa": "دندانتان پوسیدگی دارد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De pijn was weg.",
+   "fa": "درد رفته بود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Betaalt mijn zorgverzekering dat niet?",
+   "fa": "بیمه‌ی درمانی‌ام این را نمی‌پردازد؟",
+   "alt": []
+  }
+ ]
+}

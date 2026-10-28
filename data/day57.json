@@ -1,0 +1,448 @@
+{
+ "day": 57,
+ "level": "A2",
+ "title": "Haring happen",
+ "fa_title": "خوردن شاه‌ماهی",
+ "audio": "audio/day57.mp3",
+ "img": "img/day57.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In juni komt de nieuwe haring.",
+   "s": 5.27
+  },
+  {
+   "p": 0,
+   "t": "In Scheveningen, bij Den Haag, is er dan een groot feest: Vlaggetjesdag.",
+   "s": 8.58
+  },
+  {
+   "p": 0,
+   "t": "De vissersboten in de haven hebben honderden vlaggetjes.",
+   "s": 15.76
+  },
+  {
+   "p": 1,
+   "t": "Op zaterdag namen we de trein naar Den Haag en daarna de tram naar zee.",
+   "s": 20.88
+  },
+  {
+   "p": 2,
+   "t": "De haven was vol mensen.",
+   "s": 26.93
+  },
+  {
+   "p": 2,
+   "t": "Overal waren oude schepen en kraampjes.",
+   "s": 30.19
+  },
+  {
+   "p": 3,
+   "t": "Bij een viskraam bestelde Dani drie Hollandse Nieuwe.",
+   "s": 34.44
+  },
+  {
+   "p": 3,
+   "t": "“Dat is de eerste haring van het jaar,” legde hij uit.",
+   "s": 39.43
+  },
+  {
+   "p": 3,
+   "t": "“Hij is zacht en een beetje zout.”",
+   "s": 44.63
+  },
+  {
+   "p": 3,
+   "t": "De visboer legde er uitjes op.",
+   "s": 48.04
+  },
+  {
+   "p": 4,
+   "t": "“Kijk, zo doe je het,” zei Dani.",
+   "s": 51.69
+  },
+  {
+   "p": 4,
+   "t": "Hij pakte de haring bij de staart, hield zijn hoofd achterover en liet de vis in zijn mond zakken.",
+   "s": 55.65
+  },
+  {
+   "p": 4,
+   "t": "In twee happen was hij op.",
+   "s": 63.63
+  },
+  {
+   "p": 5,
+   "t": "Alex deed het hem na.",
+   "s": 66.77
+  },
+  {
+   "p": 5,
+   "t": "“Hm... lekker!”",
+   "s": 69.58
+  },
+  {
+   "p": 5,
+   "t": "Ik was eerst een beetje bang, maar ik probeerde het toch.",
+   "s": 72.96
+  },
+  {
+   "p": 5,
+   "t": "Het smaakte fris en zacht, helemaal niet vies.",
+   "s": 77.87
+  },
+  {
+   "p": 6,
+   "t": "Mia wilde geen rauwe vis.",
+   "s": 82.65
+  },
+  {
+   "p": 6,
+   "t": "Zij kreeg kibbeling: gebakken stukjes vis met saus.",
+   "s": 85.91
+  },
+  {
+   "p": 6,
+   "t": "“Dit is veel lekkerder,” zei ze met volle mond.",
+   "s": 91.05
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer komt de nieuwe haring?",
+   "o": [
+    "in juni",
+    "in december",
+    "in maart",
+    "in september"
+   ],
+   "a": 0,
+   "fa": "شاه‌ماهی تازه کِی می‌آید؟"
+  },
+  {
+   "q": "Waar is Vlaggetjesdag?",
+   "o": [
+    "in Amsterdam",
+    "in Zandvoort",
+    "in Scheveningen",
+    "in Volendam"
+   ],
+   "a": 2,
+   "fa": "«روز پرچم‌های کوچک» کجاست؟"
+  },
+  {
+   "q": "Wat is Hollandse Nieuwe?",
+   "o": [
+    "een nieuwe boot",
+    "de eerste haring van het jaar",
+    "een soort kaas",
+    "een lied"
+   ],
+   "a": 1,
+   "fa": "«هلندسه نیووه» چیست؟"
+  },
+  {
+   "q": "Wat legde de visboer op de haring?",
+   "o": [
+    "kaas",
+    "saus",
+    "tomaten",
+    "uitjes"
+   ],
+   "a": 3,
+   "fa": "ماهی‌فروش روی شاه‌ماهی چه گذاشت؟"
+  },
+  {
+   "q": "Hoe eet Dani de haring?",
+   "o": [
+    "met mes en vork",
+    "op een broodje",
+    "bij de staart, met zijn hoofd achterover",
+    "met een lepel"
+   ],
+   "a": 2,
+   "fa": "دانی شاه‌ماهی را چطور می‌خورد؟"
+  },
+  {
+   "q": "Wat at Mia?",
+   "o": [
+    "kibbeling",
+    "haring",
+    "patat",
+    "een ijsje"
+   ],
+   "a": 0,
+   "fa": "میا چه خورد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "haring",
+   "art": "de",
+   "w": "de haring",
+   "ipa": "/ˈɦaːrɪŋ/",
+   "fa": "شاه‌ماهی",
+   "ex": "In juni komt de nieuwe haring.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "haven",
+   "art": "de",
+   "w": "de haven",
+   "ipa": "/ˈɦaːvə(n)/",
+   "fa": "بندر",
+   "ex": "De vissersboten in de haven hebben honderden vlaggetjes.",
+   "m": [
+    22,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "vis",
+   "art": "de",
+   "w": "de vis",
+   "ipa": "/vɪs/",
+   "fa": "ماهی",
+   "ex": "Zij kreeg kibbeling: gebakken stukjes vis met saus.",
+   "m": [
+    38,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "schip",
+   "art": "het",
+   "w": "het schip",
+   "ipa": "/sxɪp/",
+   "fa": "کشتی",
+   "ex": "Overal waren oude schepen en kraampjes.",
+   "m": [
+    18,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "zout",
+   "art": "",
+   "w": "zout",
+   "ipa": "/zɑut/",
+   "fa": "شور؛ نمک",
+   "ex": "Hij is zacht en een beetje zout.",
+   "m": [
+    27,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "visboer",
+   "art": "de",
+   "w": "de visboer",
+   "ipa": "/ˈvɪzbur/",
+   "fa": "ماهی‌فروش",
+   "ex": "De visboer legde er uitjes op.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "staart",
+   "art": "de",
+   "w": "de staart",
+   "ipa": "/staːrt/",
+   "fa": "دم",
+   "ex": "Pak de haring bij de staart.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "nadoen",
+   "art": "",
+   "w": "nadoen",
+   "ipa": "/ˈnaːdun/",
+   "fa": "تقلید کردن",
+   "ex": "Alex deed het hem na.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "rauw",
+   "art": "",
+   "w": "rauw",
+   "ipa": "/rɑu/",
+   "fa": "خام",
+   "ex": "Mia wilde geen rauwe vis.",
+   "m": [
+    15,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "bang",
+   "art": "",
+   "w": "bang",
+   "ipa": "/bɑŋ/",
+   "fa": "ترسیده",
+   "ex": "Ik was eerst een beetje bang, maar ik probeerde het toch.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "juni",
+   "art": "",
+   "w": "juni",
+   "ipa": "/ˈjyni/",
+   "fa": "ژوئن",
+   "ex": "In juni komt de nieuwe haring.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "vissersboot",
+   "art": "de",
+   "w": "de vissersboot",
+   "ipa": "/ˈvɪsərsˌboːt/",
+   "fa": "قایق ماهیگیری",
+   "ex": "De vissersboten in de haven hebben honderden vlaggetjes.",
+   "m": [
+    3,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "vlaggetje",
+   "art": "het",
+   "w": "het vlaggetje",
+   "ipa": "/ˈvlɑɣəcə/",
+   "fa": "پرچم کوچک",
+   "ex": "De vissersboten in de haven hebben honderden vlaggetjes.",
+   "m": [
+    45,
+    55
+   ],
+   "book": 0
+  },
+  {
+   "id": "uitje",
+   "art": "het",
+   "w": "het uitje",
+   "ipa": "/ˈœycə/",
+   "fa": "پیاز خردشده",
+   "ex": "De visboer legde er uitjes op.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "achterover",
+   "art": "",
+   "w": "achterover",
+   "ipa": "/ˌɑxtəˈroːvər/",
+   "fa": "به عقب",
+   "ex": "Hij hield zijn hoofd achterover.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "toch",
+   "art": "",
+   "w": "toch",
+   "ipa": "/tɔx/",
+   "fa": "با این حال، باز هم",
+   "ex": "Ik was eerst een beetje bang, maar ik probeerde het toch.",
+   "m": [
+    52,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "kibbeling",
+   "art": "de",
+   "w": "de kibbeling",
+   "ipa": "/ˈkɪbəˌlɪŋ/",
+   "fa": "کیبلینگ (تکه‌های ماهی سرخ‌کرده)",
+   "ex": "Zij kreeg kibbeling: gebakken stukjes vis met saus.",
+   "m": [
+    10,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "gebakken",
+   "art": "",
+   "w": "gebakken",
+   "ipa": "/ɣəˈbɑkə(n)/",
+   "fa": "سرخ‌شده",
+   "ex": "Zij kreeg kibbeling: gebakken stukjes vis met saus.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Dat is de eerste haring van het jaar.",
+   "fa": "این اولین شاه‌ماهی سال است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij is zacht en een beetje zout.",
+   "fa": "نرم و کمی شور است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Kijk, zo doe je het.",
+   "fa": "ببین، این‌طوری انجامش می‌دهی.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik probeerde het toch.",
+   "fa": "با این حال امتحانش کردم.",
+   "alt": [
+    "Toch probeerde ik het."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Mia wilde geen rauwe vis.",
+   "fa": "میا ماهی خام نمی‌خواست.",
+   "alt": []
+  }
+ ]
+}

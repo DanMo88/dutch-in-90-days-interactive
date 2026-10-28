@@ -1,0 +1,463 @@
+{
+ "day": 41,
+ "level": "A2",
+ "title": "Carnaval in het zuiden",
+ "fa_title": "کارناوال در جنوب",
+ "audio": "audio/day41.mp3",
+ "img": "img/day41.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het was begin maart, en Fatima had een idee.",
+   "s": 5.57
+  },
+  {
+   "p": 0,
+   "t": "“Mijn nicht woont in Den Bosch.",
+   "s": 10.37
+  },
+  {
+   "p": 0,
+   "t": "Daar is het nu carnaval.",
+   "s": 13.52
+  },
+  {
+   "p": 0,
+   "t": "Gaan we samen kijken?”",
+   "s": 16.46
+  },
+  {
+   "p": 1,
+   "t": "Op zondagochtend namen we de trein.",
+   "s": 19.19
+  },
+  {
+   "p": 1,
+   "t": "Na een uur kwamen we aan.",
+   "s": 22.96
+  },
+  {
+   "p": 1,
+   "t": "De hele stad was rood, wit en geel.",
+   "s": 26.08
+  },
+  {
+   "p": 1,
+   "t": "Dat zijn de kleuren van carnaval in Den Bosch.",
+   "s": 30.37
+  },
+  {
+   "p": 1,
+   "t": "Tijdens carnaval heet de stad zelfs anders: Oeteldonk.",
+   "s": 34.63
+  },
+  {
+   "p": 1,
+   "t": "Het symbool is een kikker.",
+   "s": 39.9
+  },
+  {
+   "p": 2,
+   "t": "Overal liepen mensen die verkleed waren.",
+   "s": 42.87
+  },
+  {
+   "p": 2,
+   "t": "Ik zag piraten, clowns en kikkers.",
+   "s": 46.85
+  },
+  {
+   "p": 2,
+   "t": "Op straat speelde een blaaskapel.",
+   "s": 51.01
+  },
+  {
+   "p": 2,
+   "t": "Dat is een orkest met trompetten en trommels.",
+   "s": 54.54
+  },
+  {
+   "p": 2,
+   "t": "De muziek was hard en vrolijk.",
+   "s": 58.88
+  },
+  {
+   "p": 3,
+   "t": "Om twee uur begon de optocht.",
+   "s": 62.29
+  },
+  {
+   "p": 3,
+   "t": "Mia zat op de schouders van Alex en zwaaide naar iedereen.",
+   "s": 65.77
+  },
+  {
+   "p": 4,
+   "t": "“In Amsterdam vieren mensen bijna geen carnaval,” zei Fatima.",
+   "s": 71.26
+  },
+  {
+   "p": 4,
+   "t": "“Het is vooral een feest van het zuiden.",
+   "s": 77.16
+  },
+  {
+   "p": 4,
+   "t": "Mensen zeggen: beneden de rivieren.”",
+   "s": 80.91
+  },
+  {
+   "p": 5,
+   "t": "'s Avonds in de trein was Mia moe maar blij.",
+   "s": 85.04
+  },
+  {
+   "p": 5,
+   "t": "Haar gezicht was nog geschminkt als een poes.",
+   "s": 89.24
+  },
+  {
+   "p": 5,
+   "t": "“Volgend jaar wil ik een kikker zijn!”",
+   "s": 93.16
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wie had het idee om naar Den Bosch te gaan?",
+   "o": [
+    "Dani",
+    "Fatima",
+    "Alex",
+    "Mia"
+   ],
+   "a": 1,
+   "fa": "ایده‌ی رفتن به دن‌بوس از چه کسی بود؟"
+  },
+  {
+   "q": "Hoe lang duurde de treinreis?",
+   "o": [
+    "een halfuur",
+    "een uur",
+    "anderhalf uur",
+    "drie uur"
+   ],
+   "a": 1,
+   "fa": "سفر با قطار چقدر طول کشید؟"
+  },
+  {
+   "q": "Welke kleuren heeft carnaval in Den Bosch?",
+   "o": [
+    "rood, wit en blauw",
+    "oranje en wit",
+    "zwart en geel",
+    "rood, wit en geel"
+   ],
+   "a": 3,
+   "fa": "رنگ‌های کارناوال در دن‌بوس کدام‌اند؟"
+  },
+  {
+   "q": "Wat is een blaaskapel?",
+   "o": [
+    "een orkest met trompetten en trommels",
+    "een kerk",
+    "een kostuum",
+    "een wagen"
+   ],
+   "a": 0,
+   "fa": "«بلاس‌کاپل» چیست؟"
+  },
+  {
+   "q": "Waar vieren mensen vooral carnaval?",
+   "o": [
+    "in het noorden",
+    "in Amsterdam",
+    "in het zuiden",
+    "aan zee"
+   ],
+   "a": 2,
+   "fa": "مردم بیشتر کجا کارناوال جشن می‌گیرند؟"
+  },
+  {
+   "q": "Wat wil Mia volgend jaar zijn?",
+   "o": [
+    "een piraat",
+    "een poes",
+    "een banaan",
+    "een kikker"
+   ],
+   "a": 3,
+   "fa": "میا سال بعد می‌خواهد چه باشد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "symbool",
+   "art": "het",
+   "w": "het symbool",
+   "ipa": "/sɪmˈboːl/",
+   "fa": "نماد",
+   "ex": "Het symbool is een kikker.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "nicht",
+   "art": "de",
+   "w": "de nicht",
+   "ipa": "/nɪxt/",
+   "fa": "دخترعمو، دخترخاله؛ خواهرزاده",
+   "ex": "Mijn nicht woont in Den Bosch.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "geschminkt",
+   "art": "",
+   "w": "geschminkt",
+   "ipa": "/ɣəˈsxmɪŋkt/",
+   "fa": "گریم‌شده",
+   "ex": "Haar gezicht was nog geschminkt als een poes.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "tijdens",
+   "art": "",
+   "w": "tijdens",
+   "ipa": "/ˈtɛidə(n)s/",
+   "fa": "در طولِ، هنگامِ",
+   "ex": "Tijdens carnaval heet de stad zelfs anders: Oeteldonk.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "verkleed",
+   "art": "",
+   "w": "verkleed",
+   "ipa": "/vərˈkleːt/",
+   "fa": "با لباس مبدل",
+   "ex": "Overal liepen mensen die verkleed waren.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "orkest",
+   "art": "het",
+   "w": "het orkest",
+   "ipa": "/ɔrˈkɛst/",
+   "fa": "ارکستر",
+   "ex": "Dat is een orkest met trompetten en trommels.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "optocht",
+   "art": "de",
+   "w": "de optocht",
+   "ipa": "/ˈɔptɔxt/",
+   "fa": "رژه، کاروان",
+   "ex": "Om twee uur begon de optocht.",
+   "m": [
+    21,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "schouder",
+   "art": "de",
+   "w": "de schouder",
+   "ipa": "/ˈsxɑudər/",
+   "fa": "شانه",
+   "ex": "Mia zat op de schouders van Alex en zwaaide naar iedereen.",
+   "m": [
+    14,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwaaien",
+   "art": "",
+   "w": "zwaaien",
+   "ipa": "/ˈzʋaːjə(n)/",
+   "fa": "دست تکان دادن",
+   "ex": "Mia zat op de schouders van Alex en zwaaide naar iedereen.",
+   "m": [
+    36,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrolijk",
+   "art": "",
+   "w": "vrolijk",
+   "ipa": "/ˈvroːlək/",
+   "fa": "شاد",
+   "ex": "De muziek was hard en vrolijk.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "carnaval",
+   "art": "het",
+   "w": "het carnaval",
+   "ipa": "/ˈkɑrnaːvɑl/",
+   "fa": "کارناوال",
+   "ex": "In Amsterdam vieren mensen bijna geen carnaval.",
+   "m": [
+    38,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "kikker",
+   "art": "de",
+   "w": "de kikker",
+   "ipa": "/ˈkɪkər/",
+   "fa": "قورباغه",
+   "ex": "Volgend jaar wil ik een kikker zijn!",
+   "m": [
+    24,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "piraat",
+   "art": "de",
+   "w": "de piraat",
+   "ipa": "/piˈraːt/",
+   "fa": "دزد دریایی",
+   "ex": "Ik zag piraten, clowns en kikkers.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "clown",
+   "art": "de",
+   "w": "de clown",
+   "ipa": "/klɑun/",
+   "fa": "دلقک",
+   "ex": "Ik zag piraten, clowns en kikkers.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "trompet",
+   "art": "de",
+   "w": "de trompet",
+   "ipa": "/trɔmˈpɛt/",
+   "fa": "ترومپت",
+   "ex": "Dat is een orkest met trompetten en trommels.",
+   "m": [
+    22,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "trommel",
+   "art": "de",
+   "w": "de trommel",
+   "ipa": "/ˈtrɔməl/",
+   "fa": "طبل",
+   "ex": "Dat is een orkest met trompetten en trommels.",
+   "m": [
+    36,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "moe",
+   "art": "",
+   "w": "moe",
+   "ipa": "/mu/",
+   "fa": "خسته",
+   "ex": "'s Avonds in de trein was Mia moe maar blij.",
+   "m": [
+    30,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "poes",
+   "art": "de",
+   "w": "de poes",
+   "ipa": "/pus/",
+   "fa": "گربه (ملوس)",
+   "ex": "Haar gezicht was nog geschminkt als een poes.",
+   "m": [
+    40,
+    44
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Gaan we samen kijken?",
+   "fa": "با هم برویم تماشا؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De hele stad was rood, wit en geel.",
+   "fa": "تمام شهر قرمز، سفید و زرد بود.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "De muziek was hard en vrolijk.",
+   "fa": "موسیقی بلند و شاد بود.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mia zat op de schouders van Alex.",
+   "fa": "میا روی شانه‌های الکس نشسته بود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Volgend jaar wil ik een kikker zijn!",
+   "fa": "سال بعد می‌خواهم قورباغه باشم!",
+   "alt": [
+    "Ik wil volgend jaar een kikker zijn!"
+   ]
+  }
+ ]
+}

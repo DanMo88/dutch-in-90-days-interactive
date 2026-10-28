@@ -1,0 +1,448 @@
+{
+ "day": 50,
+ "level": "A2",
+ "title": "Pasen",
+ "fa_title": "عید پاک",
+ "audio": "audio/day50.mp3",
+ "img": "img/day50.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het was Pasen.",
+   "s": 4.31
+  },
+  {
+   "p": 0,
+   "t": "Op eerste paasdag waren veel winkels dicht en hadden de meeste mensen vrij.",
+   "s": 6.84
+  },
+  {
+   "p": 1,
+   "t": "'s Ochtends gingen we met Dani, Emma en Noah naar het Vondelpark.",
+   "s": 12.81
+  },
+  {
+   "p": 1,
+   "t": "Daar was een paaseierenzoektocht voor kinderen.",
+   "s": 18.45
+  },
+  {
+   "p": 1,
+   "t": "Onder de struiken en in het gras lagen gekleurde eieren verstopt.",
+   "s": 22.68
+  },
+  {
+   "p": 2,
+   "t": "“Klaar?",
+   "s": 28.2
+  },
+  {
+   "p": 2,
+   "t": "Af!” riep een vrouw met konijnenoren.",
+   "s": 29.87
+  },
+  {
+   "p": 3,
+   "t": "Mia zocht heel goed.",
+   "s": 34.88
+  },
+  {
+   "p": 3,
+   "t": "Ze vond een rood ei achter een bankje en een blauw ei in een bloempot.",
+   "s": 37.85
+  },
+  {
+   "p": 3,
+   "t": "Achter een grote boom vond ze zelfs een gouden ei.",
+   "s": 43.42
+  },
+  {
+   "p": 3,
+   "t": "“Mama!",
+   "s": 47.88
+  },
+  {
+   "p": 3,
+   "t": "Ik heb de hoofdprijs!”",
+   "s": 49.73
+  },
+  {
+   "p": 3,
+   "t": "Ze kreeg een grote paashaas van chocolade.",
+   "s": 52.46
+  },
+  {
+   "p": 4,
+   "t": "Daarna gingen we naar het huis van Dani en Emma voor de paasbrunch.",
+   "s": 56.9
+  },
+  {
+   "p": 4,
+   "t": "De tafel stond vol: eieren, croissants, kaas, fruit en paasbrood.",
+   "s": 62.46
+  },
+  {
+   "p": 4,
+   "t": "Oma Anna kwam ook.",
+   "s": 69.62
+  },
+  {
+   "p": 4,
+   "t": "Ze had gekleurde eieren meegenomen die ze zelf had beschilderd.",
+   "s": 72.54
+  },
+  {
+   "p": 5,
+   "t": "“Bij ons doen we een spelletje,” zei Dani.",
+   "s": 77.81
+  },
+  {
+   "p": 5,
+   "t": "“Eiertikken!",
+   "s": 81.63
+  },
+  {
+   "p": 5,
+   "t": "Iedereen tikt met zijn ei tegen dat van een ander.",
+   "s": 83.82
+  },
+  {
+   "p": 5,
+   "t": "Wie als laatste een heel ei heeft, wint.”",
+   "s": 88.04
+  },
+  {
+   "p": 6,
+   "t": "Oma Anna won.",
+   "s": 92.26
+  },
+  {
+   "p": 6,
+   "t": "“Ervaring,” zei ze met een knipoog.",
+   "s": 94.84
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat was er op eerste paasdag dicht?",
+   "o": [
+    "het park",
+    "veel winkels",
+    "de kerk",
+    "de bibliotheek"
+   ],
+   "a": 1,
+   "fa": "در روز اول عید پاک چه چیزی بسته بود؟"
+  },
+  {
+   "q": "Waar lagen de eieren verstopt?",
+   "o": [
+    "in het Vondelpark",
+    "in de tuin van Dani",
+    "in de school",
+    "op straat"
+   ],
+   "a": 0,
+   "fa": "تخم‌مرغ‌ها کجا پنهان شده بودند؟"
+  },
+  {
+   "q": "Wat had de vrouw op haar hoofd?",
+   "o": [
+    "een hoed",
+    "een kroon",
+    "konijnenoren",
+    "een muts"
+   ],
+   "a": 2,
+   "fa": "آن خانم روی سرش چه داشت؟"
+  },
+  {
+   "q": "Wat vond Mia achter een grote boom?",
+   "o": [
+    "een rood ei",
+    "een blauw ei",
+    "een paashaas",
+    "een gouden ei"
+   ],
+   "a": 3,
+   "fa": "میا پشت درخت بزرگ چه پیدا کرد؟"
+  },
+  {
+   "q": "Wat had Oma Anna meegenomen?",
+   "o": [
+    "beschilderde eieren",
+    "een taart",
+    "bloemen",
+    "oliebollen"
+   ],
+   "a": 0,
+   "fa": "مادربزرگ آنا چه آورده بود؟"
+  },
+  {
+   "q": "Wie won het eiertikken?",
+   "o": [
+    "Mia",
+    "Dani",
+    "Noah",
+    "Oma Anna"
+   ],
+   "a": 3,
+   "fa": "چه کسی در بازی تخم‌مرغ‌زنی برنده شد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "pasen",
+   "art": "",
+   "w": "Pasen",
+   "ipa": "/ˈpaːsə(n)/",
+   "fa": "عید پاک",
+   "ex": "Het was Pasen.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrij-hebben",
+   "art": "",
+   "w": "vrij hebben",
+   "ipa": "/vrɛi ˈɦɛbə(n)/",
+   "fa": "تعطیل بودن، مرخصی داشتن",
+   "ex": "Morgen heb ik vrij.",
+   "m": [
+    7,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "gras",
+   "art": "het",
+   "w": "het gras",
+   "ipa": "/ɣrɑs/",
+   "fa": "چمن",
+   "ex": "Onder de struiken en in het gras lagen gekleurde eieren verstopt.",
+   "m": [
+    28,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "struik",
+   "art": "de",
+   "w": "de struik",
+   "ipa": "/strœyk/",
+   "fa": "بوته",
+   "ex": "Onder de struiken en in het gras lagen gekleurde eieren verstopt.",
+   "m": [
+    9,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "verstoppen",
+   "art": "",
+   "w": "verstoppen",
+   "ipa": "/vərˈstɔpə(n)/",
+   "fa": "پنهان کردن",
+   "ex": "Onder de struiken en in het gras lagen gekleurde eieren verstopt.",
+   "m": [
+    56,
+    64
+   ],
+   "book": 1
+  },
+  {
+   "id": "zoeken",
+   "art": "",
+   "w": "zoeken",
+   "ipa": "/ˈzukə(n)/",
+   "fa": "گشتن، جستجو کردن",
+   "ex": "Mia zocht heel goed.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoofdprijs",
+   "art": "de",
+   "w": "de hoofdprijs",
+   "ipa": "/ˈɦoːftprɛis/",
+   "fa": "جایزه‌ی اول",
+   "ex": "Ik heb de hoofdprijs!",
+   "m": [
+    10,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "konijn",
+   "art": "het",
+   "w": "het konijn",
+   "ipa": "/koːˈnɛin/",
+   "fa": "خرگوش",
+   "ex": "Het konijn eet een wortel.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "beschilderen",
+   "art": "",
+   "w": "beschilderen",
+   "ipa": "/bəˈsxɪldərə(n)/",
+   "fa": "رنگ‌آمیزی کردن (نقاشی روی چیزی)",
+   "ex": "Ze had gekleurde eieren meegenomen die ze zelf had beschilderd.",
+   "m": [
+    51,
+    62
+   ],
+   "book": 1
+  },
+  {
+   "id": "winnen",
+   "art": "",
+   "w": "winnen",
+   "ipa": "/ˈʋɪnə(n)/",
+   "fa": "برنده شدن",
+   "ex": "Wie als laatste een heel ei heeft, wint.",
+   "m": [
+    35,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "gekleurd",
+   "art": "",
+   "w": "gekleurd",
+   "ipa": "/ɣəˈkløːrt/",
+   "fa": "رنگی",
+   "ex": "Ze had gekleurde eieren meegenomen die ze zelf had beschilderd.",
+   "m": [
+    7,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "paashaas",
+   "art": "de",
+   "w": "de paashaas",
+   "ipa": "/ˈpaːsɦaːs/",
+   "fa": "خرگوش عید پاک",
+   "ex": "Ze kreeg een grote paashaas van chocolade.",
+   "m": [
+    19,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "spelletje",
+   "art": "het",
+   "w": "het spelletje",
+   "ipa": "/ˈspɛləcə/",
+   "fa": "بازی (کوچک)",
+   "ex": "Bij ons doen we een spelletje.",
+   "m": [
+    20,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "bloempot",
+   "art": "de",
+   "w": "de bloempot",
+   "ipa": "/ˈblumpɔt/",
+   "fa": "گلدان سفالی",
+   "ex": "Ze vond een rood ei achter een bankje en een blauw ei in een bloempot.",
+   "m": [
+    61,
+    69
+   ],
+   "book": 0
+  },
+  {
+   "id": "tikken",
+   "art": "",
+   "w": "tikken",
+   "ipa": "/ˈtɪkə(n)/",
+   "fa": "ضربه‌ی آرام زدن",
+   "ex": "Iedereen tikt met zijn ei tegen dat van een ander.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "croissant",
+   "art": "de",
+   "w": "de croissant",
+   "ipa": "/krɑˈsɑnt/",
+   "fa": "کروسان",
+   "ex": "De tafel stond vol: eieren, croissants, kaas, fruit en paasbrood.",
+   "m": [
+    28,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "paasbrood",
+   "art": "het",
+   "w": "het paasbrood",
+   "ipa": "/ˈpaːzbroːt/",
+   "fa": "نان عید پاک",
+   "ex": "De tafel stond vol: eieren, croissants, kaas, fruit en paasbrood.",
+   "m": [
+    55,
+    64
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "De meeste mensen hadden vrij.",
+   "fa": "بیشتر مردم تعطیل بودند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mia zocht heel goed.",
+   "fa": "میا خیلی خوب گشت.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik heb de hoofdprijs!",
+   "fa": "جایزه‌ی اول مال من است!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De tafel stond vol.",
+   "fa": "میز پر بود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Oma Anna won.",
+   "fa": "مادربزرگ آنا برنده شد.",
+   "alt": []
+  }
+ ]
+}

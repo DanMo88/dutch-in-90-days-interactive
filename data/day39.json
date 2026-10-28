@@ -1,0 +1,451 @@
+{
+ "day": 39,
+ "level": "A2",
+ "title": "Beschuit met muisjes",
+ "fa_title": "بیسکویت تُرد با «موشک‌ها»",
+ "audio": "audio/day39.mp3",
+ "img": "img/day39.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een koude ochtend in februari zag ik een grote houten ooievaar in de tuin van Dani en Emma.",
+   "s": 5.68
+  },
+  {
+   "p": 0,
+   "t": "Op de ooievaar stond een naam: Noah.",
+   "s": 13.8
+  },
+  {
+   "p": 0,
+   "t": "De baby was geboren!",
+   "s": 17.99
+  },
+  {
+   "p": 1,
+   "t": "Dani stuurde een appje: “Noah is er!",
+   "s": 20.98
+  },
+  {
+   "p": 1,
+   "t": "Gisteravond om elf uur geboren, thuis.",
+   "s": 25.1
+  },
+  {
+   "p": 1,
+   "t": "Kom zaterdag op kraamvisite!”",
+   "s": 29.98
+  },
+  {
+   "p": 2,
+   "t": "Een bevalling thuis is in Nederland heel normaal.",
+   "s": 33.55
+  },
+  {
+   "p": 2,
+   "t": "Daarna komt er een week lang een kraamverzorgster.",
+   "s": 37.96
+  },
+  {
+   "p": 2,
+   "t": "Zij helpt de moeder, controleert de baby en doet zelfs een beetje het huishouden.",
+   "s": 42.37
+  },
+  {
+   "p": 3,
+   "t": "Op zaterdag gingen we naar nummer 14.",
+   "s": 49.15
+  },
+  {
+   "p": 3,
+   "t": "We hadden een knuffel en een pakje meegenomen.",
+   "s": 53.07
+  },
+  {
+   "p": 3,
+   "t": "De kraamverzorgster deed open.",
+   "s": 57.26
+  },
+  {
+   "p": 3,
+   "t": "“Kom binnen, maar niet te lang, hoor.”",
+   "s": 60.66
+  },
+  {
+   "p": 4,
+   "t": "Noah lag in een wiegje.",
+   "s": 64.77
+  },
+  {
+   "p": 4,
+   "t": "Hij was heel klein, met een beetje blond haar.",
+   "s": 67.63
+  },
+  {
+   "p": 4,
+   "t": "“Mag ik hem vasthouden?” vroeg Mia.",
+   "s": 72.02
+  },
+  {
+   "p": 4,
+   "t": "“Ga maar op de bank zitten,” zei Emma.",
+   "s": 77.01
+  },
+  {
+   "p": 4,
+   "t": "Voorzichtig legde ze Noah in haar armen.",
+   "s": 81.01
+  },
+  {
+   "p": 5,
+   "t": "Daarna kregen we beschuit met muisjes: blauwe muisjes, omdat het een jongen is.",
+   "s": 85.24
+  },
+  {
+   "p": 5,
+   "t": "Mia at er drie.",
+   "s": 92.66
+  },
+  {
+   "p": 5,
+   "t": "“Ik ben nu een soort grote zus!” zei ze trots.",
+   "s": 95.01
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat stond er in de tuin?",
+   "o": [
+    "een grote houten ooievaar",
+    "een wiegje",
+    "een kinderwagen",
+    "een vlag"
+   ],
+   "a": 0,
+   "fa": "در حیاط چه بود؟"
+  },
+  {
+   "q": "Waar is Noah geboren?",
+   "o": [
+    "in het ziekenhuis",
+    "bij Oma Anna",
+    "in de auto",
+    "thuis"
+   ],
+   "a": 3,
+   "fa": "نوآ کجا به دنیا آمد؟"
+  },
+  {
+   "q": "Wat doet een kraamverzorgster?",
+   "o": [
+    "ze geeft les",
+    "ze helpt de moeder en controleert de baby",
+    "ze maakt foto's",
+    "ze kookt elke dag"
+   ],
+   "a": 1,
+   "fa": "پرستار پس از زایمان چه کار می‌کند؟"
+  },
+  {
+   "q": "Wat namen Sara en haar familie mee?",
+   "o": [
+    "bloemen",
+    "taart",
+    "een knuffel en een pakje",
+    "niets"
+   ],
+   "a": 2,
+   "fa": "سارا و خانواده‌اش چه با خودشان بردند؟"
+  },
+  {
+   "q": "Waarom zijn de muisjes blauw?",
+   "o": [
+    "omdat het een jongen is",
+    "omdat Emma blauw mooi vindt",
+    "omdat het februari is",
+    "omdat ze goedkoop zijn"
+   ],
+   "a": 0,
+   "fa": "چرا «موشک‌ها» آبی‌اند؟"
+  },
+  {
+   "q": "Hoeveel beschuiten at Mia?",
+   "o": [
+    "één",
+    "twee",
+    "drie",
+    "vier"
+   ],
+   "a": 2,
+   "fa": "میا چند بیسکویت خورد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "geboren",
+   "art": "",
+   "w": "geboren",
+   "ipa": "/ɣəˈboːrə(n)/",
+   "fa": "به دنیا آمده",
+   "ex": "Gisteravond om elf uur geboren, thuis.",
+   "m": [
+    23,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "geboorte",
+   "art": "de",
+   "w": "de geboorte",
+   "ipa": "/ɣəˈboːrtə/",
+   "fa": "تولد (به دنیا آمدن)",
+   "ex": "Na de geboorte komt de kraamverzorgster.",
+   "m": [
+    6,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "ooievaar",
+   "art": "de",
+   "w": "de ooievaar",
+   "ipa": "/ˈoːjəvaːr/",
+   "fa": "لک‌لک",
+   "ex": "Op de ooievaar stond een naam: Noah.",
+   "m": [
+    6,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "kraamvisite",
+   "art": "de",
+   "w": "de kraamvisite",
+   "ipa": "/ˈkraːmvizitə/",
+   "fa": "دیدار از نوزاد تازه‌متولدشده",
+   "ex": "Kom zaterdag op kraamvisite!",
+   "m": [
+    16,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "kraamverzorgster",
+   "art": "de",
+   "w": "de kraamverzorgster",
+   "ipa": "/ˈkraːmvərzɔrxstər/",
+   "fa": "پرستار دوران پس از زایمان",
+   "ex": "Daarna komt er een week lang een kraamverzorgster.",
+   "m": [
+    33,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "huishouden",
+   "art": "het",
+   "w": "het huishouden",
+   "ipa": "/ˈɦœysɦɑudə(n)/",
+   "fa": "کارهای خانه",
+   "ex": "Wie doet bij jullie het huishouden?",
+   "m": [
+    24,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "wiegje",
+   "art": "het",
+   "w": "het wiegje",
+   "ipa": "/ˈʋixjə/",
+   "fa": "گهواره",
+   "ex": "Noah lag in een wiegje.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "vasthouden",
+   "art": "",
+   "w": "vasthouden",
+   "ipa": "/ˈvɑstɦɑudə(n)/",
+   "fa": "بغل کردن، نگه داشتن",
+   "ex": "Mag ik hem vasthouden?",
+   "m": [
+    11,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorzichtig",
+   "art": "",
+   "w": "voorzichtig",
+   "ipa": "/voːrˈzɪxtəx/",
+   "fa": "با احتیاط",
+   "ex": "Voorzichtig legde ze Noah in haar armen.",
+   "m": [
+    0,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "beschuit",
+   "art": "de",
+   "w": "de beschuit",
+   "ipa": "/bəˈsxœyt/",
+   "fa": "بیسکویت تُرد هلندی (بِسخاوت)",
+   "ex": "Daarna kregen we beschuit met muisjes: blauwe muisjes, omdat het een jongen is.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "februari",
+   "art": "",
+   "w": "februari",
+   "ipa": "/ˌfeːbryˈaːri/",
+   "fa": "فوریه",
+   "ex": "Op een koude ochtend in februari zag ik een ooievaar.",
+   "m": [
+    24,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "houten",
+   "art": "",
+   "w": "houten",
+   "ipa": "/ˈɦɑutə(n)/",
+   "fa": "چوبی",
+   "ex": "Ik zag een grote houten ooievaar.",
+   "m": [
+    17,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "tuin",
+   "art": "de",
+   "w": "de tuin",
+   "ipa": "/tœyn/",
+   "fa": "باغچه، حیاط",
+   "ex": "De ooievaar staat in de tuin van Dani en Emma.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "bevalling",
+   "art": "de",
+   "w": "de bevalling",
+   "ipa": "/bəˈvɑlɪŋ/",
+   "fa": "زایمان",
+   "ex": "Een bevalling thuis is in Nederland heel normaal.",
+   "m": [
+    4,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "helpen",
+   "art": "",
+   "w": "helpen",
+   "ipa": "/ˈɦɛlpə(n)/",
+   "fa": "کمک کردن",
+   "ex": "Zij helpt de moeder, controleert de baby en doet zelfs een beetje het huishouden.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "blond",
+   "art": "",
+   "w": "blond",
+   "ipa": "/blɔnt/",
+   "fa": "بور، طلایی (مو)",
+   "ex": "Hij was heel klein, met een beetje blond haar.",
+   "m": [
+    35,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "jongen",
+   "art": "de",
+   "w": "de jongen",
+   "ipa": "/ˈjɔŋə(n)/",
+   "fa": "پسر",
+   "ex": "Daarna kregen we beschuit met muisjes: blauwe muisjes, omdat het een jongen is.",
+   "m": [
+    69,
+    75
+   ],
+   "book": 0
+  },
+  {
+   "id": "zus",
+   "art": "de",
+   "w": "de zus",
+   "ipa": "/zʏs/",
+   "fa": "خواهر",
+   "ex": "Ik ben nu een soort grote zus!",
+   "m": [
+    26,
+    29
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "De baby is geboren!",
+   "fa": "نوزاد به دنیا آمده است!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Kom zaterdag op kraamvisite!",
+   "fa": "شنبه برای دیدن نوزاد بیا!",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Mag ik hem vasthouden?",
+   "fa": "می‌توانم بغلش کنم؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ga maar op de bank zitten.",
+   "fa": "روی کاناپه بنشین.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het is een jongen.",
+   "fa": "پسر است.",
+   "alt": []
+  }
+ ]
+}

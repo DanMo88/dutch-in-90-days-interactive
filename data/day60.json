@@ -1,0 +1,432 @@
+{
+ "day": 60,
+ "level": "A2",
+ "title": "Een schooljaar in Amsterdam",
+ "fa_title": "یک سال تحصیلی در آمستردام",
+ "audio": "audio/day60.mp3",
+ "img": "img/day60.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is begin juli.",
+   "s": 5.51
+  },
+  {
+   "p": 0,
+   "t": "Over twee weken begint de zomervakantie.",
+   "s": 8.26
+  },
+  {
+   "p": 0,
+   "t": "Dan is Mia's eerste schooljaar in Nederland voorbij.",
+   "s": 12.35
+  },
+  {
+   "p": 1,
+   "t": "Op een warme avond doen we een picknick met Dani, Emma en Noah.",
+   "s": 17.03
+  },
+  {
+   "p": 1,
+   "t": "Dani heeft een sloep gehuurd: een klein bootje dat je zelf mag besturen.",
+   "s": 22.59
+  },
+  {
+   "p": 1,
+   "t": "We varen langzaam door de grachten.",
+   "s": 28.46
+  },
+  {
+   "p": 1,
+   "t": "Het is half tien en nog steeds licht.",
+   "s": 32.18
+  },
+  {
+   "p": 2,
+   "t": "Bij een brug leggen we aan.",
+   "s": 35.9
+  },
+  {
+   "p": 2,
+   "t": "We eten brood, kaas en aardbeien.",
+   "s": 38.76
+  },
+  {
+   "p": 2,
+   "t": "Lucy is thuisgebleven.",
+   "s": 43.15
+  },
+  {
+   "p": 2,
+   "t": "Zij houdt niet van water.",
+   "s": 46.31
+  },
+  {
+   "p": 3,
+   "t": "“Weet je nog, die eerste dag?” vraagt Emma.",
+   "s": 49.34
+  },
+  {
+   "p": 3,
+   "t": "Ik moet lachen.",
+   "s": 55.27
+  },
+  {
+   "p": 3,
+   "t": "Toen begreep ik bijna niets.",
+   "s": 57.57
+  },
+  {
+   "p": 3,
+   "t": "Nu bel ik zelf met de huisarts, doe ik aangifte bij de Belastingdienst en eet ik haring.",
+   "s": 60.76
+  },
+  {
+   "p": 3,
+   "t": "Ik heb een taalmaatje en ik heb gesolliciteerd.",
+   "s": 67.43
+  },
+  {
+   "p": 4,
+   "t": "Sommige dingen waren moeilijk: de regen, de brieven en mijn familie missen.",
+   "s": 71.7
+  },
+  {
+   "p": 4,
+   "t": "Maar veel is nu gewoon: fietsen in de wind en zeggen wat je denkt.",
+   "s": 77.71
+  },
+  {
+   "p": 5,
+   "t": "Alex heft zijn glas.",
+   "s": 83.15
+  },
+  {
+   "p": 5,
+   "t": "“Op Amsterdam!”",
+   "s": 86.15
+  },
+  {
+   "p": 5,
+   "t": "“Op de buren!” zegt Dani.",
+   "s": 88.65
+  },
+  {
+   "p": 5,
+   "t": "“Op Noah!” roept Mia.",
+   "s": 93.06
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer begint de zomervakantie?",
+   "o": [
+    "morgen",
+    "over twee weken",
+    "over een maand",
+    "volgende week"
+   ],
+   "a": 1,
+   "fa": "تعطیلات تابستان کِی شروع می‌شود؟"
+  },
+  {
+   "q": "Wat is een sloep?",
+   "o": [
+    "een klein bootje dat je zelf bestuurt",
+    "een soort brood",
+    "een fiets",
+    "een tram"
+   ],
+   "a": 0,
+   "fa": "«سلوپ» چیست؟"
+  },
+  {
+   "q": "Hoe laat is het nog licht?",
+   "o": [
+    "om zeven uur",
+    "om acht uur",
+    "om half tien",
+    "om twaalf uur"
+   ],
+   "a": 2,
+   "fa": "تا ساعت چند هوا هنوز روشن است؟"
+  },
+  {
+   "q": "Waarom is Lucy thuisgebleven?",
+   "o": [
+    "ze is ziek",
+    "ze slaapt",
+    "ze is te klein",
+    "ze houdt niet van water"
+   ],
+   "a": 3,
+   "fa": "چرا لوسی در خانه مانده؟"
+  },
+  {
+   "q": "Wat vond Sara moeilijk?",
+   "o": [
+    "de regen, de brieven en haar familie missen",
+    "fietsen",
+    "haring eten",
+    "koken"
+   ],
+   "a": 0,
+   "fa": "چه چیزهایی برای سارا سخت بود؟"
+  },
+  {
+   "q": "Wat roept Mia?",
+   "o": [
+    "“Op Amsterdam!”",
+    "“Op de buren!”",
+    "“Op Noah!”",
+    "“Op papa!”"
+   ],
+   "a": 2,
+   "fa": "میا چه فریاد می‌زند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "zomervakantie",
+   "art": "de",
+   "w": "de zomervakantie",
+   "ipa": "/ˈzoːmərvaːkɑnsi/",
+   "fa": "تعطیلات تابستان",
+   "ex": "Over twee weken begint de zomervakantie.",
+   "m": [
+    26,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "picknick",
+   "art": "de",
+   "w": "de picknick",
+   "ipa": "/ˈpɪknɪk/",
+   "fa": "پیک‌نیک",
+   "ex": "Op een warme avond doen we een picknick met Dani, Emma en Noah.",
+   "m": [
+    31,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "besturen",
+   "art": "",
+   "w": "besturen",
+   "ipa": "/bəˈstyːrə(n)/",
+   "fa": "هدایت کردن، راندن",
+   "ex": "Dani heeft een sloep gehuurd: een klein bootje dat je zelf mag besturen.",
+   "m": [
+    63,
+    71
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanleggen",
+   "art": "",
+   "w": "aanleggen",
+   "ipa": "/ˈaːnlɛɣə(n)/",
+   "fa": "پهلو گرفتن (قایق)",
+   "ex": "We leggen bij de brug aan.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "weet-je-nog",
+   "art": "",
+   "w": "Weet je nog?",
+   "ipa": "/ʋeːt jə nɔx/",
+   "fa": "یادت هست؟",
+   "ex": "Weet je nog, onze eerste dag?",
+   "m": [
+    0,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "missen",
+   "art": "",
+   "w": "missen",
+   "ipa": "/ˈmɪsə(n)/",
+   "fa": "دلتنگ بودن؛ از دست دادن",
+   "ex": "Sommige dingen waren moeilijk: de regen, de brieven en mijn familie missen.",
+   "m": [
+    68,
+    74
+   ],
+   "book": 1
+  },
+  {
+   "id": "gewoon",
+   "art": "",
+   "w": "gewoon",
+   "ipa": "/ɣəˈʋoːn/",
+   "fa": "عادی",
+   "ex": "Fietsen in de regen is nu heel gewoon.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "denken",
+   "art": "",
+   "w": "denken",
+   "ipa": "/ˈdɛŋkə(n)/",
+   "fa": "فکر کردن",
+   "ex": "Zeg maar wat je denkt.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "sloep",
+   "art": "de",
+   "w": "de sloep",
+   "ipa": "/slup/",
+   "fa": "قایق تفریحی کوچک",
+   "ex": "Dani heeft een sloep gehuurd: een klein bootje dat je zelf mag besturen.",
+   "m": [
+    15,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "heffen",
+   "art": "",
+   "w": "heffen",
+   "ipa": "/ˈɦɛfə(n)/",
+   "fa": "بالا بردن (گیلاس)",
+   "ex": "Alex heft zijn glas.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "schooljaar",
+   "art": "het",
+   "w": "het schooljaar",
+   "ipa": "/ˈsxoːljaːr/",
+   "fa": "سال تحصیلی",
+   "ex": "Dan is Mia's eerste schooljaar in Nederland voorbij.",
+   "m": [
+    20,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "zelf",
+   "art": "",
+   "w": "zelf",
+   "ipa": "/zɛlf/",
+   "fa": "خود (خودم، خودش...)",
+   "ex": "Dani heeft een sloep gehuurd: een klein bootje dat je zelf mag besturen.",
+   "m": [
+    54,
+    58
+   ],
+   "book": 0
+  },
+  {
+   "id": "toen",
+   "art": "",
+   "w": "toen",
+   "ipa": "/tun/",
+   "fa": "آن وقت (در گذشته)",
+   "ex": "Toen begreep ik bijna niets.",
+   "m": [
+    0,
+    4
+   ],
+   "book": 0
+  },
+  {
+   "id": "belastingdienst",
+   "art": "de",
+   "w": "de Belastingdienst",
+   "ipa": "/bəˈlɑstɪŋdinst/",
+   "fa": "اداره‌ی مالیات",
+   "ex": "Ik doe aangifte bij de Belastingdienst.",
+   "m": [
+    23,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "dag",
+   "art": "de",
+   "w": "de dag",
+   "ipa": "/dɑx/",
+   "fa": "روز",
+   "ex": "Weet je nog, die eerste dag?",
+   "m": [
+    24,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "brood",
+   "art": "het",
+   "w": "het brood",
+   "ipa": "/broːt/",
+   "fa": "نان",
+   "ex": "We eten brood, kaas en aardbeien.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het is half tien en nog steeds licht.",
+   "fa": "ساعت نه و نیم است و هوا هنوز روشن است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Zij houdt niet van water.",
+   "fa": "او آب دوست ندارد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Weet je nog, die eerste dag?",
+   "fa": "آن روز اول یادت هست؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Toen begreep ik bijna niets.",
+   "fa": "آن موقع تقریباً هیچ چیز نمی‌فهمیدم.",
+   "alt": [
+    "Ik begreep toen bijna niets."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Alex heft zijn glas.",
+   "fa": "الکس گیلاسش را بالا می‌برد.",
+   "alt": []
+  }
+ ]
+}

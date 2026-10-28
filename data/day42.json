@@ -1,0 +1,445 @@
+{
+ "day": 42,
+ "level": "A2",
+ "title": "Een Tikkie na NEMO",
+ "fa_title": "تیکی بعد از موزه‌ی نِمو",
+ "audio": "audio/day42.mp3",
+ "img": "img/day42.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op vrijdag gingen we met de hele taalklas naar NEMO.",
+   "s": 5.81
+  },
+  {
+   "p": 0,
+   "t": "Dat is een wetenschapsmuseum vlak bij het Centraal Station.",
+   "s": 10.4
+  },
+  {
+   "p": 0,
+   "t": "Het groene gebouw lijkt op een groot schip.",
+   "s": 15.34
+  },
+  {
+   "p": 1,
+   "t": "Binnen mag je alles aanraken.",
+   "s": 19.34
+  },
+  {
+   "p": 1,
+   "t": "Ik maakte een grote zeepbel om mezelf heen.",
+   "s": 22.65
+  },
+  {
+   "p": 1,
+   "t": "Fatima deed een proef met elektriciteit: haar haren gingen recht overeind staan!",
+   "s": 26.78
+  },
+  {
+   "p": 1,
+   "t": "Iedereen moest lachen.",
+   "s": 33.45
+  },
+  {
+   "p": 2,
+   "t": "Het dak van NEMO is ook bijzonder.",
+   "s": 36.04
+  },
+  {
+   "p": 2,
+   "t": "Het is een groot trappenplein, en je kunt er gratis op.",
+   "s": 39.87
+  },
+  {
+   "p": 3,
+   "t": "Daarna gingen we pizza eten in een klein restaurant.",
+   "s": 44.45
+  },
+  {
+   "p": 3,
+   "t": "We waren met negen mensen.",
+   "s": 49.15
+  },
+  {
+   "p": 3,
+   "t": "Aan het eind vroeg de ober: “Samen of apart betalen?”",
+   "s": 52.31
+  },
+  {
+   "p": 4,
+   "t": "“Samen,” zei Fatima.",
+   "s": 57.4
+  },
+  {
+   "p": 4,
+   "t": "“Ik betaal met mijn pas.",
+   "s": 60.62
+  },
+  {
+   "p": 4,
+   "t": "Ik stuur jullie straks een Tikkie.”",
+   "s": 63.54
+  },
+  {
+   "p": 5,
+   "t": "“Een Tikkie?",
+   "s": 66.81
+  },
+  {
+   "p": 5,
+   "t": "Wat is dat?” vroeg Wei, onze klasgenoot uit China.",
+   "s": 68.84
+  },
+  {
+   "p": 6,
+   "t": "“Een betaalverzoek via WhatsApp.",
+   "s": 75.49
+  },
+  {
+   "p": 6,
+   "t": "Je krijgt een linkje, je klikt erop en je betaalt meteen via je eigen bank.”",
+   "s": 78.98
+  },
+  {
+   "p": 7,
+   "t": "Later kreeg ik een bericht: “Fatima vraagt €14,50 voor: pizza na NEMO.”",
+   "s": 84.81
+  },
+  {
+   "p": 7,
+   "t": "Ik klikte en betaalde.",
+   "s": 92.7
+  },
+  {
+   "p": 7,
+   "t": "Klaar!",
+   "s": 95.67
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is NEMO?",
+   "o": [
+    "een wetenschapsmuseum",
+    "een restaurant",
+    "een school",
+    "een bibliotheek"
+   ],
+   "a": 0,
+   "fa": "نمو چیست؟"
+  },
+  {
+   "q": "Waar lijkt het gebouw op?",
+   "o": [
+    "een huis",
+    "een toren",
+    "een groot schip",
+    "een trein"
+   ],
+   "a": 2,
+   "fa": "ساختمان شبیه چیست؟"
+  },
+  {
+   "q": "Wat gebeurde er met de haren van Fatima?",
+   "o": [
+    "ze werden nat",
+    "ze gingen recht overeind staan",
+    "ze werden groen",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "چه اتفاقی برای موهای فاطمه افتاد؟"
+  },
+  {
+   "q": "Hoe kom je op het dak van NEMO?",
+   "o": [
+    "je moet betalen",
+    "alleen met een kaartje",
+    "dat mag niet",
+    "je kunt er gratis op"
+   ],
+   "a": 3,
+   "fa": "چطور به پشت‌بام نمو می‌روی؟"
+  },
+  {
+   "q": "Wat is een Tikkie?",
+   "o": [
+    "een soort pizza",
+    "een museum",
+    "een betaalverzoek via WhatsApp",
+    "een bankpas"
+   ],
+   "a": 2,
+   "fa": "تیکی چیست؟"
+  },
+  {
+   "q": "Hoeveel betaalde Sara?",
+   "o": [
+    "€14,50",
+    "€9,50",
+    "€45,00",
+    "€4,50"
+   ],
+   "a": 0,
+   "fa": "سارا چقدر پرداخت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "wetenschap",
+   "art": "de",
+   "w": "de wetenschap",
+   "ipa": "/ˈʋeːtə(n)sxɑp/",
+   "fa": "علم",
+   "ex": "NEMO is een museum over wetenschap.",
+   "m": [
+    24,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanraken",
+   "art": "",
+   "w": "aanraken",
+   "ipa": "/ˈaːnraːkə(n)/",
+   "fa": "دست زدن، لمس کردن",
+   "ex": "Binnen mag je alles aanraken.",
+   "m": [
+    20,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "proef",
+   "art": "de",
+   "w": "de proef",
+   "ipa": "/pruf/",
+   "fa": "آزمایش",
+   "ex": "We deden een proef met water.",
+   "m": [
+    13,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "dak",
+   "art": "het",
+   "w": "het dak",
+   "ipa": "/dɑk/",
+   "fa": "پشت‌بام، سقف",
+   "ex": "Op het dak is een mooi terras.",
+   "m": [
+    7,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "bijzonder",
+   "art": "",
+   "w": "bijzonder",
+   "ipa": "/biˈzɔndər/",
+   "fa": "خاص، ویژه",
+   "ex": "Het dak van NEMO is ook bijzonder.",
+   "m": [
+    24,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "apart",
+   "art": "",
+   "w": "apart",
+   "ipa": "/aːˈpɑrt/",
+   "fa": "جدا",
+   "ex": "Samen of apart betalen?",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "betaalverzoek",
+   "art": "het",
+   "w": "het betaalverzoek",
+   "ipa": "/bəˈtaːlvərzuk/",
+   "fa": "درخواست پرداخت",
+   "ex": "Een betaalverzoek via WhatsApp.",
+   "m": [
+    4,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "klikken",
+   "art": "",
+   "w": "klikken",
+   "ipa": "/ˈklɪkə(n)/",
+   "fa": "کلیک کردن",
+   "ex": "Ik klikte en betaalde.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "klasgenoot",
+   "art": "de",
+   "w": "de klasgenoot",
+   "ipa": "/ˈklɑsxənoːt/",
+   "fa": "هم‌کلاسی",
+   "ex": "Wei is mijn klasgenoot.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "ober",
+   "art": "de",
+   "w": "de ober",
+   "ipa": "/ˈoːbər/",
+   "fa": "گارسون",
+   "ex": "De ober bracht de rekening.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "zeepbel",
+   "art": "de",
+   "w": "de zeepbel",
+   "ipa": "/ˈzeː(p)bɛl/",
+   "fa": "حباب صابون",
+   "ex": "Ik maakte een grote zeepbel om mezelf heen.",
+   "m": [
+    20,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "elektriciteit",
+   "art": "de",
+   "w": "de elektriciteit",
+   "ipa": "/eːˌlɛktrisiˈtɛit/",
+   "fa": "برق",
+   "ex": "Fatima deed een proef met elektriciteit: haar haren gingen recht overeind staan!",
+   "m": [
+    26,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "eind",
+   "art": "het",
+   "w": "het eind",
+   "ipa": "/ɛint/",
+   "fa": "پایان، آخر",
+   "ex": "Aan het eind vroeg de ober of we samen wilden betalen.",
+   "m": [
+    8,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "pas",
+   "art": "de",
+   "w": "de pas",
+   "ipa": "/pɑs/",
+   "fa": "کارت (بانکی)",
+   "ex": "Ik betaal met mijn pas.",
+   "m": [
+    19,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "straks",
+   "art": "",
+   "w": "straks",
+   "ipa": "/strɑks/",
+   "fa": "کمی بعد، بعداً",
+   "ex": "Ik stuur jullie straks een Tikkie.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "linkje",
+   "art": "het",
+   "w": "het linkje",
+   "ipa": "/ˈlɪŋkjə/",
+   "fa": "لینک",
+   "ex": "Je krijgt een linkje, je klikt erop en je betaalt meteen via je eigen bank.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "pizza",
+   "art": "de",
+   "w": "de pizza",
+   "ipa": "/ˈpitsaː/",
+   "fa": "پیتزا",
+   "ex": "Fatima vraagt €14,50 voor: pizza na NEMO.",
+   "m": [
+    27,
+    32
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Binnen mag je alles aanraken.",
+   "fa": "داخل به همه‌چیز می‌شود دست زد.",
+   "alt": [
+    "Je mag binnen alles aanraken."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Samen of apart betalen?",
+   "fa": "با هم پرداخت می‌کنید یا جدا؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik betaal met mijn pas.",
+   "fa": "با کارتم پرداخت می‌کنم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik stuur jullie straks een Tikkie.",
+   "fa": "کمی بعد برایتان یک تیکی می‌فرستم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik klikte en betaalde.",
+   "fa": "کلیک کردم و پرداختم.",
+   "alt": []
+  }
+ ]
+}

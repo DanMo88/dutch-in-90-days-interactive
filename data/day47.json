@@ -1,0 +1,450 @@
+{
+ "day": 47,
+ "level": "A2",
+ "title": "Het tienminutengesprek",
+ "fa_title": "جلسه‌ی ده‌دقیقه‌ای با معلم",
+ "audio": "audio/day47.mp3",
+ "img": "img/day47.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mia kwam thuis met een briefje van school.",
+   "s": 5.77
+  },
+  {
+   "p": 0,
+   "t": "“Uitnodiging voor het tienminutengesprek.”",
+   "s": 9.76
+  },
+  {
+   "p": 0,
+   "t": "Ouders praten dan tien minuten met de juf.",
+   "s": 13.69
+  },
+  {
+   "p": 1,
+   "t": "Op donderdagavond gingen Alex en ik samen naar school.",
+   "s": 17.74
+  },
+  {
+   "p": 1,
+   "t": "We wachtten in de gang.",
+   "s": 22.69
+  },
+  {
+   "p": 1,
+   "t": "Aan de muur hingen tekeningen van groep 4.",
+   "s": 25.29
+  },
+  {
+   "p": 1,
+   "t": "Ik zag meteen de tekening van Mia: een kat met een kroon.",
+   "s": 29.37
+  },
+  {
+   "p": 2,
+   "t": "Juf Marieke deed de deur open.",
+   "s": 34.93
+  },
+  {
+   "p": 2,
+   "t": "Ze liet ons Mia's rapport zien.",
+   "s": 38.3
+  },
+  {
+   "p": 2,
+   "t": "“Mia doet het heel goed,” vertelde ze.",
+   "s": 41.68
+  },
+  {
+   "p": 2,
+   "t": "“Toen ze in september kwam, sprak ze bijna geen Nederlands.",
+   "s": 45.71
+  },
+  {
+   "p": 2,
+   "t": "Nu praat ze veel in de klas.",
+   "s": 51.02
+  },
+  {
+   "p": 2,
+   "t": "Haar lezen gaat goed vooruit.”",
+   "s": 54.35
+  },
+  {
+   "p": 3,
+   "t": "“En rekenen?” vroeg Alex.",
+   "s": 57.6
+  },
+  {
+   "p": 4,
+   "t": "“Rekenen is haar beste vak.",
+   "s": 62.05
+  },
+  {
+   "p": 4,
+   "t": "Alleen met spelling heeft ze soms moeite.",
+   "s": 65.27
+  },
+  {
+   "p": 4,
+   "t": "Lees thuis elke dag samen een boekje, dan wordt het vanzelf beter.”",
+   "s": 69.18
+  },
+  {
+   "p": 5,
+   "t": "“Is ze ook gelukkig op school?” vroeg ik.",
+   "s": 75.1
+  },
+  {
+   "p": 6,
+   "t": "“Heel gelukkig.",
+   "s": 80.29
+  },
+  {
+   "p": 6,
+   "t": "Ze is lief en behulpzaam.",
+   "s": 82.63
+  },
+  {
+   "p": 6,
+   "t": "Laatst hielp ze een nieuwe leerling uit Oekraïne.”",
+   "s": 85.8
+  },
+  {
+   "p": 7,
+   "t": "Buiten had ik tranen in mijn ogen.",
+   "s": 90.33
+  },
+  {
+   "p": 7,
+   "t": "Wat ben ik trots op mijn dochter!",
+   "s": 93.97
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe lang duurt een tienminutengesprek?",
+   "o": [
+    "vijf minuten",
+    "een uur",
+    "tien minuten",
+    "een halfuur"
+   ],
+   "a": 2,
+   "fa": "جلسه‌ی ده‌دقیقه‌ای چقدر طول می‌کشد؟"
+  },
+  {
+   "q": "Wat zag Sara aan de muur?",
+   "o": [
+    "de tekening van Mia",
+    "een foto van de juf",
+    "een kalender",
+    "een kaart"
+   ],
+   "a": 0,
+   "fa": "سارا روی دیوار چه دید؟"
+  },
+  {
+   "q": "Hoe was het Nederlands van Mia in september?",
+   "o": [
+    "heel goed",
+    "ze sprak bijna geen Nederlands",
+    "een beetje",
+    "perfect"
+   ],
+   "a": 1,
+   "fa": "هلندی میا در سپتامبر چطور بود؟"
+  },
+  {
+   "q": "Wat is Mia's beste vak?",
+   "o": [
+    "lezen",
+    "spelling",
+    "tekenen",
+    "rekenen"
+   ],
+   "a": 3,
+   "fa": "بهترین درس میا چیست؟"
+  },
+  {
+   "q": "Wat moeten ze thuis doen?",
+   "o": [
+    "elke dag samen lezen",
+    "rekenen",
+    "tv kijken",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "در خانه باید چه کار کنند؟"
+  },
+  {
+   "q": "Wie kreeg laatst hulp van Mia?",
+   "o": [
+    "haar vriendin Sophie",
+    "de juf",
+    "een nieuwe leerling",
+    "haar moeder"
+   ],
+   "a": 2,
+   "fa": "چه کسی اخیراً از میا کمک گرفت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "uitnodiging",
+   "art": "de",
+   "w": "de uitnodiging",
+   "ipa": "/ˈœytnoːdəɣɪŋ/",
+   "fa": "دعوت‌نامه",
+   "ex": "Uitnodiging voor het tienminutengesprek.",
+   "m": [
+    0,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "gesprek",
+   "art": "het",
+   "w": "het gesprek",
+   "ipa": "/ɣəˈsprɛk/",
+   "fa": "گفتگو، جلسه",
+   "ex": "Het gesprek duurde tien minuten.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "gang",
+   "art": "de",
+   "w": "de gang",
+   "ipa": "/ɣɑŋ/",
+   "fa": "راهرو",
+   "ex": "We wachtten in de gang.",
+   "m": [
+    18,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "rapport",
+   "art": "het",
+   "w": "het rapport",
+   "ipa": "/rɑˈpɔrt/",
+   "fa": "کارنامه",
+   "ex": "Ze liet ons Mia's rapport zien.",
+   "m": [
+    18,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "vooruitgaan",
+   "art": "",
+   "w": "vooruitgaan",
+   "ipa": "/voːˈrœytxaːn/",
+   "fa": "پیشرفت کردن",
+   "ex": "Haar Nederlands gaat snel vooruit.",
+   "m": [
+    16,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "rekenen",
+   "art": "",
+   "w": "rekenen",
+   "ipa": "/ˈreːkənə(n)/",
+   "fa": "حساب کردن (ریاضی)",
+   "ex": "Rekenen is haar beste vak.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "vak",
+   "art": "het",
+   "w": "het vak",
+   "ipa": "/vɑk/",
+   "fa": "درس (موضوع درسی)",
+   "ex": "Wat is jouw favoriete vak?",
+   "m": [
+    22,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "moeite-hebben-met",
+   "art": "",
+   "w": "moeite hebben met",
+   "ipa": "/ˈmujtə ˈɦɛbə(n) mɛt/",
+   "fa": "مشکل داشتن با",
+   "ex": "Ik heb soms moeite met de grammatica.",
+   "m": [
+    3,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "behulpzaam",
+   "art": "",
+   "w": "behulpzaam",
+   "ipa": "/bəˈɦʏlpsaːm/",
+   "fa": "اهل کمک، کمک‌کننده",
+   "ex": "Ze is lief en behulpzaam.",
+   "m": [
+    14,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "traan",
+   "art": "de",
+   "w": "de traan",
+   "ipa": "/traːn/",
+   "fa": "اشک",
+   "ex": "Buiten had ik tranen in mijn ogen.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "kroon",
+   "art": "de",
+   "w": "de kroon",
+   "ipa": "/kroːn/",
+   "fa": "تاج",
+   "ex": "Ik zag meteen de tekening van Mia: een kat met een kroon.",
+   "m": [
+    51,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "spelling",
+   "art": "de",
+   "w": "de spelling",
+   "ipa": "/ˈspɛlɪŋ/",
+   "fa": "املا",
+   "ex": "Alleen met spelling heeft ze soms moeite.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "boekje",
+   "art": "het",
+   "w": "het boekje",
+   "ipa": "/ˈbukjə/",
+   "fa": "کتاب کوچک",
+   "ex": "Lees thuis elke dag samen een boekje, dan wordt het vanzelf beter.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "beste",
+   "art": "",
+   "w": "beste",
+   "ipa": "/ˈbɛstə/",
+   "fa": "بهترین",
+   "ex": "Rekenen is haar beste vak.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "laatst",
+   "art": "",
+   "w": "laatst",
+   "ipa": "/laːtst/",
+   "fa": "اخیراً؛ آخرین",
+   "ex": "Laatst hielp ze een nieuwe leerling uit Oekraïne.",
+   "m": [
+    0,
+    6
+   ],
+   "book": 0
+  },
+  {
+   "id": "oog",
+   "art": "het",
+   "w": "het oog",
+   "ipa": "/oːx/",
+   "fa": "چشم",
+   "ex": "Buiten had ik tranen in mijn ogen.",
+   "m": [
+    29,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "thuis",
+   "art": "",
+   "w": "thuis",
+   "ipa": "/tœys/",
+   "fa": "در خانه",
+   "ex": "Mia kwam thuis met een briefje van school.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mia doet het heel goed.",
+   "fa": "میا خیلی خوب پیش می‌رود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Haar lezen gaat goed vooruit.",
+   "fa": "خواندنش خوب پیشرفت می‌کند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Rekenen is haar beste vak.",
+   "fa": "ریاضی بهترین درس اوست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Lees thuis elke dag samen een boekje.",
+   "fa": "هر روز در خانه با هم یک کتاب کوچک بخوانید.",
+   "alt": [
+    "Lees elke dag thuis samen een boekje."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Wat ben ik trots op mijn dochter!",
+   "fa": "چقدر به دخترم افتخار می‌کنم!",
+   "alt": []
+  }
+ ]
+}

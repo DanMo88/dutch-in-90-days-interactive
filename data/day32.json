@@ -1,0 +1,440 @@
+{
+ "day": 32,
+ "level": "A2",
+ "title": "Een afspraak bij de gemeente",
+ "fa_title": "قرار ملاقات در شهرداری",
+ "audio": "audio/day32.mp3",
+ "img": "img/day32.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vorige week kreeg ik een brief van de gemeente.",
+   "s": 6.12
+  },
+  {
+   "p": 0,
+   "t": "Er stond in dat ik een gesprek moet hebben over mijn inburgering.",
+   "s": 10.2
+  },
+  {
+   "p": 0,
+   "t": "Dat heet de brede intake.",
+   "s": 14.92
+  },
+  {
+   "p": 1,
+   "t": "Ik heb online een afspraak gemaakt.",
+   "s": 18.34
+  },
+  {
+   "p": 1,
+   "t": "Daarvoor heb je DigiD nodig, een app waarmee je inlogt bij de overheid.",
+   "s": 21.93
+  },
+  {
+   "p": 2,
+   "t": "Vanochtend ben ik naar het stadsloket gegaan.",
+   "s": 27.98
+  },
+  {
+   "p": 2,
+   "t": "Ik nam mijn paspoort en mijn verblijfsvergunning mee.",
+   "s": 31.92
+  },
+  {
+   "p": 2,
+   "t": "Bij de ingang trok ik een nummertje.",
+   "s": 36.04
+  },
+  {
+   "p": 2,
+   "t": "Na tien minuten was ik aan de beurt.",
+   "s": 39.4
+  },
+  {
+   "p": 3,
+   "t": "Een vriendelijke man stelde veel vragen.",
+   "s": 43.02
+  },
+  {
+   "p": 3,
+   "t": "“Wat is uw BSN?”",
+   "s": 46.99
+  },
+  {
+   "p": 3,
+   "t": "Dat is mijn burgerservicenummer.",
+   "s": 50.2
+  },
+  {
+   "p": 3,
+   "t": "Ik gebruik het overal: bij de bank, de huisarts en mijn werk.",
+   "s": 53.59
+  },
+  {
+   "p": 4,
+   "t": "“Wat voor werk deed u in uw land?” vroeg hij.",
+   "s": 59.21
+  },
+  {
+   "p": 5,
+   "t": "“Ik was verpleegkundige.”",
+   "s": 64.92
+  },
+  {
+   "p": 6,
+   "t": "“Mooi.",
+   "s": 67.93
+  },
+  {
+   "p": 6,
+   "t": "Dan maken we samen een plan.",
+   "s": 69.62
+  },
+  {
+   "p": 6,
+   "t": "Dat heet het PIP: het persoonlijk plan inburgering en participatie.”",
+   "s": 72.85
+  },
+  {
+   "p": 7,
+   "t": "Ik moet over drie jaar het examen op B1-niveau halen.",
+   "s": 78.62
+  },
+  {
+   "p": 8,
+   "t": "Buiten scheen de zon.",
+   "s": 83.56
+  },
+  {
+   "p": 8,
+   "t": "Ik had alles goed begrepen!",
+   "s": 86.49
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat kreeg Sara van de gemeente?",
+   "o": [
+    "een pakketje",
+    "een brief",
+    "een sms",
+    "een boete"
+   ],
+   "a": 1,
+   "fa": "سارا از شهرداری چه دریافت کرد؟"
+  },
+  {
+   "q": "Wat heb je nodig voor een online afspraak?",
+   "o": [
+    "DigiD",
+    "een paspoort",
+    "een bankpas",
+    "een OV-pas"
+   ],
+   "a": 0,
+   "fa": "برای گرفتن وقت آنلاین به چه چیزی نیاز داری؟"
+  },
+  {
+   "q": "Wat deed Sara bij de ingang?",
+   "o": [
+    "koffie drinken",
+    "haar naam zeggen",
+    "een nummertje trekken",
+    "betalen"
+   ],
+   "a": 2,
+   "fa": "سارا دمِ ورودی چه کار کرد؟"
+  },
+  {
+   "q": "Waar gebruikt Sara haar BSN?",
+   "o": [
+    "alleen bij de gemeente",
+    "nergens",
+    "alleen bij de bank",
+    "bij de bank, de huisarts en haar werk"
+   ],
+   "a": 3,
+   "fa": "سارا شماره‌ی BSN را کجا استفاده می‌کند؟"
+  },
+  {
+   "q": "Wat is het PIP?",
+   "o": [
+    "een persoonlijk plan",
+    "een examen",
+    "een paspoort",
+    "een app"
+   ],
+   "a": 0,
+   "fa": "PIP چیست؟"
+  },
+  {
+   "q": "Wanneer moet Sara het examen halen?",
+   "o": [
+    "over één jaar",
+    "over drie jaar",
+    "volgende week",
+    "over vijf jaar"
+   ],
+   "a": 1,
+   "fa": "سارا کِی باید امتحان را قبول شود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "gemeente",
+   "art": "de",
+   "w": "de gemeente",
+   "ipa": "/ɣəˈmeːntə/",
+   "fa": "شهرداری",
+   "ex": "Vorige week kreeg ik een brief van de gemeente.",
+   "m": [
+    38,
+    46
+   ],
+   "book": 1
+  },
+  {
+   "id": "afspraak",
+   "art": "de",
+   "w": "de afspraak",
+   "ipa": "/ˈɑfspraːk/",
+   "fa": "قرار ملاقات، وقت",
+   "ex": "Ik heb online een afspraak gemaakt.",
+   "m": [
+    18,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "inloggen",
+   "art": "",
+   "w": "inloggen",
+   "ipa": "/ˈɪnlɔɣə(n)/",
+   "fa": "وارد حساب شدن (لاگین)",
+   "ex": "Met DigiD kun je inloggen bij de overheid.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "overheid",
+   "art": "de",
+   "w": "de overheid",
+   "ipa": "/ˈoːvərɦɛit/",
+   "fa": "دولت",
+   "ex": "Daarvoor heb je DigiD nodig, een app waarmee je inlogt bij de overheid.",
+   "m": [
+    62,
+    70
+   ],
+   "book": 1
+  },
+  {
+   "id": "nummertje",
+   "art": "het",
+   "w": "het nummertje",
+   "ipa": "/ˈnʏmərcə/",
+   "fa": "شماره‌ی نوبت",
+   "ex": "Bij de ingang trok ik een nummertje.",
+   "m": [
+    26,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "paspoort",
+   "art": "het",
+   "w": "het paspoort",
+   "ipa": "/ˈpɑspoːrt/",
+   "fa": "گذرنامه",
+   "ex": "Ik nam mijn paspoort en mijn verblijfsvergunning mee.",
+   "m": [
+    12,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "verblijfsvergunning",
+   "art": "de",
+   "w": "de verblijfsvergunning",
+   "ipa": "/vərˈblɛifsfərɣʏnɪŋ/",
+   "fa": "اجازه‌ی اقامت",
+   "ex": "Ik nam mijn paspoort en mijn verblijfsvergunning mee.",
+   "m": [
+    29,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "aan-de-beurt-zijn",
+   "art": "",
+   "w": "aan de beurt zijn",
+   "ipa": "/aːn də ˈbøːrt sɛin/",
+   "fa": "نوبتِ کسی بودن",
+   "ex": "Nummer 25, u bent aan de beurt.",
+   "m": [
+    13,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "examen",
+   "art": "het",
+   "w": "het examen",
+   "ipa": "/ɛkˈsaːmə(n)/",
+   "fa": "امتحان",
+   "ex": "Ik moet over drie jaar het examen op B1-niveau halen.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "begrijpen",
+   "art": "",
+   "w": "begrijpen",
+   "ipa": "/bəˈɣrɛipə(n)/",
+   "fa": "فهمیدن",
+   "ex": "Ik had alles goed begrepen!",
+   "m": [
+    18,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "brief",
+   "art": "de",
+   "w": "de brief",
+   "ipa": "/brif/",
+   "fa": "نامه",
+   "ex": "Vorige week kreeg ik een brief van de gemeente.",
+   "m": [
+    25,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "online",
+   "art": "",
+   "w": "online",
+   "ipa": "/ɔnˈlɑin/",
+   "fa": "آنلاین، اینترنتی",
+   "ex": "Ik heb online een afspraak gemaakt.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "stadsloket",
+   "art": "het",
+   "w": "het stadsloket",
+   "ipa": "/ˈstɑtsloːkɛt/",
+   "fa": "باجه‌ی خدمات شهرداری",
+   "ex": "Vanochtend ben ik naar het stadsloket gegaan.",
+   "m": [
+    27,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "vraag",
+   "art": "de",
+   "w": "de vraag",
+   "ipa": "/vraːx/",
+   "fa": "سؤال",
+   "ex": "Een vriendelijke man stelde veel vragen.",
+   "m": [
+    33,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "verpleegkundige",
+   "art": "de",
+   "w": "de verpleegkundige",
+   "ipa": "/vərˌpleːxˈkʏndəɣə/",
+   "fa": "پرستار",
+   "ex": "Ik was verpleegkundige.",
+   "m": [
+    7,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "plan",
+   "art": "het",
+   "w": "het plan",
+   "ipa": "/plɑn/",
+   "fa": "برنامه، طرح",
+   "ex": "Dan maken we samen een plan.",
+   "m": [
+    23,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "persoonlijk",
+   "art": "",
+   "w": "persoonlijk",
+   "ipa": "/pɛrˈsoːnlək/",
+   "fa": "شخصی",
+   "ex": "Dat heet het PIP: het persoonlijk plan inburgering en participatie.",
+   "m": [
+    22,
+    33
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik heb online een afspraak gemaakt.",
+   "fa": "آنلاین وقت گرفتم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik trok een nummertje.",
+   "fa": "یک شماره‌ی نوبت برداشتم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Na tien minuten was ik aan de beurt.",
+   "fa": "بعد از ده دقیقه نوبتم شد.",
+   "alt": [
+    "Ik was na tien minuten aan de beurt."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Wat is uw BSN?",
+   "fa": "شماره‌ی BSN شما چیست؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik had alles goed begrepen!",
+   "fa": "همه‌چیز را خوب فهمیده بودم!",
+   "alt": []
+  }
+ ]
+}

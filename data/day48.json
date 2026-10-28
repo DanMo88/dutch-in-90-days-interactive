@@ -1,0 +1,443 @@
+{
+ "day": 48,
+ "level": "A2",
+ "title": "Een brief van de Belastingdienst",
+ "fa_title": "نامه‌ای از اداره‌ی مالیات",
+ "audio": "audio/day48.mp3",
+ "img": "img/day48.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een maandag lag er een blauwe envelop op de mat.",
+   "s": 6.02
+  },
+  {
+   "p": 0,
+   "t": "“Belastingdienst,” las Alex.",
+   "s": 10.26
+  },
+  {
+   "p": 0,
+   "t": "Hij werd een beetje zenuwachtig.",
+   "s": 14.26
+  },
+  {
+   "p": 0,
+   "t": "“Wat hebben we fout gedaan?”",
+   "s": 17.71
+  },
+  {
+   "p": 1,
+   "t": "We gingen meteen naar Dani.",
+   "s": 20.63
+  },
+  {
+   "p": 1,
+   "t": "“Rustig maar!",
+   "s": 23.7
+  },
+  {
+   "p": 1,
+   "t": "Veel mensen krijgen in het voorjaar zo'n brief.",
+   "s": 25.95
+  },
+  {
+   "p": 1,
+   "t": "Je moet je belastingaangifte doen.",
+   "s": 30.38
+  },
+  {
+   "p": 1,
+   "t": "Dan vertel je hoeveel je vorig jaar hebt verdiend.”",
+   "s": 33.63
+  },
+  {
+   "p": 2,
+   "t": "“Maar we wonen hier pas sinds september,” zei ik.",
+   "s": 37.82
+  },
+  {
+   "p": 3,
+   "t": "“Precies.",
+   "s": 42.24
+  },
+  {
+   "p": 3,
+   "t": "Daarom krijgen jullie een M-formulier.",
+   "s": 44.2
+  },
+  {
+   "p": 3,
+   "t": "M betekent migratie.",
+   "s": 48.06
+  },
+  {
+   "p": 3,
+   "t": "Dat is voor mensen die in dat jaar naar Nederland zijn gekomen.",
+   "s": 51.56
+  },
+  {
+   "p": 3,
+   "t": "Je hebt tot 1 juli de tijd, in plaats van 1 mei.”",
+   "s": 56.35
+  },
+  {
+   "p": 4,
+   "t": "Dani legde uit dat je kunt inloggen met DigiD.",
+   "s": 61.26
+  },
+  {
+   "p": 4,
+   "t": "Veel gegevens staan er al in, zoals het salaris van Alex.",
+   "s": 66.07
+  },
+  {
+   "p": 4,
+   "t": "“Controleer alles goed.”",
+   "s": 71.71
+  },
+  {
+   "p": 5,
+   "t": "“En wat zijn toeslagen?” vroeg Alex.",
+   "s": 74.59
+  },
+  {
+   "p": 6,
+   "t": "“Dat is geld van de overheid, bijvoorbeeld voor de huur of de zorgverzekering, als je niet veel verdient.”",
+   "s": 79.84
+  },
+  {
+   "p": 7,
+   "t": "Op zaterdag deden we het samen.",
+   "s": 87.24
+  },
+  {
+   "p": 7,
+   "t": "Het duurde de hele ochtend, maar het lukte!",
+   "s": 90.74
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welke kleur had de envelop?",
+   "o": [
+    "wit",
+    "geel",
+    "groen",
+    "blauw"
+   ],
+   "a": 3,
+   "fa": "پاکت نامه چه رنگی بود؟"
+  },
+  {
+   "q": "Hoe reageerde Alex?",
+   "o": [
+    "hij werd zenuwachtig",
+    "hij was blij",
+    "hij gooide hem weg",
+    "hij lachte"
+   ],
+   "a": 0,
+   "fa": "واکنش الکس چه بود؟"
+  },
+  {
+   "q": "Wat vertel je in de belastingaangifte?",
+   "o": [
+    "waar je woont",
+    "hoeveel je vorig jaar hebt verdiend",
+    "hoe oud je bent",
+    "wat je eet"
+   ],
+   "a": 1,
+   "fa": "در اظهارنامه‌ی مالیاتی چه چیزی را اعلام می‌کنی؟"
+  },
+  {
+   "q": "Waarom krijgen ze een M-formulier?",
+   "o": [
+    "omdat ze veel verdienen",
+    "omdat ze een kind hebben",
+    "omdat ze in dat jaar naar Nederland zijn gekomen",
+    "omdat het mei is"
+   ],
+   "a": 2,
+   "fa": "چرا فرم M می‌گیرند؟"
+  },
+  {
+   "q": "Tot wanneer hebben ze de tijd?",
+   "o": [
+    "tot 1 mei",
+    "tot 1 juli",
+    "tot 1 maart",
+    "tot het eind van het jaar"
+   ],
+   "a": 1,
+   "fa": "تا کِی وقت دارند؟"
+  },
+  {
+   "q": "Wat zijn toeslagen?",
+   "o": [
+    "geld van de overheid",
+    "een boete",
+    "een soort belasting",
+    "een formulier"
+   ],
+   "a": 0,
+   "fa": "«توسلاخ» (toeslagen) چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "belasting",
+   "art": "de",
+   "w": "de belasting",
+   "ipa": "/bəˈlɑstɪŋ/",
+   "fa": "مالیات",
+   "ex": "Iedereen die werkt, betaalt belasting.",
+   "m": [
+    28,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "envelop",
+   "art": "de",
+   "w": "de envelop",
+   "ipa": "/ɛnvəˈlɔp/",
+   "fa": "پاکت نامه",
+   "ex": "Op een maandag lag er een blauwe envelop op de mat.",
+   "m": [
+    33,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "zenuwachtig",
+   "art": "",
+   "w": "zenuwachtig",
+   "ipa": "/ˈzeːnyʋɑxtəx/",
+   "fa": "مضطرب، عصبی",
+   "ex": "Hij werd een beetje zenuwachtig.",
+   "m": [
+    20,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "aangifte",
+   "art": "de",
+   "w": "de aangifte",
+   "ipa": "/ˈaːŋɣɪftə/",
+   "fa": "اظهارنامه",
+   "ex": "We hebben samen de aangifte gedaan.",
+   "m": [
+    19,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdienen",
+   "art": "",
+   "w": "verdienen",
+   "ipa": "/vərˈdinə(n)/",
+   "fa": "درآمد داشتن، پول درآوردن",
+   "ex": "Dan vertel je hoeveel je vorig jaar hebt verdiend.",
+   "m": [
+    41,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "formulier",
+   "art": "het",
+   "w": "het formulier",
+   "ipa": "/fɔrmyˈlir/",
+   "fa": "فرم",
+   "ex": "Daarom krijgen jullie een M-formulier.",
+   "m": [
+    28,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "gegevens",
+   "art": "de",
+   "w": "de gegevens",
+   "ipa": "/ɣəˈɣeːvə(n)s/",
+   "fa": "اطلاعات",
+   "ex": "Veel gegevens staan er al in, zoals het salaris van Alex.",
+   "m": [
+    5,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "salaris",
+   "art": "het",
+   "w": "het salaris",
+   "ipa": "/saːˈlaːrɪs/",
+   "fa": "حقوق (ماهانه)",
+   "ex": "Veel gegevens staan er al in, zoals het salaris van Alex.",
+   "m": [
+    40,
+    47
+   ],
+   "book": 1
+  },
+  {
+   "id": "toeslag",
+   "art": "de",
+   "w": "de toeslag",
+   "ipa": "/ˈtuslɑx/",
+   "fa": "کمک‌هزینه‌ی دولتی",
+   "ex": "En wat zijn toeslagen?",
+   "m": [
+    12,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "controleren",
+   "art": "",
+   "w": "controleren",
+   "ipa": "/kɔntroːˈleːrə(n)/",
+   "fa": "بررسی کردن",
+   "ex": "Controleer alles goed.",
+   "m": [
+    0,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorjaar",
+   "art": "het",
+   "w": "het voorjaar",
+   "ipa": "/ˈvoːrjaːr/",
+   "fa": "بهار",
+   "ex": "Veel mensen krijgen in het voorjaar zo'n brief.",
+   "m": [
+    27,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "migratie",
+   "art": "de",
+   "w": "de migratie",
+   "ipa": "/miˈɣraː(t)si/",
+   "fa": "مهاجرت",
+   "ex": "M betekent migratie.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "juli",
+   "art": "",
+   "w": "juli",
+   "ipa": "/ˈjyli/",
+   "fa": "ژوئیه",
+   "ex": "Je hebt tot 1 juli de tijd, in plaats van 1 mei.",
+   "m": [
+    14,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "mei",
+   "art": "",
+   "w": "mei",
+   "ipa": "/mɛi/",
+   "fa": "مه (ماه پنجم میلادی)",
+   "ex": "Je hebt tot 1 juli de tijd, in plaats van 1 mei.",
+   "m": [
+    44,
+    47
+   ],
+   "book": 0
+  },
+  {
+   "id": "huur",
+   "art": "de",
+   "w": "de huur",
+   "ipa": "/ɦyr/",
+   "fa": "اجاره",
+   "ex": "Toeslag is geld voor de huur of de zorgverzekering.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "bijvoorbeeld",
+   "art": "",
+   "w": "bijvoorbeeld",
+   "ipa": "/bɛiˈvoːrbeːlt/",
+   "fa": "برای مثال",
+   "ex": "Toeslag is bijvoorbeeld geld voor de huur.",
+   "m": [
+    11,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "precies",
+   "art": "",
+   "w": "precies",
+   "ipa": "/prəˈsis/",
+   "fa": "دقیقاً",
+   "ex": "Precies.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wat hebben we fout gedaan?",
+   "fa": "چه کار اشتباهی کرده‌ایم؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Je moet je belastingaangifte doen.",
+   "fa": "باید اظهارنامه‌ی مالیاتی‌ات را پر کنی.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Veel gegevens staan er al in.",
+   "fa": "خیلی از اطلاعات از قبل در آن هست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Controleer alles goed.",
+   "fa": "همه‌چیز را خوب بررسی کن.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het duurde de hele ochtend.",
+   "fa": "تمام صبح طول کشید.",
+   "alt": []
+  }
+ ]
+}

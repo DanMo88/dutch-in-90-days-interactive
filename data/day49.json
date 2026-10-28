@@ -1,0 +1,453 @@
+{
+ "day": 49,
+ "level": "A2",
+ "title": "Lente in de Keukenhof",
+ "fa_title": "بهار در کوکنهوف",
+ "audio": "audio/day49.mp3",
+ "img": "img/day49.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Eind maart was het eindelijk lente.",
+   "s": 5.76
+  },
+  {
+   "p": 0,
+   "t": "“Dit is het moment voor de Keukenhof,” zei Emma.",
+   "s": 9.26
+  },
+  {
+   "p": 0,
+   "t": "“Hij is maar acht weken per jaar open.”",
+   "s": 13.96
+  },
+  {
+   "p": 1,
+   "t": "De Keukenhof is een groot park in Lisse, tussen Haarlem en Leiden.",
+   "s": 17.85
+  },
+  {
+   "p": 1,
+   "t": "Elk jaar komen er meer dan een miljoen bezoekers.",
+   "s": 24.16
+  },
+  {
+   "p": 2,
+   "t": "We namen de trein naar Schiphol en daarna een speciale bus.",
+   "s": 28.68
+  },
+  {
+   "p": 2,
+   "t": "In het park was het al druk.",
+   "s": 34.05
+  },
+  {
+   "p": 3,
+   "t": "“Waar zijn alle tulpen?” vroeg Mia teleurgesteld.",
+   "s": 37.05
+  },
+  {
+   "p": 3,
+   "t": "Veel tulpen waren nog groen en dicht.",
+   "s": 43.07
+  },
+  {
+   "p": 4,
+   "t": "“De meeste tulpen bloeien pas in april,” legde Emma uit.",
+   "s": 46.96
+  },
+  {
+   "p": 4,
+   "t": "“Maar kijk eens naar de narcissen en de hyacinten!”",
+   "s": 52.68
+  },
+  {
+   "p": 4,
+   "t": "Ze had gelijk.",
+   "s": 57.27
+  },
+  {
+   "p": 4,
+   "t": "Overal stonden gele, witte en paarse bloemen.",
+   "s": 59.57
+  },
+  {
+   "p": 4,
+   "t": "Ze roken heerlijk.",
+   "s": 64.35
+  },
+  {
+   "p": 5,
+   "t": "Na de lunch huurden we fietsen.",
+   "s": 66.82
+  },
+  {
+   "p": 5,
+   "t": "We fietsten langs de bollenvelden rond het park.",
+   "s": 69.99
+  },
+  {
+   "p": 5,
+   "t": "Sommige velden waren al helemaal geel.",
+   "s": 74.15
+  },
+  {
+   "p": 5,
+   "t": "Het leek wel een schilderij.",
+   "s": 77.99
+  },
+  {
+   "p": 6,
+   "t": "Op de terugweg kocht ik een zakje tulpenbollen.",
+   "s": 80.93
+  },
+  {
+   "p": 6,
+   "t": "In de herfst stop ik ze in een bak op ons balkon.",
+   "s": 85.21
+  },
+  {
+   "p": 6,
+   "t": "Dan heb ik volgend voorjaar mijn eigen kleine Keukenhof.",
+   "s": 89.72
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe lang is de Keukenhof per jaar open?",
+   "o": [
+    "het hele jaar",
+    "vier weken",
+    "acht weken",
+    "zes maanden"
+   ],
+   "a": 2,
+   "fa": "کوکنهوف هر سال چه مدت باز است؟"
+  },
+  {
+   "q": "Waar ligt de Keukenhof?",
+   "o": [
+    "in Amsterdam",
+    "in Lisse",
+    "in Leiden",
+    "in Haarlem"
+   ],
+   "a": 1,
+   "fa": "کوکنهوف کجاست؟"
+  },
+  {
+   "q": "Hoe kwamen ze er?",
+   "o": [
+    "met de auto",
+    "met de fiets",
+    "met de boot",
+    "met de trein en een bus"
+   ],
+   "a": 3,
+   "fa": "چطور به آنجا رفتند؟"
+  },
+  {
+   "q": "Waarom was Mia teleurgesteld?",
+   "o": [
+    "veel tulpen bloeiden nog niet",
+    "het regende",
+    "het was te druk",
+    "ze had honger"
+   ],
+   "a": 0,
+   "fa": "چرا میا ناامید شد؟"
+  },
+  {
+   "q": "Wat deden ze na de lunch?",
+   "o": [
+    "ze gingen naar huis",
+    "ze huurden fietsen",
+    "ze sliepen",
+    "ze kochten bloemen"
+   ],
+   "a": 1,
+   "fa": "بعد از ناهار چه کردند؟"
+  },
+  {
+   "q": "Wat kocht Sara?",
+   "o": [
+    "een bos tulpen",
+    "een schilderij",
+    "een zakje tulpenbollen",
+    "een fiets"
+   ],
+   "a": 2,
+   "fa": "سارا چه خرید؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "lente",
+   "art": "de",
+   "w": "de lente",
+   "ipa": "/ˈlɛntə/",
+   "fa": "بهار",
+   "ex": "Eind maart was het eindelijk lente.",
+   "m": [
+    29,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezoeker",
+   "art": "de",
+   "w": "de bezoeker",
+   "ipa": "/bəˈzukər/",
+   "fa": "بازدیدکننده",
+   "ex": "Elk jaar komen er meer dan een miljoen bezoekers.",
+   "m": [
+    39,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "bloembol",
+   "art": "de",
+   "w": "de bloembol",
+   "ipa": "/ˈblumbɔl/",
+   "fa": "پیاز گل",
+   "ex": "In de herfst plant je bloembollen.",
+   "m": [
+    22,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "bloeien",
+   "art": "",
+   "w": "bloeien",
+   "ipa": "/ˈblujə(n)/",
+   "fa": "گل دادن، شکوفه دادن",
+   "ex": "De meeste tulpen bloeien pas in april.",
+   "m": [
+    17,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "teleurgesteld",
+   "art": "",
+   "w": "teleurgesteld",
+   "ipa": "/təˈløːrɣəstɛlt/",
+   "fa": "ناامید، دلسرد",
+   "ex": "Mia was een beetje teleurgesteld.",
+   "m": [
+    19,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "gelijk-hebben",
+   "art": "",
+   "w": "gelijk hebben",
+   "ipa": "/ɣəˈlɛik ˈɦɛbə(n)/",
+   "fa": "حق داشتن",
+   "ex": "Je hebt gelijk, het is prachtig.",
+   "m": [
+    3,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "paars",
+   "art": "",
+   "w": "paars",
+   "ipa": "/paːrs/",
+   "fa": "بنفش",
+   "ex": "Overal stonden gele, witte en paarse bloemen.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "huren",
+   "art": "",
+   "w": "huren",
+   "ipa": "/ˈɦyːrə(n)/",
+   "fa": "کرایه کردن، اجاره کردن",
+   "ex": "Na de lunch huurden we fietsen.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "veld",
+   "art": "het",
+   "w": "het veld",
+   "ipa": "/vɛlt/",
+   "fa": "مزرعه، زمین",
+   "ex": "Het veld was helemaal geel.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "schilderij",
+   "art": "het",
+   "w": "het schilderij",
+   "ipa": "/sxɪldəˈrɛi/",
+   "fa": "تابلو نقاشی",
+   "ex": "Het leek wel een schilderij.",
+   "m": [
+    17,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "moment",
+   "art": "het",
+   "w": "het moment",
+   "ipa": "/moːˈmɛnt/",
+   "fa": "لحظه، زمان مناسب",
+   "ex": "Dit is het moment voor de Keukenhof.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "miljoen",
+   "art": "het",
+   "w": "het miljoen",
+   "ipa": "/mɪlˈjun/",
+   "fa": "میلیون",
+   "ex": "Elk jaar komen er meer dan een miljoen bezoekers.",
+   "m": [
+    31,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "speciaal",
+   "art": "",
+   "w": "speciaal",
+   "ipa": "/speːˈʃaːl/",
+   "fa": "ویژه، مخصوص",
+   "ex": "We namen de trein naar Schiphol en daarna een speciale bus.",
+   "m": [
+    46,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "bus",
+   "art": "de",
+   "w": "de bus",
+   "ipa": "/bʏs/",
+   "fa": "اتوبوس",
+   "ex": "We namen de trein naar Schiphol en daarna een speciale bus.",
+   "m": [
+    55,
+    58
+   ],
+   "book": 0
+  },
+  {
+   "id": "dicht",
+   "art": "",
+   "w": "dicht",
+   "ipa": "/dɪxt/",
+   "fa": "بسته",
+   "ex": "Veel tulpen waren nog groen en dicht.",
+   "m": [
+    31,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "narcis",
+   "art": "de",
+   "w": "de narcis",
+   "ipa": "/nɑrˈsɪs/",
+   "fa": "گل نرگس",
+   "ex": "Maar kijk eens naar de narcissen en de hyacinten!",
+   "m": [
+    23,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "heerlijk",
+   "art": "",
+   "w": "heerlijk",
+   "ipa": "/ˈɦeːrlək/",
+   "fa": "عالی، دل‌انگیز",
+   "ex": "Ze roken heerlijk.",
+   "m": [
+    9,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "lunch",
+   "art": "de",
+   "w": "de lunch",
+   "ipa": "/lʏnʃ/",
+   "fa": "ناهار",
+   "ex": "Na de lunch huurden we fietsen.",
+   "m": [
+    6,
+    11
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Waar zijn alle tulpen?",
+   "fa": "همه‌ی لاله‌ها کجا هستند؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De meeste tulpen bloeien pas in april.",
+   "fa": "بیشتر لاله‌ها تازه در آوریل گل می‌دهند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ze had gelijk.",
+   "fa": "حق با او بود.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Na de lunch huurden we fietsen.",
+   "fa": "بعد از ناهار دوچرخه کرایه کردیم.",
+   "alt": [
+    "We huurden na de lunch fietsen."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Het leek wel een schilderij.",
+   "fa": "شبیه یک تابلو نقاشی بود.",
+   "alt": []
+  }
+ ]
+}

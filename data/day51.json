@@ -1,0 +1,446 @@
+{
+ "day": 51,
+ "level": "A2",
+ "title": "De molens van de Zaanse Schans",
+ "fa_title": "آسیاب‌های بادی زانسه‌سخانس",
+ "audio": "audio/day51.mp3",
+ "img": "img/day51.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een zonnige zaterdag namen we de trein naar Zaandijk.",
+   "s": 6.13
+  },
+  {
+   "p": 0,
+   "t": "Na een kwartier waren we er al.",
+   "s": 11.04
+  },
+  {
+   "p": 0,
+   "t": "We liepen over een brug, en daar stonden ze: een rij grote houten molens langs de rivier de Zaan.",
+   "s": 14.38
+  },
+  {
+   "p": 1,
+   "t": "“Vroeger stonden hier meer dan zeshonderd molens,” vertelde Alex.",
+   "s": 22.9
+  },
+  {
+   "p": 2,
+   "t": "We gingen binnen in een molen die verf maakt.",
+   "s": 29.01
+  },
+  {
+   "p": 2,
+   "t": "Het was er donker en het lawaai was enorm.",
+   "s": 33.08
+  },
+  {
+   "p": 2,
+   "t": "Een oude molenaar met een grijze baard legde uit hoe het werkt.",
+   "s": 37.19
+  },
+  {
+   "p": 3,
+   "t": "“De wind draait de wieken.",
+   "s": 42.58
+  },
+  {
+   "p": 3,
+   "t": "De wieken draaien een grote as, en die laat de stenen draaien.",
+   "s": 45.41
+  },
+  {
+   "p": 3,
+   "t": "Zo malen we de grondstoffen tot poeder voor verf.”",
+   "s": 51.3
+  },
+  {
+   "p": 4,
+   "t": "“Pompen molens ook water?” vroeg ik.",
+   "s": 55.85
+  },
+  {
+   "p": 5,
+   "t": "“Zeker!",
+   "s": 60.88
+  },
+  {
+   "p": 5,
+   "t": "Een groot deel van Nederland ligt onder de zeespiegel.",
+   "s": 62.88
+  },
+  {
+   "p": 5,
+   "t": "Vroeger pompten duizenden molens het water uit de polders.",
+   "s": 67.76
+  },
+  {
+   "p": 5,
+   "t": "Nu doen grote gemalen dat werk, maar de molens zijn onze trots.”",
+   "s": 72.97
+  },
+  {
+   "p": 6,
+   "t": "Daarna keken we bij een klompenmaker.",
+   "s": 79.18
+  },
+  {
+   "p": 6,
+   "t": "Met een machine maakte hij in tien minuten een klomp van een blok hout.",
+   "s": 82.97
+  },
+  {
+   "p": 6,
+   "t": "Mia paste een paar kleine gele klompjes.",
+   "s": 88.68
+  },
+  {
+   "p": 6,
+   "t": "“Ze zijn hard,” zei ze.",
+   "s": 92.99
+  },
+  {
+   "p": 6,
+   "t": "“Maar ik kan er wel in lopen!”",
+   "s": 96.1
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe lang duurde de treinreis?",
+   "o": [
+    "een uur",
+    "een kwartier",
+    "een halfuur",
+    "twee uur"
+   ],
+   "a": 1,
+   "fa": "سفر با قطار چقدر طول کشید؟"
+  },
+  {
+   "q": "Hoeveel molens stonden er vroeger?",
+   "o": [
+    "tien",
+    "honderd",
+    "meer dan zeshonderd",
+    "vijftig"
+   ],
+   "a": 2,
+   "fa": "قدیم‌ها چند آسیاب بادی آنجا بود؟"
+  },
+  {
+   "q": "Wat maakt de molen waar ze binnen gingen?",
+   "o": [
+    "brood",
+    "olie",
+    "papier",
+    "verf"
+   ],
+   "a": 3,
+   "fa": "آسیابی که داخلش رفتند چه چیزی تولید می‌کند؟"
+  },
+  {
+   "q": "Wat laat de stenen draaien?",
+   "o": [
+    "de wind via de wieken en de as",
+    "een motor",
+    "water",
+    "een paard"
+   ],
+   "a": 0,
+   "fa": "چه چیزی سنگ‌ها را می‌چرخاند؟"
+  },
+  {
+   "q": "Waarom zijn er in Nederland veel pompen nodig?",
+   "o": [
+    "het regent nooit",
+    "een groot deel ligt onder de zeespiegel",
+    "er zijn veel bergen",
+    "voor de bloemen"
+   ],
+   "a": 1,
+   "fa": "چرا در هلند به این همه پمپ نیاز است؟"
+  },
+  {
+   "q": "Wat paste Mia?",
+   "o": [
+    "een hoed",
+    "een jurk",
+    "gele klompjes",
+    "een muts"
+   ],
+   "a": 2,
+   "fa": "میا چه چیزی را امتحان کرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "molen",
+   "art": "de",
+   "w": "de molen",
+   "ipa": "/ˈmoːlə(n)/",
+   "fa": "آسیاب بادی",
+   "ex": "Vroeger stonden hier meer dan zeshonderd molens.",
+   "m": [
+    41,
+    47
+   ],
+   "book": 1
+  },
+  {
+   "id": "rivier",
+   "art": "de",
+   "w": "de rivier",
+   "ipa": "/riˈvir/",
+   "fa": "رودخانه",
+   "ex": "De rivier stroomt naar de zee.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "lawaai",
+   "art": "het",
+   "w": "het lawaai",
+   "ipa": "/laːˈʋaːi/",
+   "fa": "سروصدا",
+   "ex": "Het was er donker en het lawaai was enorm.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "draaien",
+   "art": "",
+   "w": "draaien",
+   "ipa": "/ˈdraːjə(n)/",
+   "fa": "چرخیدن، چرخاندن",
+   "ex": "De wieken draaien in de wind.",
+   "m": [
+    10,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "molenaar",
+   "art": "de",
+   "w": "de molenaar",
+   "ipa": "/ˈmoːlənaːr/",
+   "fa": "آسیابان",
+   "ex": "Een oude molenaar met een grijze baard legde uit hoe het werkt.",
+   "m": [
+    9,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "pompen",
+   "art": "",
+   "w": "pompen",
+   "ipa": "/ˈpɔmpə(n)/",
+   "fa": "پمپ کردن",
+   "ex": "Vroeger pompten duizenden molens het water uit de polders.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "zeespiegel",
+   "art": "de",
+   "w": "de zeespiegel",
+   "ipa": "/ˈzeːspiɣəl/",
+   "fa": "سطح دریا",
+   "ex": "Een groot deel van Nederland ligt onder de zeespiegel.",
+   "m": [
+    43,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "polder",
+   "art": "de",
+   "w": "de polder",
+   "ipa": "/ˈpɔldər/",
+   "fa": "پولدر (زمینِ گرفته‌شده از آب)",
+   "ex": "Vroeger pompten duizenden molens het water uit de polders.",
+   "m": [
+    50,
+    57
+   ],
+   "book": 1
+  },
+  {
+   "id": "klomp",
+   "art": "de",
+   "w": "de klomp",
+   "ipa": "/klɔmp/",
+   "fa": "کفش چوبی",
+   "ex": "Boeren droegen vroeger klompen.",
+   "m": [
+    23,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "hout",
+   "art": "het",
+   "w": "het hout",
+   "ipa": "/ɦɑut/",
+   "fa": "چوب",
+   "ex": "Deze tafel is van hout.",
+   "m": [
+    18,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "zonnig",
+   "art": "",
+   "w": "zonnig",
+   "ipa": "/ˈzɔnəx/",
+   "fa": "آفتابی",
+   "ex": "Op een zonnige zaterdag namen we de trein naar Zaandijk.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "rij",
+   "art": "de",
+   "w": "de rij",
+   "ipa": "/rɛi/",
+   "fa": "ردیف، صف",
+   "ex": "Daar stond een rij grote houten molens.",
+   "m": [
+    15,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "wiek",
+   "art": "de",
+   "w": "de wiek",
+   "ipa": "/ʋik/",
+   "fa": "پره‌ی آسیاب",
+   "ex": "De wind draait de wieken.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "steen",
+   "art": "de",
+   "w": "de steen",
+   "ipa": "/steːn/",
+   "fa": "سنگ",
+   "ex": "De wieken draaien een grote as, en die laat de stenen draaien.",
+   "m": [
+    47,
+    53
+   ],
+   "book": 0
+  },
+  {
+   "id": "malen",
+   "art": "",
+   "w": "malen",
+   "ipa": "/ˈmaːlə(n)/",
+   "fa": "آسیاب کردن",
+   "ex": "Zo malen we de grondstoffen tot poeder voor verf.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 0
+  },
+  {
+   "id": "poeder",
+   "art": "het",
+   "w": "het poeder",
+   "ipa": "/ˈpudər/",
+   "fa": "پودر",
+   "ex": "Zo malen we de grondstoffen tot poeder voor verf.",
+   "m": [
+    32,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "deel",
+   "art": "het",
+   "w": "het deel",
+   "ipa": "/deːl/",
+   "fa": "بخش، قسمت",
+   "ex": "Een groot deel van Nederland ligt onder de zeespiegel.",
+   "m": [
+    10,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "machine",
+   "art": "de",
+   "w": "de machine",
+   "ipa": "/mɑˈʃin(ə)/",
+   "fa": "دستگاه، ماشین",
+   "ex": "Met een machine maakte hij in tien minuten een klomp van een blok hout.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vroeger stonden hier meer dan zeshonderd molens.",
+   "fa": "قدیم‌ها بیش از ششصد آسیاب بادی اینجا بود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De wind draait de wieken.",
+   "fa": "باد پره‌ها را می‌چرخاند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Een groot deel van Nederland ligt onder de zeespiegel.",
+   "fa": "بخش بزرگی از هلند زیر سطح دریاست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De molens zijn onze trots.",
+   "fa": "آسیاب‌های بادی مایه‌ی افتخار ما هستند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik kan er wel in lopen!",
+   "fa": "با آن‌ها می‌توانم راه بروم!",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "day": 43,
+ "level": "A2",
+ "title": "Klussen met Gamma",
+ "fa_title": "تعمیرات خانگی با گاما",
+ "audio": "audio/day43.mp3",
+ "img": "img/day43.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mia wilde al maanden een nieuwe kleur voor haar kamer.",
+   "s": 5.12
+  },
+  {
+   "p": 0,
+   "t": "“Lichtgroen, papa!",
+   "s": 9.87
+  },
+  {
+   "p": 0,
+   "t": "Net als de lente.”",
+   "s": 12.83
+  },
+  {
+   "p": 1,
+   "t": "Op zaterdag gingen Alex en Dani naar de Gamma, een bouwmarkt.",
+   "s": 15.37
+  },
+  {
+   "p": 1,
+   "t": "Een bouwmarkt is een grote winkel voor mensen die zelf iets willen maken of repareren.",
+   "s": 21.24
+  },
+  {
+   "p": 1,
+   "t": "Dat heet klussen.",
+   "s": 28.35
+  },
+  {
+   "p": 2,
+   "t": "Ze kochten twee emmers verf, een roller, een kwast, tape en plastic voor de vloer.",
+   "s": 30.79
+  },
+  {
+   "p": 2,
+   "t": "Bij de kassa vroeg Alex: “Is dit genoeg voor een kleine kamer?”",
+   "s": 38.38
+  },
+  {
+   "p": 3,
+   "t": "“Ruim genoeg,” zei de verkoper.",
+   "s": 44.07
+  },
+  {
+   "p": 3,
+   "t": "“Maar eerst goed schoonmaken en afplakken, hoor!”",
+   "s": 47.82
+  },
+  {
+   "p": 4,
+   "t": "Thuis haalden ze alle meubels uit de kamer.",
+   "s": 52.79
+  },
+  {
+   "p": 4,
+   "t": "Dani plakte de randen af.",
+   "s": 56.8
+  },
+  {
+   "p": 4,
+   "t": "Toen begonnen ze te verven.",
+   "s": 59.98
+  },
+  {
+   "p": 4,
+   "t": "Eerst de randen met de kwast, daarna de muren met de roller.",
+   "s": 62.98
+  },
+  {
+   "p": 5,
+   "t": "Mia mocht ook helpen.",
+   "s": 68.13
+  },
+  {
+   "p": 5,
+   "t": "Ze verfde een klein stukje muur achter de deur.",
+   "s": 71.02
+  },
+  {
+   "p": 5,
+   "t": "Na een uur zat er meer verf op haar handen dan op de muur.",
+   "s": 75.37
+  },
+  {
+   "p": 6,
+   "t": "'s Avonds was de kamer klaar.",
+   "s": 80.55
+  },
+  {
+   "p": 6,
+   "t": "Het rook naar verf, dus het raam bleef de hele nacht open.",
+   "s": 83.83
+  },
+  {
+   "p": 6,
+   "t": "“Morgen slaap ik in mijn lentekamer!”",
+   "s": 89.51
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welke kleur wilde Mia?",
+   "o": [
+    "roze",
+    "lichtblauw",
+    "lichtgroen",
+    "geel"
+   ],
+   "a": 2,
+   "fa": "میا چه رنگی می‌خواست؟"
+  },
+  {
+   "q": "Wat is een bouwmarkt?",
+   "o": [
+    "een winkel voor klussers",
+    "een markt met groente",
+    "een supermarkt",
+    "een school"
+   ],
+   "a": 0,
+   "fa": "فروشگاه ابزار و مصالح (بوومارکت) چیست؟"
+  },
+  {
+   "q": "Wat betekent klussen?",
+   "o": [
+    "koken",
+    "zelf iets maken of repareren",
+    "schoonmaken",
+    "winkelen"
+   ],
+   "a": 1,
+   "fa": "«کلوسن» یعنی چه؟"
+  },
+  {
+   "q": "Wat deed Dani met de tape?",
+   "o": [
+    "hij plakte de vloer af",
+    "hij plakte een poster op",
+    "hij plakte de deur dicht",
+    "hij plakte de randen af"
+   ],
+   "a": 3,
+   "fa": "دانی با نوار چسب چه کرد؟"
+  },
+  {
+   "q": "Waar verfde Mia een stukje muur?",
+   "o": [
+    "achter de deur",
+    "bij het raam",
+    "in de gang",
+    "in de keuken"
+   ],
+   "a": 0,
+   "fa": "میا کجای دیوار را رنگ زد؟"
+  },
+  {
+   "q": "Waarom bleef het raam open?",
+   "o": [
+    "het was warm",
+    "Lucy wilde naar binnen",
+    "het rook naar verf",
+    "Mia wilde het"
+   ],
+   "a": 2,
+   "fa": "چرا پنجره باز ماند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "klussen",
+   "art": "",
+   "w": "klussen",
+   "ipa": "/ˈklʏsə(n)/",
+   "fa": "خودت کارهای تعمیری خانه را انجام دادن",
+   "ex": "Dat heet klussen.",
+   "m": [
+    9,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "bouwmarkt",
+   "art": "de",
+   "w": "de bouwmarkt",
+   "ipa": "/ˈbɑumɑrkt/",
+   "fa": "فروشگاه ابزار و مصالح",
+   "ex": "Op zaterdag gingen Alex en Dani naar de Gamma, een bouwmarkt.",
+   "m": [
+    51,
+    60
+   ],
+   "book": 1
+  },
+  {
+   "id": "repareren",
+   "art": "",
+   "w": "repareren",
+   "ipa": "/reːpaːˈreːrə(n)/",
+   "fa": "تعمیر کردن",
+   "ex": "Kun jij mijn fiets repareren?",
+   "m": [
+    19,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "verf",
+   "art": "de",
+   "w": "de verf",
+   "ipa": "/vɛrf/",
+   "fa": "رنگ (نقاشی ساختمان)",
+   "ex": "Toen begonnen ze te verven.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "verven",
+   "art": "",
+   "w": "verven",
+   "ipa": "/ˈvɛrvə(n)/",
+   "fa": "رنگ زدن",
+   "ex": "Toen begonnen ze te verven.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "kwast",
+   "art": "de",
+   "w": "de kwast",
+   "ipa": "/kʋɑst/",
+   "fa": "قلم‌مو",
+   "ex": "Eerst de randen met de kwast, daarna de muren met de roller.",
+   "m": [
+    23,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "emmer",
+   "art": "de",
+   "w": "de emmer",
+   "ipa": "/ˈɛmər/",
+   "fa": "سطل",
+   "ex": "Er zit vijf liter verf in de emmer.",
+   "m": [
+    29,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "muur",
+   "art": "de",
+   "w": "de muur",
+   "ipa": "/myːr/",
+   "fa": "دیوار",
+   "ex": "Ze verfde een klein stukje muur achter de deur.",
+   "m": [
+    27,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "meubel",
+   "art": "het",
+   "w": "het meubel",
+   "ipa": "/ˈmøːbəl/",
+   "fa": "مبلمان، اثاثیه",
+   "ex": "Thuis haalden ze alle meubels uit de kamer.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "ruiken",
+   "art": "",
+   "w": "ruiken",
+   "ipa": "/ˈrœykə(n)/",
+   "fa": "بو دادن، بوییدن",
+   "ex": "Het rook naar verf, dus het raam bleef de hele nacht open.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "kamer",
+   "art": "de",
+   "w": "de kamer",
+   "ipa": "/ˈkaːmər/",
+   "fa": "اتاق",
+   "ex": "Is dit genoeg voor een kleine kamer?",
+   "m": [
+    30,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "lichtgroen",
+   "art": "",
+   "w": "lichtgroen",
+   "ipa": "/ˈlɪxtxrun/",
+   "fa": "سبز روشن",
+   "ex": "Lichtgroen, papa!",
+   "m": [
+    0,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "roller",
+   "art": "de",
+   "w": "de roller",
+   "ipa": "/ˈrɔlər/",
+   "fa": "غلتک رنگ",
+   "ex": "Eerst de randen met de kwast, daarna de muren met de roller.",
+   "m": [
+    53,
+    59
+   ],
+   "book": 0
+  },
+  {
+   "id": "tape",
+   "art": "de",
+   "w": "de tape",
+   "ipa": "/teːp/",
+   "fa": "نوار چسب",
+   "ex": "Ze kochten twee emmers verf, een roller, een kwast, tape en plastic voor de vloer.",
+   "m": [
+    52,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "vloer",
+   "art": "de",
+   "w": "de vloer",
+   "ipa": "/vlur/",
+   "fa": "کف (اتاق)",
+   "ex": "Ze kochten twee emmers verf, een roller, een kwast, tape en plastic voor de vloer.",
+   "m": [
+    76,
+    81
+   ],
+   "book": 0
+  },
+  {
+   "id": "schoonmaken",
+   "art": "",
+   "w": "schoonmaken",
+   "ipa": "/ˈsxoː(n)ˌmaːkə(n)/",
+   "fa": "تمیز کردن",
+   "ex": "Maar eerst goed schoonmaken en afplakken, hoor!",
+   "m": [
+    16,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "rand",
+   "art": "de",
+   "w": "de rand",
+   "ipa": "/rɑnt/",
+   "fa": "لبه، حاشیه",
+   "ex": "Dani plakte de randen af.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "nacht",
+   "art": "de",
+   "w": "de nacht",
+   "ipa": "/nɑxt/",
+   "fa": "شب",
+   "ex": "Het rook naar verf, dus het raam bleef de hele nacht open.",
+   "m": [
+    47,
+    52
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik wil een nieuwe kleur voor mijn kamer.",
+   "fa": "برای اتاقم یک رنگ جدید می‌خواهم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Is dit genoeg voor een kleine kamer?",
+   "fa": "این برای یک اتاق کوچک کافی است؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Eerst goed schoonmaken!",
+   "fa": "اول خوب تمیز کن!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mia mocht ook helpen.",
+   "fa": "میا هم اجازه داشت کمک کند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het rook naar verf.",
+   "fa": "بوی رنگ می‌داد.",
+   "alt": []
+  }
+ ]
+}

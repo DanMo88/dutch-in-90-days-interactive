@@ -1,0 +1,422 @@
+{
+ "day": 55,
+ "level": "A2",
+ "title": "Vijf mei: Bevrijdingsdag",
+ "fa_title": "پنجم مه: روز آزادی",
+ "audio": "audio/day55.mp3",
+ "img": "img/day55.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "De volgende dag hingen de vlaggen weer helemaal bovenaan.",
+   "s": 6.54
+  },
+  {
+   "p": 0,
+   "t": "Het was 5 mei, Bevrijdingsdag.",
+   "s": 11.44
+  },
+  {
+   "p": 0,
+   "t": "Op die dag in 1945 was de oorlog in Nederland voorbij.",
+   "s": 15.58
+  },
+  {
+   "p": 0,
+   "t": "Na vijf jaar was het land weer vrij.",
+   "s": 22.08
+  },
+  {
+   "p": 1,
+   "t": "“Gisteren waren we verdrietig, vandaag vieren we feest,” zei Dani.",
+   "s": 25.85
+  },
+  {
+   "p": 2,
+   "t": "'s Middags fietsten we naar een bevrijdingsfestival in een park.",
+   "s": 32.16
+  },
+  {
+   "p": 2,
+   "t": "Er waren podia met optredens, kraampjes met eten en een grote tent waar mensen over vrijheid praatten.",
+   "s": 37.38
+  },
+  {
+   "p": 3,
+   "t": "In die tent vertelde een jonge vrouw haar verhaal.",
+   "s": 46.41
+  },
+  {
+   "p": 3,
+   "t": "Ze was als kind uit haar land gevlucht, omdat het daar oorlog was.",
+   "s": 50.83
+  },
+  {
+   "p": 3,
+   "t": "Nu studeerde ze in Amsterdam.",
+   "s": 56.68
+  },
+  {
+   "p": 3,
+   "t": "“Vrijheid is niet vanzelfsprekend,” zei ze.",
+   "s": 59.96
+  },
+  {
+   "p": 3,
+   "t": "“We moeten er samen voor zorgen.”",
+   "s": 64.69
+  },
+  {
+   "p": 4,
+   "t": "'s Avonds zaten we op het gras en luisterden naar muziek.",
+   "s": 68.02
+  },
+  {
+   "p": 4,
+   "t": "Mia danste met Fatima's zoontje.",
+   "s": 72.93
+  },
+  {
+   "p": 4,
+   "t": "“Wat betekent vrijheid voor jou?” vroeg Fatima mij.",
+   "s": 76.66
+  },
+  {
+   "p": 5,
+   "t": "Ik dacht even na.",
+   "s": 82.93
+  },
+  {
+   "p": 5,
+   "t": "“Dat Mia hier zonder angst kan dansen,” zei ik.",
+   "s": 85.43
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat gebeurde er op 5 mei 1945?",
+   "o": [
+    "de oorlog begon",
+    "de koning werd geboren",
+    "de oorlog in Nederland was voorbij",
+    "Amsterdam werd gebouwd"
+   ],
+   "a": 2,
+   "fa": "در ۵ مه ۱۹۴۵ چه اتفاقی افتاد؟"
+  },
+  {
+   "q": "Hoe hangen de vlaggen op 5 mei?",
+   "o": [
+    "helemaal bovenaan",
+    "halfstok",
+    "er hangen geen vlaggen",
+    "omgekeerd"
+   ],
+   "a": 0,
+   "fa": "پرچم‌ها در ۵ مه چطور آویزان‌اند؟"
+  },
+  {
+   "q": "Hoe kwamen ze bij het festival?",
+   "o": [
+    "met de tram",
+    "op de fiets",
+    "lopend",
+    "met de boot"
+   ],
+   "a": 1,
+   "fa": "چطور به جشنواره رفتند؟"
+  },
+  {
+   "q": "Wat was er in de grote tent?",
+   "o": [
+    "een film",
+    "eten",
+    "een feest voor kinderen",
+    "mensen die over vrijheid praatten"
+   ],
+   "a": 3,
+   "fa": "در چادر بزرگ چه خبر بود؟"
+  },
+  {
+   "q": "Waarom was de jonge vrouw gevlucht?",
+   "o": [
+    "omdat het oorlog was in haar land",
+    "voor haar studie",
+    "voor werk",
+    "voor de liefde"
+   ],
+   "a": 0,
+   "fa": "چرا آن زن جوان فرار کرده بود؟"
+  },
+  {
+   "q": "Wat betekent vrijheid voor Sara?",
+   "o": [
+    "veel geld hebben",
+    "dat Mia zonder angst kan dansen",
+    "op vakantie gaan",
+    "niet werken"
+   ],
+   "a": 1,
+   "fa": "آزادی برای سارا چه معنایی دارد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "bevrijding",
+   "art": "de",
+   "w": "de bevrijding",
+   "ipa": "/bəˈvrɛidɪŋ/",
+   "fa": "رهایی، آزادسازی",
+   "ex": "Op 5 mei vieren we de bevrijding.",
+   "m": [
+    22,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorbij",
+   "art": "",
+   "w": "voorbij",
+   "ipa": "/voːrˈbɛi/",
+   "fa": "تمام‌شده، گذشته",
+   "ex": "Op die dag in 1945 was de oorlog in Nederland voorbij.",
+   "m": [
+    46,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrij",
+   "art": "",
+   "w": "vrij",
+   "ipa": "/vrɛi/",
+   "fa": "آزاد",
+   "ex": "Na de oorlog was het land weer vrij.",
+   "m": [
+    31,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdrietig",
+   "art": "",
+   "w": "verdrietig",
+   "ipa": "/vərˈdritəx/",
+   "fa": "غمگین",
+   "ex": "Gisteren waren we verdrietig, vandaag vieren we feest.",
+   "m": [
+    18,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "optreden",
+   "art": "het",
+   "w": "het optreden",
+   "ipa": "/ˈɔptreːdə(n)/",
+   "fa": "اجرا (برنامه)",
+   "ex": "Het optreden van de band was geweldig.",
+   "m": [
+    4,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "podium",
+   "art": "het",
+   "w": "het podium",
+   "ipa": "/ˈpoːdijʏm/",
+   "fa": "صحنه",
+   "ex": "De zanger staat op het podium.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrijheid",
+   "art": "de",
+   "w": "de vrijheid",
+   "ipa": "/ˈvrɛiɦɛit/",
+   "fa": "آزادی",
+   "ex": "Wat betekent vrijheid voor jou?",
+   "m": [
+    13,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "vluchten",
+   "art": "",
+   "w": "vluchten",
+   "ipa": "/ˈvlʏxtə(n)/",
+   "fa": "فرار کردن، گریختن",
+   "ex": "Ze was als kind uit haar land gevlucht, omdat het daar oorlog was.",
+   "m": [
+    30,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "vanzelfsprekend",
+   "art": "",
+   "w": "vanzelfsprekend",
+   "ipa": "/vɑnzɛlfˈspreːkənt/",
+   "fa": "بدیهی",
+   "ex": "Vrijheid is niet vanzelfsprekend.",
+   "m": [
+    17,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "angst",
+   "art": "de",
+   "w": "de angst",
+   "ipa": "/ɑŋst/",
+   "fa": "ترس",
+   "ex": "Dat Mia hier zonder angst kan dansen.",
+   "m": [
+    20,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "bovenaan",
+   "art": "",
+   "w": "bovenaan",
+   "ipa": "/ˌboːvə(n)ˈaːn/",
+   "fa": "در بالاترین نقطه",
+   "ex": "De volgende dag hingen de vlaggen weer helemaal bovenaan.",
+   "m": [
+    48,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "festival",
+   "art": "het",
+   "w": "het festival",
+   "ipa": "/ˈfɛstiˌvɑl/",
+   "fa": "جشنواره",
+   "ex": "We fietsten naar een festival in een park.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "jong",
+   "art": "",
+   "w": "jong",
+   "ipa": "/jɔŋ/",
+   "fa": "جوان",
+   "ex": "In die tent vertelde een jonge vrouw haar verhaal.",
+   "m": [
+    25,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "studeren",
+   "art": "",
+   "w": "studeren",
+   "ipa": "/styˈdeːrə(n)/",
+   "fa": "درس خواندن (در دانشگاه)",
+   "ex": "Nu studeerde ze in Amsterdam.",
+   "m": [
+    3,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "luisteren",
+   "art": "",
+   "w": "luisteren",
+   "ipa": "/ˈlœystərə(n)/",
+   "fa": "گوش دادن",
+   "ex": "'s Avonds zaten we op het gras en luisterden naar muziek.",
+   "m": [
+    34,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "zoontje",
+   "art": "het",
+   "w": "het zoontje",
+   "ipa": "/ˈzoːncə/",
+   "fa": "پسر کوچک",
+   "ex": "Mia danste met Fatima's zoontje.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "betekenen",
+   "art": "",
+   "w": "betekenen",
+   "ipa": "/bəˈteːkənə(n)/",
+   "fa": "معنی دادن",
+   "ex": "Wat betekent vrijheid voor jou?",
+   "m": [
+    4,
+    12
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Na vijf jaar was het land weer vrij.",
+   "fa": "بعد از پنج سال کشور دوباره آزاد شد.",
+   "alt": [
+    "Het land was na vijf jaar weer vrij."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Vandaag vieren we feest.",
+   "fa": "امروز جشن می‌گیریم.",
+   "alt": [
+    "We vieren vandaag feest."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Ze was uit haar land gevlucht.",
+   "fa": "او از کشورش گریخته بود.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Vrijheid is niet vanzelfsprekend.",
+   "fa": "آزادی بدیهی نیست.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Wat betekent vrijheid voor jou?",
+   "fa": "آزادی برای تو چه معنایی دارد؟",
+   "alt": []
+  }
+ ]
+}

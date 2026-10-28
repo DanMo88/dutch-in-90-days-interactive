@@ -1,0 +1,438 @@
+{
+ "day": 40,
+ "level": "A2",
+ "title": "Het consultatiebureau",
+ "fa_title": "مرکز مراقبت از کودک",
+ "audio": "audio/day40.mp3",
+ "img": "img/day40.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Noah is nu vier weken oud.",
+   "s": 5.38
+  },
+  {
+   "p": 0,
+   "t": "Emma komt bij ons op de koffie, met Noah in een draagzak.",
+   "s": 8.74
+  },
+  {
+   "p": 1,
+   "t": "“Vanochtend waren we bij het consultatiebureau,” vertelt ze.",
+   "s": 13.84
+  },
+  {
+   "p": 1,
+   "t": "“Daar gaan bijna alle ouders met hun baby naartoe.",
+   "s": 18.87
+  },
+  {
+   "p": 1,
+   "t": "Het is gratis.”",
+   "s": 23.53
+  },
+  {
+   "p": 2,
+   "t": "“Wat doen ze daar?” vraag ik.",
+   "s": 26.31
+  },
+  {
+   "p": 3,
+   "t": "“Ze wegen en meten Noah.",
+   "s": 30.85
+  },
+  {
+   "p": 3,
+   "t": "Ze kijken of hij goed groeit en goed hoort en ziet.",
+   "s": 34.17
+  },
+  {
+   "p": 3,
+   "t": "En we kunnen vragen stellen over slapen en eten.",
+   "s": 38.73
+  },
+  {
+   "p": 3,
+   "t": "De verpleegkundige was heel aardig.”",
+   "s": 43.23
+  },
+  {
+   "p": 4,
+   "t": "“Krijgt hij daar ook vaccinaties?”",
+   "s": 46.93
+  },
+  {
+   "p": 5,
+   "t": "“Ja.",
+   "s": 50.46
+  },
+  {
+   "p": 5,
+   "t": "Over twee maanden krijgt hij zijn eerste prikken.",
+   "s": 52.1
+  },
+  {
+   "p": 5,
+   "t": "In Nederland is er een vaccinatieprogramma voor alle kinderen.",
+   "s": 56.32
+  },
+  {
+   "p": 5,
+   "t": "Het is niet verplicht, maar bijna iedereen doet mee.”",
+   "s": 61.46
+  },
+  {
+   "p": 6,
+   "t": "Ik vertel dat ik vroeger ook met baby's heb gewerkt.",
+   "s": 66.35
+  },
+  {
+   "p": 6,
+   "t": "“Wat leuk!” zegt Emma.",
+   "s": 70.85
+  },
+  {
+   "p": 6,
+   "t": "“Misschien kun je later wel bij de jeugdgezondheidszorg werken.”",
+   "s": 75.2
+  },
+  {
+   "p": 7,
+   "t": "Dat idee blijft de hele dag in mijn hoofd.",
+   "s": 80.35
+  },
+  {
+   "p": 7,
+   "t": "Mijn diploma moet eerst worden erkend, en mijn Nederlands moet nog beter.",
+   "s": 84.4
+  },
+  {
+   "p": 7,
+   "t": "Maar het is een mooi doel.",
+   "s": 90.29
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe oud is Noah?",
+   "o": [
+    "vier weken",
+    "vier maanden",
+    "één week",
+    "twee weken"
+   ],
+   "a": 0,
+   "fa": "نوآ چند وقتش است؟"
+  },
+  {
+   "q": "Wat kost het consultatiebureau?",
+   "o": [
+    "tien euro",
+    "het is gratis",
+    "het hangt ervan af",
+    "twintig euro"
+   ],
+   "a": 1,
+   "fa": "مرکز مراقبت از کودک چقدر هزینه دارد؟"
+  },
+  {
+   "q": "Wat doen ze bij het consultatiebureau?",
+   "o": [
+    "ze geven les",
+    "ze maken foto's",
+    "ze wegen en meten de baby",
+    "ze verkopen kleertjes"
+   ],
+   "a": 2,
+   "fa": "آنجا چه کار می‌کنند؟"
+  },
+  {
+   "q": "Wanneer krijgt Noah zijn eerste prikken?",
+   "o": [
+    "vandaag",
+    "volgend jaar",
+    "morgen",
+    "over twee maanden"
+   ],
+   "a": 3,
+   "fa": "نوآ کِی اولین واکسن‌هایش را می‌زند؟"
+  },
+  {
+   "q": "Waar heeft Sara vroeger ook mee gewerkt?",
+   "o": [
+    "met baby's",
+    "met computers",
+    "met dieren",
+    "met oude mensen"
+   ],
+   "a": 0,
+   "fa": "سارا قبلاً با چه کسانی کار کرده است؟"
+  },
+  {
+   "q": "Wat moet er eerst gebeuren voordat Sara hier kan werken?",
+   "o": [
+    "ze moet een auto kopen",
+    "haar diploma moet worden erkend",
+    "ze moet verhuizen",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "قبل از اینکه سارا اینجا کار کند، اول چه باید بشود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "consultatiebureau",
+   "art": "het",
+   "w": "het consultatiebureau",
+   "ipa": "/kɔnsʏlˈtaː(t)sibyroː/",
+   "fa": "مرکز مراقبت از کودک",
+   "ex": "Vanochtend waren we bij het consultatiebureau.",
+   "m": [
+    28,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "ouder",
+   "art": "de",
+   "w": "de ouder",
+   "ipa": "/ˈɑudər/",
+   "fa": "والد",
+   "ex": "Daar gaan bijna alle ouders met hun baby naartoe.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "wegen",
+   "art": "",
+   "w": "wegen",
+   "ipa": "/ˈʋeːɣə(n)/",
+   "fa": "وزن کردن",
+   "ex": "Ze wegen en meten Noah.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "groeien",
+   "art": "",
+   "w": "groeien",
+   "ipa": "/ˈɣrujə(n)/",
+   "fa": "رشد کردن",
+   "ex": "Ze kijken of hij goed groeit en goed hoort en ziet.",
+   "m": [
+    22,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "vaccinatie",
+   "art": "de",
+   "w": "de vaccinatie",
+   "ipa": "/vɑksiˈnaː(t)si/",
+   "fa": "واکسیناسیون",
+   "ex": "Krijgt hij daar ook vaccinaties?",
+   "m": [
+    20,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "prik",
+   "art": "de",
+   "w": "de prik",
+   "ipa": "/prɪk/",
+   "fa": "آمپول، واکسن",
+   "ex": "Over twee maanden krijgt hij zijn eerste prikken.",
+   "m": [
+    41,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "verplicht",
+   "art": "",
+   "w": "verplicht",
+   "ipa": "/vərˈplɪxt/",
+   "fa": "اجباری",
+   "ex": "Het is niet verplicht, maar bijna iedereen doet mee.",
+   "m": [
+    12,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "diploma",
+   "art": "het",
+   "w": "het diploma",
+   "ipa": "/diˈploːmaː/",
+   "fa": "مدرک تحصیلی",
+   "ex": "Mijn diploma moet eerst worden erkend, en mijn Nederlands moet nog beter.",
+   "m": [
+    5,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "erkennen",
+   "art": "",
+   "w": "erkennen",
+   "ipa": "/ɛrˈkɛnə(n)/",
+   "fa": "به رسمیت شناختن",
+   "ex": "Mijn diploma moet eerst worden erkend, en mijn Nederlands moet nog beter.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "doel",
+   "art": "het",
+   "w": "het doel",
+   "ipa": "/dul/",
+   "fa": "هدف",
+   "ex": "Mijn doel is werken in een ziekenhuis.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "draagzak",
+   "art": "de",
+   "w": "de draagzak",
+   "ipa": "/ˈdraːxsɑk/",
+   "fa": "آغوشی (کیسه‌ی حمل نوزاد)",
+   "ex": "Emma komt bij ons op de koffie, met Noah in een draagzak.",
+   "m": [
+    48,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "aardig",
+   "art": "",
+   "w": "aardig",
+   "ipa": "/ˈaːrdəx/",
+   "fa": "مهربان، خوش‌برخورد",
+   "ex": "De verpleegkundige was heel aardig.",
+   "m": [
+    28,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "horen",
+   "art": "",
+   "w": "horen",
+   "ipa": "/ˈɦoːrə(n)/",
+   "fa": "شنیدن",
+   "ex": "Ze kijken of hij goed groeit en goed hoort en ziet.",
+   "m": [
+    37,
+    42
+   ],
+   "book": 0
+  },
+  {
+   "id": "idee",
+   "art": "het",
+   "w": "het idee",
+   "ipa": "/iˈdeː/",
+   "fa": "ایده، فکر",
+   "ex": "Dat idee blijft de hele dag in mijn hoofd.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 0
+  },
+  {
+   "id": "misschien",
+   "art": "",
+   "w": "misschien",
+   "ipa": "/mɪˈsxin/",
+   "fa": "شاید",
+   "ex": "Misschien kun je later wel bij de jeugdgezondheidszorg werken.",
+   "m": [
+    0,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "bijna",
+   "art": "",
+   "w": "bijna",
+   "ipa": "/ˈbɛinaː/",
+   "fa": "تقریباً",
+   "ex": "Daar gaan bijna alle ouders met hun baby naartoe.",
+   "m": [
+    10,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "koffie",
+   "art": "de",
+   "w": "de koffie",
+   "ipa": "/ˈkɔfi/",
+   "fa": "قهوه",
+   "ex": "Emma komt bij ons op de koffie, met Noah in een draagzak.",
+   "m": [
+    24,
+    30
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ze wegen en meten Noah.",
+   "fa": "نوآ را وزن می‌کنند و قدش را اندازه می‌گیرند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij groeit goed.",
+   "fa": "خوب رشد می‌کند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Het is niet verplicht.",
+   "fa": "اجباری نیست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Bijna iedereen doet mee.",
+   "fa": "تقریباً همه شرکت می‌کنند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het is een mooi doel.",
+   "fa": "هدف خوبی است.",
+   "alt": []
+  }
+ ]
+}

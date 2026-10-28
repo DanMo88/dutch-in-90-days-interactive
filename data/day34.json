@@ -1,0 +1,435 @@
+{
+ "day": 34,
+ "level": "A2",
+ "title": "Bij de apotheek",
+ "fa_title": "در داروخانه",
+ "audio": "audio/day34.mp3",
+ "img": "img/day34.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Na drie dagen had Mia nog steeds koorts.",
+   "s": 5.42
+  },
+  {
+   "p": 0,
+   "t": "Ik heb de huisarts teruggebeld.",
+   "s": 9.67
+  },
+  {
+   "p": 0,
+   "t": "Deze keer schreef hij een antibioticum voor.",
+   "s": 13.04
+  },
+  {
+   "p": 0,
+   "t": "“Het recept stuur ik meteen naar de apotheek,” zei hij.",
+   "s": 17.32
+  },
+  {
+   "p": 1,
+   "t": "Bij de drogist koop je paracetamol of shampoo.",
+   "s": 22.06
+  },
+  {
+   "p": 1,
+   "t": "Bij de apotheek haal je medicijnen die de dokter voorschrijft.",
+   "s": 26.82
+  },
+  {
+   "p": 2,
+   "t": "'s Middags fietste ik naar de apotheek.",
+   "s": 31.99
+  },
+  {
+   "p": 2,
+   "t": "Toen ik aan de beurt was, vroeg de apothekersassistente naar de geboortedatum van Mia.",
+   "s": 35.77
+  },
+  {
+   "p": 3,
+   "t": "“Het is een drankje,” legde ze uit.",
+   "s": 42.65
+  },
+  {
+   "p": 3,
+   "t": "“Uw dochter moet het drie keer per dag nemen, bij het eten.",
+   "s": 46.26
+  },
+  {
+   "p": 3,
+   "t": "Gebruik het spuitje om goed af te meten.",
+   "s": 50.99
+  },
+  {
+   "p": 3,
+   "t": "En stop niet te vroeg, ook niet als ze zich beter voelt.",
+   "s": 54.99
+  },
+  {
+   "p": 3,
+   "t": "Maak de fles helemaal leeg.”",
+   "s": 59.56
+  },
+  {
+   "p": 4,
+   "t": "“Moet ik iets betalen?”",
+   "s": 62.85
+  },
+  {
+   "p": 5,
+   "t": "“Nee, voor kinderen betaalt de zorgverzekering alles.”",
+   "s": 65.52
+  },
+  {
+   "p": 6,
+   "t": "In de doos zat ook een lang papier: de bijsluiter.",
+   "s": 70.4
+  },
+  {
+   "p": 6,
+   "t": "Thuis las ik hem met een woordenboek.",
+   "s": 75.04
+  },
+  {
+   "p": 7,
+   "t": "Het drankje smaakte naar aardbei.",
+   "s": 78.57
+  },
+  {
+   "p": 7,
+   "t": "“Lekker!” zei Mia.",
+   "s": 82.01
+  },
+  {
+   "p": 7,
+   "t": "Twee dagen later was ze weer de oude.",
+   "s": 85.87
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat schreef de huisarts voor?",
+   "o": [
+    "paracetamol",
+    "een antibioticum",
+    "vitamines",
+    "thee met honing"
+   ],
+   "a": 1,
+   "fa": "پزشک چه چیزی تجویز کرد؟"
+  },
+  {
+   "q": "Waar stuurde hij het recept naartoe?",
+   "o": [
+    "naar de apotheek",
+    "naar de drogist",
+    "naar Sara",
+    "naar de school"
+   ],
+   "a": 0,
+   "fa": "نسخه را به کجا فرستاد؟"
+  },
+  {
+   "q": "Hoe vaak moet Mia het drankje nemen?",
+   "o": [
+    "één keer per dag",
+    "twee keer per dag",
+    "vier keer per dag",
+    "drie keer per dag"
+   ],
+   "a": 3,
+   "fa": "میا هر چند وقت باید شربت را بخورد؟"
+  },
+  {
+   "q": "Wat moet Sara niet doen?",
+   "o": [
+    "het spuitje gebruiken",
+    "het bij het eten geven",
+    "te vroeg stoppen",
+    "de bijsluiter lezen"
+   ],
+   "a": 2,
+   "fa": "سارا چه کاری نباید بکند؟"
+  },
+  {
+   "q": "Wie betaalt het medicijn voor kinderen?",
+   "o": [
+    "de zorgverzekering",
+    "Sara",
+    "de gemeente",
+    "de school"
+   ],
+   "a": 0,
+   "fa": "چه کسی هزینه‌ی داروی بچه‌ها را می‌پردازد؟"
+  },
+  {
+   "q": "Waar smaakte het drankje naar?",
+   "o": [
+    "banaan",
+    "citroen",
+    "aardbei",
+    "chocolade"
+   ],
+   "a": 2,
+   "fa": "مزه‌ی شربت چه بود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "apotheek",
+   "art": "de",
+   "w": "de apotheek",
+   "ipa": "/ɑpoːˈteːk/",
+   "fa": "داروخانه",
+   "ex": "'s Middags fietste ik naar de apotheek.",
+   "m": [
+    30,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "recept",
+   "art": "het",
+   "w": "het recept",
+   "ipa": "/rəˈsɛpt/",
+   "fa": "نسخه (پزشک)",
+   "ex": "Voor dit medicijn heb je een recept nodig.",
+   "m": [
+    29,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorschrijven",
+   "art": "",
+   "w": "voorschrijven",
+   "ipa": "/ˈvoːrsxrɛivə(n)/",
+   "fa": "تجویز کردن",
+   "ex": "De dokter heeft een antibioticum voorgeschreven.",
+   "m": [
+    33,
+    47
+   ],
+   "book": 1
+  },
+  {
+   "id": "drankje",
+   "art": "het",
+   "w": "het drankje",
+   "ipa": "/ˈdrɑŋkjə/",
+   "fa": "شربت (دارو)",
+   "ex": "Het drankje smaakte naar aardbei.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitleggen",
+   "art": "",
+   "w": "uitleggen",
+   "ipa": "/ˈœytlɛɣə(n)/",
+   "fa": "توضیح دادن",
+   "ex": "Kunt u het nog een keer uitleggen?",
+   "m": [
+    24,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "geboortedatum",
+   "art": "de",
+   "w": "de geboortedatum",
+   "ipa": "/ɣəˈboːrtədaːtʏm/",
+   "fa": "تاریخ تولد",
+   "ex": "Wat is uw geboortedatum?",
+   "m": [
+    10,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "zorgverzekering",
+   "art": "de",
+   "w": "de zorgverzekering",
+   "ipa": "/ˈzɔrxfərzeːkərɪŋ/",
+   "fa": "بیمه‌ی درمانی",
+   "ex": "Nee, voor kinderen betaalt de zorgverzekering alles.",
+   "m": [
+    30,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "bijsluiter",
+   "art": "de",
+   "w": "de bijsluiter",
+   "ipa": "/ˈbɛislœytər/",
+   "fa": "بروشور دارو",
+   "ex": "In de doos zat ook een lang papier: de bijsluiter.",
+   "m": [
+    39,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "woordenboek",
+   "art": "het",
+   "w": "het woordenboek",
+   "ipa": "/ˈʋoːrdə(n)buk/",
+   "fa": "فرهنگ لغت",
+   "ex": "Thuis las ik hem met een woordenboek.",
+   "m": [
+    25,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "smaken",
+   "art": "",
+   "w": "smaken",
+   "ipa": "/ˈsmaːkə(n)/",
+   "fa": "مزه دادن",
+   "ex": "Het drankje smaakte naar aardbei.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "antibioticum",
+   "art": "het",
+   "w": "het antibioticum",
+   "ipa": "/ˌɑntibiˈoːtikʏm/",
+   "fa": "آنتی‌بیوتیک",
+   "ex": "Deze keer schreef hij een antibioticum voor.",
+   "m": [
+    26,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "drogist",
+   "art": "de",
+   "w": "de drogist",
+   "ipa": "/droːˈɣɪst/",
+   "fa": "فروشگاه لوازم بهداشتی؛ داروفروش",
+   "ex": "Bij de drogist koop je paracetamol of shampoo.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "dokter",
+   "art": "de",
+   "w": "de dokter",
+   "ipa": "/ˈdɔktər/",
+   "fa": "دکتر",
+   "ex": "Bij de apotheek haal je medicijnen die de dokter voorschrijft.",
+   "m": [
+    42,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "spuitje",
+   "art": "het",
+   "w": "het spuitje",
+   "ipa": "/ˈspœycə/",
+   "fa": "سرنگ کوچک (بدون سوزن)",
+   "ex": "Gebruik het spuitje om goed af te meten.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "stoppen",
+   "art": "",
+   "w": "stoppen",
+   "ipa": "/ˈstɔpə(n)/",
+   "fa": "متوقف کردن، قطع کردن",
+   "ex": "En stop niet te vroeg, ook niet als ze zich beter voelt.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "keer",
+   "art": "de",
+   "w": "de keer",
+   "ipa": "/keːr/",
+   "fa": "بار، دفعه",
+   "ex": "Deze keer schreef hij een antibioticum voor.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "nog-steeds",
+   "art": "",
+   "w": "nog steeds",
+   "ipa": "/nɔx ˈsteːts/",
+   "fa": "هنوز هم",
+   "ex": "Na drie dagen had Mia nog steeds koorts.",
+   "m": [
+    22,
+    32
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het recept stuur ik naar de apotheek.",
+   "fa": "نسخه را به داروخانه می‌فرستم.",
+   "alt": [
+    "Ik stuur het recept naar de apotheek."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Drie keer per dag, bij het eten.",
+   "fa": "روزی سه بار، همراه غذا.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Stop niet te vroeg.",
+   "fa": "زود قطعش نکن.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Moet ik iets betalen?",
+   "fa": "باید چیزی بپردازم؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het drankje smaakt naar aardbei.",
+   "fa": "شربت مزه‌ی توت‌فرنگی می‌دهد.",
+   "alt": []
+  }
+ ]
+}

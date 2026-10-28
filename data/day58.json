@@ -1,0 +1,430 @@
+{
+ "day": 58,
+ "level": "A2",
+ "title": "Een zwemdiploma",
+ "fa_title": "گواهی‌نامه‌ی شنا",
+ "audio": "audio/day58.mp3",
+ "img": "img/day58.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In Nederland is overal water: grachten, rivieren, meren en de zee.",
+   "s": 5.42
+  },
+  {
+   "p": 0,
+   "t": "Daarom leren bijna alle kinderen al jong zwemmen.",
+   "s": 12.2
+  },
+  {
+   "p": 0,
+   "t": "Eerst halen ze diploma A, daarna B en C.",
+   "s": 16.63
+  },
+  {
+   "p": 1,
+   "t": "Sinds oktober ging Mia elke zaterdag naar zwemles.",
+   "s": 22.01
+  },
+  {
+   "p": 1,
+   "t": "In het begin was ze bang voor het diepe water.",
+   "s": 26.87
+  },
+  {
+   "p": 1,
+   "t": "Maar haar zwemjuf, Ilse, was heel geduldig.",
+   "s": 30.88
+  },
+  {
+   "p": 2,
+   "t": "Vandaag was de grote dag: het afzwemmen.",
+   "s": 35.87
+  },
+  {
+   "p": 2,
+   "t": "Het zwembad was vol ouders, opa's en oma's.",
+   "s": 40.27
+  },
+  {
+   "p": 3,
+   "t": "Mia moest veel laten zien.",
+   "s": 45.31
+  },
+  {
+   "p": 3,
+   "t": "Eerst sprong ze in het water en zwom ze op haar buik en op haar rug.",
+   "s": 48.52
+  },
+  {
+   "p": 3,
+   "t": "Daarna kwam het moeilijkste: met kleren en schoenen aan zwemmen.",
+   "s": 53.81
+  },
+  {
+   "p": 3,
+   "t": "Dat moet, omdat je soms per ongeluk in het water kunt vallen, bijvoorbeeld van je fiets in de gracht.",
+   "s": 59.1
+  },
+  {
+   "p": 3,
+   "t": "Ten slotte zwom ze onder water door een gat in een zeil.",
+   "s": 66.17
+  },
+  {
+   "p": 4,
+   "t": "Ik hield mijn adem in.",
+   "s": 70.84
+  },
+  {
+   "p": 4,
+   "t": "Toen Mia boven kwam, lachte ze naar ons.",
+   "s": 73.51
+  },
+  {
+   "p": 5,
+   "t": "Aan het eind riep de badmeester alle namen.",
+   "s": 77.79
+  },
+  {
+   "p": 5,
+   "t": "“Mia!”",
+   "s": 81.67
+  },
+  {
+   "p": 5,
+   "t": "Ze kreeg haar diploma en een medaille.",
+   "s": 83.43
+  },
+  {
+   "p": 6,
+   "t": "“Volgend jaar haal ik B!” zei ze trots.",
+   "s": 87.12
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom leren bijna alle kinderen in Nederland zwemmen?",
+   "o": [
+    "omdat het verplicht is op school",
+    "omdat er overal water is",
+    "omdat het warm is",
+    "omdat het gratis is"
+   ],
+   "a": 1,
+   "fa": "چرا تقریباً همه‌ی بچه‌ها در هلند شنا یاد می‌گیرند؟"
+  },
+  {
+   "q": "Sinds wanneer ging Mia naar zwemles?",
+   "o": [
+    "sinds oktober",
+    "sinds januari",
+    "sinds vorig jaar",
+    "sinds een week"
+   ],
+   "a": 0,
+   "fa": "میا از کِی به کلاس شنا می‌رفت؟"
+  },
+  {
+   "q": "Waar was Mia eerst bang voor?",
+   "o": [
+    "voor de juf",
+    "voor de andere kinderen",
+    "voor het koude water",
+    "voor het diepe water"
+   ],
+   "a": 3,
+   "fa": "میا اول از چه می‌ترسید؟"
+  },
+  {
+   "q": "Waarom moet je met kleren aan zwemmen?",
+   "o": [
+    "omdat het koud is",
+    "omdat je soms per ongeluk in het water valt",
+    "voor de foto",
+    "omdat het leuk is"
+   ],
+   "a": 1,
+   "fa": "چرا باید با لباس شنا کرد؟"
+  },
+  {
+   "q": "Waar zwom Mia onder water doorheen?",
+   "o": [
+    "een gat in een zeil",
+    "een buis",
+    "een boot",
+    "de benen van de juf"
+   ],
+   "a": 0,
+   "fa": "میا زیر آب از چه چیزی رد شد؟"
+  },
+  {
+   "q": "Wat kreeg Mia?",
+   "o": [
+    "een cadeau",
+    "een ijsje",
+    "een diploma en een medaille",
+    "een badpak"
+   ],
+   "a": 2,
+   "fa": "میا چه گرفت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "zwemmen",
+   "art": "",
+   "w": "zwemmen",
+   "ipa": "/ˈzʋɛmə(n)/",
+   "fa": "شنا کردن",
+   "ex": "Daarom leren bijna alle kinderen al jong zwemmen.",
+   "m": [
+    41,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwembad",
+   "art": "het",
+   "w": "het zwembad",
+   "ipa": "/ˈzʋɛmbɑt/",
+   "fa": "استخر",
+   "ex": "Het zwembad was vol ouders, opa's en oma's.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "diep",
+   "art": "",
+   "w": "diep",
+   "ipa": "/dip/",
+   "fa": "عمیق",
+   "ex": "In het begin was ze bang voor het diepe water.",
+   "m": [
+    34,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "geduldig",
+   "art": "",
+   "w": "geduldig",
+   "ipa": "/ɣəˈdʏldəx/",
+   "fa": "صبور",
+   "ex": "Maar haar zwemjuf, Ilse, was heel geduldig.",
+   "m": [
+    34,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "springen",
+   "art": "",
+   "w": "springen",
+   "ipa": "/ˈsprɪŋə(n)/",
+   "fa": "پریدن",
+   "ex": "Ze sprong in het water.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "per-ongeluk",
+   "art": "",
+   "w": "per ongeluk",
+   "ipa": "/pɛr ˈɔŋɣəlʏk/",
+   "fa": "تصادفی، ناخواسته",
+   "ex": "Ik heb per ongeluk je glas gebroken.",
+   "m": [
+    7,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "gat",
+   "art": "het",
+   "w": "het gat",
+   "ipa": "/ɣɑt/",
+   "fa": "سوراخ",
+   "ex": "Er zit een gat in mijn sok.",
+   "m": [
+    11,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "adem",
+   "art": "de",
+   "w": "de adem",
+   "ipa": "/ˈaːdəm/",
+   "fa": "نفس",
+   "ex": "Ik hield mijn adem in.",
+   "m": [
+    14,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "badmeester",
+   "art": "de",
+   "w": "de badmeester",
+   "ipa": "/ˈbɑtmeːstər/",
+   "fa": "نجات‌غریق (مربی استخر)",
+   "ex": "Aan het eind riep de badmeester alle namen.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "medaille",
+   "art": "de",
+   "w": "de medaille",
+   "ipa": "/meːˈdɑjə/",
+   "fa": "مدال",
+   "ex": "Ze kreeg haar diploma en een medaille.",
+   "m": [
+    29,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwemles",
+   "art": "de",
+   "w": "de zwemles",
+   "ipa": "/ˈzʋɛmlɛs/",
+   "fa": "کلاس شنا",
+   "ex": "Sinds oktober ging Mia elke zaterdag naar zwemles.",
+   "m": [
+    42,
+    49
+   ],
+   "book": 0
+  },
+  {
+   "id": "begin",
+   "art": "het",
+   "w": "het begin",
+   "ipa": "/bəˈɣɪn/",
+   "fa": "شروع، آغاز",
+   "ex": "In het begin was ze bang voor het diepe water.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "afzwemmen",
+   "art": "het",
+   "w": "het afzwemmen",
+   "ipa": "/ˈɑfsʋɛmə(n)/",
+   "fa": "آزمون نهایی شنا",
+   "ex": "Vandaag was de grote dag: het afzwemmen.",
+   "m": [
+    30,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "moeilijk",
+   "art": "",
+   "w": "moeilijk",
+   "ipa": "/ˈmuilək/",
+   "fa": "سخت، دشوار",
+   "ex": "Daarna kwam het moeilijkste: met kleren en schoenen aan zwemmen.",
+   "m": [
+    16,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "zeil",
+   "art": "het",
+   "w": "het zeil",
+   "ipa": "/zɛil/",
+   "fa": "برزنت؛ بادبان",
+   "ex": "Ten slotte zwom ze onder water door een gat in een zeil.",
+   "m": [
+    51,
+    55
+   ],
+   "book": 0
+  },
+  {
+   "id": "ten-slotte",
+   "art": "",
+   "w": "ten slotte",
+   "ipa": "/tɛn ˈslɔtə/",
+   "fa": "در آخر",
+   "ex": "Ten slotte zwom ze onder water door een gat in een zeil.",
+   "m": [
+    0,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "omdat",
+   "art": "",
+   "w": "omdat",
+   "ipa": "/ɔmˈdɑt/",
+   "fa": "چون، زیرا",
+   "ex": "Ze leren zwemmen, omdat er overal water is.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Bijna alle kinderen leren zwemmen.",
+   "fa": "تقریباً همه‌ی بچه‌ها شنا یاد می‌گیرند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ze was bang voor het diepe water.",
+   "fa": "او از آب عمیق می‌ترسید.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Haar zwemjuf was heel geduldig.",
+   "fa": "مربی شنایش خیلی صبور بود.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik hield mijn adem in.",
+   "fa": "نفسم را حبس کردم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Volgend jaar haal ik B!",
+   "fa": "سال بعد B را می‌گیرم!",
+   "alt": [
+    "Ik haal volgend jaar B!"
+   ]
+  }
+ ]
+}

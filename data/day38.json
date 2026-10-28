@@ -1,0 +1,438 @@
+{
+ "day": 38,
+ "level": "A2",
+ "title": "Een pakketje bij de buren",
+ "fa_title": "یک بسته پیش همسایه‌ها",
+ "audio": "audio/day38.mp3",
+ "img": "img/day38.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vorige week heb ik online een nieuwe winterjas voor Mia besteld, bij bol.",
+   "s": 5.62
+  },
+  {
+   "p": 0,
+   "t": "“Morgen in huis,” stond er op de website.",
+   "s": 12.03
+  },
+  {
+   "p": 1,
+   "t": "Maar de volgende dag was ik de hele dag bij mijn taalcursus.",
+   "s": 16.35
+  },
+  {
+   "p": 1,
+   "t": "Toen ik thuiskwam, lag er een kaartje van PostNL op de mat.",
+   "s": 21.49
+  },
+  {
+   "p": 1,
+   "t": "“Wij hebben uw pakket bezorgd bij de buren, op nummer 14.”",
+   "s": 26.67
+  },
+  {
+   "p": 2,
+   "t": "Nummer 14?",
+   "s": 31.76
+  },
+  {
+   "p": 2,
+   "t": "Dat is het huis van Dani en Emma!",
+   "s": 34.31
+  },
+  {
+   "p": 2,
+   "t": "Ik belde aan.",
+   "s": 38.01
+  },
+  {
+   "p": 2,
+   "t": "Emma deed open met het pakket in haar armen.",
+   "s": 40.32
+  },
+  {
+   "p": 3,
+   "t": "“De bezorger kwam om twaalf uur,” zei ze.",
+   "s": 44.52
+  },
+  {
+   "p": 3,
+   "t": "“Hij had veel haast!”",
+   "s": 48.9
+  },
+  {
+   "p": 4,
+   "t": "“Dank je wel!",
+   "s": 51.74
+  },
+  {
+   "p": 4,
+   "t": "Is dat hier normaal, een pakketje bij de buren?”",
+   "s": 54.01
+  },
+  {
+   "p": 5,
+   "t": "“Heel normaal.",
+   "s": 58.17
+  },
+  {
+   "p": 5,
+   "t": "Als ik er niet ben, neem jij mijn pakketjes ook aan, toch?”",
+   "s": 60.45
+  },
+  {
+   "p": 6,
+   "t": "“Je kunt ook kiezen voor een afhaalpunt,” legde Emma uit.",
+   "s": 65.49
+  },
+  {
+   "p": 6,
+   "t": "“Dat is vaak een winkel of een supermarkt.",
+   "s": 70.51
+  },
+  {
+   "p": 6,
+   "t": "Daar haal je het zelf op wanneer het jou uitkomt.”",
+   "s": 74.27
+  },
+  {
+   "p": 7,
+   "t": "Thuis maakte ik het pakket open.",
+   "s": 78.54
+  },
+  {
+   "p": 7,
+   "t": "De jas was te klein!",
+   "s": 81.88
+  },
+  {
+   "p": 7,
+   "t": "Gelukkig kun je hem binnen dertig dagen gratis terugsturen.",
+   "s": 84.67
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat heeft Sara besteld?",
+   "o": [
+    "schoenen",
+    "een boek",
+    "een winterjas voor Mia",
+    "speelgoed"
+   ],
+   "a": 2,
+   "fa": "سارا چه سفارش داده؟"
+  },
+  {
+   "q": "Waarom was Sara niet thuis?",
+   "o": [
+    "ze was bij haar taalcursus",
+    "ze was op haar werk",
+    "ze was bij de dokter",
+    "ze was op vakantie"
+   ],
+   "a": 0,
+   "fa": "چرا سارا خانه نبود؟"
+  },
+  {
+   "q": "Wat lag er op de mat?",
+   "o": [
+    "een brief van de gemeente",
+    "een kaartje van PostNL",
+    "het pakket",
+    "een rekening"
+   ],
+   "a": 1,
+   "fa": "روی پادری چه بود؟"
+  },
+  {
+   "q": "Waar woont Emma?",
+   "o": [
+    "op nummer 12",
+    "op nummer 10",
+    "op nummer 41",
+    "op nummer 14"
+   ],
+   "a": 3,
+   "fa": "اِما در کدام پلاک زندگی می‌کند؟"
+  },
+  {
+   "q": "Wat is een afhaalpunt?",
+   "o": [
+    "een winkel waar je je pakket ophaalt",
+    "een postkantoor in het buitenland",
+    "een vrachtwagen",
+    "een app"
+   ],
+   "a": 0,
+   "fa": "«نقطه‌ی تحویل» (afhaalpunt) چیست؟"
+  },
+  {
+   "q": "Wat was het probleem met de jas?",
+   "o": [
+    "hij was kapot",
+    "hij was te groot",
+    "hij was te klein",
+    "het was de verkeerde kleur"
+   ],
+   "a": 2,
+   "fa": "مشکل کاپشن چه بود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "bestellen",
+   "art": "",
+   "w": "bestellen",
+   "ipa": "/bəˈstɛlə(n)/",
+   "fa": "سفارش دادن",
+   "ex": "Vorige week heb ik online een nieuwe winterjas voor Mia besteld, bij bol.",
+   "m": [
+    56,
+    63
+   ],
+   "book": 1
+  },
+  {
+   "id": "pakket",
+   "art": "het",
+   "w": "het pakket",
+   "ipa": "/pɑˈkɛt/",
+   "fa": "بسته (پستی)",
+   "ex": "Thuis maakte ik het pakket open.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezorgen",
+   "art": "",
+   "w": "bezorgen",
+   "ipa": "/bəˈzɔrɣə(n)/",
+   "fa": "تحویل دادن",
+   "ex": "Wij hebben uw pakket bezorgd bij de buren, op nummer 14.",
+   "m": [
+    21,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezorger",
+   "art": "de",
+   "w": "de bezorger",
+   "ipa": "/bəˈzɔrɣər/",
+   "fa": "پیک، مأمور تحویل",
+   "ex": "De bezorger kwam om twaalf uur.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "mat",
+   "art": "de",
+   "w": "de mat",
+   "ipa": "/mɑt/",
+   "fa": "پادری",
+   "ex": "Er lag een brief op de mat.",
+   "m": [
+    23,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "aannemen",
+   "art": "",
+   "w": "aannemen",
+   "ipa": "/ˈaːneːmə(n)/",
+   "fa": "تحویل گرفتن",
+   "ex": "Wil jij mijn pakket aannemen?",
+   "m": [
+    20,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "afhaalpunt",
+   "art": "het",
+   "w": "het afhaalpunt",
+   "ipa": "/ˈɑfɦaːlpʏnt/",
+   "fa": "نقطه‌ی تحویل بسته",
+   "ex": "Je kunt ook kiezen voor een afhaalpunt.",
+   "m": [
+    28,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "ophalen",
+   "art": "",
+   "w": "ophalen",
+   "ipa": "/ˈɔphaːlə(n)/",
+   "fa": "رفتن و تحویل گرفتن",
+   "ex": "Ik haal het pakket morgen op.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "terugsturen",
+   "art": "",
+   "w": "terugsturen",
+   "ipa": "/təˈrʏxstyːrə(n)/",
+   "fa": "پس فرستادن",
+   "ex": "Gelukkig kun je hem binnen dertig dagen gratis terugsturen.",
+   "m": [
+    47,
+    58
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitkomen",
+   "art": "",
+   "w": "uitkomen",
+   "ipa": "/ˈœytkoːmə(n)/",
+   "fa": "مناسبِ کسی بودن",
+   "ex": "Wanneer komt het jou uit?",
+   "m": [
+    8,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "winterjas",
+   "art": "de",
+   "w": "de winterjas",
+   "ipa": "/ˈʋɪntərˌjɑs/",
+   "fa": "کاپشن زمستانی",
+   "ex": "Vorige week heb ik online een nieuwe winterjas voor Mia besteld, bij bol.",
+   "m": [
+    37,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "website",
+   "art": "de",
+   "w": "de website",
+   "ipa": "/ˈʋɛpsɑit/",
+   "fa": "وب‌سایت",
+   "ex": "Dat stond op de website.",
+   "m": [
+    16,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "nummer",
+   "art": "het",
+   "w": "het nummer",
+   "ipa": "/ˈnʏmər/",
+   "fa": "شماره، پلاک",
+   "ex": "Wij hebben uw pakket bezorgd bij de buren, op nummer 14.",
+   "m": [
+    46,
+    52
+   ],
+   "book": 0
+  },
+  {
+   "id": "haast",
+   "art": "de",
+   "w": "de haast",
+   "ipa": "/ɦaːst/",
+   "fa": "عجله",
+   "ex": "Hij had veel haast!",
+   "m": [
+    13,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "gelukkig",
+   "art": "",
+   "w": "gelukkig",
+   "ipa": "/ɣəˈlʏkəx/",
+   "fa": "خوشبختانه؛ خوشبخت",
+   "ex": "Gelukkig kun je hem binnen dertig dagen gratis terugsturen.",
+   "m": [
+    0,
+    8
+   ],
+   "book": 0
+  },
+  {
+   "id": "klein",
+   "art": "",
+   "w": "klein",
+   "ipa": "/klɛin/",
+   "fa": "کوچک",
+   "ex": "De jas was te klein!",
+   "m": [
+    14,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "vorig",
+   "art": "",
+   "w": "vorig",
+   "ipa": "/ˈvoːrəx/",
+   "fa": "قبلی، گذشته",
+   "ex": "Vorige week heb ik online een nieuwe winterjas voor Mia besteld, bij bol.",
+   "m": [
+    0,
+    6
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik heb online een jas besteld.",
+   "fa": "آنلاین یک کاپشن سفارش داده‌ام.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Wij hebben uw pakket bij de buren bezorgd.",
+   "fa": "بسته‌ی شما را به همسایه‌ها تحویل داده‌ایم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Hij had veel haast!",
+   "fa": "خیلی عجله داشت!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De jas was te klein!",
+   "fa": "کاپشن خیلی کوچک بود!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Je kunt hem gratis terugsturen.",
+   "fa": "می‌توانی آن را رایگان پس بفرستی.",
+   "alt": []
+  }
+ ]
+}

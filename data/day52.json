@@ -1,0 +1,425 @@
+{
+ "day": 52,
+ "level": "A2",
+ "title": "Koningsspelen",
+ "fa_title": "بازی‌های پادشاهی",
+ "audio": "audio/day52.mp3",
+ "img": "img/day52.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Een paar dagen voor Koningsdag kwam Mia helemaal in het oranje naar beneden.",
+   "s": 5.31
+  },
+  {
+   "p": 0,
+   "t": "Oranje T-shirt, oranje rokje, oranje strik in haar vlechten.",
+   "s": 11.28
+  },
+  {
+   "p": 1,
+   "t": "“Vandaag zijn de Koningsspelen!” riep ze.",
+   "s": 17.01
+  },
+  {
+   "p": 1,
+   "t": "“Alle scholen van Nederland doen mee!”",
+   "s": 22.09
+  },
+  {
+   "p": 2,
+   "t": "Oranje is de kleur van de koninklijke familie.",
+   "s": 25.84
+  },
+  {
+   "p": 2,
+   "t": "Daarom is rond Koningsdag het hele land oranje.",
+   "s": 30.07
+  },
+  {
+   "p": 3,
+   "t": "De dag begon met het Koningsontbijt.",
+   "s": 34.56
+  },
+  {
+   "p": 3,
+   "t": "Alle kinderen ontbeten samen in de klas, met brood, melk, fruit en natuurlijk hagelslag.",
+   "s": 38.15
+  },
+  {
+   "p": 3,
+   "t": "Daarna gingen ze naar buiten voor het dansje.",
+   "s": 45.93
+  },
+  {
+   "p": 3,
+   "t": "Op het schoolplein dansten honderden kinderen tegelijk op hetzelfde liedje.",
+   "s": 49.71
+  },
+  {
+   "p": 3,
+   "t": "Ik stond aan de kant en filmde alles met mijn telefoon.",
+   "s": 55.26
+  },
+  {
+   "p": 4,
+   "t": "Toen begonnen de spellen: zaklopen, touwtrekken, estafette en een parcours met hindernissen.",
+   "s": 59.96
+  },
+  {
+   "p": 4,
+   "t": "Mia's groep won het touwtrekken.",
+   "s": 67.34
+  },
+  {
+   "p": 5,
+   "t": "'s Middags kwam Mia moe en vies thuis.",
+   "s": 70.68
+  },
+  {
+   "p": 5,
+   "t": "Haar knieën zaten vol grasvlekken en haar strik was weg.",
+   "s": 74.7
+  },
+  {
+   "p": 5,
+   "t": "“Ik heb gewonnen, mama!",
+   "s": 79.4
+  },
+  {
+   "p": 5,
+   "t": "En er was ook nog ijs!”",
+   "s": 82.51
+  },
+  {
+   "p": 5,
+   "t": "Ze viel om zeven uur al in slaap.",
+   "s": 85.43
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat droeg Mia?",
+   "o": [
+    "alles in het rood",
+    "alles in het oranje",
+    "haar gewone kleren",
+    "een jurk met stippen"
+   ],
+   "a": 1,
+   "fa": "میا چه پوشیده بود؟"
+  },
+  {
+   "q": "Waarom is oranje belangrijk?",
+   "o": [
+    "het is de kleur van de koninklijke familie",
+    "het is de kleur van de lente",
+    "het is de kleur van de school",
+    "het is mooi"
+   ],
+   "a": 0,
+   "fa": "چرا رنگ نارنجی مهم است؟"
+  },
+  {
+   "q": "Waarmee begon de dag?",
+   "o": [
+    "met een dansje",
+    "met zaklopen",
+    "met het Koningsontbijt",
+    "met een les"
+   ],
+   "a": 2,
+   "fa": "روز با چه شروع شد؟"
+  },
+  {
+   "q": "Wat deed Sara op het schoolplein?",
+   "o": [
+    "ze danste mee",
+    "ze filmde alles",
+    "ze maakte ontbijt",
+    "ze ging naar huis"
+   ],
+   "a": 1,
+   "fa": "سارا در حیاط مدرسه چه کار می‌کرد؟"
+  },
+  {
+   "q": "Wat won Mia's groep?",
+   "o": [
+    "de estafette",
+    "het zaklopen",
+    "het parcours",
+    "het touwtrekken"
+   ],
+   "a": 3,
+   "fa": "گروه میا در چه چیزی برنده شد؟"
+  },
+  {
+   "q": "Hoe laat viel Mia in slaap?",
+   "o": [
+    "om zeven uur",
+    "om acht uur",
+    "om negen uur",
+    "om zes uur"
+   ],
+   "a": 0,
+   "fa": "میا ساعت چند خوابش برد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "koninklijk",
+   "art": "",
+   "w": "koninklijk",
+   "ipa": "/ˈkoːnɪŋklək/",
+   "fa": "سلطنتی",
+   "ex": "Oranje is de kleur van de koninklijke familie.",
+   "m": [
+    26,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "ontbijten",
+   "art": "",
+   "w": "ontbijten",
+   "ipa": "/ɔndˈbɛitə(n)/",
+   "fa": "صبحانه خوردن",
+   "ex": "We ontbijten om half acht.",
+   "m": [
+    3,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "tegelijk",
+   "art": "",
+   "w": "tegelijk",
+   "ipa": "/təɣəˈlɛik/",
+   "fa": "هم‌زمان",
+   "ex": "Op het schoolplein dansten honderden kinderen tegelijk op hetzelfde liedje.",
+   "m": [
+    46,
+    54
+   ],
+   "book": 1
+  },
+  {
+   "id": "filmen",
+   "art": "",
+   "w": "filmen",
+   "ipa": "/ˈfɪlmə(n)/",
+   "fa": "فیلم گرفتن",
+   "ex": "Ik heb het dansje gefilmd.",
+   "m": [
+    18,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "spel",
+   "art": "het",
+   "w": "het spel",
+   "ipa": "/spɛl/",
+   "fa": "بازی",
+   "ex": "Welk spel vind jij het leukst?",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "trekken",
+   "art": "",
+   "w": "trekken",
+   "ipa": "/ˈtrɛkə(n)/",
+   "fa": "کشیدن",
+   "ex": "Ze trokken zo hard als ze konden.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "hindernis",
+   "art": "de",
+   "w": "de hindernis",
+   "ipa": "/ˈɦɪndərnɪs/",
+   "fa": "مانع",
+   "ex": "Toen begonnen de spellen: zaklopen, touwtrekken, estafette en een parcours met hindernissen.",
+   "m": [
+    79,
+    91
+   ],
+   "book": 1
+  },
+  {
+   "id": "strik",
+   "art": "de",
+   "w": "de strik",
+   "ipa": "/strɪk/",
+   "fa": "پاپیون، روبان",
+   "ex": "Oranje T-shirt, oranje rokje, oranje strik in haar vlechten.",
+   "m": [
+    37,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "zaklopen",
+   "art": "",
+   "w": "zaklopen",
+   "ipa": "/ˈzɑkloːpə(n)/",
+   "fa": "مسابقه‌ی دوی گونی",
+   "ex": "Toen begonnen de spellen: zaklopen, touwtrekken, estafette en een parcours met hindernissen.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "vies",
+   "art": "",
+   "w": "vies",
+   "ipa": "/vis/",
+   "fa": "کثیف",
+   "ex": "'s Middags kwam Mia moe en vies thuis.",
+   "m": [
+    27,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "rokje",
+   "art": "het",
+   "w": "het rokje",
+   "ipa": "/ˈrɔkjə/",
+   "fa": "دامن کوچک",
+   "ex": "Oranje T-shirt, oranje rokje, oranje strik in haar vlechten.",
+   "m": [
+    23,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "vlecht",
+   "art": "de",
+   "w": "de vlecht",
+   "ipa": "/vlɛxt/",
+   "fa": "موی بافته",
+   "ex": "Oranje T-shirt, oranje rokje, oranje strik in haar vlechten.",
+   "m": [
+    51,
+    59
+   ],
+   "book": 0
+  },
+  {
+   "id": "dansen",
+   "art": "",
+   "w": "dansen",
+   "ipa": "/ˈdɑnsə(n)/",
+   "fa": "رقصیدن",
+   "ex": "Op het schoolplein dansten honderden kinderen tegelijk op hetzelfde liedje.",
+   "m": [
+    19,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "touwtrekken",
+   "art": "het",
+   "w": "het touwtrekken",
+   "ipa": "/ˈtɑutrɛkə(n)/",
+   "fa": "طناب‌کشی",
+   "ex": "Mia's groep won het touwtrekken.",
+   "m": [
+    20,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "estafette",
+   "art": "de",
+   "w": "de estafette",
+   "ipa": "/ˌɛstaːˈfɛtə/",
+   "fa": "دوی امدادی",
+   "ex": "Toen begonnen de spellen: zaklopen, touwtrekken, estafette en een parcours met hindernissen.",
+   "m": [
+    49,
+    58
+   ],
+   "book": 0
+  },
+  {
+   "id": "parcours",
+   "art": "het",
+   "w": "het parcours",
+   "ipa": "/pɑrˈkur/",
+   "fa": "مسیر مسابقه",
+   "ex": "Toen begonnen de spellen: zaklopen, touwtrekken, estafette en een parcours met hindernissen.",
+   "m": [
+    66,
+    74
+   ],
+   "book": 0
+  },
+  {
+   "id": "knie",
+   "art": "de",
+   "w": "de knie",
+   "ipa": "/kni/",
+   "fa": "زانو",
+   "ex": "Haar knieën zaten vol grasvlekken en haar strik was weg.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Alle scholen doen mee!",
+   "fa": "همه‌ی مدرسه‌ها شرکت می‌کنند!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Het hele land is oranje.",
+   "fa": "تمام کشور نارنجی است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik filmde alles met mijn telefoon.",
+   "fa": "همه‌چیز را با گوشی‌ام فیلم گرفتم.",
+   "alt": [
+    "Met mijn telefoon filmde ik alles."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Mia's groep won het touwtrekken.",
+   "fa": "گروه میا در طناب‌کشی برنده شد.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik heb gewonnen, mama!",
+   "fa": "برنده شدم، مامان!",
+   "alt": []
+  }
+ ]
+}

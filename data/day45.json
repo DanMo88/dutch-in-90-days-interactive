@@ -1,0 +1,425 @@
+{
+ "day": 45,
+ "level": "A2",
+ "title": "Een taalmaatje",
+ "fa_title": "یک همراه زبان",
+ "audio": "audio/day45.mp3",
+ "img": "img/day45.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Na de les vroeg Fatima: “Zullen we elke week afspreken om Nederlands te praten?",
+   "s": 5.15
+  },
+  {
+   "p": 0,
+   "t": "Alleen Nederlands, geen Engels!”",
+   "s": 12.46
+  },
+  {
+   "p": 1,
+   "t": "Zo werd Fatima mijn taalmaatje.",
+   "s": 16.26
+  },
+  {
+   "p": 1,
+   "t": "Een taalmaatje is iemand met wie je regelmatig de taal oefent.",
+   "s": 19.87
+  },
+  {
+   "p": 1,
+   "t": "Vaak is het een vrijwilliger die al goed Nederlands spreekt.",
+   "s": 25.29
+  },
+  {
+   "p": 2,
+   "t": "Sinds die dag zien we elkaar elke woensdagmiddag in de OBA.",
+   "s": 30.29
+  },
+  {
+   "p": 2,
+   "t": "We drinken koffie op de bovenste verdieping, met uitzicht op het water.",
+   "s": 35.66
+  },
+  {
+   "p": 2,
+   "t": "Elke week kiezen we een onderwerp: de buren, het weer, ons werk of onze kinderen.",
+   "s": 41.87
+  },
+  {
+   "p": 3,
+   "t": "Als ik een fout maak, zegt Fatima het meteen.",
+   "s": 49.88
+  },
+  {
+   "p": 3,
+   "t": "“Niet 'ik heb gegaan', Sara.",
+   "s": 54.63
+  },
+  {
+   "p": 3,
+   "t": "Het is 'ik ben gegaan'!”",
+   "s": 58.19
+  },
+  {
+   "p": 3,
+   "t": "Ik schrijf alle fouten in een schriftje.",
+   "s": 61.04
+  },
+  {
+   "p": 4,
+   "t": "Soms gaan we samen naar het taalcafé in de bibliotheek.",
+   "s": 64.77
+  },
+  {
+   "p": 4,
+   "t": "Daar zitten mensen uit de hele wereld aan lange tafels.",
+   "s": 69.97
+  },
+  {
+   "p": 4,
+   "t": "Een oudere vrijwilliger, Henk, vertelt altijd grappige verhalen.",
+   "s": 75.01
+  },
+  {
+   "p": 5,
+   "t": "Na een maand merk ik het verschil.",
+   "s": 81.27
+  },
+  {
+   "p": 5,
+   "t": "Ik durf meer te praten.",
+   "s": 84.72
+  },
+  {
+   "p": 5,
+   "t": "Ik denk soms zelfs in het Nederlands!",
+   "s": 87.68
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welke taal mogen ze niet spreken?",
+   "o": [
+    "Nederlands",
+    "Arabisch",
+    "Engels",
+    "Frans"
+   ],
+   "a": 2,
+   "fa": "به چه زبانی نباید حرف بزنند؟"
+  },
+  {
+   "q": "Wat is een taalmaatje?",
+   "o": [
+    "iemand met wie je de taal oefent",
+    "een docent op school",
+    "een boek",
+    "een app"
+   ],
+   "a": 0,
+   "fa": "«همراه زبان» (taalmaatje) چیست؟"
+  },
+  {
+   "q": "Wanneer zien Sara en Fatima elkaar?",
+   "o": [
+    "elke maandagochtend",
+    "elke woensdagmiddag",
+    "elke zaterdag",
+    "elke avond"
+   ],
+   "a": 1,
+   "fa": "سارا و فاطمه کِی همدیگر را می‌بینند؟"
+  },
+  {
+   "q": "Wat doet Sara met haar fouten?",
+   "o": [
+    "ze vergeet ze",
+    "ze lacht erom",
+    "ze vertelt ze aan Alex",
+    "ze schrijft ze in een schriftje"
+   ],
+   "a": 3,
+   "fa": "سارا با اشتباه‌هایش چه می‌کند؟"
+  },
+  {
+   "q": "Wie is Henk?",
+   "o": [
+    "een docent",
+    "een buurman",
+    "een vrijwilliger in het taalcafé",
+    "de man van Fatima"
+   ],
+   "a": 2,
+   "fa": "هنک کیست؟"
+  },
+  {
+   "q": "Wat merkt Sara na een maand?",
+   "o": [
+    "ze durft meer te praten",
+    "ze is moe",
+    "ze wil stoppen",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "سارا بعد از یک ماه چه تغییری می‌بیند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "afspreken",
+   "art": "",
+   "w": "afspreken",
+   "ipa": "/ˈɑfspreːkə(n)/",
+   "fa": "قرار گذاشتن",
+   "ex": "Zullen we elke week afspreken om Nederlands te praten?",
+   "m": [
+    20,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "taalmaatje",
+   "art": "het",
+   "w": "het taalmaatje",
+   "ipa": "/ˈtaːlmaːcə/",
+   "fa": "همراه زبان (هم‌تمرینی)",
+   "ex": "Zo werd Fatima mijn taalmaatje.",
+   "m": [
+    20,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "regelmatig",
+   "art": "",
+   "w": "regelmatig",
+   "ipa": "/reːɣəlˈmaːtəx/",
+   "fa": "مرتب، منظم",
+   "ex": "Een taalmaatje is iemand met wie je regelmatig de taal oefent.",
+   "m": [
+    36,
+    46
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrijwilliger",
+   "art": "de",
+   "w": "de vrijwilliger",
+   "ipa": "/vrɛiˈʋɪləɣər/",
+   "fa": "داوطلب",
+   "ex": "Een oudere vrijwilliger, Henk, vertelt altijd grappige verhalen.",
+   "m": [
+    11,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "onderwerp",
+   "art": "het",
+   "w": "het onderwerp",
+   "ipa": "/ˈɔndərʋɛrp/",
+   "fa": "موضوع",
+   "ex": "Ons onderwerp vandaag is het weer.",
+   "m": [
+    4,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "fout",
+   "art": "de",
+   "w": "de fout",
+   "ipa": "/fɑut/",
+   "fa": "اشتباه",
+   "ex": "Ik schrijf alle fouten in een schriftje.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "schriftje",
+   "art": "het",
+   "w": "het schriftje",
+   "ipa": "/ˈsxrɪftjə/",
+   "fa": "دفترچه",
+   "ex": "Ik schrijf alle fouten in een schriftje.",
+   "m": [
+    30,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "wereld",
+   "art": "de",
+   "w": "de wereld",
+   "ipa": "/ˈʋeːrəlt/",
+   "fa": "دنیا",
+   "ex": "Daar zitten mensen uit de hele wereld aan lange tafels.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "verschil",
+   "art": "het",
+   "w": "het verschil",
+   "ipa": "/vərˈsxɪl/",
+   "fa": "تفاوت",
+   "ex": "Na een maand merk ik het verschil.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "durven",
+   "art": "",
+   "w": "durven",
+   "ipa": "/ˈdʏrvə(n)/",
+   "fa": "جرئت کردن",
+   "ex": "Ik durf meer te praten.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "les",
+   "art": "de",
+   "w": "de les",
+   "ipa": "/lɛs/",
+   "fa": "درس، کلاس",
+   "ex": "Na de les praatten we nog even.",
+   "m": [
+    6,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "engels",
+   "art": "",
+   "w": "Engels",
+   "ipa": "/ˈɛŋəls/",
+   "fa": "انگلیسی",
+   "ex": "Alleen Nederlands, geen Engels!",
+   "m": [
+    24,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "taal",
+   "art": "de",
+   "w": "de taal",
+   "ipa": "/taːl/",
+   "fa": "زبان",
+   "ex": "Een taalmaatje is iemand met wie je regelmatig de taal oefent.",
+   "m": [
+    50,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "uitzicht",
+   "art": "het",
+   "w": "het uitzicht",
+   "ipa": "/ˈœytsɪxt/",
+   "fa": "منظره",
+   "ex": "We drinken koffie op de bovenste verdieping, met uitzicht op het water.",
+   "m": [
+    49,
+    57
+   ],
+   "book": 0
+  },
+  {
+   "id": "taalcafe",
+   "art": "het",
+   "w": "het taalcafé",
+   "ipa": "/ˈtaːlkaːfeː/",
+   "fa": "کافه‌ی زبان",
+   "ex": "Soms gaan we samen naar het taalcafé in de bibliotheek.",
+   "m": [
+    28,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "vertellen",
+   "art": "",
+   "w": "vertellen",
+   "ipa": "/vərˈtɛlə(n)/",
+   "fa": "تعریف کردن، گفتن",
+   "ex": "Een oudere vrijwilliger, Henk, vertelt altijd grappige verhalen.",
+   "m": [
+    31,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "zelfs",
+   "art": "",
+   "w": "zelfs",
+   "ipa": "/zɛlfs/",
+   "fa": "حتی",
+   "ex": "Ik denk soms zelfs in het Nederlands!",
+   "m": [
+    13,
+    18
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Alleen Nederlands, geen Engels!",
+   "fa": "فقط هلندی، انگلیسی نه!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Zullen we elke week afspreken?",
+   "fa": "هر هفته قرار بگذاریم؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik schrijf alle fouten in een schriftje.",
+   "fa": "همه‌ی اشتباه‌ها را در یک دفترچه می‌نویسم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik durf meer te praten.",
+   "fa": "جرئت می‌کنم بیشتر حرف بزنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik denk soms in het Nederlands.",
+   "fa": "گاهی به هلندی فکر می‌کنم.",
+   "alt": [
+    "Soms denk ik in het Nederlands."
+   ]
+  }
+ ]
+}

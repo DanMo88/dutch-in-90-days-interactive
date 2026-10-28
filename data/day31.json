@@ -1,0 +1,450 @@
+{
+ "day": 31,
+ "level": "A2",
+ "title": "Goede voornemens",
+ "fa_title": "تصمیم‌های خوب سال نو",
+ "audio": "audio/day31.mp3",
+ "img": "img/day31.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is januari en iedereen heeft goede voornemens.",
+   "s": 5.22
+  },
+  {
+   "p": 1,
+   "t": "“Ik ga meer sporten,” zegt Alex.",
+   "s": 10.19
+  },
+  {
+   "p": 1,
+   "t": "“Ik heb me gisteren aangemeld bij een sportschool.",
+   "s": 14.21
+  },
+  {
+   "p": 1,
+   "t": "Ik wil twee keer per week gaan.”",
+   "s": 18.41
+  },
+  {
+   "p": 2,
+   "t": "Mijn voornemen is duidelijk: ik wil beter Nederlands leren.",
+   "s": 21.71
+  },
+  {
+   "p": 2,
+   "t": "Daarom heb ik me ingeschreven voor een taalcursus.",
+   "s": 27.33
+  },
+  {
+   "p": 2,
+   "t": "Ik moet ook inburgeren.",
+   "s": 32.02
+  },
+  {
+   "p": 3,
+   "t": "Op maandagochtend fiets ik naar de school.",
+   "s": 34.91
+  },
+  {
+   "p": 3,
+   "t": "Het lokaal is klein en warm.",
+   "s": 38.74
+  },
+  {
+   "p": 3,
+   "t": "Er zitten twaalf mensen uit tien landen.",
+   "s": 42.24
+  },
+  {
+   "p": 3,
+   "t": "De docent heet Peter.",
+   "s": 46.19
+  },
+  {
+   "p": 3,
+   "t": "Hij praat langzaam en duidelijk.",
+   "s": 49.08
+  },
+  {
+   "p": 4,
+   "t": "Naast mij zit een vrouw met een groene hoofddoek.",
+   "s": 52.51
+  },
+  {
+   "p": 4,
+   "t": "Ze lacht vriendelijk.",
+   "s": 56.76
+  },
+  {
+   "p": 4,
+   "t": "“Hoi, ik ben Fatima.",
+   "s": 59.32
+  },
+  {
+   "p": 4,
+   "t": "Ik kom uit Syrië.”",
+   "s": 62.57
+  },
+  {
+   "p": 5,
+   "t": "“Ik ben Sara.",
+   "s": 65.19
+  },
+  {
+   "p": 5,
+   "t": "Wij wonen hier sinds september.”",
+   "s": 67.46
+  },
+  {
+   "p": 6,
+   "t": "In de pauze drinken we samen koffie.",
+   "s": 70.83
+  },
+  {
+   "p": 6,
+   "t": "Fatima was lerares in haar eigen land.",
+   "s": 74.47
+  },
+  {
+   "p": 6,
+   "t": "Nu wil ze hier ook weer voor de klas staan.",
+   "s": 78.68
+  },
+  {
+   "p": 7,
+   "t": "“Dan oefenen we samen,” zegt ze.",
+   "s": 82.74
+  },
+  {
+   "p": 7,
+   "t": "“Twee leerlingen zijn sterker dan één.”",
+   "s": 86.43
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is het voornemen van Alex?",
+   "o": [
+    "minder werken",
+    "meer sporten",
+    "Nederlands leren",
+    "koken"
+   ],
+   "a": 1,
+   "fa": "تصمیم الکس چیست؟"
+  },
+  {
+   "q": "Waarom wil Sara beter Nederlands leren?",
+   "o": [
+    "voor een vakantie",
+    "omdat Alex het wil",
+    "omdat ze moet inburgeren",
+    "voor de school van Mia"
+   ],
+   "a": 2,
+   "fa": "چرا سارا می‌خواهد هلندی را بهتر یاد بگیرد؟"
+  },
+  {
+   "q": "Hoeveel mensen zitten er in de klas?",
+   "o": [
+    "tien",
+    "zeven",
+    "twintig",
+    "twaalf"
+   ],
+   "a": 3,
+   "fa": "چند نفر در کلاس هستند؟"
+  },
+  {
+   "q": "Waar komt Fatima vandaan?",
+   "o": [
+    "uit Syrië",
+    "uit Marokko",
+    "uit Turkije",
+    "uit Egypte"
+   ],
+   "a": 0,
+   "fa": "فاطمه اهل کجاست؟"
+  },
+  {
+   "q": "Wat was Fatima in haar eigen land?",
+   "o": [
+    "verpleegster",
+    "dokter",
+    "lerares",
+    "kok"
+   ],
+   "a": 2,
+   "fa": "فاطمه در کشور خودش چه کاره بود؟"
+  },
+  {
+   "q": "Wat doen Sara en Fatima in de pauze?",
+   "o": [
+    "ze lezen een boek",
+    "ze drinken koffie",
+    "ze bellen naar huis",
+    "ze gaan naar huis"
+   ],
+   "a": 1,
+   "fa": "سارا و فاطمه در زنگ تفریح چه کار می‌کنند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "voornemen",
+   "art": "het",
+   "w": "het voornemen",
+   "ipa": "/ˈvoːrneːmə(n)/",
+   "fa": "تصمیم (برای سال نو)",
+   "ex": "Het is januari en iedereen heeft goede voornemens.",
+   "m": [
+    39,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "zich-aanmelden",
+   "art": "",
+   "w": "zich aanmelden",
+   "ipa": "/zɪx ˈaːmɛldə(n)/",
+   "fa": "ثبت‌نام کردن",
+   "ex": "Alex heeft zich aangemeld bij een sportschool.",
+   "m": [
+    11,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "zich-inschrijven",
+   "art": "",
+   "w": "zich inschrijven",
+   "ipa": "/zɪx ˈɪnsxrɛivə(n)/",
+   "fa": "نام‌نویسی کردن",
+   "ex": "Ik heb me ingeschreven voor een cursus.",
+   "m": [
+    7,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "taalcursus",
+   "art": "de",
+   "w": "de taalcursus",
+   "ipa": "/ˈtaːlkʏrzʏs/",
+   "fa": "دوره‌ی زبان",
+   "ex": "Daarom heb ik me ingeschreven voor een taalcursus.",
+   "m": [
+    39,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "inburgeren",
+   "art": "",
+   "w": "inburgeren",
+   "ipa": "/ˈɪnbʏrɣərə(n)/",
+   "fa": "گذراندن دوره‌ی هم‌گرایی (اینبورخرینگ)",
+   "ex": "Ik moet ook inburgeren.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "lokaal",
+   "art": "het",
+   "w": "het lokaal",
+   "ipa": "/loːˈkaːl/",
+   "fa": "کلاس درس (اتاق)",
+   "ex": "Het lokaal is klein en warm.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "docent",
+   "art": "de",
+   "w": "de docent",
+   "ipa": "/doːˈsɛnt/",
+   "fa": "مدرس، معلم",
+   "ex": "De docent heet Peter.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoofddoek",
+   "art": "de",
+   "w": "de hoofddoek",
+   "ipa": "/ˈɦoːvduk/",
+   "fa": "روسری",
+   "ex": "Naast mij zit een vrouw met een groene hoofddoek.",
+   "m": [
+    39,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "pauze",
+   "art": "de",
+   "w": "de pauze",
+   "ipa": "/ˈpɑuzə/",
+   "fa": "زنگ تفریح، استراحت",
+   "ex": "In de pauze drinken we samen koffie.",
+   "m": [
+    6,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "duidelijk",
+   "art": "",
+   "w": "duidelijk",
+   "ipa": "/ˈdœydələk/",
+   "fa": "واضح",
+   "ex": "Mijn voornemen is duidelijk: ik wil beter Nederlands leren.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "sporten",
+   "art": "",
+   "w": "sporten",
+   "ipa": "/ˈspɔrtən/",
+   "fa": "ورزش کردن",
+   "ex": "Ik ga meer sporten.",
+   "m": [
+    11,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "sportschool",
+   "art": "de",
+   "w": "de sportschool",
+   "ipa": "/ˈspɔrtsxoːl/",
+   "fa": "باشگاه ورزشی",
+   "ex": "Ik heb me gisteren aangemeld bij een sportschool.",
+   "m": [
+    37,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "gisteren",
+   "art": "",
+   "w": "gisteren",
+   "ipa": "/ˈɣɪstərə(n)/",
+   "fa": "دیروز",
+   "ex": "Ik heb me gisteren aangemeld bij een sportschool.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "land",
+   "art": "het",
+   "w": "het land",
+   "ipa": "/lɑnt/",
+   "fa": "کشور",
+   "ex": "Er zitten twaalf mensen uit tien landen.",
+   "m": [
+    33,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "langzaam",
+   "art": "",
+   "w": "langzaam",
+   "ipa": "/ˈlɑŋzaːm/",
+   "fa": "آهسته",
+   "ex": "Hij praat langzaam en duidelijk.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "lerares",
+   "art": "de",
+   "w": "de lerares",
+   "ipa": "/leːraːˈrɛs/",
+   "fa": "معلم (زن)",
+   "ex": "Fatima was lerares in haar eigen land.",
+   "m": [
+    11,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "leerling",
+   "art": "de",
+   "w": "de leerling",
+   "ipa": "/ˈleːrlɪŋ/",
+   "fa": "شاگرد، دانش‌آموز",
+   "ex": "Twee leerlingen zijn sterker dan één.",
+   "m": [
+    5,
+    15
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik ga meer sporten.",
+   "fa": "بیشتر ورزش می‌کنم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik wil beter Nederlands leren.",
+   "fa": "می‌خواهم هلندی را بهتر یاد بگیرم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "De docent praat langzaam en duidelijk.",
+   "fa": "معلم آهسته و واضح حرف می‌زند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Wij wonen hier sinds september.",
+   "fa": "ما از سپتامبر اینجا زندگی می‌کنیم.",
+   "alt": [
+    "Sinds september wonen wij hier."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Twee leerlingen zijn sterker dan één.",
+   "fa": "دو شاگرد از یکی قوی‌ترند.",
+   "alt": []
+  }
+ ]
+}
