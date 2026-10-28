@@ -1,0 +1,513 @@
+{
+ "day": 1,
+ "level": "A1",
+ "title": "Een nieuw huis in Amsterdam",
+ "fa_title": "خانه‌ای تازه در آمستردام",
+ "audio": "audio/day01.mp3",
+ "img": "img/day01.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mijn naam is Sara.",
+   "s": 5.19
+  },
+  {
+   "p": 0,
+   "t": "Ik ben vierendertig jaar.",
+   "s": 7.87
+  },
+  {
+   "p": 0,
+   "t": "Vandaag is mijn eerste dag in Amsterdam!",
+   "s": 10.79
+  },
+  {
+   "p": 0,
+   "t": "Ik ben hier met mijn man Alex en onze dochter Mia.",
+   "s": 14.93
+  },
+  {
+   "p": 0,
+   "t": "Zij is zeven.",
+   "s": 19.75
+  },
+  {
+   "p": 1,
+   "t": "Ons nieuwe huis is in De Pijp.",
+   "s": 22.29
+  },
+  {
+   "p": 1,
+   "t": "Het is een oud huis aan een gracht.",
+   "s": 25.67
+  },
+  {
+   "p": 1,
+   "t": "Het huis is smal en de trap is heel steil!",
+   "s": 28.69
+  },
+  {
+   "p": 1,
+   "t": "We hebben een kleine keuken en een groot raam.",
+   "s": 33.69
+  },
+  {
+   "p": 1,
+   "t": "Uit het raam zie ik het water, een brug en veel fietsen.",
+   "s": 37.81
+  },
+  {
+   "p": 2,
+   "t": "In de ochtend staat mijn buurman buiten.",
+   "s": 42.95
+  },
+  {
+   "p": 2,
+   "t": "Hij heeft een grijze kat.",
+   "s": 46.89
+  },
+  {
+   "p": 3,
+   "t": "“Hoi! Ik ben Dani,” zegt hij.",
+   "s": 49.83
+  },
+  {
+   "p": 3,
+   "t": "“En dit is Lucy.”",
+   "s": 54.67
+  },
+  {
+   "p": 4,
+   "t": "“Hoi Dani. Ik ben Sara. Leuk je te ontmoeten!”",
+   "s": 56.79
+  },
+  {
+   "p": 5,
+   "t": "“Welkom in Amsterdam, Sara!”",
+   "s": 63.97
+  },
+  {
+   "p": 6,
+   "t": "Mia aait Lucy.",
+   "s": 67.97
+  },
+  {
+   "p": 6,
+   "t": "Lucy is heel lief!",
+   "s": 70.01
+  },
+  {
+   "p": 7,
+   "t": "Dani laat ons de buurt zien.",
+   "s": 72.91
+  },
+  {
+   "p": 7,
+   "t": "We lopen langs de gracht naar een klein café.",
+   "s": 76.39
+  },
+  {
+   "p": 7,
+   "t": "Ik bestel koffie en Mia krijgt chocolademelk.",
+   "s": 80.53
+  },
+  {
+   "p": 7,
+   "t": "Bij de koffie krijg ik een stroopwafel.",
+   "s": 85.11
+  },
+  {
+   "p": 7,
+   "t": "Lekker zoet!",
+   "s": 89.15
+  },
+  {
+   "p": 7,
+   "t": "“Fijne dag!” zegt de vrouw achter de bar.",
+   "s": 91.17
+  },
+  {
+   "p": 8,
+   "t": "Ik ben blij.",
+   "s": 96.51
+  },
+  {
+   "p": 8,
+   "t": "Ik heb al een nieuwe vriend.",
+   "s": 98.63
+  },
+  {
+   "p": 8,
+   "t": "Ons nieuwe leven begint vandaag!",
+   "s": 101.35
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe oud is Sara?",
+   "o": [
+    "zeven",
+    "vierendertig",
+    "dertig",
+    "veertig"
+   ],
+   "a": 1,
+   "fa": "سارا چند سال دارد؟"
+  },
+  {
+   "q": "Waar is het nieuwe huis?",
+   "o": [
+    "in Utrecht",
+    "in een hotel",
+    "in De Pijp",
+    "in Den Haag"
+   ],
+   "a": 2,
+   "fa": "خانه‌ی جدید کجاست؟"
+  },
+  {
+   "q": "Wat ziet Sara uit het raam?",
+   "o": [
+    "een park en een school",
+    "het water en veel fietsen",
+    "een winkel en een auto",
+    "de zee"
+   ],
+   "a": 1,
+   "fa": "سارا از پنجره چه می‌بیند؟"
+  },
+  {
+   "q": "Wie is Dani?",
+   "o": [
+    "de man van Sara",
+    "de buurman",
+    "een leraar",
+    "de man in het café"
+   ],
+   "a": 1,
+   "fa": "دانی کیست؟"
+  },
+  {
+   "q": "Wat is Lucy?",
+   "o": [
+    "een hond",
+    "een kat",
+    "een meisje",
+    "een café"
+   ],
+   "a": 1,
+   "fa": "لوسی چیست؟"
+  },
+  {
+   "q": "Wat krijgt Sara bij de koffie?",
+   "o": [
+    "appeltaart",
+    "een broodje",
+    "een stroopwafel",
+    "chocolademelk"
+   ],
+   "a": 2,
+   "fa": "سارا همراه قهوه چه می‌گیرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "huis",
+   "art": "het",
+   "w": "het huis",
+   "ipa": "/ɦœys/",
+   "fa": "خانه",
+   "ex": "Ons nieuwe huis is in De Pijp.",
+   "m": [
+    11,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "gracht",
+   "art": "de",
+   "w": "de gracht",
+   "ipa": "/ɣrɑxt/",
+   "fa": "کانال آب (در شهر)",
+   "ex": "Het is een oud huis aan een gracht.",
+   "m": [
+    28,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "smal",
+   "art": "",
+   "w": "smal",
+   "ipa": "/smɑl/",
+   "fa": "باریک",
+   "ex": "Het huis is smal.",
+   "m": [
+    12,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "trap",
+   "art": "de",
+   "w": "de trap",
+   "ipa": "/trɑp/",
+   "fa": "راه‌پله",
+   "ex": "De trap is heel steil!",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "steil",
+   "art": "",
+   "w": "steil",
+   "ipa": "/stɛil/",
+   "fa": "شیب‌دار",
+   "ex": "De trap is heel steil!",
+   "m": [
+    16,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "keuken",
+   "art": "de",
+   "w": "de keuken",
+   "ipa": "/ˈkøːkə(n)/",
+   "fa": "آشپزخانه",
+   "ex": "We hebben een kleine keuken.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "raam",
+   "art": "het",
+   "w": "het raam",
+   "ipa": "/raːm/",
+   "fa": "پنجره",
+   "ex": "We hebben een groot raam.",
+   "m": [
+    20,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "brug",
+   "art": "de",
+   "w": "de brug",
+   "ipa": "/brʏx/",
+   "fa": "پل",
+   "ex": "Uit het raam zie ik een brug.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "fiets",
+   "art": "de",
+   "w": "de fiets",
+   "ipa": "/fits/",
+   "fa": "دوچرخه",
+   "ex": "Ik zie veel fietsen.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "dochter",
+   "art": "de",
+   "w": "de dochter",
+   "ipa": "/ˈdɔxtər/",
+   "fa": "دختر (فرزند)",
+   "ex": "Onze dochter Mia is zeven.",
+   "m": [
+    5,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "buurman",
+   "art": "de",
+   "w": "de buurman",
+   "ipa": "/ˈbyːrmɑn/",
+   "fa": "همسایه (مرد)",
+   "ex": "Mijn buurman staat buiten.",
+   "m": [
+    5,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "kat",
+   "art": "de",
+   "w": "de kat",
+   "ipa": "/kɑt/",
+   "fa": "گربه",
+   "ex": "Hij heeft een grijze kat.",
+   "m": [
+    21,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "lief",
+   "art": "",
+   "w": "lief",
+   "ipa": "/lif/",
+   "fa": "مهربان و ناز",
+   "ex": "Lucy is heel lief!",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "buurt",
+   "art": "de",
+   "w": "de buurt",
+   "ipa": "/byːrt/",
+   "fa": "محله",
+   "ex": "Dani laat ons de buurt zien.",
+   "m": [
+    17,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "bestellen",
+   "art": "",
+   "w": "bestellen",
+   "ipa": "/bəˈstɛlə(n)/",
+   "fa": "سفارش دادن",
+   "ex": "Ik bestel koffie.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "zoet",
+   "art": "",
+   "w": "zoet",
+   "ipa": "/zut/",
+   "fa": "شیرین",
+   "ex": "De stroopwafel is lekker zoet!",
+   "m": [
+    25,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "blij",
+   "art": "",
+   "w": "blij",
+   "ipa": "/blɛi/",
+   "fa": "خوشحال",
+   "ex": "Ik ben blij.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "vriend",
+   "art": "de",
+   "w": "de vriend",
+   "ipa": "/vrint/",
+   "fa": "دوست",
+   "ex": "Ik heb al een nieuwe vriend.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "leven",
+   "art": "het",
+   "w": "het leven",
+   "ipa": "/ˈleːvə(n)/",
+   "fa": "زندگی",
+   "ex": "Ons nieuwe leven begint vandaag!",
+   "m": [
+    11,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "beginnen",
+   "art": "",
+   "w": "beginnen",
+   "ipa": "/bəˈɣɪnə(n)/",
+   "fa": "شروع شدن",
+   "ex": "Ons nieuwe leven begint vandaag!",
+   "m": [
+    17,
+    23
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Leuk je te ontmoeten!",
+   "fa": "از آشنایی با تو خوشحالم!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mijn buurman heeft een grijze kat.",
+   "fa": "همسایه‌ام یک گربه‌ی خاکستری دارد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Uit het raam zie ik een brug.",
+   "fa": "از پنجره یک پل می‌بینم.",
+   "alt": [
+    "Ik zie een brug uit het raam."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Ik bestel koffie en een stroopwafel.",
+   "fa": "من قهوه و یک استروپ‌وافل سفارش می‌دهم.",
+   "alt": [
+    "Ik bestel een stroopwafel en koffie."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Ons nieuwe leven begint vandaag.",
+   "fa": "زندگی جدیدمان از امروز شروع می‌شود.",
+   "alt": [
+    "Vandaag begint ons nieuwe leven."
+   ]
+  }
+ ]
+}
