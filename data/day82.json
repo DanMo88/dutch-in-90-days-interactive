@@ -1,0 +1,396 @@
+{
+ "day": 82,
+ "level": "B1",
+ "title": "De participatieverklaring",
+ "fa_title": "بیانیه‌ی مشارکت",
+ "audio": "audio/day82.mp3",
+ "img": "img/day82.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Bij de inburgering hoort ook de participatieverklaring.",
+   "s": 5.85
+  },
+  {
+   "p": 0,
+   "t": "Daarvoor volgde ik bij de gemeente een paar bijeenkomsten over de kernwaarden van Nederland: vrijheid, gelijkwaardigheid, solidariteit en participatie.",
+   "s": 10.62
+  },
+  {
+   "p": 1,
+   "t": "We zaten met vijftien mensen in een kring.",
+   "s": 21.92
+  },
+  {
+   "p": 1,
+   "t": "De begeleider, Yusuf, was zelf als kind uit Marokko naar Nederland gekomen.",
+   "s": 25.71
+  },
+  {
+   "p": 1,
+   "t": "“We praten over wat deze woorden betekenen in het dagelijks leven,” begon hij.",
+   "s": 32.2
+  },
+  {
+   "p": 2,
+   "t": "Vrijheid: je mag zeggen wat je denkt, geloven wat je wilt, of helemaal niet geloven.",
+   "s": 38.18
+  },
+  {
+   "p": 2,
+   "t": "Maar je mag niet discrimineren en niet oproepen tot geweld.",
+   "s": 45.2
+  },
+  {
+   "p": 3,
+   "t": "Gelijkwaardigheid: mannen en vrouwen hebben dezelfde rechten, homo's en hetero's ook.",
+   "s": 50.02
+  },
+  {
+   "p": 3,
+   "t": "Daarover volgde een stevige discussie, maar iedereen bleef rustig en luisterde naar elkaar.",
+   "s": 57.23
+  },
+  {
+   "p": 3,
+   "t": "Misschien was dát wel het meest Nederlandse van alles.",
+   "s": 64.23
+  },
+  {
+   "p": 4,
+   "t": "Solidariteit: wie meer verdient, betaalt meer belasting.",
+   "s": 68.85
+  },
+  {
+   "p": 4,
+   "t": "En participatie betekent gewoon: meedoen.",
+   "s": 74.62
+  },
+  {
+   "p": 5,
+   "t": "“Wat is voor jou het belangrijkste?” vroeg Yusuf aan mij.",
+   "s": 79.43
+  },
+  {
+   "p": 5,
+   "t": "Ik dacht aan Mia.",
+   "s": 85.81
+  },
+  {
+   "p": 5,
+   "t": "“Dat mijn dochter later precies dezelfde kansen heeft als een jongen.”",
+   "s": 88.27
+  },
+  {
+   "p": 6,
+   "t": "Aan het eind ondertekende ik de verklaring.",
+   "s": 93.63
+  },
+  {
+   "p": 6,
+   "t": "Het was maar één handtekening, maar het voelde groter dan dat.",
+   "s": 97.51
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar waren de bijeenkomsten?",
+   "o": [
+    "bij de gemeente",
+    "op haar werk",
+    "bij DUO",
+    "in de bibliotheek"
+   ],
+   "a": 0,
+   "fa": "جلسه‌ها کجا بود؟"
+  },
+  {
+   "q": "Wie was de begeleider?",
+   "o": [
+    "Mark",
+    "Yusuf",
+    "Dani",
+    "Alex"
+   ],
+   "a": 1,
+   "fa": "راهنمای جلسه چه کسی بود؟"
+  },
+  {
+   "q": "Wat mag je níet, ondanks de vrijheid?",
+   "o": [
+    "zeggen wat je denkt",
+    "niet geloven",
+    "discrimineren",
+    "demonstreren"
+   ],
+   "a": 2,
+   "fa": "با وجود آزادی، چه کاری را نباید بکنی؟"
+  },
+  {
+   "q": "Wat vond Sara het meest Nederlands?",
+   "o": [
+    "de koffie",
+    "de regels",
+    "de handtekening",
+    "dat iedereen rustig bleef"
+   ],
+   "a": 3,
+   "fa": "سارا چه چیزی را از همه هلندی‌تر دانست؟"
+  },
+  {
+   "q": "Wat betekent solidariteit hier?",
+   "o": [
+    "wie meer verdient, betaalt meer",
+    "iedereen betaalt hetzelfde",
+    "niemand betaalt belasting",
+    "vrijwilligerswerk"
+   ],
+   "a": 0,
+   "fa": "همبستگی در اینجا یعنی چه؟"
+  },
+  {
+   "q": "Wat is voor Sara het belangrijkste?",
+   "o": [
+    "geloof",
+    "gelijke kansen voor Mia",
+    "geld",
+    "een huis"
+   ],
+   "a": 1,
+   "fa": "برای سارا چه چیزی از همه مهم‌تر است؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "bijeenkomst",
+   "art": "de",
+   "w": "de bijeenkomst",
+   "ipa": "/bɛiˈeːŋkɔmst/",
+   "fa": "جلسه، گردهمایی",
+   "ex": "Ik ging naar drie bijeenkomsten.",
+   "m": [
+    18,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "kernwaarde",
+   "art": "de",
+   "w": "de kernwaarde",
+   "ipa": "/ˈkɛrnʋaːrdə/",
+   "fa": "ارزش بنیادی",
+   "ex": "Vrijheid is een kernwaarde.",
+   "m": [
+    16,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "gelijkwaardigheid",
+   "art": "de",
+   "w": "de gelijkwaardigheid",
+   "ipa": "/ɣəlɛikˈʋaːrdəxɦɛit/",
+   "fa": "برابری",
+   "ex": "Gelijkwaardigheid: mannen en vrouwen hebben dezelfde rechten, homo's en hetero's ook.",
+   "m": [
+    0,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "begeleider",
+   "art": "de",
+   "w": "de begeleider",
+   "ipa": "/bəɣəˈlɛidər/",
+   "fa": "راهنما (مسئول همراهی)",
+   "ex": "De begeleider, Yusuf, was zelf als kind uit Marokko naar Nederland gekomen.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "geloven",
+   "art": "",
+   "w": "geloven",
+   "ipa": "/ɣəˈloːvə(n)/",
+   "fa": "باور داشتن، ایمان داشتن",
+   "ex": "Je mag geloven wat je wilt.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "discrimineren",
+   "art": "",
+   "w": "discrimineren",
+   "ipa": "/dɪskrimiˈneːrə(n)/",
+   "fa": "تبعیض قائل شدن",
+   "ex": "Maar je mag niet discrimineren en niet oproepen tot geweld.",
+   "m": [
+    17,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "geweld",
+   "art": "het",
+   "w": "het geweld",
+   "ipa": "/ɣəˈʋɛlt/",
+   "fa": "خشونت",
+   "ex": "Maar je mag niet discrimineren en niet oproepen tot geweld.",
+   "m": [
+    52,
+    58
+   ],
+   "book": 1
+  },
+  {
+   "id": "discussie",
+   "art": "de",
+   "w": "de discussie",
+   "ipa": "/dɪsˈkʏsi/",
+   "fa": "بحث",
+   "ex": "Daarover volgde een stevige discussie, maar iedereen bleef rustig en luisterde naar elkaar.",
+   "m": [
+    28,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "ondertekenen",
+   "art": "",
+   "w": "ondertekenen",
+   "ipa": "/ɔndərˈteːkənə(n)/",
+   "fa": "امضا کردن",
+   "ex": "Aan het eind ondertekende ik de verklaring.",
+   "m": [
+    13,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "handtekening",
+   "art": "de",
+   "w": "de handtekening",
+   "ipa": "/ˈɦɑntteːkənɪŋ/",
+   "fa": "امضا",
+   "ex": "Het was maar één handtekening, maar het voelde groter dan dat.",
+   "m": [
+    17,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "solidariteit",
+   "art": "de",
+   "w": "de solidariteit",
+   "ipa": "/ˌsoːlidaːriˈtɛit/",
+   "fa": "همبستگی",
+   "ex": "Solidariteit: wie meer verdient, betaalt meer belasting.",
+   "m": [
+    0,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "participatie",
+   "art": "de",
+   "w": "de participatie",
+   "ipa": "/ˌpɑrtisiˈpaː(t)si/",
+   "fa": "مشارکت",
+   "ex": "En participatie betekent gewoon: meedoen.",
+   "m": [
+    3,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "man",
+   "art": "de",
+   "w": "de man",
+   "ipa": "/mɑn/",
+   "fa": "مرد؛ شوهر",
+   "ex": "Gelijkwaardigheid: mannen en vrouwen hebben dezelfde rechten, homo's en hetero's ook.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "vrouw",
+   "art": "de",
+   "w": "de vrouw",
+   "ipa": "/vrɑu/",
+   "fa": "زن؛ همسر",
+   "ex": "Gelijkwaardigheid: mannen en vrouwen hebben dezelfde rechten, homo's en hetero's ook.",
+   "m": [
+    29,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "kans",
+   "art": "de",
+   "w": "de kans",
+   "ipa": "/kɑns/",
+   "fa": "فرصت، شانس",
+   "ex": "Dat mijn dochter later precies dezelfde kansen heeft als een jongen.",
+   "m": [
+    40,
+    46
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Je mag zeggen wat je denkt.",
+   "fa": "می‌توانی بگویی چه فکر می‌کنی.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mannen en vrouwen hebben dezelfde rechten.",
+   "fa": "زن و مرد حقوق یکسانی دارند.",
+   "alt": [
+    "Vrouwen en mannen hebben dezelfde rechten."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Iedereen bleef rustig.",
+   "fa": "همه آرام ماندند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Participatie betekent gewoon meedoen.",
+   "fa": "مشارکت یعنی خیلی ساده همراه شدن.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Wat is voor jou het belangrijkste?",
+   "fa": "برای تو مهم‌ترین چیز چیست؟",
+   "alt": [
+    "Wat is het belangrijkste voor jou?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "day": 63,
+ "level": "B1",
+ "title": "De Vierdaagse van Nijmegen",
+ "fa_title": "پیاده‌روی چهارروزه‌ی نایمِخن",
+ "audio": "audio/day63.mp3",
+ "img": "img/day63.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In de derde week van juli is Nijmegen vier dagen lang één groot feest.",
+   "s": 6.04
+  },
+  {
+   "p": 0,
+   "t": "Dan is er de Vierdaagse, de grootste wandeltocht ter wereld.",
+   "s": 12.46
+  },
+  {
+   "p": 0,
+   "t": "Tienduizenden mensen lopen vier dagen achter elkaar dertig, veertig of vijftig kilometer per dag.",
+   "s": 18.07
+  },
+  {
+   "p": 1,
+   "t": "Dani deed dit jaar voor het eerst mee.",
+   "s": 26.43
+  },
+  {
+   "p": 1,
+   "t": "Hij had maandenlang getraind, elk weekend met een zware rugzak langs de Amstel.",
+   "s": 30.19
+  },
+  {
+   "p": 1,
+   "t": "Hij koos voor vijftig kilometer per dag.",
+   "s": 37.21
+  },
+  {
+   "p": 2,
+   "t": "Op vrijdag, de laatste dag, gingen Emma, Noah en wij met de trein naar Nijmegen.",
+   "s": 41.33
+  },
+  {
+   "p": 2,
+   "t": "De stad zat vol muziek, vlaggen en mensen die aan de kant stonden te klappen.",
+   "s": 49.33
+  },
+  {
+   "p": 2,
+   "t": "Overal werden gladiolen verkocht, lange bloemen in alle kleuren.",
+   "s": 55.85
+  },
+  {
+   "p": 2,
+   "t": "“Die geef je aan de lopers als ze binnenkomen,” legde Emma uit.",
+   "s": 62.01
+  },
+  {
+   "p": 2,
+   "t": "“Dat is een oude traditie.”",
+   "s": 67.68
+  },
+  {
+   "p": 3,
+   "t": "Om drie uur zagen we Dani eindelijk.",
+   "s": 70.66
+  },
+  {
+   "p": 3,
+   "t": "Hij liep een beetje mank en zijn gezicht was rood van de zon, maar hij straalde.",
+   "s": 74.57
+  },
+  {
+   "p": 3,
+   "t": "Emma rende naar hem toe met een bos gladiolen.",
+   "s": 81.13
+  },
+  {
+   "p": 4,
+   "t": "“Hoe voel je je?” vroeg ik.",
+   "s": 85.46
+  },
+  {
+   "p": 5,
+   "t": "“Mijn voeten zijn kapot,” lachte hij.",
+   "s": 89.66
+  },
+  {
+   "p": 5,
+   "t": "“Ik heb zes blaren.",
+   "s": 93.68
+  },
+  {
+   "p": 5,
+   "t": "Maar ik heb het gehaald!”",
+   "s": 96.26
+  },
+  {
+   "p": 5,
+   "t": "Trots liet hij zijn Vierdaagsekruis zien, de medaille die je krijgt als je alle vier de dagen hebt uitgelopen.",
+   "s": 98.93
+  },
+  {
+   "p": 6,
+   "t": "“Volgend jaar loop jij mee,” zei hij tegen mij.",
+   "s": 107.69
+  },
+  {
+   "p": 6,
+   "t": "Ik weet nog niet of dat een goed idee is.",
+   "s": 112.35
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is de Vierdaagse?",
+   "o": [
+    "een fietstocht",
+    "de grootste wandeltocht ter wereld",
+    "een muziekfestival",
+    "een hardloopwedstrijd"
+   ],
+   "a": 1,
+   "fa": "«چهارروزه» (Vierdaagse) چیست؟"
+  },
+  {
+   "q": "Hoe had Dani getraind?",
+   "o": [
+    "elk weekend met een rugzak langs de Amstel",
+    "in de sportschool",
+    "helemaal niet",
+    "in het zwembad"
+   ],
+   "a": 0,
+   "fa": "دانی چطور تمرین کرده بود؟"
+  },
+  {
+   "q": "Hoeveel kilometer liep Dani per dag?",
+   "o": [
+    "dertig",
+    "veertig",
+    "vijftig",
+    "zestig"
+   ],
+   "a": 2,
+   "fa": "دانی هر روز چند کیلومتر راه رفت؟"
+  },
+  {
+   "q": "Wat geef je aan de lopers?",
+   "o": [
+    "water",
+    "chocolade",
+    "een medaille",
+    "gladiolen"
+   ],
+   "a": 3,
+   "fa": "به راهپیماها چه می‌دهند؟"
+  },
+  {
+   "q": "Hoeveel blaren had Dani?",
+   "o": [
+    "twee",
+    "geen",
+    "tien",
+    "zes"
+   ],
+   "a": 3,
+   "fa": "دانی چند تاول داشت؟"
+  },
+  {
+   "q": "Wat is het Vierdaagsekruis?",
+   "o": [
+    "een bloem",
+    "de medaille die je krijgt als je alle dagen hebt uitgelopen",
+    "een kerk in Nijmegen",
+    "een straat"
+   ],
+   "a": 1,
+   "fa": "«صلیب چهارروزه» چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "wandeltocht",
+   "art": "de",
+   "w": "de wandeltocht",
+   "ipa": "/ˈʋɑndəltɔxt/",
+   "fa": "راهپیمایی (پیاده‌روی طولانی)",
+   "ex": "Dan is er de Vierdaagse, de grootste wandeltocht ter wereld.",
+   "m": [
+    37,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "meedoen",
+   "art": "",
+   "w": "meedoen",
+   "ipa": "/ˈmeːdun/",
+   "fa": "شرکت کردن",
+   "ex": "Dani deed dit jaar voor het eerst mee.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "trainen",
+   "art": "",
+   "w": "trainen",
+   "ipa": "/ˈtreːnə(n)/",
+   "fa": "تمرین کردن",
+   "ex": "Hij had maandenlang getraind, elk weekend met een zware rugzak langs de Amstel.",
+   "m": [
+    20,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "rugzak",
+   "art": "de",
+   "w": "de rugzak",
+   "ipa": "/ˈrʏxsɑk/",
+   "fa": "کوله‌پشتی",
+   "ex": "Hij had maandenlang getraind, elk weekend met een zware rugzak langs de Amstel.",
+   "m": [
+    56,
+    62
+   ],
+   "book": 1
+  },
+  {
+   "id": "klappen",
+   "art": "",
+   "w": "klappen",
+   "ipa": "/ˈklɑpə(n)/",
+   "fa": "دست زدن",
+   "ex": "Mensen stonden aan de kant te klappen.",
+   "m": [
+    30,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "traditie",
+   "art": "de",
+   "w": "de traditie",
+   "ipa": "/traːˈdi(t)si/",
+   "fa": "رسم، سنت",
+   "ex": "Dat is een oude traditie.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "mank",
+   "art": "",
+   "w": "mank",
+   "ipa": "/mɑŋk/",
+   "fa": "لنگ",
+   "ex": "Na vier dagen liep hij een beetje mank.",
+   "m": [
+    34,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "stralen",
+   "art": "",
+   "w": "stralen",
+   "ipa": "/ˈstraːlə(n)/",
+   "fa": "از شادی برق زدن، درخشیدن",
+   "ex": "Hij was moe, maar hij straalde.",
+   "m": [
+    22,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "blaar",
+   "art": "de",
+   "w": "de blaar",
+   "ipa": "/blaːr/",
+   "fa": "تاول",
+   "ex": "Ik heb zes blaren.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "halen",
+   "art": "",
+   "w": "halen",
+   "ipa": "/ˈɦaːlə(n)/",
+   "fa": "موفق شدن، رسیدن",
+   "ex": "Ik heb het gehaald!",
+   "m": [
+    11,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "loper",
+   "art": "de",
+   "w": "de loper",
+   "ipa": "/ˈloːpər/",
+   "fa": "راهپیما، دونده",
+   "ex": "Die geef je aan de lopers als ze binnenkomen.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "gladiool",
+   "art": "de",
+   "w": "de gladiool",
+   "ipa": "/ˌɣlaːdiˈoːl/",
+   "fa": "گل گلایل",
+   "ex": "Overal werden gladiolen verkocht, lange bloemen in alle kleuren.",
+   "m": [
+    14,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "weekend",
+   "art": "het",
+   "w": "het weekend",
+   "ipa": "/ˈʋikɛnt/",
+   "fa": "آخر هفته",
+   "ex": "Hij had maandenlang getraind, elk weekend met een zware rugzak langs de Amstel.",
+   "m": [
+    34,
+    41
+   ],
+   "book": 0
+  },
+  {
+   "id": "voet",
+   "art": "de",
+   "w": "de voet",
+   "ipa": "/vut/",
+   "fa": "پا (کف پا)",
+   "ex": "Mijn voeten zijn kapot.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "kapot",
+   "art": "",
+   "w": "kapot",
+   "ipa": "/kaːˈpɔt/",
+   "fa": "خراب، داغان",
+   "ex": "Mijn voeten zijn kapot.",
+   "m": [
+    17,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "maandenlang",
+   "art": "",
+   "w": "maandenlang",
+   "ipa": "/ˈmaːndə(n)lɑŋ/",
+   "fa": "ماه‌ها",
+   "ex": "Hij had maandenlang getraind, elk weekend met een zware rugzak langs de Amstel.",
+   "m": [
+    8,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "binnenkomen",
+   "art": "",
+   "w": "binnenkomen",
+   "ipa": "/ˈbɪnə(n)koːmə(n)/",
+   "fa": "وارد شدن",
+   "ex": "Die geef je aan de lopers als ze binnenkomen.",
+   "m": [
+    33,
+    44
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Dani deed dit jaar voor het eerst mee.",
+   "fa": "دانی امسال برای اولین بار شرکت کرد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij koos voor vijftig kilometer per dag.",
+   "fa": "او روزی پنجاه کیلومتر را انتخاب کرد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Hoe voel je je?",
+   "fa": "حالت چطور است؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mijn voeten zijn kapot.",
+   "fa": "پاهایم داغان است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik heb het gehaald!",
+   "fa": "از پسش برآمدم!",
+   "alt": []
+  }
+ ]
+}

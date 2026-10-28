@@ -1,0 +1,471 @@
+{
+ "day": 70,
+ "level": "B1",
+ "title": "De vrijdagmiddagborrel",
+ "fa_title": "دورهمی عصر جمعه",
+ "audio": "audio/day70.mp3",
+ "img": "img/day70.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Elke vrijdag om vijf uur gaat een deel van ons team naar de borrel.",
+   "s": 5.29
+  },
+  {
+   "p": 0,
+   "t": "Deze keer vroegen ze of ik meeging.",
+   "s": 10.53
+  },
+  {
+   "p": 1,
+   "t": "We liepen naar een bruin café aan de gracht.",
+   "s": 14.29
+  },
+  {
+   "p": 1,
+   "t": "Zo'n café heet bruin omdat het er donker is: houten tafels, oude schilderijen en een plafond dat bruin is geworden.",
+   "s": 18.09
+  },
+  {
+   "p": 1,
+   "t": "Toen het nog mocht, werd hier veel gerookt.",
+   "s": 26.71
+  },
+  {
+   "p": 2,
+   "t": "Mark bestelde een rondje: biertjes, een wijntje voor Lotte en een fris voor mij.",
+   "s": 30.93
+  },
+  {
+   "p": 2,
+   "t": "En natuurlijk een schaal bitterballen.",
+   "s": 37.45
+  },
+  {
+   "p": 2,
+   "t": "“Pas op, ze zijn heet,” waarschuwde hij.",
+   "s": 40.87
+  },
+  {
+   "p": 2,
+   "t": "Te laat: ik brandde mijn tong.",
+   "s": 45.31
+  },
+  {
+   "p": 2,
+   "t": "Iedereen lachte, ik ook.",
+   "s": 48.82
+  },
+  {
+   "p": 3,
+   "t": "Op een borrel praat je niet lang over het werk, merkte ik.",
+   "s": 52.1
+  },
+  {
+   "p": 3,
+   "t": "Het ging over het weer, vakantieplannen, voetbal en een nieuwe serie op tv.",
+   "s": 56.82
+  },
+  {
+   "p": 3,
+   "t": "Ik vond dat lastig.",
+   "s": 63.02
+  },
+  {
+   "p": 3,
+   "t": "Wat zeg je tegen iemand die je nauwelijks kent?",
+   "s": 65.65
+  },
+  {
+   "p": 4,
+   "t": "Lotte gaf me een tip.",
+   "s": 69.84
+  },
+  {
+   "p": 4,
+   "t": "“Stel gewoon vragen.",
+   "s": 72.51
+  },
+  {
+   "p": 4,
+   "t": "Wat ga je dit weekend doen?",
+   "s": 75.38
+  },
+  {
+   "p": 4,
+   "t": "Heb je plannen voor de herfstvakantie?",
+   "s": 78.24
+  },
+  {
+   "p": 4,
+   "t": "Mensen praten graag over zichzelf.”",
+   "s": 81.73
+  },
+  {
+   "p": 5,
+   "t": "Het werkte.",
+   "s": 85.49
+  },
+  {
+   "p": 5,
+   "t": "Een collega van de nachtdienst vertelde enthousiast over zijn moestuin, en Ingrid liet foto's zien van haar nieuwe puppy.",
+   "s": 87.68
+  },
+  {
+   "p": 6,
+   "t": "Om half zeven stond iedereen op.",
+   "s": 95.98
+  },
+  {
+   "p": 6,
+   "t": "“Ik moet naar huis, eten,” zei Mark.",
+   "s": 99.7
+  },
+  {
+   "p": 6,
+   "t": "Toen ik thuiskwam, vroeg Alex hoe het was.",
+   "s": 103.82
+  },
+  {
+   "p": 6,
+   "t": "“Gezellig,” zei ik, en ik meende het.",
+   "s": 108.1
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer is de borrel?",
+   "o": [
+    "elke vrijdag om vijf uur",
+    "elke maandag",
+    "elke dag na het werk",
+    "één keer per maand"
+   ],
+   "a": 0,
+   "fa": "دورهمی کِی است؟"
+  },
+  {
+   "q": "Waarom heet het café bruin?",
+   "o": [
+    "omdat de koffie er lekker is",
+    "omdat de eigenaar Bruin heet",
+    "omdat het er donker en bruin is",
+    "omdat het aan de gracht ligt"
+   ],
+   "a": 2,
+   "fa": "چرا به این کافه «قهوه‌ای» می‌گویند؟"
+  },
+  {
+   "q": "Wat gebeurde er met de bitterbal?",
+   "o": [
+    "Sara liet hem vallen",
+    "Sara brandde haar tong",
+    "hij was koud",
+    "Mark at hem op"
+   ],
+   "a": 1,
+   "fa": "با «بیتربال» چه اتفاقی افتاد؟"
+  },
+  {
+   "q": "Waar praat je op een borrel niet lang over?",
+   "o": [
+    "het weer",
+    "vakantie",
+    "voetbal",
+    "het werk"
+   ],
+   "a": 3,
+   "fa": "در دورهمی درباره‌ی چه چیزی زیاد حرف نمی‌زنی؟"
+  },
+  {
+   "q": "Wat was de tip van Lotte?",
+   "o": [
+    "stel gewoon vragen",
+    "praat veel over jezelf",
+    "drink wat meer",
+    "ga vroeg naar huis"
+   ],
+   "a": 0,
+   "fa": "توصیه‌ی لوته چه بود؟"
+  },
+  {
+   "q": "Wat liet Ingrid zien?",
+   "o": [
+    "haar moestuin",
+    "haar vakantiefoto's",
+    "foto's van haar nieuwe puppy",
+    "haar nieuwe fiets"
+   ],
+   "a": 2,
+   "fa": "اینگرید چه نشان داد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "borrel",
+   "art": "de",
+   "w": "de borrel",
+   "ipa": "/ˈbɔrəl/",
+   "fa": "دورهمی (نوشیدنی و گپ)",
+   "ex": "Op een borrel praat je niet lang over het werk, merkte ik.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "plafond",
+   "art": "het",
+   "w": "het plafond",
+   "ipa": "/plaːˈfɔnt/",
+   "fa": "سقف",
+   "ex": "Het plafond is bruin geworden.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "roken",
+   "art": "",
+   "w": "roken",
+   "ipa": "/ˈroːkə(n)/",
+   "fa": "سیگار کشیدن",
+   "ex": "Toen het nog mocht, werd hier veel gerookt.",
+   "m": [
+    35,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "rondje",
+   "art": "het",
+   "w": "het rondje",
+   "ipa": "/ˈrɔncə/",
+   "fa": "یک دور نوشیدنی برای همه",
+   "ex": "Mark bestelde een rondje voor iedereen.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "waarschuwen",
+   "art": "",
+   "w": "waarschuwen",
+   "ipa": "/ˈʋaːrsxyʋə(n)/",
+   "fa": "هشدار دادن",
+   "ex": "Hij waarschuwde me voor de hete bitterballen.",
+   "m": [
+    4,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "branden",
+   "art": "",
+   "w": "branden",
+   "ipa": "/ˈbrɑndə(n)/",
+   "fa": "سوزاندن",
+   "ex": "Te laat: ik brandde mijn tong.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "lastig",
+   "art": "",
+   "w": "lastig",
+   "ipa": "/ˈlɑstəx/",
+   "fa": "سخت، دردسرساز",
+   "ex": "Ik vond dat lastig.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "herfstvakantie",
+   "art": "de",
+   "w": "de herfstvakantie",
+   "ipa": "/ˈɦɛrfstfaːkɑnsi/",
+   "fa": "تعطیلات پاییزی",
+   "ex": "Heb je plannen voor de herfstvakantie?",
+   "m": [
+    23,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "moestuin",
+   "art": "de",
+   "w": "de moestuin",
+   "ipa": "/ˈmustœyn/",
+   "fa": "باغچه‌ی سبزی",
+   "ex": "In zijn moestuin groeien tomaten.",
+   "m": [
+    8,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "enthousiast",
+   "art": "",
+   "w": "enthousiast",
+   "ipa": "/ɛntuˈzjɑst/",
+   "fa": "مشتاق، با شوق",
+   "ex": "Hij vertelde heel enthousiast.",
+   "m": [
+    18,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "cafe",
+   "art": "het",
+   "w": "het café",
+   "ipa": "/kaːˈfeː/",
+   "fa": "کافه",
+   "ex": "We liepen naar een bruin café aan de gracht.",
+   "m": [
+    25,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "tong",
+   "art": "de",
+   "w": "de tong",
+   "ipa": "/tɔŋ/",
+   "fa": "زبان (عضو بدن)",
+   "ex": "Te laat: ik brandde mijn tong.",
+   "m": [
+    25,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "puppy",
+   "art": "de",
+   "w": "de puppy",
+   "ipa": "/ˈpʏpi/",
+   "fa": "توله‌سگ",
+   "ex": "Ingrid heeft een nieuwe puppy.",
+   "m": [
+    24,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "serie",
+   "art": "de",
+   "w": "de serie",
+   "ipa": "/ˈseːri/",
+   "fa": "سریال",
+   "ex": "Het ging over het weer, vakantieplannen, voetbal en een nieuwe serie op tv.",
+   "m": [
+    63,
+    68
+   ],
+   "book": 0
+  },
+  {
+   "id": "biertje",
+   "art": "het",
+   "w": "het biertje",
+   "ipa": "/ˈbiːrcə/",
+   "fa": "آبجوی کوچک",
+   "ex": "Mark bestelde een rondje: biertjes, een wijntje voor Lotte en een fris voor mij.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "zichzelf",
+   "art": "",
+   "w": "zichzelf",
+   "ipa": "/zɪxˈzɛlf/",
+   "fa": "خودش، خودشان",
+   "ex": "Mensen praten graag over zichzelf.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "nachtdienst",
+   "art": "de",
+   "w": "de nachtdienst",
+   "ipa": "/ˈnɑxtdinst/",
+   "fa": "شیفت شب",
+   "ex": "Een collega van de nachtdienst vertelde over zijn moestuin.",
+   "m": [
+    19,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "foto",
+   "art": "de",
+   "w": "de foto",
+   "ipa": "/ˈfoːtoː/",
+   "fa": "عکس",
+   "ex": "Ingrid liet een foto van haar puppy zien.",
+   "m": [
+    16,
+    20
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Pas op, ze zijn heet.",
+   "fa": "مراقب باش، داغ‌اند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik brandde mijn tong.",
+   "fa": "زبانم را سوزاندم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Stel gewoon vragen.",
+   "fa": "فقط سؤال بپرس.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mensen praten graag over zichzelf.",
+   "fa": "مردم دوست دارند درباره‌ی خودشان حرف بزنند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik moet naar huis.",
+   "fa": "باید بروم خانه.",
+   "alt": []
+  }
+ ]
+}

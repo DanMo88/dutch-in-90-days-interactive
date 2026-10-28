@@ -1,0 +1,471 @@
+{
+ "day": 85,
+ "level": "B1",
+ "title": "De surprise",
+ "fa_title": "سورپریز",
+ "audio": "audio/day85.mp3",
+ "img": "img/day85.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Voor Dani wilde ik een surprise maken die bij hem paste: een fiets, natuurlijk.",
+   "s": 4.94
+  },
+  {
+   "p": 1,
+   "t": "Drie avonden zat ik met Mia aan de keukentafel, tussen dozen, wc-rolletjes, lijm en verf.",
+   "s": 11.8
+  },
+  {
+   "p": 1,
+   "t": "Van papieren bordjes maakten we wielen, van een oude doos het frame.",
+   "s": 21.1
+  },
+  {
+   "p": 1,
+   "t": "Mia schilderde alles groen, de kleur van Dani's trui.",
+   "s": 26.99
+  },
+  {
+   "p": 1,
+   "t": "Binnenin, in de 'fietstas', zaten zijn cadeautjes: wollen sokken, een fietsbel en een zak drop.",
+   "s": 32.29
+  },
+  {
+   "p": 2,
+   "t": "Op 5 december, pakjesavond, zaten we met z'n allen bij Oma Anna.",
+   "s": 41.46
+  },
+  {
+   "p": 2,
+   "t": "Overal brandden kaarsjes, er stond een schaal met pepernoten en chocoladeletters.",
+   "s": 48.44
+  },
+  {
+   "p": 3,
+   "t": "Om de beurt kreeg iedereen zijn surprise.",
+   "s": 55.85
+  },
+  {
+   "p": 3,
+   "t": "Eerst las je het gedicht hardop voor, pas daarna mocht je uitpakken.",
+   "s": 59.83
+  },
+  {
+   "p": 3,
+   "t": "Alex kreeg van Emma een kartonnen laptop, met een gedicht over zijn eindeloze vergaderingen.",
+   "s": 65.65
+  },
+  {
+   "p": 4,
+   "t": "Toen was Dani aan de beurt.",
+   "s": 73.52
+  },
+  {
+   "p": 4,
+   "t": "Hij bekeek de groene fiets van alle kanten.",
+   "s": 76.54
+  },
+  {
+   "p": 4,
+   "t": "“Prachtig!",
+   "s": 80.63
+  },
+  {
+   "p": 4,
+   "t": "Wie heeft dit gemaakt?”",
+   "s": 82.6
+  },
+  {
+   "p": 5,
+   "t": "Hij las mijn gedicht voor, en bij de regel over te laat komen lachte iedereen, Dani het hardst.",
+   "s": 85.27
+  },
+  {
+   "p": 5,
+   "t": "“Sint heeft dit jaar wel heel goed Nederlands leren schrijven,” zei hij met een knipoog naar mij.",
+   "s": 93.35
+  },
+  {
+   "p": 6,
+   "t": "Ik werd rood.",
+   "s": 100.77
+  },
+  {
+   "p": 6,
+   "t": "Mia sprong op.",
+   "s": 102.9
+  },
+  {
+   "p": 6,
+   "t": "“Het was mama!",
+   "s": 105.47
+  },
+  {
+   "p": 6,
+   "t": "En ik heb geholpen!”",
+   "s": 107.72
+  },
+  {
+   "p": 6,
+   "t": "Zo was het geheim alsnog verklapt.",
+   "s": 110.32
+  },
+  {
+   "p": 6,
+   "t": "Maar niemand vond dat erg.",
+   "s": 114.04
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat voor surprise maakte Sara?",
+   "o": [
+    "een fiets",
+    "een huis",
+    "een kat",
+    "een boot"
+   ],
+   "a": 0,
+   "fa": "سارا چه جور سورپریزی درست کرد؟"
+  },
+  {
+   "q": "Wie hielp Sara?",
+   "o": [
+    "Alex",
+    "Emma",
+    "Mia",
+    "Fatima"
+   ],
+   "a": 2,
+   "fa": "چه کسی به سارا کمک کرد؟"
+  },
+  {
+   "q": "Waar zaten de cadeautjes?",
+   "o": [
+    "in een wiel",
+    "in de fietstas",
+    "onder de tafel",
+    "in een schoen"
+   ],
+   "a": 1,
+   "fa": "هدیه‌ها کجا بودند؟"
+  },
+  {
+   "q": "Waar vierden ze pakjesavond?",
+   "o": [
+    "bij Dani en Emma",
+    "bij Sara",
+    "bij Fatima",
+    "bij Oma Anna"
+   ],
+   "a": 3,
+   "fa": "شب هدیه‌ها را کجا جشن گرفتند؟"
+  },
+  {
+   "q": "Wat moest je doen voordat je mocht uitpakken?",
+   "o": [
+    "zingen",
+    "een pepernoot eten",
+    "het gedicht hardop voorlezen",
+    "dansen"
+   ],
+   "a": 2,
+   "fa": "قبل از باز کردن هدیه چه کاری باید می‌کردی؟"
+  },
+  {
+   "q": "Wie verklapte het geheim?",
+   "o": [
+    "Mia",
+    "Alex",
+    "Emma",
+    "Sara"
+   ],
+   "a": 0,
+   "fa": "چه کسی راز را لو داد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "passen-bij",
+   "art": "",
+   "w": "passen bij",
+   "ipa": "/ˈpɑsə(n) bɛi/",
+   "fa": "به ... آمدن (مناسب بودن)",
+   "ex": "Een fiets past goed bij Dani.",
+   "m": [
+    10,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "lijm",
+   "art": "de",
+   "w": "de lijm",
+   "ipa": "/lɛim/",
+   "fa": "چسب",
+   "ex": "Met lijm plakten we alles vast.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "wiel",
+   "art": "het",
+   "w": "het wiel",
+   "ipa": "/ʋil/",
+   "fa": "چرخ",
+   "ex": "De wielen waren papieren bordjes.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "binnenin",
+   "art": "",
+   "w": "binnenin",
+   "ipa": "/bɪnəˈnɪn/",
+   "fa": "داخلش، درونش",
+   "ex": "Binnenin zaten de cadeautjes.",
+   "m": [
+    0,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "chocoladeletter",
+   "art": "de",
+   "w": "de chocoladeletter",
+   "ipa": "/ʃoːkoːˈlaːdəlɛtər/",
+   "fa": "حرف شکلاتی",
+   "ex": "Overal brandden kaarsjes, er stond een schaal met pepernoten en chocoladeletters.",
+   "m": [
+    64,
+    80
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitpakken",
+   "art": "",
+   "w": "uitpakken",
+   "ipa": "/ˈœytpɑkə(n)/",
+   "fa": "باز کردن (بسته)",
+   "ex": "Eerst las je het gedicht hardop voor, pas daarna mocht je uitpakken.",
+   "m": [
+    58,
+    67
+   ],
+   "book": 1
+  },
+  {
+   "id": "kartonnen",
+   "art": "",
+   "w": "kartonnen",
+   "ipa": "/kɑrˈtɔnə(n)/",
+   "fa": "مقوایی",
+   "ex": "Alex kreeg een kartonnen laptop.",
+   "m": [
+    15,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "eindeloos",
+   "art": "",
+   "w": "eindeloos",
+   "ipa": "/ˈɛindəloːs/",
+   "fa": "بی‌پایان",
+   "ex": "Hij heeft eindeloze vergaderingen.",
+   "m": [
+    10,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "knipoog",
+   "art": "de",
+   "w": "de knipoog",
+   "ipa": "/ˈknɪpoːx/",
+   "fa": "چشمک",
+   "ex": "Hij zei het met een knipoog.",
+   "m": [
+    20,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "verklappen",
+   "art": "",
+   "w": "verklappen",
+   "ipa": "/vərˈklɑpə(n)/",
+   "fa": "لو دادن",
+   "ex": "Zo was het geheim alsnog verklapt.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "trui",
+   "art": "de",
+   "w": "de trui",
+   "ipa": "/trœy/",
+   "fa": "پلیور، بلوز بافتنی",
+   "ex": "Mia schilderde alles groen, de kleur van Dani's trui.",
+   "m": [
+    48,
+    52
+   ],
+   "book": 0
+  },
+  {
+   "id": "frame",
+   "art": "het",
+   "w": "het frame",
+   "ipa": "/freːm/",
+   "fa": "بدنه (فریم)",
+   "ex": "Van papieren bordjes maakten we wielen, van een oude doos het frame.",
+   "m": [
+    62,
+    67
+   ],
+   "book": 0
+  },
+  {
+   "id": "kaarsje",
+   "art": "het",
+   "w": "het kaarsje",
+   "ipa": "/ˈkaːrʃə/",
+   "fa": "شمع کوچک",
+   "ex": "Overal brandden kaarsjes, er stond een schaal met pepernoten en chocoladeletters.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "laptop",
+   "art": "de",
+   "w": "de laptop",
+   "ipa": "/ˈlɛptɔp/",
+   "fa": "لپ‌تاپ",
+   "ex": "Alex kreeg van Emma een kartonnen laptop, met een gedicht over zijn eindeloze vergaderingen.",
+   "m": [
+    34,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "vergadering",
+   "art": "de",
+   "w": "de vergadering",
+   "ipa": "/vərˈɣaːdərɪŋ/",
+   "fa": "جلسه‌ی کاری",
+   "ex": "Alex kreeg van Emma een kartonnen laptop, met een gedicht over zijn eindeloze vergaderingen.",
+   "m": [
+    78,
+    91
+   ],
+   "book": 0
+  },
+  {
+   "id": "fietstas",
+   "art": "de",
+   "w": "de fietstas",
+   "ipa": "/ˈfitstɑs/",
+   "fa": "خورجین دوچرخه",
+   "ex": "De cadeautjes zaten in de fietstas.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "pakjesavond",
+   "art": "de",
+   "w": "de pakjesavond",
+   "ipa": "/ˈpɑkjəsˌaːvɔnt/",
+   "fa": "شب هدیه‌ها (۵ دسامبر)",
+   "ex": "Op 5 december, pakjesavond, zaten we met z'n allen bij Oma Anna.",
+   "m": [
+    15,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "alsnog",
+   "art": "",
+   "w": "alsnog",
+   "ipa": "/ɑlsˈnɔx/",
+   "fa": "با این حال، آخرش",
+   "ex": "Zo was het geheim alsnog verklapt.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "schilderen",
+   "art": "",
+   "w": "schilderen",
+   "ipa": "/ˈsxɪldərə(n)/",
+   "fa": "رنگ کردن، نقاشی کردن",
+   "ex": "Mia schilderde alles groen, de kleur van Dani's trui.",
+   "m": [
+    4,
+    14
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mia schilderde alles groen.",
+   "fa": "میا همه چیز را سبز رنگ کرد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Om de beurt kreeg iedereen zijn surprise.",
+   "fa": "هر کس به نوبت سورپریزش را گرفت.",
+   "alt": [
+    "Iedereen kreeg om de beurt zijn surprise."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Wie heeft dit gemaakt?",
+   "fa": "چه کسی این را درست کرده؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik werd rood.",
+   "fa": "سرخ شدم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Maar niemand vond dat erg.",
+   "fa": "ولی هیچ‌کس ناراحت نشد.",
+   "alt": []
+  }
+ ]
+}

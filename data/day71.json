@@ -1,0 +1,441 @@
+{
+ "day": 71,
+ "level": "B1",
+ "title": "Prinsjesdag",
+ "fa_title": "پرینسیِس‌دخ (روز بودجه)",
+ "audio": "audio/day71.mp3",
+ "img": "img/day71.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op de derde dinsdag van september is het Prinsjesdag.",
+   "s": 5.08
+  },
+  {
+   "p": 0,
+   "t": "Dan begint het nieuwe politieke jaar.",
+   "s": 10.05
+  },
+  {
+   "p": 0,
+   "t": "Ik keek samen met Oma Anna naar de uitzending op tv.",
+   "s": 13.69
+  },
+  {
+   "p": 1,
+   "t": "Om één uur vertrok de Glazen Koets van Paleis Noordeinde in Den Haag.",
+   "s": 18.83
+  },
+  {
+   "p": 1,
+   "t": "Acht paarden trokken de koets door de straten.",
+   "s": 25.08
+  },
+  {
+   "p": 1,
+   "t": "Vroeger ging de koning naar de Ridderzaal op het Binnenhof.",
+   "s": 29.08
+  },
+  {
+   "p": 1,
+   "t": "Maar het Binnenhof wordt al jaren verbouwd, dus nu spreekt hij de Troonrede uit in de Koninklijke Schouwburg.",
+   "s": 34.01
+  },
+  {
+   "p": 2,
+   "t": "“Kijk naar die hoedjes!” riep Oma Anna.",
+   "s": 43.07
+  },
+  {
+   "p": 2,
+   "t": "Veel politici droegen opvallende hoeden, met veren, bloemen en zelfs een klein huisje erop.",
+   "s": 48.32
+  },
+  {
+   "p": 3,
+   "t": "Toen begon de koning te lezen.",
+   "s": 56.73
+  },
+  {
+   "p": 3,
+   "t": "De Troonrede wordt niet door de koning zelf geschreven, legde Oma Anna uit, maar door de regering.",
+   "s": 60.04
+  },
+  {
+   "p": 3,
+   "t": "Hij vertelt welke plannen de regering heeft voor het volgende jaar: over wonen, zorg, onderwijs en belasting.",
+   "s": 68.74
+  },
+  {
+   "p": 4,
+   "t": "'s Middags bracht de minister van Financiën een koffertje naar de Tweede Kamer.",
+   "s": 78.19
+  },
+  {
+   "p": 4,
+   "t": "Daarin zat de Miljoenennota, de begroting van het land.",
+   "s": 84.44
+  },
+  {
+   "p": 5,
+   "t": "'s Avonds aan tafel ging het over geld.",
+   "s": 89.83
+  },
+  {
+   "p": 5,
+   "t": "“Wordt alles weer duurder?” vroeg Alex.",
+   "s": 93.9
+  },
+  {
+   "p": 5,
+   "t": "“Dat merk je pas als de rekening komt,” zei Oma Anna wijs.",
+   "s": 98.99
+  },
+  {
+   "p": 6,
+   "t": "Mia vond vooral de paarden mooi.",
+   "s": 104.69
+  },
+  {
+   "p": 6,
+   "t": "“Mag ik volgend jaar ook in een koets?”",
+   "s": 108.24
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer is Prinsjesdag?",
+   "o": [
+    "op de derde dinsdag van september",
+    "op 27 april",
+    "op 5 mei",
+    "op de eerste maandag van september"
+   ],
+   "a": 0,
+   "fa": "«پرینسیس‌دخ» کِی است؟"
+  },
+  {
+   "q": "Hoeveel paarden trokken de Glazen Koets?",
+   "o": [
+    "vier",
+    "zes",
+    "acht",
+    "twaalf"
+   ],
+   "a": 2,
+   "fa": "چند اسب کالسکه‌ی شیشه‌ای را می‌کشیدند؟"
+  },
+  {
+   "q": "Waar spreekt de koning nu de Troonrede uit?",
+   "o": [
+    "in de Ridderzaal",
+    "in de Koninklijke Schouwburg",
+    "in Amsterdam",
+    "in Paleis Noordeinde"
+   ],
+   "a": 1,
+   "fa": "پادشاه حالا «سخنرانی تخت» را کجا ایراد می‌کند؟"
+  },
+  {
+   "q": "Wie schrijft de Troonrede?",
+   "o": [
+    "de koning",
+    "de koningin",
+    "de minister van Financiën alleen",
+    "de regering"
+   ],
+   "a": 3,
+   "fa": "چه کسی سخنرانی تخت را می‌نویسد؟"
+  },
+  {
+   "q": "Wat zit er in het koffertje?",
+   "o": [
+    "de Miljoenennota, de begroting van het land",
+    "geld",
+    "de Troonrede",
+    "een hoed"
+   ],
+   "a": 0,
+   "fa": "در کیف کوچک چیست؟"
+  },
+  {
+   "q": "Wat vond Mia het mooist?",
+   "o": [
+    "de hoedjes",
+    "de paarden",
+    "de koning",
+    "de soldaten"
+   ],
+   "a": 1,
+   "fa": "میا چه چیزی را از همه زیباتر دانست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "politiek",
+   "art": "",
+   "w": "politiek",
+   "ipa": "/poːliˈtiːk/",
+   "fa": "سیاسی",
+   "ex": "Dan begint het nieuwe politieke jaar.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitzending",
+   "art": "de",
+   "w": "de uitzending",
+   "ipa": "/ˈœytsɛndɪŋ/",
+   "fa": "پخش (برنامه)",
+   "ex": "Ik keek samen met Oma Anna naar de uitzending op tv.",
+   "m": [
+    35,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "koets",
+   "art": "de",
+   "w": "de koets",
+   "ipa": "/kuts/",
+   "fa": "کالسکه",
+   "ex": "Acht paarden trokken de koets door de straten.",
+   "m": [
+    24,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "opvallend",
+   "art": "",
+   "w": "opvallend",
+   "ipa": "/ɔpˈfɑlənt/",
+   "fa": "چشمگیر",
+   "ex": "Ze droeg een opvallende hoed.",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "verbouwen",
+   "art": "",
+   "w": "verbouwen",
+   "ipa": "/vərˈbɑuʋə(n)/",
+   "fa": "بازسازی کردن",
+   "ex": "Het Binnenhof wordt verbouwd.",
+   "m": [
+    20,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoed",
+   "art": "de",
+   "w": "de hoed",
+   "ipa": "/ɦut/",
+   "fa": "کلاه",
+   "ex": "Ze droeg een hoed met veren.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "regering",
+   "art": "de",
+   "w": "de regering",
+   "ipa": "/rəˈɣeːrɪŋ/",
+   "fa": "دولت",
+   "ex": "De regering schrijft de Troonrede.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "onderwijs",
+   "art": "het",
+   "w": "het onderwijs",
+   "ipa": "/ˈɔndərʋɛis/",
+   "fa": "آموزش",
+   "ex": "Er komt meer geld voor onderwijs.",
+   "m": [
+    23,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "begroting",
+   "art": "de",
+   "w": "de begroting",
+   "ipa": "/bəˈɣroːtɪŋ/",
+   "fa": "بودجه",
+   "ex": "Daarin zat de Miljoenennota, de begroting van het land.",
+   "m": [
+    32,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "wijs",
+   "art": "",
+   "w": "wijs",
+   "ipa": "/ʋɛis/",
+   "fa": "دانا، خردمند",
+   "ex": "Oma Anna zei iets heel wijs.",
+   "m": [
+    23,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "september",
+   "art": "",
+   "w": "september",
+   "ipa": "/sɛpˈtɛmbər/",
+   "fa": "سپتامبر",
+   "ex": "Op de derde dinsdag van september is het Prinsjesdag.",
+   "m": [
+    24,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "minister",
+   "art": "de",
+   "w": "de minister",
+   "ipa": "/miˈnɪstər/",
+   "fa": "وزیر",
+   "ex": "'s Middags bracht de minister van Financiën een koffertje naar de Tweede Kamer.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "koffertje",
+   "art": "het",
+   "w": "het koffertje",
+   "ipa": "/ˈkɔfərcə/",
+   "fa": "کیف کوچک",
+   "ex": "'s Middags bracht de minister van Financiën een koffertje naar de Tweede Kamer.",
+   "m": [
+    48,
+    57
+   ],
+   "book": 0
+  },
+  {
+   "id": "veer",
+   "art": "de",
+   "w": "de veer",
+   "ipa": "/veːr/",
+   "fa": "پَر",
+   "ex": "Veel politici droegen opvallende hoeden, met veren, bloemen en zelfs een klein huisje erop.",
+   "m": [
+    45,
+    50
+   ],
+   "book": 0
+  },
+  {
+   "id": "dinsdag",
+   "art": "",
+   "w": "dinsdag",
+   "ipa": "/ˈdɪnsdɑx/",
+   "fa": "سه‌شنبه",
+   "ex": "Op de derde dinsdag van september is het Prinsjesdag.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "schrijven",
+   "art": "",
+   "w": "schrijven",
+   "ipa": "/ˈsxrɛivə(n)/",
+   "fa": "نوشتن",
+   "ex": "De koning schrijft de Troonrede niet zelf.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "huisje",
+   "art": "het",
+   "w": "het huisje",
+   "ipa": "/ˈɦœycə/",
+   "fa": "خانه‌ی کوچک",
+   "ex": "Veel politici droegen opvallende hoeden, met veren, bloemen en zelfs een klein huisje erop.",
+   "m": [
+    79,
+    85
+   ],
+   "book": 0
+  },
+  {
+   "id": "politicus",
+   "art": "de",
+   "w": "de politicus",
+   "ipa": "/ˌpoːˈlitikʏs/",
+   "fa": "سیاستمدار",
+   "ex": "Veel politici droegen opvallende hoeden.",
+   "m": [
+    5,
+    13
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Dan begint het nieuwe politieke jaar.",
+   "fa": "آن موقع سال سیاسی جدید شروع می‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Acht paarden trokken de koets.",
+   "fa": "هشت اسب کالسکه را می‌کشیدند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Kijk naar die hoedjes!",
+   "fa": "آن کلاه‌ها را ببین!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Wordt alles weer duurder?",
+   "fa": "آیا باز همه چیز گران‌تر می‌شود؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Mag ik volgend jaar ook in een koets?",
+   "fa": "می‌توانم سال بعد من هم سوار کالسکه شوم؟",
+   "alt": []
+  }
+ ]
+}

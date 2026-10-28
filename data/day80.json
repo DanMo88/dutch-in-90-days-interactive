@@ -1,0 +1,444 @@
+{
+ "day": 80,
+ "level": "B1",
+ "title": "Ziek melden",
+ "fa_title": "اعلام بیماری به محل کار",
+ "audio": "audio/day80.mp3",
+ "img": "img/day80.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op maandagochtend werd ik wakker met hoofdpijn, spierpijn en koorts.",
+   "s": 4.57
+  },
+  {
+   "p": 0,
+   "t": "Mijn keel deed pijn.",
+   "s": 10.4
+  },
+  {
+   "p": 0,
+   "t": "Griep, dat was duidelijk.",
+   "s": 13.12
+  },
+  {
+   "p": 1,
+   "t": "In Iran zou ik waarschijnlijk toch gaan werken.",
+   "s": 16.45
+  },
+  {
+   "p": 1,
+   "t": "Maar op mijn afdeling liggen oude en zieke mensen.",
+   "s": 20.29
+  },
+  {
+   "p": 1,
+   "t": "Als ik hen besmet, kan dat gevaarlijk zijn.",
+   "s": 25.17
+  },
+  {
+   "p": 2,
+   "t": "Ik wist dat ik me vóór mijn dienst moest ziekmelden, en niet met een appje, maar telefonisch.",
+   "s": 29.46
+  },
+  {
+   "p": 2,
+   "t": "Om zeven uur belde ik Ingrid.",
+   "s": 36.2
+  },
+  {
+   "p": 2,
+   "t": "“Goedemorgen, met Sara.",
+   "s": 39.65
+  },
+  {
+   "p": 2,
+   "t": "Ik ben helaas ziek.",
+   "s": 42.93
+  },
+  {
+   "p": 2,
+   "t": "Ik heb griep, met koorts.”",
+   "s": 45.57
+  },
+  {
+   "p": 3,
+   "t": "“Ach, wat vervelend.",
+   "s": 48.79
+  },
+  {
+   "p": 3,
+   "t": "Blijf thuis tot je koortsvrij bent.",
+   "s": 51.85
+  },
+  {
+   "p": 3,
+   "t": "Ik regel vervanging.",
+   "s": 55.57
+  },
+  {
+   "p": 3,
+   "t": "Beterschap!”",
+   "s": 58.46
+  },
+  {
+   "p": 4,
+   "t": "Geen briefje van de dokter, geen ingewikkelde vragen.",
+   "s": 60.71
+  },
+  {
+   "p": 4,
+   "t": "Je werkgever mag zelfs niet vragen wat je precies hebt, legde Lotte later uit.",
+   "s": 65.87
+  },
+  {
+   "p": 4,
+   "t": "Wel mag hij vragen hoe lang het ongeveer gaat duren.",
+   "s": 72.23
+  },
+  {
+   "p": 5,
+   "t": "“En als ik langer ziek ben?” vroeg ik aan Alex.",
+   "s": 76.92
+  },
+  {
+   "p": 5,
+   "t": "“Dan praat je met de bedrijfsarts.",
+   "s": 82.9
+  },
+  {
+   "p": 5,
+   "t": "Die kijkt wanneer je weer kunt werken, misschien eerst een paar uur.",
+   "s": 86.21
+  },
+  {
+   "p": 5,
+   "t": "En je salaris wordt gewoon doorbetaald, in elk geval voor het grootste deel.”",
+   "s": 91.38
+  },
+  {
+   "p": 6,
+   "t": "Ik bleef drie dagen in bed.",
+   "s": 97.82
+  },
+  {
+   "p": 6,
+   "t": "Alex bracht thee met honing, Mia maakte een tekening voor me, en Emma zette een pan kippensoep voor de deur.",
+   "s": 101.26
+  },
+  {
+   "p": 6,
+   "t": "Mark appte: “Rustig aan, hè.",
+   "s": 109.07
+  },
+  {
+   "p": 6,
+   "t": "We redden het wel.”",
+   "s": 112.77
+  },
+  {
+   "p": 6,
+   "t": "Op vrijdag stond ik weer op de afdeling.",
+   "s": 115.24
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat had Sara?",
+   "o": [
+    "griep",
+    "kiespijn",
+    "een gebroken been",
+    "een oorontsteking"
+   ],
+   "a": 0,
+   "fa": "سارا چه مریضی‌ای داشت؟"
+  },
+  {
+   "q": "Waarom ging Sara niet werken?",
+   "o": [
+    "ze had geen zin",
+    "ze kon oude en zieke mensen besmetten",
+    "het regende",
+    "Mia was ziek"
+   ],
+   "a": 1,
+   "fa": "چرا سارا سر کار نرفت؟"
+  },
+  {
+   "q": "Hoe meldde Sara zich ziek?",
+   "o": [
+    "met een appje",
+    "per e-mail",
+    "telefonisch, vóór haar dienst",
+    "via Alex"
+   ],
+   "a": 2,
+   "fa": "سارا چطور بیماری‌اش را اعلام کرد؟"
+  },
+  {
+   "q": "Wat mag je werkgever niet vragen?",
+   "o": [
+    "hoe lang je ziek bent",
+    "of je thuis bent",
+    "waar je woont",
+    "wat je precies hebt"
+   ],
+   "a": 3,
+   "fa": "کارفرما چه چیزی را نباید بپرسد؟"
+  },
+  {
+   "q": "Met wie praat je als je langer ziek bent?",
+   "o": [
+    "met de bedrijfsarts",
+    "met de gemeente",
+    "met de buren",
+    "met de apotheek"
+   ],
+   "a": 0,
+   "fa": "اگر مدت بیشتری مریض باشی، با چه کسی صحبت می‌کنی؟"
+  },
+  {
+   "q": "Wat zette Emma voor de deur?",
+   "o": [
+    "bloemen",
+    "een pan kippensoep",
+    "een kaart",
+    "thee met honing"
+   ],
+   "a": 1,
+   "fa": "اِما چه چیزی جلوی در گذاشت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "spierpijn",
+   "art": "de",
+   "w": "de spierpijn",
+   "ipa": "/ˈspirpɛin/",
+   "fa": "درد عضلانی",
+   "ex": "Op maandagochtend werd ik wakker met hoofdpijn, spierpijn en koorts.",
+   "m": [
+    48,
+    57
+   ],
+   "book": 1
+  },
+  {
+   "id": "keel",
+   "art": "de",
+   "w": "de keel",
+   "ipa": "/keːl/",
+   "fa": "گلو",
+   "ex": "Mijn keel deed pijn.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "besmetten",
+   "art": "",
+   "w": "besmetten",
+   "ipa": "/bəˈsmɛtə(n)/",
+   "fa": "مبتلا کردن (سرایت دادن)",
+   "ex": "Als ik hen besmet, kan dat gevaarlijk zijn.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "zich-ziekmelden",
+   "art": "",
+   "w": "zich ziekmelden",
+   "ipa": "/zɪx ˈzikmɛldə(n)/",
+   "fa": "اعلام بیماری کردن",
+   "ex": "Je moet je op tijd ziekmelden.",
+   "m": [
+    0,
+    2
+   ],
+   "book": 1
+  },
+  {
+   "id": "telefonisch",
+   "art": "",
+   "w": "telefonisch",
+   "ipa": "/teːləˈfoːnis/",
+   "fa": "تلفنی",
+   "ex": "Meld je telefonisch ziek, niet met een appje.",
+   "m": [
+    8,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "vervelend",
+   "art": "",
+   "w": "vervelend",
+   "ipa": "/vərˈveːlənt/",
+   "fa": "ناخوشایند، آزاردهنده",
+   "ex": "Ach, wat vervelend.",
+   "m": [
+    9,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "vervanging",
+   "art": "de",
+   "w": "de vervanging",
+   "ipa": "/vərˈvɑŋɪŋ/",
+   "fa": "جایگزین (نیروی جایگزین)",
+   "ex": "Ik regel vervanging.",
+   "m": [
+    9,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "ingewikkeld",
+   "art": "",
+   "w": "ingewikkeld",
+   "ipa": "/ˈɪŋɣəʋɪkəlt/",
+   "fa": "پیچیده",
+   "ex": "Geen briefje van de dokter, geen ingewikkelde vragen.",
+   "m": [
+    33,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "bedrijfsarts",
+   "art": "de",
+   "w": "de bedrijfsarts",
+   "ipa": "/bəˈdrɛifsɑrts/",
+   "fa": "پزشک شرکت (طب کار)",
+   "ex": "Dan praat je met de bedrijfsarts.",
+   "m": [
+    20,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "doorbetalen",
+   "art": "",
+   "w": "doorbetalen",
+   "ipa": "/ˈdoːrbətaːlə(n)/",
+   "fa": "پرداخت ادامه دادن (حقوق)",
+   "ex": "Je salaris wordt doorbetaald.",
+   "m": [
+    17,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoofdpijn",
+   "art": "de",
+   "w": "de hoofdpijn",
+   "ipa": "/ˈɦoːftpɛin/",
+   "fa": "سردرد",
+   "ex": "Op maandagochtend werd ik wakker met hoofdpijn, spierpijn en koorts.",
+   "m": [
+    37,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "griep",
+   "art": "de",
+   "w": "de griep",
+   "ipa": "/ɣrip/",
+   "fa": "آنفولانزا",
+   "ex": "Ik heb griep, met koorts.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "waarschijnlijk",
+   "art": "",
+   "w": "waarschijnlijk",
+   "ipa": "/ʋaːrˈsxɛinlək/",
+   "fa": "احتمالاً",
+   "ex": "In Iran zou ik waarschijnlijk toch gaan werken.",
+   "m": [
+    15,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "helaas",
+   "art": "",
+   "w": "helaas",
+   "ipa": "/ɦeːˈlaːs/",
+   "fa": "متأسفانه",
+   "ex": "Ik ben helaas ziek.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "regelen",
+   "art": "",
+   "w": "regelen",
+   "ipa": "/ˈreːɣələ(n)/",
+   "fa": "ترتیب دادن، جور کردن",
+   "ex": "Ik regel vervanging.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mijn keel deed pijn.",
+   "fa": "گلویم درد می‌کرد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik ben helaas ziek.",
+   "fa": "متأسفانه مریضم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Blijf thuis tot je koortsvrij bent.",
+   "fa": "تا وقتی تبت قطع نشده، در خانه بمان.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik regel vervanging.",
+   "fa": "جایگزین جور می‌کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Op vrijdag stond ik weer op de afdeling.",
+   "fa": "جمعه دوباره در بخش بودم.",
+   "alt": [
+    "Ik stond op vrijdag weer op de afdeling."
+   ]
+  }
+ ]
+}

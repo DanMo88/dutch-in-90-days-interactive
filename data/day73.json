@@ -1,0 +1,438 @@
+{
+ "day": 73,
+ "level": "B1",
+ "title": "Ingeschreven bij WoningNet",
+ "fa_title": "ثبت‌نام در WoningNet",
+ "audio": "audio/day73.mp3",
+ "img": "img/day73.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Ons huis aan de gracht is mooi, maar het wordt te klein.",
+   "s": 6.21
+  },
+  {
+   "p": 0,
+   "t": "Mia wil een eigen bureau, Alex werkt twee dagen per week aan de keukentafel, en de trap is zo steil dat ik elke keer bang ben als ik naar boven loop.",
+   "s": 11.19
+  },
+  {
+   "p": 1,
+   "t": "“Schrijf je in bij WoningNet,” zei Dani.",
+   "s": 23.08
+  },
+  {
+   "p": 1,
+   "t": "“Dan kun je reageren op sociale huurwoningen van de woningcorporaties.”",
+   "s": 27.21
+  },
+  {
+   "p": 1,
+   "t": "Een woningcorporatie verhuurt betaalbare huizen aan mensen met een lager inkomen.",
+   "s": 33.71
+  },
+  {
+   "p": 1,
+   "t": "In Amsterdam is ongeveer veertig procent van alle woningen van een corporatie.",
+   "s": 40.9
+  },
+  {
+   "p": 2,
+   "t": "Ik schreef me die avond online in en keek naar het aanbod.",
+   "s": 47.6
+  },
+  {
+   "p": 2,
+   "t": "Op een driekamerwoning in onze buurt hadden al achthonderd mensen gereageerd!",
+   "s": 52.87
+  },
+  {
+   "p": 3,
+   "t": "“Wie krijgt dat huis dan?” vroeg ik.",
+   "s": 59.37
+  },
+  {
+   "p": 3,
+   "t": "“Meestal wie het langst ingeschreven staat,” zei Dani.",
+   "s": 64.19
+  },
+  {
+   "p": 3,
+   "t": "“In Amsterdam wacht je vaak meer dan tien jaar.",
+   "s": 69.41
+  },
+  {
+   "p": 3,
+   "t": "Soms gaat een huis via loting, dan heb je gewoon geluk nodig.”",
+   "s": 73.74
+  },
+  {
+   "p": 4,
+   "t": "Tien jaar!",
+   "s": 79.52
+  },
+  {
+   "p": 4,
+   "t": "Dan is Mia bijna volwassen.",
+   "s": 81.49
+  },
+  {
+   "p": 4,
+   "t": "Bovendien verdienen Alex en ik samen nu te veel voor de meeste sociale huurwoningen.",
+   "s": 84.8
+  },
+  {
+   "p": 5,
+   "t": "“Dan blijft de vrije sector over,” zei Dani.",
+   "s": 91.96
+  },
+  {
+   "p": 5,
+   "t": "“Die huizen zijn duurder, maar je hoeft niet zo lang te wachten.”",
+   "s": 96.52
+  },
+  {
+   "p": 6,
+   "t": "Die avond begonnen Alex en ik te zoeken naar een huurwoning in de vrije sector.",
+   "s": 101.85
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom zoeken ze een ander huis?",
+   "o": [
+    "het huis wordt te klein",
+    "het huis is te duur",
+    "ze willen weg uit Amsterdam",
+    "de buren zijn lastig"
+   ],
+   "a": 0,
+   "fa": "چرا دنبال خانه‌ی دیگری هستند؟"
+  },
+  {
+   "q": "Wat doet een woningcorporatie?",
+   "o": [
+    "huizen verkopen",
+    "geld lenen",
+    "betaalbare huizen verhuren",
+    "huizen schoonmaken"
+   ],
+   "a": 2,
+   "fa": "یک شرکت مسکن اجتماعی چه کار می‌کند؟"
+  },
+  {
+   "q": "Hoeveel mensen reageerden op de driekamerwoning?",
+   "o": [
+    "tachtig",
+    "achthonderd",
+    "acht",
+    "achtduizend"
+   ],
+   "a": 1,
+   "fa": "چند نفر برای خانه‌ی سه‌اتاقه درخواست دادند؟"
+  },
+  {
+   "q": "Hoe lang wacht je in Amsterdam vaak?",
+   "o": [
+    "een jaar",
+    "een maand",
+    "twee jaar",
+    "meer dan tien jaar"
+   ],
+   "a": 3,
+   "fa": "در آمستردام اغلب چقدر منتظر می‌مانی؟"
+  },
+  {
+   "q": "Wat is het probleem van Sara en Alex?",
+   "o": [
+    "ze verdienen samen te veel voor de meeste sociale huurwoningen",
+    "ze hebben geen DigiD",
+    "ze spreken geen Nederlands",
+    "ze hebben een kat"
+   ],
+   "a": 0,
+   "fa": "مشکل سارا و الکس چیست؟"
+  },
+  {
+   "q": "Wat deden Sara en Alex die avond?",
+   "o": [
+    "ze gingen vroeg slapen",
+    "ze belden de gemeente",
+    "ze zochten een huurwoning in de vrije sector",
+    "ze kochten een huis"
+   ],
+   "a": 2,
+   "fa": "سارا و الکس آن شب چه کردند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "steil",
+   "art": "",
+   "w": "steil",
+   "ipa": "/stɛil/",
+   "fa": "سراشیب، تند",
+   "ex": "De trap is erg steil.",
+   "m": [
+    15,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "zich-inschrijven",
+   "art": "",
+   "w": "zich inschrijven",
+   "ipa": "/zɪx ˈɪnsxrɛivə(n)/",
+   "fa": "ثبت‌نام کردن",
+   "ex": "Ik heb me ingeschreven bij WoningNet.",
+   "m": [
+    7,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "reageren",
+   "art": "",
+   "w": "reageren",
+   "ipa": "/reːjaːˈɣeːrə(n)/",
+   "fa": "واکنش نشان دادن؛ درخواست دادن",
+   "ex": "Dan kun je reageren op sociale huurwoningen van de woningcorporaties.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "huurwoning",
+   "art": "de",
+   "w": "de huurwoning",
+   "ipa": "/ˈɦyːrʋoːnɪŋ/",
+   "fa": "خانه‌ی اجاره‌ای",
+   "ex": "Dan kun je reageren op sociale huurwoningen van de woningcorporaties.",
+   "m": [
+    31,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "betaalbaar",
+   "art": "",
+   "w": "betaalbaar",
+   "ipa": "/bəˈtaːlbaːr/",
+   "fa": "مقرون‌به‌صرفه",
+   "ex": "Een woningcorporatie verhuurt betaalbare huizen aan mensen met een lager inkomen.",
+   "m": [
+    30,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "inkomen",
+   "art": "het",
+   "w": "het inkomen",
+   "ipa": "/ˈɪŋkoːmə(n)/",
+   "fa": "درآمد",
+   "ex": "Een woningcorporatie verhuurt betaalbare huizen aan mensen met een lager inkomen.",
+   "m": [
+    73,
+    80
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanbod",
+   "art": "het",
+   "w": "het aanbod",
+   "ipa": "/ˈaːmbɔt/",
+   "fa": "پیشنهاد (عرضه)",
+   "ex": "Ik schreef me die avond online in en keek naar het aanbod.",
+   "m": [
+    51,
+    57
+   ],
+   "book": 1
+  },
+  {
+   "id": "loting",
+   "art": "de",
+   "w": "de loting",
+   "ipa": "/ˈloːtɪŋ/",
+   "fa": "قرعه‌کشی",
+   "ex": "Soms gaat een huis via loting, dan heb je gewoon geluk nodig.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "volwassen",
+   "art": "",
+   "w": "volwassen",
+   "ipa": "/vɔlˈʋɑsə(n)/",
+   "fa": "بزرگسال",
+   "ex": "Dan is Mia bijna volwassen.",
+   "m": [
+    17,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "bovendien",
+   "art": "",
+   "w": "bovendien",
+   "ipa": "/boːvə(n)ˈdin/",
+   "fa": "به‌علاوه، از این گذشته",
+   "ex": "Bovendien verdienen we te veel.",
+   "m": [
+    0,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "bureau",
+   "art": "het",
+   "w": "het bureau",
+   "ipa": "/byˈroː/",
+   "fa": "میز تحریر",
+   "ex": "Mia wil een eigen bureau.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "woningcorporatie",
+   "art": "de",
+   "w": "de woningcorporatie",
+   "ipa": "/ˈʋoːnɪŋkɔrpoːˌraː(t)si/",
+   "fa": "شرکت مسکن اجتماعی",
+   "ex": "Een woningcorporatie verhuurt betaalbare huizen.",
+   "m": [
+    4,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "sociaal",
+   "art": "",
+   "w": "sociaal",
+   "ipa": "/soːˈʃaːl/",
+   "fa": "اجتماعی",
+   "ex": "Dan kun je reageren op sociale huurwoningen van de woningcorporaties.",
+   "m": [
+    23,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "verhuren",
+   "art": "",
+   "w": "verhuren",
+   "ipa": "/vərˈɦyːrə(n)/",
+   "fa": "اجاره دادن",
+   "ex": "Een woningcorporatie verhuurt betaalbare huizen.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "ongeveer",
+   "art": "",
+   "w": "ongeveer",
+   "ipa": "/ˌɔŋɣəˈveːr/",
+   "fa": "تقریباً",
+   "ex": "In Amsterdam is ongeveer veertig procent van alle woningen van een corporatie.",
+   "m": [
+    16,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "woning",
+   "art": "de",
+   "w": "de woning",
+   "ipa": "/ˈʋoːnɪŋ/",
+   "fa": "خانه، واحد مسکونی",
+   "ex": "In Amsterdam is ongeveer veertig procent van alle woningen van een corporatie.",
+   "m": [
+    50,
+    58
+   ],
+   "book": 0
+  },
+  {
+   "id": "geluk",
+   "art": "het",
+   "w": "het geluk",
+   "ipa": "/ɣəˈlʏk/",
+   "fa": "شانس؛ خوشبختی",
+   "ex": "Soms gaat een huis via loting, dan heb je gewoon geluk nodig.",
+   "m": [
+    49,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "sector",
+   "art": "de",
+   "w": "de sector",
+   "ipa": "/ˈsɛktɔr/",
+   "fa": "بخش (بازار)",
+   "ex": "Dan blijft de vrije sector over.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het huis wordt te klein.",
+   "fa": "خانه دارد برایمان کوچک می‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Schrijf je in bij WoningNet.",
+   "fa": "در WoningNet ثبت‌نام کن.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Wie krijgt dat huis dan?",
+   "fa": "پس چه کسی آن خانه را می‌گیرد؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "In Amsterdam wacht je vaak meer dan tien jaar.",
+   "fa": "در آمستردام اغلب بیش از ده سال منتظر می‌مانی.",
+   "alt": [
+    "Je wacht in Amsterdam vaak meer dan tien jaar."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Dan heb je gewoon geluk nodig.",
+   "fa": "آن‌وقت فقط به شانس نیاز داری.",
+   "alt": []
+  }
+ ]
+}

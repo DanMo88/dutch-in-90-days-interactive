@@ -1,0 +1,407 @@
+{
+ "day": 87,
+ "level": "B1",
+ "title": "Gezelligheid uitleggen",
+ "fa_title": "توضیح دادن «خِزِلیخ‌بودن»",
+ "audio": "audio/day87.mp3",
+ "img": "img/day87.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "De redactie van onze buurtkrant vroeg of ik een stukje wilde schrijven over het thema: wat betekent gezellig voor jou?",
+   "s": 5.9
+  },
+  {
+   "p": 0,
+   "t": "Voor echte lezers, in het Nederlands?",
+   "s": 15.04
+  },
+  {
+   "p": 0,
+   "t": "Ik twijfelde, maar Fatima zei: “Jij kunt dat.”",
+   "s": 19.24
+  },
+  {
+   "p": 1,
+   "t": "Toen ik net in Nederland woonde, dacht ik dat gezellig 'leuk' betekende.",
+   "s": 24.35
+  },
+  {
+   "p": 1,
+   "t": "Maar dat klopt niet helemaal.",
+   "s": 30.41
+  },
+  {
+   "p": 1,
+   "t": "Een feest kan leuk zijn zonder gezellig te zijn.",
+   "s": 33.49
+  },
+  {
+   "p": 1,
+   "t": "En een kop koffie in de regen, onder een afdakje met een buurvrouw, kan juist heel gezellig zijn.",
+   "s": 37.8
+  },
+  {
+   "p": 2,
+   "t": "Het Engelse 'cosy' gaat vooral over een warme kamer.",
+   "s": 45.96
+  },
+  {
+   "p": 2,
+   "t": "Gezelligheid gaat over mensen.",
+   "s": 50.76
+  },
+  {
+   "p": 2,
+   "t": "Het is het gevoel dat je erbij hoort, dat niemand haast heeft en dat je mag zijn wie je bent.",
+   "s": 54.26
+  },
+  {
+   "p": 3,
+   "t": "Ik heb gezelligheid leren kennen op de vreemdste plekken.",
+   "s": 61.48
+  },
+  {
+   "p": 3,
+   "t": "In de kring op een verjaardag, met één koekje uit de trommel.",
+   "s": 66.21
+  },
+  {
+   "p": 3,
+   "t": "In een bruin café met bitterballen.",
+   "s": 71.57
+  },
+  {
+   "p": 3,
+   "t": "Op een camping tussen honderd Nederlandse caravans.",
+   "s": 75.19
+  },
+  {
+   "p": 3,
+   "t": "Op de stoep tijdens Burendag, met börek, roti en appeltaart op één tafel.",
+   "s": 79.91
+  },
+  {
+   "p": 4,
+   "t": "In het Perzisch hebben we geen woord dat precies hetzelfde betekent.",
+   "s": 87.58
+  },
+  {
+   "p": 4,
+   "t": "Maar we kennen het gevoel wel: een volle tafel, thee die steeds opnieuw wordt ingeschonken, verhalen tot diep in de nacht.",
+   "s": 93.18
+  },
+  {
+   "p": 4,
+   "t": "Misschien kun je gezelligheid daarom niet vertalen.",
+   "s": 103.1
+  },
+  {
+   "p": 4,
+   "t": "Je moet het meemaken.",
+   "s": 107.54
+  },
+  {
+   "p": 5,
+   "t": "Sara, De Pijp",
+   "s": 110.15
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wie vroeg Sara om te schrijven?",
+   "o": [
+    "haar werk",
+    "de redactie van de buurtkrant",
+    "de school van Mia",
+    "DUO"
+   ],
+   "a": 1,
+   "fa": "چه کسی از سارا خواست بنویسد؟"
+  },
+  {
+   "q": "Wat dacht Sara eerst dat gezellig betekende?",
+   "o": [
+    "leuk",
+    "warm",
+    "lekker",
+    "druk"
+   ],
+   "a": 0,
+   "fa": "سارا اول فکر می‌کرد «خزلیخ» چه معنایی دارد؟"
+  },
+  {
+   "q": "Waar gaat gezelligheid volgens Sara over?",
+   "o": [
+    "over eten",
+    "over het weer",
+    "over mensen",
+    "over een warme kamer"
+   ],
+   "a": 2,
+   "fa": "به گفته‌ی سارا «خزلیخ‌بودن» درباره‌ی چیست؟"
+  },
+  {
+   "q": "Waar heeft Sara gezelligheid níet leren kennen, volgens haar stukje?",
+   "o": [
+    "op een verjaardag",
+    "in een bruin café",
+    "op een camping",
+    "in het zwembad"
+   ],
+   "a": 3,
+   "fa": "طبق نوشته‌ی سارا، او کجا خزلیخ‌بودن را تجربه نکرد؟"
+  },
+  {
+   "q": "Wat hoort in Iran bij dat gevoel?",
+   "o": [
+    "thee die steeds opnieuw wordt ingeschonken",
+    "dansen op straat",
+    "bitterballen",
+    "stilte"
+   ],
+   "a": 0,
+   "fa": "در ایران چه چیزی با آن حس همراه است؟"
+  },
+  {
+   "q": "Wat moet je volgens Sara doen om gezelligheid te begrijpen?",
+   "o": [
+    "een boek lezen",
+    "het opzoeken",
+    "het meemaken",
+    "het vertalen"
+   ],
+   "a": 2,
+   "fa": "به گفته‌ی سارا برای فهمیدن خزلیخ‌بودن چه باید کرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "redactie",
+   "art": "de",
+   "w": "de redactie",
+   "ipa": "/reːˈdɑksi/",
+   "fa": "هیئت تحریریه",
+   "ex": "De redactie vroeg om een stukje.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "thema",
+   "art": "het",
+   "w": "het thema",
+   "ipa": "/ˈteːmaː/",
+   "fa": "موضوع",
+   "ex": "Het thema is gezelligheid.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "lezer",
+   "art": "de",
+   "w": "de lezer",
+   "ipa": "/ˈleːzər/",
+   "fa": "خواننده",
+   "ex": "Voor echte lezers, in het Nederlands?",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "kloppen",
+   "art": "",
+   "w": "kloppen",
+   "ipa": "/ˈklɔpə(n)/",
+   "fa": "درست بودن",
+   "ex": "Maar dat klopt niet helemaal.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "afdak",
+   "art": "het",
+   "w": "het afdak",
+   "ipa": "/ˈɑvdɑk/",
+   "fa": "سایبان کوچک",
+   "ex": "We stonden onder een afdakje.",
+   "m": [
+    21,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "erbij-horen",
+   "art": "",
+   "w": "erbij horen",
+   "ipa": "/ɛrˈbɛi ˈɦoːrə(n)/",
+   "fa": "جزو جمع بودن",
+   "ex": "Het voelt fijn als je erbij hoort.",
+   "m": [
+    22,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "vreemd",
+   "art": "",
+   "w": "vreemd",
+   "ipa": "/vreːmt/",
+   "fa": "عجیب، غریبه",
+   "ex": "Ik heb gezelligheid leren kennen op de vreemdste plekken.",
+   "m": [
+    39,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "inschenken",
+   "art": "",
+   "w": "inschenken",
+   "ipa": "/ˈɪnsxɛŋkə(n)/",
+   "fa": "ریختن (نوشیدنی)",
+   "ex": "De thee wordt steeds opnieuw ingeschonken.",
+   "m": [
+    29,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "vertalen",
+   "art": "",
+   "w": "vertalen",
+   "ipa": "/vərˈtaːlə(n)/",
+   "fa": "ترجمه کردن",
+   "ex": "Misschien kun je gezelligheid daarom niet vertalen.",
+   "m": [
+    42,
+    50
+   ],
+   "book": 1
+  },
+  {
+   "id": "meemaken",
+   "art": "",
+   "w": "meemaken",
+   "ipa": "/ˈmeːmaːkə(n)/",
+   "fa": "تجربه کردن",
+   "ex": "Je moet het meemaken.",
+   "m": [
+    12,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "buurtkrant",
+   "art": "de",
+   "w": "de buurtkrant",
+   "ipa": "/ˈbyːrtkrɑnt/",
+   "fa": "روزنامه‌ی محله",
+   "ex": "Ik schreef een stukje voor de buurtkrant.",
+   "m": [
+    30,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "opnieuw",
+   "art": "",
+   "w": "opnieuw",
+   "ipa": "/ɔpˈniu/",
+   "fa": "دوباره",
+   "ex": "De thee wordt steeds opnieuw ingeschonken.",
+   "m": [
+    21,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "gezelligheid",
+   "art": "de",
+   "w": "de gezelligheid",
+   "ipa": "/ɣəˈzɛləxˌɦɛit/",
+   "fa": "حس صمیمیت و دورهمی",
+   "ex": "Misschien kun je gezelligheid daarom niet vertalen.",
+   "m": [
+    17,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "buurvrouw",
+   "art": "de",
+   "w": "de buurvrouw",
+   "ipa": "/ˈbyːrvrɑu/",
+   "fa": "همسایه (زن)",
+   "ex": "Ik dronk koffie met een buurvrouw.",
+   "m": [
+    24,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "honderd",
+   "art": "",
+   "w": "honderd",
+   "ipa": "/ˈɦɔndərt/",
+   "fa": "صد",
+   "ex": "Op een camping tussen honderd Nederlandse caravans.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Jij kunt dat.",
+   "fa": "تو از پسش برمی‌آیی.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Gezelligheid gaat over mensen.",
+   "fa": "خزلیخ‌بودن درباره‌ی آدم‌هاست.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Een feest kan leuk zijn zonder gezellig te zijn.",
+   "fa": "یک جشن می‌تواند خوش بگذرد بی‌آنکه صمیمی باشد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Je moet het meemaken.",
+   "fa": "باید تجربه‌اش کنی.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Dat klopt niet helemaal.",
+   "fa": "این کاملاً درست نیست.",
+   "alt": []
+  }
+ ]
+}

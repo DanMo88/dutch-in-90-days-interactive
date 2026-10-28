@@ -1,0 +1,427 @@
+{
+ "day": 81,
+ "level": "B1",
+ "title": "Het KNM-examen",
+ "fa_title": "امتحان KNM",
+ "audio": "audio/day81.mp3",
+ "img": "img/day81.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een donderdag in november had ik mijn eerste inburgeringsexamen: KNM, Kennis van de Nederlandse Maatschappij.",
+   "s": 5.49
+  },
+  {
+   "p": 0,
+   "t": "Daarin laat je zien dat je weet hoe Nederland werkt: wonen, werken, gezondheid, onderwijs en geschiedenis.",
+   "s": 15.05
+  },
+  {
+   "p": 1,
+   "t": "Het examen was bij DUO, in een groot kantoorgebouw.",
+   "s": 25.1
+  },
+  {
+   "p": 1,
+   "t": "Ik moest mijn paspoort laten zien en mijn telefoon in een kluisje doen.",
+   "s": 30.51
+  },
+  {
+   "p": 1,
+   "t": "Daarna kreeg ik een plek achter een computer, tussen tien andere kandidaten.",
+   "s": 36.48
+  },
+  {
+   "p": 2,
+   "t": "Ik had wekenlang geoefend met proefexamens en met Fatima, die het examen vorige maand al had gehaald.",
+   "s": 43.04
+  },
+  {
+   "p": 3,
+   "t": "De vragen gingen over situaties uit het dagelijks leven.",
+   "s": 52.05
+  },
+  {
+   "p": 3,
+   "t": "Je zag een korte film of een foto, en dan moest je kiezen wat het beste was.",
+   "s": 57.41
+  },
+  {
+   "p": 4,
+   "t": "“Uw buurman maakt elke avond tot laat lawaai.",
+   "s": 63.94
+  },
+  {
+   "p": 4,
+   "t": "Wat doet u eerst?”",
+   "s": 68.57
+  },
+  {
+   "p": 4,
+   "t": "Daar hoefde ik niet lang over na te denken: eerst vriendelijk met hem praten.",
+   "s": 71.1
+  },
+  {
+   "p": 4,
+   "t": "“U bent ziek en kunt niet werken.",
+   "s": 77.49
+  },
+  {
+   "p": 4,
+   "t": "Wat doet u?”",
+   "s": 81.08
+  },
+  {
+   "p": 4,
+   "t": "Die wist ik uit ervaring.",
+   "s": 83.1
+  },
+  {
+   "p": 5,
+   "t": "Er was ook een vraag over het eigen risico, en een over de verkiezingen voor de Tweede Kamer.",
+   "s": 85.99
+  },
+  {
+   "p": 5,
+   "t": "Bij een vraag over de rechten van huurders twijfelde ik lang.",
+   "s": 93.8
+  },
+  {
+   "p": 6,
+   "t": "Na een uur was ik klaar.",
+   "s": 98.93
+  },
+  {
+   "p": 6,
+   "t": "Buiten wachtte Alex met een bos bloemen.",
+   "s": 101.82
+  },
+  {
+   "p": 6,
+   "t": "“En?”",
+   "s": 105.74
+  },
+  {
+   "p": 6,
+   "t": "“Ik denk dat het goed ging,” zei ik.",
+   "s": 107.29
+  },
+  {
+   "p": 6,
+   "t": "“Maar de uitslag krijg ik pas over een paar weken.”",
+   "s": 110.83
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat betekent KNM?",
+   "o": [
+    "Kennis van de Nederlandse Maatschappij",
+    "Klas Nederlands Midden",
+    "Kort Nederlands Mondeling",
+    "Kennis van Nieuwe Mensen"
+   ],
+   "a": 0,
+   "fa": "KNM یعنی چه؟"
+  },
+  {
+   "q": "Waar was het examen?",
+   "o": [
+    "bij de gemeente",
+    "op school",
+    "bij DUO, in een kantoorgebouw",
+    "in de bibliotheek"
+   ],
+   "a": 2,
+   "fa": "امتحان کجا بود؟"
+  },
+  {
+   "q": "Met wie had Sara geoefend?",
+   "o": [
+    "met Mark",
+    "met Fatima",
+    "met Mia",
+    "met Oma Anna"
+   ],
+   "a": 1,
+   "fa": "سارا با چه کسی تمرین کرده بود؟"
+  },
+  {
+   "q": "Wat doe je eerst als je buurman lawaai maakt?",
+   "o": [
+    "de politie bellen",
+    "verhuizen",
+    "een boze brief schrijven",
+    "vriendelijk met hem praten"
+   ],
+   "a": 3,
+   "fa": "اگر همسایه‌ات سروصدا کند، اول چه کار می‌کنی؟"
+  },
+  {
+   "q": "Waarover twijfelde Sara lang?",
+   "o": [
+    "over het eigen risico",
+    "over de verkiezingen",
+    "over de rechten van huurders",
+    "over de school"
+   ],
+   "a": 2,
+   "fa": "سارا درباره‌ی چه چیزی مدت زیادی تردید داشت؟"
+  },
+  {
+   "q": "Wanneer krijgt Sara de uitslag?",
+   "o": [
+    "over een paar weken",
+    "meteen",
+    "morgen",
+    "over een jaar"
+   ],
+   "a": 0,
+   "fa": "سارا کِی نتیجه را می‌گیرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "maatschappij",
+   "art": "de",
+   "w": "de maatschappij",
+   "ipa": "/maːtsxɑˈpɛi/",
+   "fa": "جامعه",
+   "ex": "Het examen gaat over de Nederlandse maatschappij.",
+   "m": [
+    36,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "geschiedenis",
+   "art": "de",
+   "w": "de geschiedenis",
+   "ipa": "/ɣəˈsxidənɪs/",
+   "fa": "تاریخ",
+   "ex": "Ik leer veel over de geschiedenis van Nederland.",
+   "m": [
+    21,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "kluisje",
+   "art": "het",
+   "w": "het kluisje",
+   "ipa": "/ˈklœyʃə/",
+   "fa": "کمد کوچک قفل‌دار",
+   "ex": "Ik moest mijn paspoort laten zien en mijn telefoon in een kluisje doen.",
+   "m": [
+    58,
+    65
+   ],
+   "book": 1
+  },
+  {
+   "id": "kandidaat",
+   "art": "de",
+   "w": "de kandidaat",
+   "ipa": "/kɑndiˈdaːt/",
+   "fa": "داوطلب (شرکت‌کننده)",
+   "ex": "Daarna kreeg ik een plek achter een computer, tussen tien andere kandidaten.",
+   "m": [
+    65,
+    75
+   ],
+   "book": 1
+  },
+  {
+   "id": "oefenen",
+   "art": "",
+   "w": "oefenen",
+   "ipa": "/ˈufənə(n)/",
+   "fa": "تمرین کردن",
+   "ex": "Ik heb wekenlang geoefend.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "dagelijks",
+   "art": "",
+   "w": "dagelijks",
+   "ipa": "/ˈdaːɣələks/",
+   "fa": "روزمره",
+   "ex": "De vragen gingen over situaties uit het dagelijks leven.",
+   "m": [
+    40,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "verkiezing",
+   "art": "de",
+   "w": "de verkiezing",
+   "ipa": "/vərˈkizɪŋ/",
+   "fa": "انتخابات",
+   "ex": "Bij de verkiezingen kies je een partij.",
+   "m": [
+    7,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "huurder",
+   "art": "de",
+   "w": "de huurder",
+   "ipa": "/ˈɦyːrdər/",
+   "fa": "مستأجر",
+   "ex": "Bij een vraag over de rechten van huurders twijfelde ik lang.",
+   "m": [
+    34,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "twijfelen",
+   "art": "",
+   "w": "twijfelen",
+   "ipa": "/ˈtʋɛifələ(n)/",
+   "fa": "تردید داشتن",
+   "ex": "Bij een vraag over de rechten van huurders twijfelde ik lang.",
+   "m": [
+    43,
+    52
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitslag",
+   "art": "de",
+   "w": "de uitslag",
+   "ipa": "/ˈœytslɑx/",
+   "fa": "نتیجه",
+   "ex": "Maar de uitslag krijg ik pas over een paar weken.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "computer",
+   "art": "de",
+   "w": "de computer",
+   "ipa": "/kɔmˈpjutər/",
+   "fa": "رایانه، کامپیوتر",
+   "ex": "Daarna kreeg ik een plek achter een computer, tussen tien andere kandidaten.",
+   "m": [
+    36,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "plek",
+   "art": "de",
+   "w": "de plek",
+   "ipa": "/plɛk/",
+   "fa": "جا، مکان",
+   "ex": "Daarna kreeg ik een plek achter een computer, tussen tien andere kandidaten.",
+   "m": [
+    20,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "kantoorgebouw",
+   "art": "het",
+   "w": "het kantoorgebouw",
+   "ipa": "/kɑnˈtoːrɣəˌbɑu/",
+   "fa": "ساختمان اداری",
+   "ex": "Het examen was bij DUO, in een groot kantoorgebouw.",
+   "m": [
+    37,
+    50
+   ],
+   "book": 0
+  },
+  {
+   "id": "situatie",
+   "art": "de",
+   "w": "de situatie",
+   "ipa": "/sityˈaː(t)si/",
+   "fa": "موقعیت",
+   "ex": "De vragen gingen over situaties uit het dagelijks leven.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "recht",
+   "art": "het",
+   "w": "het recht",
+   "ipa": "/rɛxt/",
+   "fa": "حق",
+   "ex": "Huurders hebben ook rechten.",
+   "m": [
+    20,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "wekenlang",
+   "art": "",
+   "w": "wekenlang",
+   "ipa": "/ˈʋeːkə(n)lɑŋ/",
+   "fa": "هفته‌ها",
+   "ex": "Ik had wekenlang geoefend.",
+   "m": [
+    7,
+    16
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het examen was bij DUO.",
+   "fa": "امتحان در DUO بود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik moest mijn paspoort laten zien.",
+   "fa": "باید گذرنامه‌ام را نشان می‌دادم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Wat doet u eerst?",
+   "fa": "اول چه کار می‌کنید؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Na een uur was ik klaar.",
+   "fa": "بعد از یک ساعت تمام کرده بودم.",
+   "alt": [
+    "Ik was na een uur klaar."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Ik denk dat het goed ging.",
+   "fa": "فکر می‌کنم خوب پیش رفت.",
+   "alt": []
+  }
+ ]
+}

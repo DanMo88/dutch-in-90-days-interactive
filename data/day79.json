@@ -1,0 +1,425 @@
+{
+ "day": 79,
+ "level": "B1",
+ "title": "Een zorgverzekering kiezen",
+ "fa_title": "انتخاب بیمه‌ی درمانی",
+ "audio": "audio/day79.mp3",
+ "img": "img/day79.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In november vallen er brieven van zorgverzekeraars in de bus.",
+   "s": 6.15
+  },
+  {
+   "p": 0,
+   "t": "Iedereen in Nederland moet een basisverzekering hebben, en tot 31 december mag je overstappen naar een andere verzekeraar.",
+   "s": 11.57
+  },
+  {
+   "p": 1,
+   "t": "Ik wilde goed vergelijken, dus Lotte legde het me in de pauze uit.",
+   "s": 21.73
+  },
+  {
+   "p": 2,
+   "t": "“De basisverzekering is overal hetzelfde, want de overheid bepaalt wat erin zit.",
+   "s": 27.8
+  },
+  {
+   "p": 2,
+   "t": "Alleen de premie verschilt een beetje.”",
+   "s": 35.24
+  },
+  {
+   "p": 2,
+   "t": "“En het eigen risico?” vroeg ik.",
+   "s": 38.83
+  },
+  {
+   "p": 3,
+   "t": "“Dat is het bedrag dat je eerst zelf betaalt.",
+   "s": 43.57
+  },
+  {
+   "p": 3,
+   "t": "Volgend jaar is het vierhonderd euro.",
+   "s": 47.71
+  },
+  {
+   "p": 3,
+   "t": "Voor de huisarts geldt het niet, maar wel voor bijvoorbeeld het ziekenhuis en medicijnen.",
+   "s": 51.63
+  },
+  {
+   "p": 3,
+   "t": "Je kunt het vrijwillig verhogen.",
+   "s": 58.73
+  },
+  {
+   "p": 3,
+   "t": "Dan krijg je korting op je premie, maar je loopt meer risico.”",
+   "s": 62.02
+  },
+  {
+   "p": 4,
+   "t": "“En de tandarts?”",
+   "s": 67.46
+  },
+  {
+   "p": 4,
+   "t": "“Die zit in de aanvullende verzekering.",
+   "s": 69.88
+  },
+  {
+   "p": 4,
+   "t": "Kijk goed wat je nodig hebt: tandarts, fysiotherapie, een bril.”",
+   "s": 73.71
+  },
+  {
+   "p": 5,
+   "t": "'s Avonds zaten Alex en ik met een vergelijkingssite op de bank.",
+   "s": 80.4
+  },
+  {
+   "p": 5,
+   "t": "We kozen een basisverzekering met het gewone eigen risico, en een aanvullende verzekering met tandarts.",
+   "s": 86.05
+  },
+  {
+   "p": 5,
+   "t": "Mia is tot haar achttiende gratis meeverzekerd.",
+   "s": 94.93
+  },
+  {
+   "p": 6,
+   "t": "“Een jaar geleden wist ik niet eens wat een eigen risico was,” zei ik.",
+   "s": 99.68
+  },
+  {
+   "p": 6,
+   "t": "“Nu vergelijk ik verzekeringen.”",
+   "s": 105.74
+  },
+  {
+   "p": 6,
+   "t": "Alex lachte.",
+   "s": 109.16
+  },
+  {
+   "p": 6,
+   "t": "“Jij bent echt ingeburgerd.”",
+   "s": 111.43
+  }
+ ],
+ "comp": [
+  {
+   "q": "Tot wanneer mag je overstappen?",
+   "o": [
+    "tot 31 december",
+    "tot 1 mei",
+    "tot 1 november",
+    "altijd"
+   ],
+   "a": 0,
+   "fa": "تا کِی می‌توانی بیمه‌ات را عوض کنی؟"
+  },
+  {
+   "q": "Wie bepaalt wat er in de basisverzekering zit?",
+   "o": [
+    "de verzekeraar",
+    "de huisarts",
+    "de overheid",
+    "Lotte"
+   ],
+   "a": 2,
+   "fa": "چه کسی تعیین می‌کند که در بیمه‌ی پایه چه چیزهایی هست؟"
+  },
+  {
+   "q": "Hoe hoog is het eigen risico volgend jaar?",
+   "o": [
+    "honderd euro",
+    "vierhonderd euro",
+    "duizend euro",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "فرانشیز (eigen risico) سال بعد چقدر است؟"
+  },
+  {
+   "q": "Waarvoor geldt het eigen risico niet?",
+   "o": [
+    "voor het ziekenhuis",
+    "voor medicijnen",
+    "voor de huisarts",
+    "voor alles"
+   ],
+   "a": 2,
+   "fa": "فرانشیز برای چه چیزی اعمال نمی‌شود؟"
+  },
+  {
+   "q": "Wat krijg je als je het eigen risico vrijwillig verhoogt?",
+   "o": [
+    "meer zorg",
+    "een cadeau",
+    "een gratis bril",
+    "korting op je premie"
+   ],
+   "a": 3,
+   "fa": "اگر داوطلبانه فرانشیز را بالا ببری، چه می‌گیری؟"
+  },
+  {
+   "q": "Hoe is Mia verzekerd?",
+   "o": [
+    "ze is tot haar achttiende gratis meeverzekerd",
+    "via school",
+    "ze heeft geen verzekering",
+    "ze betaalt zelf"
+   ],
+   "a": 0,
+   "fa": "میا چطور بیمه شده است؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "zorgverzekeraar",
+   "art": "de",
+   "w": "de zorgverzekeraar",
+   "ipa": "/ˈzɔrxfərzeːkəraːr/",
+   "fa": "شرکت بیمه‌ی درمانی",
+   "ex": "In november vallen er brieven van zorgverzekeraars in de bus.",
+   "m": [
+    34,
+    50
+   ],
+   "book": 1
+  },
+  {
+   "id": "overstappen",
+   "art": "",
+   "w": "overstappen",
+   "ipa": "/ˈoːvərstɑpə(n)/",
+   "fa": "(به شرکت دیگر) تغییر دادن",
+   "ex": "Je mag elk jaar overstappen.",
+   "m": [
+    16,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "vergelijken",
+   "art": "",
+   "w": "vergelijken",
+   "ipa": "/vərɣəˈlɛikə(n)/",
+   "fa": "مقایسه کردن",
+   "ex": "Nu vergelijk ik verzekeringen.",
+   "m": [
+    3,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "bepalen",
+   "art": "",
+   "w": "bepalen",
+   "ipa": "/bəˈpaːlə(n)/",
+   "fa": "تعیین کردن",
+   "ex": "De basisverzekering is overal hetzelfde, want de overheid bepaalt wat erin zit.",
+   "m": [
+    58,
+    65
+   ],
+   "book": 1
+  },
+  {
+   "id": "verschillen",
+   "art": "",
+   "w": "verschillen",
+   "ipa": "/vərˈsxɪlə(n)/",
+   "fa": "فرق داشتن",
+   "ex": "Alleen de premie verschilt een beetje.",
+   "m": [
+    17,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "eigen-risico",
+   "art": "het",
+   "w": "het eigen risico",
+   "ipa": "/ˈɛiɣə(n) ˈrisikoː/",
+   "fa": "فرانشیز (سهم خودت از هزینه)",
+   "ex": "En het eigen risico?",
+   "m": [
+    7,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "vrijwillig",
+   "art": "",
+   "w": "vrijwillig",
+   "ipa": "/vrɛiˈʋɪləx/",
+   "fa": "داوطلبانه",
+   "ex": "Je kunt het vrijwillig verhogen.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "verhogen",
+   "art": "",
+   "w": "verhogen",
+   "ipa": "/vərˈɦoːɣə(n)/",
+   "fa": "بالا بردن، افزایش دادن",
+   "ex": "Je kunt het vrijwillig verhogen.",
+   "m": [
+    23,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "korting",
+   "art": "de",
+   "w": "de korting",
+   "ipa": "/ˈkɔrtɪŋ/",
+   "fa": "تخفیف",
+   "ex": "Dan krijg je korting op je premie, maar je loopt meer risico.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "ingeburgerd",
+   "art": "",
+   "w": "ingeburgerd",
+   "ipa": "/ˈɪŋɣəbʏrɣərt/",
+   "fa": "جاافتاده (ادغام‌شده در جامعه)",
+   "ex": "Jij bent echt ingeburgerd.",
+   "m": [
+    14,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "verzekeraar",
+   "art": "de",
+   "w": "de verzekeraar",
+   "ipa": "/vərˈzeːkəraːr/",
+   "fa": "بیمه‌گر، شرکت بیمه",
+   "ex": "Je mag overstappen naar een andere verzekeraar.",
+   "m": [
+    35,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "hetzelfde",
+   "art": "",
+   "w": "hetzelfde",
+   "ipa": "/ɦɛtˈzɛlfdə/",
+   "fa": "یکسان، همان",
+   "ex": "De basisverzekering is overal hetzelfde, want de overheid bepaalt wat erin zit.",
+   "m": [
+    30,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "bedrag",
+   "art": "het",
+   "w": "het bedrag",
+   "ipa": "/bəˈdrɑx/",
+   "fa": "مبلغ",
+   "ex": "Dat is het bedrag dat je eerst zelf betaalt.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "risico",
+   "art": "het",
+   "w": "het risico",
+   "ipa": "/ˈrizikoː/",
+   "fa": "ریسک، خطر",
+   "ex": "En het eigen risico?",
+   "m": [
+    13,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "basisverzekering",
+   "art": "de",
+   "w": "de basisverzekering",
+   "ipa": "/ˈbaːzɪsfərˌzeːkərɪŋ/",
+   "fa": "بیمه‌ی پایه",
+   "ex": "De basisverzekering is overal hetzelfde, want de overheid bepaalt wat erin zit.",
+   "m": [
+    3,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "vergelijkingssite",
+   "art": "de",
+   "w": "de vergelijkingssite",
+   "ipa": "/vərˈɣɛlɛikɪŋsˌsɑit/",
+   "fa": "سایت مقایسه",
+   "ex": "We zaten met een vergelijkingssite op de bank.",
+   "m": [
+    17,
+    34
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Iedereen moet een basisverzekering hebben.",
+   "fa": "همه باید بیمه‌ی پایه داشته باشند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Alleen de premie verschilt een beetje.",
+   "fa": "فقط حق بیمه کمی فرق دارد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "En de tandarts?",
+   "fa": "و دندانپزشک؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Kijk goed wat je nodig hebt.",
+   "fa": "خوب ببین به چه نیاز داری.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Jij bent echt ingeburgerd.",
+   "fa": "تو واقعاً اینجا جا افتاده‌ای.",
+   "alt": []
+  }
+ ]
+}

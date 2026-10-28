@@ -1,0 +1,430 @@
+{
+ "day": 72,
+ "level": "B1",
+ "title": "Burendag",
+ "fa_title": "روز همسایه‌ها",
+ "audio": "audio/day72.mp3",
+ "img": "img/day72.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op de vierde zaterdag van september is het Burendag.",
+   "s": 4.98
+  },
+  {
+   "p": 0,
+   "t": "Overal in Nederland doen buren dan samen iets voor hun straat.",
+   "s": 9.4
+  },
+  {
+   "p": 0,
+   "t": "Dit jaar had Dani in onze straat het initiatief genomen.",
+   "s": 14.76
+  },
+  {
+   "p": 1,
+   "t": "Om tien uur stonden er tafels op de stoep.",
+   "s": 19.79
+  },
+  {
+   "p": 1,
+   "t": "Iedereen had iets meegenomen: bezems, vuilniszakken, plantjes en vooral veel koffie.",
+   "s": 23.6
+  },
+  {
+   "p": 1,
+   "t": "We veegden de stoep, haalden onkruid weg tussen de stenen en plantten bloemen rond de bomen.",
+   "s": 30.98
+  },
+  {
+   "p": 1,
+   "t": "Alex repareerde samen met de buurman van nummer 8 een oud bankje.",
+   "s": 37.84
+  },
+  {
+   "p": 2,
+   "t": "Ik sprak mensen die ik nog nooit had gesproken, hoewel ik al een jaar in deze straat woon.",
+   "s": 43.48
+  },
+  {
+   "p": 2,
+   "t": "Mevrouw Bakker woont hier al vijftig jaar.",
+   "s": 50.1
+  },
+  {
+   "p": 2,
+   "t": "“Nu zijn de huizen hier onbetaalbaar,” zuchtte ze.",
+   "s": 54.26
+  },
+  {
+   "p": 2,
+   "t": "“Mijn kleinkinderen kunnen hier nooit wonen.”",
+   "s": 58.71
+  },
+  {
+   "p": 3,
+   "t": "'s Middags werd het een echt feest.",
+   "s": 62.57
+  },
+  {
+   "p": 3,
+   "t": "Midden op straat stond een lange tafel met Turkse börek, Surinaamse roti, appeltaart en mijn Perzische koekjes.",
+   "s": 65.98
+  },
+  {
+   "p": 3,
+   "t": "Noah kroop over een kleed en probeerde alle koekjes te pakken.",
+   "s": 74.68
+  },
+  {
+   "p": 4,
+   "t": "Aan het eind stelde Dani voor om een buurtapp te maken.",
+   "s": 79.77
+  },
+  {
+   "p": 4,
+   "t": "“Dan kunnen we elkaar helpen.",
+   "s": 84.24
+  },
+  {
+   "p": 4,
+   "t": "Als iemand een ladder nodig heeft.”",
+   "s": 87.27
+  },
+  {
+   "p": 5,
+   "t": "Binnen een uur zaten er dertig mensen in de groep.",
+   "s": 90.79
+  },
+  {
+   "p": 5,
+   "t": "Het eerste bericht kwam van mevrouw Bakker: “Dank jullie wel voor deze mooie dag.”",
+   "s": 95.04
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer is Burendag?",
+   "o": [
+    "op de vierde zaterdag van september",
+    "op 1 mei",
+    "in december",
+    "elke zondag"
+   ],
+   "a": 0,
+   "fa": "روز همسایه‌ها کِی است؟"
+  },
+  {
+   "q": "Wie had het initiatief genomen?",
+   "o": [
+    "Sara",
+    "mevrouw Bakker",
+    "de gemeente",
+    "Dani"
+   ],
+   "a": 3,
+   "fa": "چه کسی پیشقدم شده بود؟"
+  },
+  {
+   "q": "Wat deed Alex?",
+   "o": [
+    "hij kookte",
+    "hij repareerde een oud bankje",
+    "hij plantte bloemen",
+    "hij maakte foto's"
+   ],
+   "a": 1,
+   "fa": "الکس چه کرد؟"
+  },
+  {
+   "q": "Hoe lang woont mevrouw Bakker al in de straat?",
+   "o": [
+    "tien jaar",
+    "twintig jaar",
+    "vijftig jaar",
+    "een jaar"
+   ],
+   "a": 2,
+   "fa": "خانم باکر چند سال است در این خیابان زندگی می‌کند؟"
+  },
+  {
+   "q": "Wat deed Noah?",
+   "o": [
+    "hij sliep",
+    "hij huilde",
+    "hij at taart",
+    "hij kroop over een kleed"
+   ],
+   "a": 3,
+   "fa": "نوآ چه کرد؟"
+  },
+  {
+   "q": "Waarvoor is de buurtapp?",
+   "o": [
+    "om elkaar te helpen",
+    "om dingen te verkopen",
+    "om te klagen",
+    "voor vakantiefoto's"
+   ],
+   "a": 0,
+   "fa": "اپلیکیشن محله برای چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "initiatief",
+   "art": "het",
+   "w": "het initiatief",
+   "ipa": "/initsjaːˈtif/",
+   "fa": "ابتکار، پیشقدمی",
+   "ex": "Dit jaar had Dani in onze straat het initiatief genomen.",
+   "m": [
+    37,
+    47
+   ],
+   "book": 1
+  },
+  {
+   "id": "stoep",
+   "art": "de",
+   "w": "de stoep",
+   "ipa": "/stup/",
+   "fa": "پیاده‌رو",
+   "ex": "Om tien uur stonden er tafels op de stoep.",
+   "m": [
+    36,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezem",
+   "art": "de",
+   "w": "de bezem",
+   "ipa": "/ˈbeːzəm/",
+   "fa": "جارو",
+   "ex": "Iedereen had iets meegenomen: bezems, vuilniszakken, plantjes en vooral veel koffie.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "vegen",
+   "art": "",
+   "w": "vegen",
+   "ipa": "/ˈveːɣə(n)/",
+   "fa": "جارو کردن",
+   "ex": "We veegden de hele stoep.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "onkruid",
+   "art": "het",
+   "w": "het onkruid",
+   "ipa": "/ˈɔŋkrœyt/",
+   "fa": "علف هرز",
+   "ex": "Tussen de stenen groeit onkruid.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoewel",
+   "art": "",
+   "w": "hoewel",
+   "ipa": "/ɦuˈʋɛl/",
+   "fa": "اگرچه",
+   "ex": "Hoewel ik hier al een jaar woon, ken ik niet iedereen.",
+   "m": [
+    0,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "onbetaalbaar",
+   "art": "",
+   "w": "onbetaalbaar",
+   "ipa": "/ɔmbəˈtaːlbaːr/",
+   "fa": "خیلی گران (غیرقابل‌پرداخت)",
+   "ex": "Nu zijn de huizen hier onbetaalbaar.",
+   "m": [
+    23,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "zuchten",
+   "art": "",
+   "w": "zuchten",
+   "ipa": "/ˈzʏxtə(n)/",
+   "fa": "آه کشیدن",
+   "ex": "Mevrouw Bakker zuchtte diep.",
+   "m": [
+    15,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "kruipen",
+   "art": "",
+   "w": "kruipen",
+   "ipa": "/ˈkrœypə(n)/",
+   "fa": "چهاردست‌وپا رفتن، خزیدن",
+   "ex": "Noah kroop over een kleed en probeerde alle koekjes te pakken.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorstellen",
+   "art": "",
+   "w": "voorstellen",
+   "ipa": "/ˈvoːrstɛlə(n)/",
+   "fa": "پیشنهاد دادن",
+   "ex": "Dani stelde voor om een app te maken.",
+   "m": [
+    5,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "vuilniszak",
+   "art": "de",
+   "w": "de vuilniszak",
+   "ipa": "/ˈvœylnɪˌsɑk/",
+   "fa": "کیسه‌ی زباله",
+   "ex": "Iedereen had iets meegenomen: bezems, vuilniszakken, plantjes en vooral veel koffie.",
+   "m": [
+    38,
+    51
+   ],
+   "book": 0
+  },
+  {
+   "id": "planten",
+   "art": "",
+   "w": "planten",
+   "ipa": "/ˈplɑntə(n)/",
+   "fa": "کاشتن",
+   "ex": "We veegden de stoep, haalden onkruid weg tussen de stenen en plantten bloemen rond de bomen.",
+   "m": [
+    61,
+    69
+   ],
+   "book": 0
+  },
+  {
+   "id": "bankje",
+   "art": "het",
+   "w": "het bankje",
+   "ipa": "/ˈbɑŋkjə/",
+   "fa": "نیمکت کوچک",
+   "ex": "Alex repareerde samen met de buurman van nummer 8 een oud bankje.",
+   "m": [
+    58,
+    64
+   ],
+   "book": 0
+  },
+  {
+   "id": "kleinkind",
+   "art": "het",
+   "w": "het kleinkind",
+   "ipa": "/ˈklɛinkɪnt/",
+   "fa": "نوه",
+   "ex": "Mijn kleinkinderen kunnen hier nooit wonen.",
+   "m": [
+    5,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "ladder",
+   "art": "de",
+   "w": "de ladder",
+   "ipa": "/ˈlɑdər/",
+   "fa": "نردبان",
+   "ex": "Als iemand een ladder nodig heeft.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "plantje",
+   "art": "het",
+   "w": "het plantje",
+   "ipa": "/ˈplɑncə/",
+   "fa": "گیاه کوچک",
+   "ex": "Iedereen had iets meegenomen: bezems, vuilniszakken, plantjes en vooral veel koffie.",
+   "m": [
+    53,
+    61
+   ],
+   "book": 0
+  },
+  {
+   "id": "vijftig",
+   "art": "",
+   "w": "vijftig",
+   "ipa": "/ˈfɛiftəx/",
+   "fa": "پنجاه",
+   "ex": "Mevrouw Bakker woont hier al vijftig jaar.",
+   "m": [
+    29,
+    36
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Iedereen had iets meegenomen.",
+   "fa": "همه چیزی با خودشان آورده بودند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "We veegden de stoep.",
+   "fa": "پیاده‌رو را جارو کردیم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Mijn kleinkinderen kunnen hier nooit wonen.",
+   "fa": "نوه‌هایم هیچ‌وقت نمی‌توانند اینجا زندگی کنند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Dan kunnen we elkaar helpen.",
+   "fa": "آن‌وقت می‌توانیم به هم کمک کنیم.",
+   "alt": [
+    "We kunnen elkaar dan helpen."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Dank jullie wel voor deze mooie dag.",
+   "fa": "از همه‌تان برای این روز زیبا ممنونم.",
+   "alt": []
+  }
+ ]
+}

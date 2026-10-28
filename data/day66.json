@@ -1,0 +1,452 @@
+{
+ "day": 66,
+ "level": "B1",
+ "title": "Terug naar school",
+ "fa_title": "بازگشت به مدرسه",
+ "audio": "audio/day66.mp3",
+ "img": "img/day66.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Na zes weken zomervakantie gingen de scholen in Amsterdam half augustus weer open.",
+   "s": 5.18
+  },
+  {
+   "p": 0,
+   "t": "Mia ging naar groep 5.",
+   "s": 12.09
+  },
+  {
+   "p": 0,
+   "t": "Ze had een nieuwe juf, juf Ilona, en een lokaal op de eerste verdieping.",
+   "s": 15.18
+  },
+  {
+   "p": 1,
+   "t": "Op het schoolplein stonden veel ouders te praten.",
+   "s": 21.34
+  },
+  {
+   "p": 1,
+   "t": "Een jaar geleden stond ik hier alleen en verstond ik bijna niets.",
+   "s": 25.29
+  },
+  {
+   "p": 1,
+   "t": "Nu kende ik de meeste ouders van Mia's klas.",
+   "s": 30.31
+  },
+  {
+   "p": 1,
+   "t": "De moeder van Sophie vroeg hoe onze vakantie was geweest, en ik vertelde gewoon over de camping en Texel.",
+   "s": 34.74
+  },
+  {
+   "p": 2,
+   "t": "“En jij gaat werken, hoorde ik?",
+   "s": 42.48
+  },
+  {
+   "p": 2,
+   "t": "Wie haalt Mia dan uit school?”",
+   "s": 46.12
+  },
+  {
+   "p": 3,
+   "t": "Dat was precies ons probleem.",
+   "s": 49.45
+  },
+  {
+   "p": 3,
+   "t": "Alex en ik werken allebei tot vijf uur, en de school gaat om kwart over drie uit.",
+   "s": 52.9
+  },
+  {
+   "p": 3,
+   "t": "Gelukkig is er de BSO, de buitenschoolse opvang.",
+   "s": 59.59
+  },
+  {
+   "p": 3,
+   "t": "Op de dagen dat ik werk, gaat Mia daar na school naartoe.",
+   "s": 64.67
+  },
+  {
+   "p": 3,
+   "t": "Ze kan er spelen, knutselen en buiten zijn tot een van ons haar ophaalt.",
+   "s": 69.77
+  },
+  {
+   "p": 4,
+   "t": "We hadden al een rondleiding gehad.",
+   "s": 75.68
+  },
+  {
+   "p": 4,
+   "t": "De BSO zit in een oud gebouw met een grote tuin, vlak bij school.",
+   "s": 78.98
+  },
+  {
+   "p": 4,
+   "t": "Een pedagogisch medewerker haalt de kinderen te voet op.",
+   "s": 84.81
+  },
+  {
+   "p": 5,
+   "t": "“Kost dat niet heel veel?” vroeg de moeder van Sophie.",
+   "s": 89.4
+  },
+  {
+   "p": 5,
+   "t": "“Een deel betalen we zelf,” zei ik.",
+   "s": 95.07
+  },
+  {
+   "p": 5,
+   "t": "“Maar omdat we allebei werken, krijgen we kinderopvangtoeslag.”",
+   "s": 98.92
+  },
+  {
+   "p": 6,
+   "t": "Toen ging de bel.",
+   "s": 104.34
+  },
+  {
+   "p": 6,
+   "t": "Mia gaf me een snelle kus en rende naar binnen.",
+   "s": 106.84
+  },
+  {
+   "p": 6,
+   "t": "Ze keek niet één keer om.",
+   "s": 110.99
+  }
+ ],
+ "comp": [
+  {
+   "q": "Naar welke groep ging Mia?",
+   "o": [
+    "groep 4",
+    "groep 5",
+    "groep 6",
+    "groep 3"
+   ],
+   "a": 1,
+   "fa": "میا به کدام گروه رفت؟"
+  },
+  {
+   "q": "Hoe was het een jaar geleden op het schoolplein?",
+   "o": [
+    "Sara stond alleen en verstond bijna niets",
+    "Sara kende iedereen",
+    "Alex was er ook",
+    "het regende"
+   ],
+   "a": 0,
+   "fa": "یک سال پیش در حیاط مدرسه وضع چطور بود؟"
+  },
+  {
+   "q": "Hoe laat gaat de school uit?",
+   "o": [
+    "om drie uur",
+    "om vijf uur",
+    "om kwart over drie",
+    "om twaalf uur"
+   ],
+   "a": 2,
+   "fa": "مدرسه ساعت چند تعطیل می‌شود؟"
+  },
+  {
+   "q": "Wat is de BSO?",
+   "o": [
+    "een sportclub",
+    "een zwembad",
+    "een bibliotheek",
+    "de buitenschoolse opvang"
+   ],
+   "a": 3,
+   "fa": "BSO چیست؟"
+  },
+  {
+   "q": "Hoe gaan de kinderen naar de BSO?",
+   "o": [
+    "met de bus",
+    "met de fiets",
+    "te voet, met een pedagogisch medewerker",
+    "met de auto"
+   ],
+   "a": 2,
+   "fa": "بچه‌ها چطور به BSO می‌روند؟"
+  },
+  {
+   "q": "Waarom krijgen ze kinderopvangtoeslag?",
+   "o": [
+    "omdat ze allebei werken",
+    "omdat Mia acht is",
+    "omdat ze weinig verdienen",
+    "omdat het verplicht is"
+   ],
+   "a": 0,
+   "fa": "چرا کمک‌هزینه‌ی نگهداری کودک می‌گیرند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "verdieping",
+   "art": "de",
+   "w": "de verdieping",
+   "ipa": "/vərˈdipɪŋ/",
+   "fa": "طبقه",
+   "ex": "Het lokaal is op de eerste verdieping.",
+   "m": [
+    27,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "schoolplein",
+   "art": "het",
+   "w": "het schoolplein",
+   "ipa": "/ˈsxoːlplɛin/",
+   "fa": "حیاط مدرسه",
+   "ex": "Op het schoolplein stonden veel ouders te praten.",
+   "m": [
+    7,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "verstaan",
+   "art": "",
+   "w": "verstaan",
+   "ipa": "/vərˈstaːn/",
+   "fa": "فهمیدن (شنیدن و فهمیدن)",
+   "ex": "Een jaar geleden stond ik hier alleen en verstond ik bijna niets.",
+   "m": [
+    41,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitgaan",
+   "art": "",
+   "w": "uitgaan",
+   "ipa": "/ˈœytxaːn/",
+   "fa": "تعطیل شدن (مدرسه)؛ بیرون رفتن",
+   "ex": "De school gaat om kwart over drie uit.",
+   "m": [
+    10,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "buitenschoolse-opvang",
+   "art": "de",
+   "w": "de buitenschoolse opvang",
+   "ipa": "/ˈbœytə(n)sxoːlsə ˈɔpfɑŋ/",
+   "fa": "مراقبت از کودک بعد از مدرسه",
+   "ex": "Gelukkig is er de BSO, de buitenschoolse opvang.",
+   "m": [
+    26,
+    47
+   ],
+   "book": 1
+  },
+  {
+   "id": "knutselen",
+   "art": "",
+   "w": "knutselen",
+   "ipa": "/ˈknʏtsələ(n)/",
+   "fa": "کاردستی درست کردن",
+   "ex": "Op de BSO knutselen de kinderen.",
+   "m": [
+    10,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "rondleiding",
+   "art": "de",
+   "w": "de rondleiding",
+   "ipa": "/ˈrɔntlɛidɪŋ/",
+   "fa": "بازدید با راهنما",
+   "ex": "We hadden al een rondleiding gehad.",
+   "m": [
+    17,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "te-voet",
+   "art": "",
+   "w": "te voet",
+   "ipa": "/tə vut/",
+   "fa": "پیاده",
+   "ex": "Een pedagogisch medewerker haalt de kinderen te voet op.",
+   "m": [
+    45,
+    52
+   ],
+   "book": 1
+  },
+  {
+   "id": "kinderopvangtoeslag",
+   "art": "de",
+   "w": "de kinderopvangtoeslag",
+   "ipa": "/ˈkɪndərɔpfɑŋtuslɑx/",
+   "fa": "کمک‌هزینه‌ی نگهداری کودک",
+   "ex": "Maar omdat we allebei werken, krijgen we kinderopvangtoeslag.",
+   "m": [
+    41,
+    60
+   ],
+   "book": 1
+  },
+  {
+   "id": "omkijken",
+   "art": "",
+   "w": "omkijken",
+   "ipa": "/ˈɔmkɛikə(n)/",
+   "fa": "به پشت سر نگاه کردن",
+   "ex": "Ze rende naar binnen en keek niet om.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "moeder",
+   "art": "de",
+   "w": "de moeder",
+   "ipa": "/ˈmudər/",
+   "fa": "مادر",
+   "ex": "De moeder van Sophie vroeg hoe het ging.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "kwart",
+   "art": "het",
+   "w": "het kwart",
+   "ipa": "/kʋɑrt/",
+   "fa": "ربع",
+   "ex": "De school gaat om kwart over drie uit.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "medewerker",
+   "art": "de",
+   "w": "de medewerker",
+   "ipa": "/ˈmeːdəˌʋɛrkər/",
+   "fa": "کارمند، همکار",
+   "ex": "Een pedagogisch medewerker haalt de kinderen te voet op.",
+   "m": [
+    16,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "pedagogisch",
+   "art": "",
+   "w": "pedagogisch",
+   "ipa": "/peːdaːˈɣoːɣis/",
+   "fa": "تربیتی، آموزشی",
+   "ex": "Een pedagogisch medewerker haalt de kinderen te voet op.",
+   "m": [
+    4,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "kus",
+   "art": "de",
+   "w": "de kus",
+   "ipa": "/kʏs/",
+   "fa": "بوسه، ماچ",
+   "ex": "Mia gaf me een snelle kus en rende naar binnen.",
+   "m": [
+    22,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "geleden",
+   "art": "",
+   "w": "geleden",
+   "ipa": "/ɣəˈleːdə(n)/",
+   "fa": "پیش (در زمان گذشته)",
+   "ex": "Een jaar geleden stond ik hier alleen en verstond ik bijna niets.",
+   "m": [
+    9,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "kennen",
+   "art": "",
+   "w": "kennen",
+   "ipa": "/ˈkɛnə(n)/",
+   "fa": "شناختن",
+   "ex": "Nu kende ik de meeste ouders van Mia's klas.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mia ging naar groep 5.",
+   "fa": "میا به گروه ۵ رفت.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Een jaar geleden verstond ik bijna niets.",
+   "fa": "یک سال پیش تقریباً هیچ چیز نمی‌فهمیدم.",
+   "alt": [
+    "Ik verstond een jaar geleden bijna niets."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Wie haalt Mia uit school?",
+   "fa": "چه کسی میا را از مدرسه برمی‌دارد؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Een deel betalen we zelf.",
+   "fa": "بخشی را خودمان می‌پردازیم.",
+   "alt": [
+    "We betalen zelf een deel."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Ze keek niet één keer om.",
+   "fa": "حتی یک بار هم پشت سرش را نگاه نکرد.",
+   "alt": []
+  }
+ ]
+}

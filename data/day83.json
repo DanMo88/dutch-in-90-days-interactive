@@ -1,0 +1,432 @@
+{
+ "day": 83,
+ "level": "B1",
+ "title": "Lootjes trekken",
+ "fa_title": "قرعه‌کشی هدیه",
+ "audio": "audio/day83.mp3",
+ "img": "img/day83.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Half november zaten we op een zondagmiddag bij Dani en Emma aan tafel: Dani, Emma, Oma Anna, Alex, Mia en ik.",
+   "s": 5.13
+  },
+  {
+   "p": 0,
+   "t": "Noah zat in zijn kinderstoel.",
+   "s": 17.08
+  },
+  {
+   "p": 1,
+   "t": "“We gaan lootjes trekken voor Sinterklaas,” zei Emma.",
+   "s": 20.38
+  },
+  {
+   "p": 1,
+   "t": "Ze schreef alle namen op papiertjes, vouwde ze dubbel en deed ze in een muts.",
+   "s": 25.33
+  },
+  {
+   "p": 2,
+   "t": "Bij volwassenen werkt Sinterklaas anders dan bij kinderen, legde Dani uit.",
+   "s": 32.07
+  },
+  {
+   "p": 2,
+   "t": "Iedereen trekt één naam.",
+   "s": 38.63
+  },
+  {
+   "p": 2,
+   "t": "Voor die persoon koop je een cadeautje en maak je een surprise: een grappige verpakking die je zelf knutselt.",
+   "s": 41.51
+  },
+  {
+   "p": 2,
+   "t": "Daarbij schrijf je een gedicht waarin je de ander een beetje plaagt.",
+   "s": 49.98
+  },
+  {
+   "p": 2,
+   "t": "“Maar niet te gemeen,” zei Oma Anna streng.",
+   "s": 55.24
+  },
+  {
+   "p": 3,
+   "t": "“En niemand mag weten wie wie heeft,” voegde Emma eraan toe.",
+   "s": 59.76
+  },
+  {
+   "p": 3,
+   "t": "“Anders is de verrassing weg.”",
+   "s": 65.27
+  },
+  {
+   "p": 4,
+   "t": "Iedereen schreef ook een verlanglijstje, met een maximum van twintig euro.",
+   "s": 68.46
+  },
+  {
+   "p": 4,
+   "t": "Op dat van Dani stond: wollen sokken, een fietsbel en drop.",
+   "s": 74.88
+  },
+  {
+   "p": 5,
+   "t": "Toen trokken we om de beurt.",
+   "s": 81.16
+  },
+  {
+   "p": 5,
+   "t": "Ik vouwde mijn papiertje langzaam open.",
+   "s": 84.12
+  },
+  {
+   "p": 5,
+   "t": "Dani!",
+   "s": 88.02
+  },
+  {
+   "p": 5,
+   "t": "Mia zag mijn gezicht en begon te giechelen.",
+   "s": 89.77
+  },
+  {
+   "p": 5,
+   "t": "“Mama heeft iemand leuks!”",
+   "s": 93.99
+  },
+  {
+   "p": 6,
+   "t": "Gelukkig wist niemand wie ik had.",
+   "s": 97.12
+  },
+  {
+   "p": 6,
+   "t": "Maar die avond lag ik lang wakker.",
+   "s": 100.58
+  },
+  {
+   "p": 6,
+   "t": "Een gedicht schrijven, in het Nederlands, dat ook nog rijmt?",
+   "s": 103.88
+  },
+  {
+   "p": 6,
+   "t": "Dat werd mijn moeilijkste examen.",
+   "s": 109.65
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar zaten ze aan tafel?",
+   "o": [
+    "bij Oma Anna",
+    "bij Dani en Emma",
+    "bij Sara",
+    "in een café"
+   ],
+   "a": 1,
+   "fa": "کجا دور میز نشسته بودند؟"
+  },
+  {
+   "q": "Waarin deed Emma de papiertjes?",
+   "o": [
+    "in een muts",
+    "in een doos",
+    "in een schoen",
+    "in een tas"
+   ],
+   "a": 0,
+   "fa": "اِما کاغذها را در چه گذاشت؟"
+  },
+  {
+   "q": "Wat is een surprise?",
+   "o": [
+    "een taart",
+    "een gedicht",
+    "een grappige verpakking die je zelf knutselt",
+    "een feest"
+   ],
+   "a": 2,
+   "fa": "«سورپریز» چیست؟"
+  },
+  {
+   "q": "Wat is het maximum voor een cadeautje?",
+   "o": [
+    "tien euro",
+    "vijftig euro",
+    "vijf euro",
+    "twintig euro"
+   ],
+   "a": 3,
+   "fa": "سقف قیمت هدیه چقدر است؟"
+  },
+  {
+   "q": "Wat stond er op het verlanglijstje van Dani?",
+   "o": [
+    "een boek, een sjaal en wijn",
+    "wollen sokken, een fietsbel en drop",
+    "een nieuwe fiets",
+    "chocolade"
+   ],
+   "a": 1,
+   "fa": "در فهرست آرزوهای دانی چه بود؟"
+  },
+  {
+   "q": "Wie trok Sara?",
+   "o": [
+    "Emma",
+    "Oma Anna",
+    "Alex",
+    "Dani"
+   ],
+   "a": 3,
+   "fa": "سارا اسم چه کسی را درآورد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "lootje",
+   "art": "het",
+   "w": "het lootje",
+   "ipa": "/ˈloːcə/",
+   "fa": "کاغذ قرعه",
+   "ex": "We gaan lootjes trekken voor Sinterklaas.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "kinderstoel",
+   "art": "de",
+   "w": "de kinderstoel",
+   "ipa": "/ˈkɪndərstul/",
+   "fa": "صندلی بچه",
+   "ex": "Noah zat in zijn kinderstoel.",
+   "m": [
+    17,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "vouwen",
+   "art": "",
+   "w": "vouwen",
+   "ipa": "/ˈvɑuʋə(n)/",
+   "fa": "تا کردن",
+   "ex": "Ik vouwde mijn papiertje langzaam open.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "verpakking",
+   "art": "de",
+   "w": "de verpakking",
+   "ipa": "/vərˈpɑkɪŋ/",
+   "fa": "بسته‌بندی",
+   "ex": "De verpakking is net zo belangrijk als het cadeau.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "plagen",
+   "art": "",
+   "w": "plagen",
+   "ipa": "/ˈplaːɣə(n)/",
+   "fa": "سربه‌سر گذاشتن",
+   "ex": "Daarbij schrijf je een gedicht waarin je de ander een beetje plaagt.",
+   "m": [
+    61,
+    67
+   ],
+   "book": 1
+  },
+  {
+   "id": "gemeen",
+   "art": "",
+   "w": "gemeen",
+   "ipa": "/ɣəˈmeːn/",
+   "fa": "بدجنس",
+   "ex": "Maar niet te gemeen.",
+   "m": [
+    13,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "verrassing",
+   "art": "de",
+   "w": "de verrassing",
+   "ipa": "/vəˈrɑsɪŋ/",
+   "fa": "غافلگیری",
+   "ex": "Anders is de verrassing weg.",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "verlanglijstje",
+   "art": "het",
+   "w": "het verlanglijstje",
+   "ipa": "/vərˈlɑŋlɛiʃə/",
+   "fa": "فهرست آرزوها (هدیه‌ها)",
+   "ex": "Iedereen schreef ook een verlanglijstje, met een maximum van twintig euro.",
+   "m": [
+    25,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "giechelen",
+   "art": "",
+   "w": "giechelen",
+   "ipa": "/ˈɣixələ(n)/",
+   "fa": "ریز‌ریز خندیدن",
+   "ex": "Mia zag mijn gezicht en begon te giechelen.",
+   "m": [
+    33,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "rijmen",
+   "art": "",
+   "w": "rijmen",
+   "ipa": "/ˈrɛimə(n)/",
+   "fa": "هم‌قافیه بودن",
+   "ex": "Een gedicht schrijven, in het Nederlands, dat ook nog rijmt?",
+   "m": [
+    54,
+    59
+   ],
+   "book": 1
+  },
+  {
+   "id": "papiertje",
+   "art": "het",
+   "w": "het papiertje",
+   "ipa": "/paːˈpircə/",
+   "fa": "کاغذ کوچک",
+   "ex": "Ik vouwde mijn papiertje langzaam open.",
+   "m": [
+    15,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "cadeautje",
+   "art": "het",
+   "w": "het cadeautje",
+   "ipa": "/kaːˈdoːcə/",
+   "fa": "هدیه‌ی کوچک",
+   "ex": "Voor die persoon koop je een cadeautje.",
+   "m": [
+    29,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "streng",
+   "art": "",
+   "w": "streng",
+   "ipa": "/strɛŋ/",
+   "fa": "سخت‌گیر، جدی",
+   "ex": "Oma Anna keek streng.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "maximum",
+   "art": "het",
+   "w": "het maximum",
+   "ipa": "/ˈmɑksiˌmʏm/",
+   "fa": "حداکثر",
+   "ex": "Iedereen schreef ook een verlanglijstje, met een maximum van twintig euro.",
+   "m": [
+    49,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "wollen",
+   "art": "",
+   "w": "wollen",
+   "ipa": "/ˈʋɔlə(n)/",
+   "fa": "پشمی",
+   "ex": "Op dat van Dani stond: wollen sokken, een fietsbel en drop.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "beurt",
+   "art": "de",
+   "w": "de beurt",
+   "ipa": "/bøːrt/",
+   "fa": "نوبت",
+   "ex": "Toen trokken we om de beurt.",
+   "m": [
+    22,
+    27
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "We gaan lootjes trekken voor Sinterklaas.",
+   "fa": "برای سینترکلاس قرعه می‌کشیم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Iedereen trekt één naam.",
+   "fa": "هر کس یک اسم بیرون می‌کشد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Maar niet te gemeen.",
+   "fa": "ولی نه خیلی بدجنس.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Toen trokken we om de beurt.",
+   "fa": "بعد به نوبت قرعه کشیدیم.",
+   "alt": [
+    "We trokken toen om de beurt."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Mama heeft iemand leuks!",
+   "fa": "مامان یک نفر خوب درآورده!",
+   "alt": []
+  }
+ ]
+}

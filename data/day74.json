@@ -1,0 +1,452 @@
+{
+ "day": 74,
+ "level": "B1",
+ "title": "Een huurwoning bezichtigen",
+ "fa_title": "بازدید از یک خانه‌ی اجاره‌ای",
+ "audio": "audio/day74.mp3",
+ "img": "img/day74.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Na drie weken zoeken vonden we een advertentie die perfect leek: een vierkamerwoning op de tweede verdieping, in de straat naast de onze.",
+   "s": 6.31
+  },
+  {
+   "p": 0,
+   "t": "En met een lift!",
+   "s": 15.62
+  },
+  {
+   "p": 1,
+   "t": "Op woensdagavond mochten we komen kijken, samen met vijf andere stellen.",
+   "s": 18.07
+  },
+  {
+   "p": 1,
+   "t": "De kamers waren licht, de keuken was nieuw, en Mia had al een kamer uitgekozen voordat we goed en wel binnen waren.",
+   "s": 24.31
+  },
+  {
+   "p": 2,
+   "t": "Dani had me een lijstje met vragen meegegeven.",
+   "s": 32.85
+  },
+  {
+   "p": 2,
+   "t": "“Niet verliefd worden voordat je alles weet,” had hij gezegd.",
+   "s": 37.1
+  },
+  {
+   "p": 3,
+   "t": "“Wat is de kale huur?” vroeg ik.",
+   "s": 42.09
+  },
+  {
+   "p": 3,
+   "t": "“Negentienhonderd euro per maand,” zei de makelaar.",
+   "s": 47.01
+  },
+  {
+   "p": 3,
+   "t": "“Daarbij komen nog servicekosten van zestig euro, voor de schoonmaak van het trappenhuis en de lift.”",
+   "s": 51.92
+  },
+  {
+   "p": 4,
+   "t": "“En de borg?”",
+   "s": 59.35
+  },
+  {
+   "p": 4,
+   "t": "“Twee maanden kale huur.",
+   "s": 61.65
+  },
+  {
+   "p": 4,
+   "t": "Meer mag een verhuurder tegenwoordig niet vragen.”",
+   "s": 64.62
+  },
+  {
+   "p": 5,
+   "t": "“Is het een contract voor onbepaalde tijd?”",
+   "s": 69.09
+  },
+  {
+   "p": 5,
+   "t": "De makelaar knikte.",
+   "s": 73.01
+  },
+  {
+   "p": 5,
+   "t": "“Ja.”",
+   "s": 75.74
+  },
+  {
+   "p": 6,
+   "t": "Alex rekende ondertussen op zijn telefoon.",
+   "s": 77.38
+  },
+  {
+   "p": 6,
+   "t": "Het was veel meer dan we nu betaalden.",
+   "s": 81.57
+  },
+  {
+   "p": 6,
+   "t": "Maar met mijn salaris erbij kon het, als we goed opletten.",
+   "s": 85.15
+  },
+  {
+   "p": 7,
+   "t": "Twee dagen later belde de makelaar: de verhuurder had voor ons gekozen.",
+   "s": 90.59
+  },
+  {
+   "p": 7,
+   "t": "“U had alle papieren meteen compleet.",
+   "s": 96.68
+  },
+  {
+   "p": 7,
+   "t": "Dat helpt.”",
+   "s": 100.82
+  },
+  {
+   "p": 8,
+   "t": "We tekenden het huurcontract op vrijdag.",
+   "s": 102.96
+  },
+  {
+   "p": 8,
+   "t": "Op 1 november krijgen we de sleutel.",
+   "s": 107.01
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar ligt de woning?",
+   "o": [
+    "in een andere stad",
+    "in de straat naast de onze",
+    "bij Schiphol",
+    "aan het IJ"
+   ],
+   "a": 1,
+   "fa": "خانه کجاست؟"
+  },
+  {
+   "q": "Met hoeveel andere stellen kwamen ze kijken?",
+   "o": [
+    "met niemand",
+    "met twee",
+    "met vijf",
+    "met twintig"
+   ],
+   "a": 2,
+   "fa": "با چند زوج دیگر برای بازدید آمدند؟"
+  },
+  {
+   "q": "Wat was het advies van Dani?",
+   "o": [
+    "niet verliefd worden voordat je alles weet",
+    "meteen tekenen",
+    "niets vragen",
+    "geen borg betalen"
+   ],
+   "a": 0,
+   "fa": "توصیه‌ی دانی چه بود؟"
+  },
+  {
+   "q": "Waarvoor zijn de servicekosten?",
+   "o": [
+    "voor gas en licht",
+    "voor internet",
+    "voor de makelaar",
+    "voor de schoonmaak van het trappenhuis en de lift"
+   ],
+   "a": 3,
+   "fa": "هزینه‌ی خدمات برای چیست؟"
+  },
+  {
+   "q": "Hoe hoog is de borg?",
+   "o": [
+    "één maand huur",
+    "twee maanden kale huur",
+    "duizend euro",
+    "drie maanden huur"
+   ],
+   "a": 1,
+   "fa": "ودیعه چقدر است؟"
+  },
+  {
+   "q": "Waarom koos de verhuurder voor Sara en Alex?",
+   "o": [
+    "ze betaalden meer",
+    "ze kenden de makelaar",
+    "ze hadden alle papieren meteen compleet",
+    "Mia was zo lief"
+   ],
+   "a": 2,
+   "fa": "چرا صاحب‌خانه سارا و الکس را انتخاب کرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "advertentie",
+   "art": "de",
+   "w": "de advertentie",
+   "ipa": "/ɑtfərˈtɛnsi/",
+   "fa": "آگهی",
+   "ex": "Ik zag een advertentie op internet.",
+   "m": [
+    11,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "makelaar",
+   "art": "de",
+   "w": "de makelaar",
+   "ipa": "/ˈmaːkəlaːr/",
+   "fa": "بنگاه‌دار، مشاور املاک",
+   "ex": "De makelaar knikte.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "stel",
+   "art": "het",
+   "w": "het stel",
+   "ipa": "/stɛl/",
+   "fa": "زوج",
+   "ex": "Er kwamen vijf andere stellen kijken.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitkiezen",
+   "art": "",
+   "w": "uitkiezen",
+   "ipa": "/ˈœytkizə(n)/",
+   "fa": "انتخاب کردن",
+   "ex": "Mia had al een kamer uitgekozen.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "kale-huur",
+   "art": "de",
+   "w": "de kale huur",
+   "ipa": "/ˈkaːlə ɦyːr/",
+   "fa": "اجاره‌ی خالص (بدون هزینه‌ها)",
+   "ex": "Wat is de kale huur?",
+   "m": [
+    10,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "servicekosten",
+   "art": "de",
+   "w": "de servicekosten",
+   "ipa": "/ˈsʏːrvɪskɔstə(n)/",
+   "fa": "هزینه‌ی خدمات",
+   "ex": "De servicekosten zijn zestig euro.",
+   "m": [
+    3,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "borg",
+   "art": "de",
+   "w": "de borg",
+   "ipa": "/bɔrx/",
+   "fa": "ودیعه",
+   "ex": "En de borg?",
+   "m": [
+    6,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "verhuurder",
+   "art": "de",
+   "w": "de verhuurder",
+   "ipa": "/vərˈɦyːrdər/",
+   "fa": "صاحب‌خانه (موجر)",
+   "ex": "Meer mag een verhuurder tegenwoordig niet vragen.",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "opletten",
+   "art": "",
+   "w": "opletten",
+   "ipa": "/ˈɔplɛtə(n)/",
+   "fa": "دقت کردن، حواس جمع بودن",
+   "ex": "Maar met mijn salaris erbij kon het, als we goed opletten.",
+   "m": [
+    49,
+    57
+   ],
+   "book": 1
+  },
+  {
+   "id": "sleutel",
+   "art": "de",
+   "w": "de sleutel",
+   "ipa": "/ˈsløːtəl/",
+   "fa": "کلید",
+   "ex": "Op 1 november krijgen we de sleutel.",
+   "m": [
+    28,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "lift",
+   "art": "de",
+   "w": "de lift",
+   "ipa": "/lɪft/",
+   "fa": "آسانسور",
+   "ex": "En met een lift!",
+   "m": [
+    11,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "woensdag",
+   "art": "",
+   "w": "woensdag",
+   "ipa": "/ˈʋunsdɑx/",
+   "fa": "چهارشنبه",
+   "ex": "We mochten op woensdag komen kijken.",
+   "m": [
+    14,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "verliefd",
+   "art": "",
+   "w": "verliefd",
+   "ipa": "/vərˈlift/",
+   "fa": "عاشق",
+   "ex": "Niet verliefd worden voordat je alles weet.",
+   "m": [
+    5,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "compleet",
+   "art": "",
+   "w": "compleet",
+   "ipa": "/kɔmˈpleːt/",
+   "fa": "کامل",
+   "ex": "U had alle papieren meteen compleet.",
+   "m": [
+    27,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "tekenen",
+   "art": "",
+   "w": "tekenen",
+   "ipa": "/ˈteːkənə(n)/",
+   "fa": "امضا کردن",
+   "ex": "We tekenden het huurcontract op vrijdag.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "huurcontract",
+   "art": "het",
+   "w": "het huurcontract",
+   "ipa": "/ˈɦyrkɔnˌtrɑkt/",
+   "fa": "قرارداد اجاره",
+   "ex": "We tekenden het huurcontract op vrijdag.",
+   "m": [
+    16,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "schoonmaak",
+   "art": "de",
+   "w": "de schoonmaak",
+   "ipa": "/ˈsxoːnmaːk/",
+   "fa": "نظافت",
+   "ex": "Daarbij komen nog servicekosten van zestig euro, voor de schoonmaak van het trappenhuis en de lift.",
+   "m": [
+    57,
+    67
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "En met een lift!",
+   "fa": "و با آسانسور!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Niet verliefd worden voordat je alles weet.",
+   "fa": "قبل از اینکه همه چیز را بدانی، عاشق نشو.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Wat is de kale huur?",
+   "fa": "اجاره‌ی خالص چقدر است؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Op 1 november krijgen we de sleutel.",
+   "fa": "اول نوامبر کلید را می‌گیریم.",
+   "alt": [
+    "We krijgen op 1 november de sleutel."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "We tekenden het huurcontract op vrijdag.",
+   "fa": "جمعه قرارداد اجاره را امضا کردیم.",
+   "alt": [
+    "Op vrijdag tekenden we het huurcontract."
+   ]
+  }
+ ]
+}

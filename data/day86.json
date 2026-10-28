@@ -1,0 +1,465 @@
+{
+ "day": 86,
+ "level": "B1",
+ "title": "Doe normaal!",
+ "fa_title": "عادی باش!",
+ "audio": "audio/day86.mp3",
+ "img": "img/day86.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een vrijdagavond aten Dani en Emma bij ons.",
+   "s": 5.18
+  },
+  {
+   "p": 0,
+   "t": "We hadden het over mijn collega Mark.",
+   "s": 9.92
+  },
+  {
+   "p": 0,
+   "t": "Hij had een prijs gewonnen voor het beste verbeteridee van het ziekenhuis, maar hij had het niemand verteld.",
+   "s": 13.78
+  },
+  {
+   "p": 0,
+   "t": "Ik las het toevallig in de nieuwsbrief.",
+   "s": 21.04
+  },
+  {
+   "p": 0,
+   "t": "“Typisch Nederlands,” zei Emma.",
+   "s": 24.57
+  },
+  {
+   "p": 0,
+   "t": "“Je gaat niet opscheppen.",
+   "s": 28.1
+  },
+  {
+   "p": 0,
+   "t": "Doe maar normaal, dan doe je al gek genoeg.”",
+   "s": 30.85
+  },
+  {
+   "p": 0,
+   "t": "“En wie opvalt met een dure auto, is al gauw een patser,” vulde Dani aan.",
+   "s": 35.01
+  },
+  {
+   "p": 1,
+   "t": "Ik moest lachen.",
+   "s": 41.23
+  },
+  {
+   "p": 1,
+   "t": "In Iran is het juist beleefd om elkaar te prijzen.",
+   "s": 43.62
+  },
+  {
+   "p": 1,
+   "t": "We hebben zelfs een woord voor onze beleefdheid: taarof.",
+   "s": 48.13
+  },
+  {
+   "p": 1,
+   "t": "Je biedt iets drie keer aan, en de ander weigert twee keer, ook als hij het graag wil.",
+   "s": 53.09
+  },
+  {
+   "p": 2,
+   "t": "“Dat werkt hier niet,” zei Emma.",
+   "s": 59.29
+  },
+  {
+   "p": 2,
+   "t": "“Als een Nederlander nee zegt, bedoelt hij nee.",
+   "s": 62.79
+  },
+  {
+   "p": 2,
+   "t": "Dan krijgt hij niets.”",
+   "s": 67.21
+  },
+  {
+   "p": 2,
+   "t": "“Dat heb ik gemerkt,” zei ik.",
+   "s": 69.99
+  },
+  {
+   "p": 2,
+   "t": "“In mijn eerste maanden heb ik heel wat koekjes misgelopen.”",
+   "s": 73.54
+  },
+  {
+   "p": 3,
+   "t": "Iedereen lachte.",
+   "s": 78.37
+  },
+  {
+   "p": 3,
+   "t": "Toen werd Dani even serieus.",
+   "s": 80.68
+  },
+  {
+   "p": 3,
+   "t": "“Maar die bescheidenheid heeft ook een nadeel.",
+   "s": 84.13
+  },
+  {
+   "p": 3,
+   "t": "Soms durven we niet te zeggen dat we trots zijn.”",
+   "s": 88.29
+  },
+  {
+   "p": 3,
+   "t": "“Nou, ik ben trots op jou,” zei Alex tegen mij.",
+   "s": 92.42
+  },
+  {
+   "p": 3,
+   "t": "“Je Nederlands is enorm vooruitgegaan.”",
+   "s": 97.35
+  },
+  {
+   "p": 4,
+   "t": "Ik keek naar mijn bord.",
+   "s": 101.45
+  },
+  {
+   "p": 4,
+   "t": "“Ach, het valt wel mee.”",
+   "s": 104.18
+  },
+  {
+   "p": 4,
+   "t": "Even was het stil.",
+   "s": 107.37
+  },
+  {
+   "p": 4,
+   "t": "Toen barstte Dani in lachen uit.",
+   "s": 109.88
+  },
+  {
+   "p": 4,
+   "t": "“Zie je?",
+   "s": 113.42
+  },
+  {
+   "p": 4,
+   "t": "Nu ben je echt een van ons.”",
+   "s": 115.24
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarvoor had Mark een prijs gewonnen?",
+   "o": [
+    "voor het beste verbeteridee van het ziekenhuis",
+    "voor sport",
+    "voor een gedicht",
+    "in de loterij"
+   ],
+   "a": 0,
+   "fa": "مارک برای چه جایزه برده بود؟"
+  },
+  {
+   "q": "Hoe wist Sara het?",
+   "o": [
+    "Mark vertelde het",
+    "Ingrid vertelde het",
+    "ze las het toevallig in de nieuwsbrief",
+    "via de buurtapp"
+   ],
+   "a": 2,
+   "fa": "سارا از کجا خبردار شد؟"
+  },
+  {
+   "q": "Wat is een patser, volgens Dani?",
+   "o": [
+    "een vriendelijke buurman",
+    "iemand die opvalt met dure dingen",
+    "een kok",
+    "een politicus"
+   ],
+   "a": 1,
+   "fa": "به گفته‌ی دانی «پاتسر» کیست؟"
+  },
+  {
+   "q": "Wat is taarof?",
+   "o": [
+    "een Perzisch gerecht",
+    "een feest",
+    "een spel",
+    "een Iraanse vorm van beleefdheid"
+   ],
+   "a": 3,
+   "fa": "«تعارف» چیست؟"
+  },
+  {
+   "q": "Wat bedoelt een Nederlander als hij nee zegt?",
+   "o": [
+    "nee",
+    "ja",
+    "misschien",
+    "vraag het nog een keer"
+   ],
+   "a": 0,
+   "fa": "وقتی یک هلندی «نه» می‌گوید، منظورش چیست؟"
+  },
+  {
+   "q": "Wat zei Sara toen Alex zei dat hij trots was?",
+   "o": [
+    "'Dank je wel!'",
+    "'Ach, het valt wel mee.'",
+    "'Dat weet ik.'",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "وقتی الکس گفت به سارا افتخار می‌کند، سارا چه گفت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "prijs",
+   "art": "de",
+   "w": "de prijs",
+   "ipa": "/prɛis/",
+   "fa": "جایزه",
+   "ex": "Mark heeft een prijs gewonnen.",
+   "m": [
+    15,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "toevallig",
+   "art": "",
+   "w": "toevallig",
+   "ipa": "/tuˈvɑləx/",
+   "fa": "تصادفاً",
+   "ex": "Ik las het toevallig in de nieuwsbrief.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "nieuwsbrief",
+   "art": "de",
+   "w": "de nieuwsbrief",
+   "ipa": "/ˈniʋzbrif/",
+   "fa": "خبرنامه",
+   "ex": "Ik las het toevallig in de nieuwsbrief.",
+   "m": [
+    27,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "opscheppen",
+   "art": "",
+   "w": "opscheppen",
+   "ipa": "/ˈɔpsxɛpə(n)/",
+   "fa": "پز دادن، لاف زدن",
+   "ex": "Je gaat niet opscheppen.",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "opvallen",
+   "art": "",
+   "w": "opvallen",
+   "ipa": "/ˈɔpfɑlə(n)/",
+   "fa": "به چشم آمدن، جلب توجه کردن",
+   "ex": "Hij wil niet te veel opvallen.",
+   "m": [
+    21,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "prijzen",
+   "art": "",
+   "w": "prijzen",
+   "ipa": "/ˈprɛizə(n)/",
+   "fa": "تعریف کردن، ستودن",
+   "ex": "In Iran is het juist beleefd om elkaar te prijzen.",
+   "m": [
+    42,
+    49
+   ],
+   "book": 1
+  },
+  {
+   "id": "weigeren",
+   "art": "",
+   "w": "weigeren",
+   "ipa": "/ˈʋɛiɣərə(n)/",
+   "fa": "رد کردن",
+   "ex": "Bij taarof weiger je eerst twee keer.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "bescheidenheid",
+   "art": "de",
+   "w": "de bescheidenheid",
+   "ipa": "/bəˈsxɛidə(n)ɦɛit/",
+   "fa": "فروتنی",
+   "ex": "Maar die bescheidenheid heeft ook een nadeel.",
+   "m": [
+    9,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "nadeel",
+   "art": "het",
+   "w": "het nadeel",
+   "ipa": "/ˈnaːdeːl/",
+   "fa": "عیب، ضرر",
+   "ex": "Maar die bescheidenheid heeft ook een nadeel.",
+   "m": [
+    38,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "meevallen",
+   "art": "",
+   "w": "meevallen",
+   "ipa": "/ˈmeːvɑlə(n)/",
+   "fa": "بهتر از انتظار بودن (چیزی نبودن)",
+   "ex": "Ach, het valt wel mee.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "typisch",
+   "art": "",
+   "w": "typisch",
+   "ipa": "/ˈtipis/",
+   "fa": "مخصوص، تیپیک",
+   "ex": "Typisch Nederlands.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "patser",
+   "art": "de",
+   "w": "de patser",
+   "ipa": "/ˈpɑtsər/",
+   "fa": "آدم خودنما (پُزدهنده)",
+   "ex": "En wie opvalt met een dure auto, is al gauw een patser.",
+   "m": [
+    48,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "beleefdheid",
+   "art": "de",
+   "w": "de beleefdheid",
+   "ipa": "/bəˈleːftˌɦɛit/",
+   "fa": "ادب؛ تعارف",
+   "ex": "We hebben zelfs een woord voor onze beleefdheid: taarof.",
+   "m": [
+    36,
+    47
+   ],
+   "book": 0
+  },
+  {
+   "id": "aanbieden",
+   "art": "",
+   "w": "aanbieden",
+   "ipa": "/ˈaːnˌbidə(n)/",
+   "fa": "تعارف کردن، پیشنهاد دادن",
+   "ex": "Je moet iets drie keer aanbieden.",
+   "m": [
+    23,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "nee",
+   "art": "",
+   "w": "nee",
+   "ipa": "/neː/",
+   "fa": "نه",
+   "ex": "Als een Nederlander nee zegt, bedoelt hij nee.",
+   "m": [
+    20,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "beleefd",
+   "art": "",
+   "w": "beleefd",
+   "ipa": "/bəˈleːft/",
+   "fa": "مؤدب",
+   "ex": "In Iran is het juist beleefd om elkaar te prijzen.",
+   "m": [
+    21,
+    28
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Doe maar normaal.",
+   "fa": "عادی باش.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Je gaat niet opscheppen.",
+   "fa": "پز نمی‌دهی.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Als een Nederlander nee zegt, bedoelt hij nee.",
+   "fa": "وقتی یک هلندی می‌گوید نه، منظورش نه است.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik ben trots op jou.",
+   "fa": "به تو افتخار می‌کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ach, het valt wel mee.",
+   "fa": "آه، چیز مهمی نیست.",
+   "alt": []
+  }
+ ]
+}

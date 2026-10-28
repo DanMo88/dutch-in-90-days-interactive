@@ -1,0 +1,438 @@
+{
+ "day": 76,
+ "level": "B1",
+ "title": "Verhuizen",
+ "fa_title": "اسباب‌کشی",
+ "audio": "audio/day76.mp3",
+ "img": "img/day76.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op zondag 1 november was het zover: verhuisdag.",
+   "s": 5.04
+  },
+  {
+   "p": 0,
+   "t": "Om acht uur stonden Dani, Fatima's man Samir en twee collega's van Alex voor de deur.",
+   "s": 10.03
+  },
+  {
+   "p": 0,
+   "t": "Het regende natuurlijk.",
+   "s": 17.1
+  },
+  {
+   "p": 1,
+   "t": "Ons oude huis heeft een trap die zo steil en smal is dat er geen kast doorheen past.",
+   "s": 20.07
+  },
+  {
+   "p": 1,
+   "t": "“Geen probleem,” zei Dani, en hij wees naar de balk die boven in de gevel uitsteekt.",
+   "s": 26.59
+  },
+  {
+   "p": 1,
+   "t": "“Daar is de hijsbalk voor.",
+   "s": 33.82
+  },
+  {
+   "p": 1,
+   "t": "Bijna alle oude grachtenpanden hebben er een.”",
+   "s": 36.9
+  },
+  {
+   "p": 2,
+   "t": "Vroeger hesen kooplieden zo hun goederen naar de zolder.",
+   "s": 41.04
+  },
+  {
+   "p": 2,
+   "t": "Nu hesen wij onze bank, het bed van Mia en haar witte kast aan een touw naar beneden.",
+   "s": 45.88
+  },
+  {
+   "p": 2,
+   "t": "Alex hield bij elk meubel dat door de lucht zweefde zijn adem in.",
+   "s": 52.45
+  },
+  {
+   "p": 3,
+   "t": "In het nieuwe huis is een lift.",
+   "s": 57.84
+  },
+  {
+   "p": 3,
+   "t": "Dat scheelde enorm.",
+   "s": 61.02
+  },
+  {
+   "p": 3,
+   "t": "Om drie uur stond alles binnen, en Emma kwam met een grote pan soep en broodjes.",
+   "s": 63.79
+  },
+  {
+   "p": 4,
+   "t": "“Vergeet je adreswijziging niet,” zei Dani.",
+   "s": 70.35
+  },
+  {
+   "p": 4,
+   "t": "“Binnen vijf dagen moet de gemeente het weten.",
+   "s": 74.62
+  },
+  {
+   "p": 4,
+   "t": "Dat kan online met DigiD.”",
+   "s": 78.79
+  },
+  {
+   "p": 4,
+   "t": "Ik deed het meteen op mijn telefoon, met een kom soep in mijn andere hand.",
+   "s": 82.26
+  },
+  {
+   "p": 4,
+   "t": "Daarna moesten ook de bank, de zorgverzekering, de school en de huisarts ons nieuwe adres krijgen.",
+   "s": 87.98
+  },
+  {
+   "p": 5,
+   "t": "'s Avonds zaten we tussen de dozen op de grond.",
+   "s": 95.42
+  },
+  {
+   "p": 5,
+   "t": "Vanaf ons balkon kon ik bijna het huis van Dani en Emma zien.",
+   "s": 99.9
+  },
+  {
+   "p": 5,
+   "t": "Een andere straat, maar dezelfde buren.",
+   "s": 105.24
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer was de verhuisdag?",
+   "o": [
+    "op 1 november",
+    "op 1 oktober",
+    "op 5 december",
+    "op 1 september"
+   ],
+   "a": 0,
+   "fa": "روز اسباب‌کشی کِی بود؟"
+  },
+  {
+   "q": "Waarom kon de kast niet via de trap?",
+   "o": [
+    "de kast was te zwaar",
+    "de trap was te steil en te smal",
+    "de trap was kapot",
+    "er was geen tijd"
+   ],
+   "a": 1,
+   "fa": "چرا کمد از راه‌پله رد نمی‌شد؟"
+  },
+  {
+   "q": "Waarvoor gebruikten kooplieden vroeger de hijsbalk?",
+   "o": [
+    "om te vissen",
+    "als versiering",
+    "om hun goederen naar de zolder te hijsen",
+    "om vlaggen op te hangen"
+   ],
+   "a": 2,
+   "fa": "بازرگانان قدیم تیر بالابر را برای چه استفاده می‌کردند؟"
+  },
+  {
+   "q": "Wat bracht Emma?",
+   "o": [
+    "bloemen",
+    "taart",
+    "koffie",
+    "soep en broodjes"
+   ],
+   "a": 3,
+   "fa": "اِما چه آورد؟"
+  },
+  {
+   "q": "Binnen hoeveel dagen moet de gemeente je verhuizing weten?",
+   "o": [
+    "binnen een maand",
+    "binnen vijf dagen",
+    "binnen een jaar",
+    "binnen een dag"
+   ],
+   "a": 1,
+   "fa": "شهرداری ظرف چند روز باید از اسباب‌کشی‌ات خبردار شود؟"
+  },
+  {
+   "q": "Wat kon Sara vanaf het balkon bijna zien?",
+   "o": [
+    "het huis van Dani en Emma",
+    "de zee",
+    "het Vondelpark",
+    "de school van Mia"
+   ],
+   "a": 0,
+   "fa": "سارا از بالکن تقریباً چه چیزی را می‌توانست ببیند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "verhuisdag",
+   "art": "de",
+   "w": "de verhuisdag",
+   "ipa": "/vərˈɦœyzdɑx/",
+   "fa": "روز اسباب‌کشی",
+   "ex": "Op zondag 1 november was het zover: verhuisdag.",
+   "m": [
+    36,
+    46
+   ],
+   "book": 1
+  },
+  {
+   "id": "gevel",
+   "art": "de",
+   "w": "de gevel",
+   "ipa": "/ˈɣeːvəl/",
+   "fa": "نمای ساختمان",
+   "ex": "Boven in de gevel zit een balk.",
+   "m": [
+    12,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "hijsbalk",
+   "art": "de",
+   "w": "de hijsbalk",
+   "ipa": "/ˈɦɛizbɑlk/",
+   "fa": "تیر بالابر",
+   "ex": "Daar is de hijsbalk voor.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "hijsen",
+   "art": "",
+   "w": "hijsen",
+   "ipa": "/ˈɦɛisə(n)/",
+   "fa": "بالا کشیدن (با طناب)",
+   "ex": "Vroeger hesen kooplieden zo hun goederen naar de zolder.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "zolder",
+   "art": "de",
+   "w": "de zolder",
+   "ipa": "/ˈzɔldər/",
+   "fa": "زیرشیروانی",
+   "ex": "Vroeger hesen kooplieden zo hun goederen naar de zolder.",
+   "m": [
+    49,
+    55
+   ],
+   "book": 1
+  },
+  {
+   "id": "zweven",
+   "art": "",
+   "w": "zweven",
+   "ipa": "/ˈzʋeːvə(n)/",
+   "fa": "معلق بودن، شناور بودن در هوا",
+   "ex": "Alex hield bij elk meubel dat door de lucht zweefde zijn adem in.",
+   "m": [
+    44,
+    51
+   ],
+   "book": 1
+  },
+  {
+   "id": "schelen",
+   "art": "",
+   "w": "schelen",
+   "ipa": "/ˈsxeːlə(n)/",
+   "fa": "فرق داشتن، تفاوت کردن",
+   "ex": "Dat scheelde enorm.",
+   "m": [
+    4,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "adreswijziging",
+   "art": "de",
+   "w": "de adreswijziging",
+   "ipa": "/aːˈdrɛsʋɛizəɣɪŋ/",
+   "fa": "تغییر آدرس",
+   "ex": "Vergeet je adreswijziging niet.",
+   "m": [
+    11,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "doos",
+   "art": "de",
+   "w": "de doos",
+   "ipa": "/doːs/",
+   "fa": "جعبه، کارتن",
+   "ex": "'s Avonds zaten we tussen de dozen op de grond.",
+   "m": [
+    29,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "balkon",
+   "art": "het",
+   "w": "het balkon",
+   "ipa": "/bɑlˈkɔn/",
+   "fa": "بالکن",
+   "ex": "Vanaf ons balkon kon ik bijna het huis van Dani en Emma zien.",
+   "m": [
+    10,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "balk",
+   "art": "de",
+   "w": "de balk",
+   "ipa": "/bɑlk/",
+   "fa": "تیر (چوبی)",
+   "ex": "Hij wees naar de balk in de gevel.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "koopman",
+   "art": "de",
+   "w": "de koopman",
+   "ipa": "/ˈkoːpmɑn/",
+   "fa": "بازرگان، تاجر",
+   "ex": "Vroeger hesen kooplieden zo hun goederen naar de zolder.",
+   "m": [
+    14,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "touw",
+   "art": "het",
+   "w": "het touw",
+   "ipa": "/tɑu/",
+   "fa": "طناب",
+   "ex": "De kast ging aan een touw naar buiten.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "lucht",
+   "art": "de",
+   "w": "de lucht",
+   "ipa": "/lʏxt/",
+   "fa": "هوا، آسمان",
+   "ex": "Alex hield bij elk meubel dat door de lucht zweefde zijn adem in.",
+   "m": [
+    38,
+    43
+   ],
+   "book": 0
+  },
+  {
+   "id": "adres",
+   "art": "het",
+   "w": "het adres",
+   "ipa": "/aːˈdrɛs/",
+   "fa": "نشانی، آدرس",
+   "ex": "Daarna moesten ook de bank, de zorgverzekering, de school en de huisarts ons nieuwe adres krijgen.",
+   "m": [
+    84,
+    89
+   ],
+   "book": 0
+  },
+  {
+   "id": "beneden",
+   "art": "",
+   "w": "beneden",
+   "ipa": "/bəˈneːdə(n)/",
+   "fa": "پایین",
+   "ex": "We hesen de bank naar beneden.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "grachtenpand",
+   "art": "het",
+   "w": "het grachtenpand",
+   "ipa": "/ˈɣrɑxtə(n)pɑnt/",
+   "fa": "ساختمان کنار کانال",
+   "ex": "Bijna alle oude grachtenpanden hebben er een.",
+   "m": [
+    16,
+    30
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het regende natuurlijk.",
+   "fa": "البته باران می‌بارید.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Daar is de hijsbalk voor.",
+   "fa": "تیر بالابر برای همین است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "In het nieuwe huis is een lift.",
+   "fa": "در خانه‌ی جدید آسانسور هست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Vergeet je adreswijziging niet.",
+   "fa": "تغییر آدرست را فراموش نکن.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Een andere straat, maar dezelfde buren.",
+   "fa": "خیابانی دیگر، ولی همان همسایه‌ها.",
+   "alt": []
+  }
+ ]
+}

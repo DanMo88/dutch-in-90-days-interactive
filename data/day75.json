@@ -1,0 +1,427 @@
+{
+ "day": 75,
+ "level": "B1",
+ "title": "Huurtoeslag en zorgtoeslag",
+ "fa_title": "کمک‌هزینه‌ی اجاره و کمک‌هزینه‌ی بیمه",
+ "audio": "audio/day75.mp3",
+ "img": "img/day75.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op zondag kwam Fatima langs met een stapel papieren.",
+   "s": 6.47
+  },
+  {
+   "p": 0,
+   "t": "“Kun jij me helpen?",
+   "s": 11.72
+  },
+  {
+   "p": 0,
+   "t": "Ik snap er niets van.”",
+   "s": 14.07
+  },
+  {
+   "p": 0,
+   "t": "Ze woont in Nieuw-West en werkt sinds kort als onderwijsassistent.",
+   "s": 16.76
+  },
+  {
+   "p": 1,
+   "t": "“Misschien heb je recht op toeslagen,” zei ik.",
+   "s": 22.33
+  },
+  {
+   "p": 1,
+   "t": "“Dat is geld van de overheid voor mensen met een lager inkomen.",
+   "s": 26.66
+  },
+  {
+   "p": 1,
+   "t": "Huurtoeslag helpt je met de huur, zorgtoeslag met de premie van je zorgverzekering.”",
+   "s": 32.13
+  },
+  {
+   "p": 2,
+   "t": "Op de website van de Dienst Toeslagen deden we eerst een proefberekening.",
+   "s": 39.43
+  },
+  {
+   "p": 2,
+   "t": "Je vult je huur en je verwachte inkomen in, en dan zie je hoeveel je ongeveer krijgt.",
+   "s": 45.38
+  },
+  {
+   "p": 2,
+   "t": "Daarna logde ze in met haar DigiD en vulden we alles zorgvuldig in.",
+   "s": 52.54
+  },
+  {
+   "p": 3,
+   "t": "“Het moet precies, want het is een voorschot,” legde ik uit.",
+   "s": 58.68
+  },
+  {
+   "p": 3,
+   "t": "“Je krijgt het geld elke maand vooruit.",
+   "s": 64.49
+  },
+  {
+   "p": 3,
+   "t": "Na het jaar wordt gekeken wat je echt hebt verdiend.",
+   "s": 68.22
+  },
+  {
+   "p": 3,
+   "t": "Heb je meer verdiend dan je had opgegeven?",
+   "s": 72.58
+  },
+  {
+   "p": 3,
+   "t": "Dan moet je geld terugbetalen.”",
+   "s": 76.6
+  },
+  {
+   "p": 3,
+   "t": "Fatima keek bezorgd.",
+   "s": 79.94
+  },
+  {
+   "p": 3,
+   "t": "“Dat wil ik niet.”",
+   "s": 82.93
+  },
+  {
+   "p": 4,
+   "t": "“Daarom geef je een verandering altijd meteen door: een nieuwe baan, een hoger salaris, een verhuizing.”",
+   "s": 85.02
+  },
+  {
+   "p": 5,
+   "t": "Toen ze op 'verzenden' klikte, zuchtte ze opgelucht.",
+   "s": 93.93
+  },
+  {
+   "p": 5,
+   "t": "Voor onszelf deden we ook een proefberekening.",
+   "s": 99.04
+  },
+  {
+   "p": 5,
+   "t": "Wij krijgen niets, want samen verdienen we te veel.",
+   "s": 103.29
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarmee wilde Fatima hulp?",
+   "o": [
+    "met haar toeslagen",
+    "met haar fiets",
+    "met haar sollicitatie",
+    "met koken"
+   ],
+   "a": 0,
+   "fa": "فاطمه برای چه چیزی کمک می‌خواست؟"
+  },
+  {
+   "q": "Waar woont Fatima?",
+   "o": [
+    "in De Pijp",
+    "in Nieuw-West",
+    "in Den Bosch",
+    "in Utrecht"
+   ],
+   "a": 1,
+   "fa": "فاطمه کجا زندگی می‌کند؟"
+  },
+  {
+   "q": "Waarvoor is zorgtoeslag?",
+   "o": [
+    "voor de huur",
+    "voor de kinderopvang",
+    "voor de premie van je zorgverzekering",
+    "voor de tandarts"
+   ],
+   "a": 2,
+   "fa": "کمک‌هزینه‌ی بیمه (zorgtoeslag) برای چیست؟"
+  },
+  {
+   "q": "Wat laat een proefberekening zien?",
+   "o": [
+    "je examenuitslag",
+    "je huurcontract",
+    "je belasting van vorig jaar",
+    "hoeveel toeslag je ongeveer krijgt"
+   ],
+   "a": 3,
+   "fa": "محاسبه‌ی آزمایشی چه چیزی را نشان می‌دهد؟"
+  },
+  {
+   "q": "Wat gebeurt er als je meer hebt verdiend dan je had opgegeven?",
+   "o": [
+    "je moet geld terugbetalen",
+    "je krijgt een cadeau",
+    "er gebeurt niets",
+    "je krijgt meer toeslag"
+   ],
+   "a": 0,
+   "fa": "اگر بیشتر از آنچه اعلام کرده بودی درآمد داشته باشی، چه می‌شود؟"
+  },
+  {
+   "q": "Waarom krijgen Sara en Alex geen toeslag?",
+   "o": [
+    "ze hebben geen DigiD",
+    "ze verdienen samen te veel",
+    "ze wonen te kort in Nederland",
+    "ze zijn het vergeten"
+   ],
+   "a": 1,
+   "fa": "چرا سارا و الکس کمک‌هزینه نمی‌گیرند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "stapel",
+   "art": "de",
+   "w": "de stapel",
+   "ipa": "/ˈstaːpəl/",
+   "fa": "دسته، کُپه",
+   "ex": "Op zondag kwam Fatima langs met een stapel papieren.",
+   "m": [
+    36,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "snappen",
+   "art": "",
+   "w": "snappen",
+   "ipa": "/ˈsnɑpə(n)/",
+   "fa": "فهمیدن، سر در آوردن",
+   "ex": "Ik snap er niets van.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "premie",
+   "art": "de",
+   "w": "de premie",
+   "ipa": "/ˈpreːmi/",
+   "fa": "حق بیمه",
+   "ex": "Huurtoeslag helpt je met de huur, zorgtoeslag met de premie van je zorgverzekering.",
+   "m": [
+    53,
+    59
+   ],
+   "book": 1
+  },
+  {
+   "id": "proefberekening",
+   "art": "de",
+   "w": "de proefberekening",
+   "ipa": "/ˈprufbəreːkənɪŋ/",
+   "fa": "محاسبه‌ی آزمایشی",
+   "ex": "Voor onszelf deden we ook een proefberekening.",
+   "m": [
+    30,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "zorgvuldig",
+   "art": "",
+   "w": "zorgvuldig",
+   "ipa": "/zɔrxˈfʏldəx/",
+   "fa": "با دقت",
+   "ex": "Daarna logde ze in met haar DigiD en vulden we alles zorgvuldig in.",
+   "m": [
+    53,
+    63
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorschot",
+   "art": "het",
+   "w": "het voorschot",
+   "ipa": "/ˈvoːrsxɔt/",
+   "fa": "پیش‌پرداخت",
+   "ex": "Het moet precies, want het is een voorschot.",
+   "m": [
+    34,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "terugbetalen",
+   "art": "",
+   "w": "terugbetalen",
+   "ipa": "/təˈrʏɣbətaːlə(n)/",
+   "fa": "پس دادن (بازپرداخت)",
+   "ex": "Dan moet je geld terugbetalen.",
+   "m": [
+    17,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezorgd",
+   "art": "",
+   "w": "bezorgd",
+   "ipa": "/bəˈzɔrxt/",
+   "fa": "نگران",
+   "ex": "Fatima keek bezorgd.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "doorgeven",
+   "art": "",
+   "w": "doorgeven",
+   "ipa": "/ˈdoːrɣeːvə(n)/",
+   "fa": "اطلاع دادن",
+   "ex": "Geef een nieuwe baan altijd meteen door.",
+   "m": [
+    0,
+    4
+   ],
+   "book": 1
+  },
+  {
+   "id": "opgelucht",
+   "art": "",
+   "w": "opgelucht",
+   "ipa": "/ˈɔpxəlʏxt/",
+   "fa": "آسوده‌خاطر",
+   "ex": "Toen ze op 'verzenden' klikte, zuchtte ze opgelucht.",
+   "m": [
+    42,
+    51
+   ],
+   "book": 1
+  },
+  {
+   "id": "zondag",
+   "art": "",
+   "w": "zondag",
+   "ipa": "/ˈzɔnˌdɑx/",
+   "fa": "یکشنبه",
+   "ex": "Op zondag kwam Fatima langs met een stapel papieren.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "vooruit",
+   "art": "",
+   "w": "vooruit",
+   "ipa": "/voːˈrœyt/",
+   "fa": "از پیش، جلوتر",
+   "ex": "Je krijgt het geld elke maand vooruit.",
+   "m": [
+    30,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "verandering",
+   "art": "de",
+   "w": "de verandering",
+   "ipa": "/vərˈɑndərɪŋ/",
+   "fa": "تغییر",
+   "ex": "Daarom geef je een verandering altijd meteen door: een nieuwe baan, een hoger salaris, een verhuizing.",
+   "m": [
+    19,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "verhuizing",
+   "art": "de",
+   "w": "de verhuizing",
+   "ipa": "/vərˈɦœyzɪŋ/",
+   "fa": "اسباب‌کشی",
+   "ex": "Daarom geef je een verandering altijd meteen door: een nieuwe baan, een hoger salaris, een verhuizing.",
+   "m": [
+    91,
+    101
+   ],
+   "book": 0
+  },
+  {
+   "id": "verzenden",
+   "art": "",
+   "w": "verzenden",
+   "ipa": "/vərˈzɛndə(n)/",
+   "fa": "ارسال کردن",
+   "ex": "Fatima klikte op verzenden.",
+   "m": [
+    17,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "sinds-kort",
+   "art": "",
+   "w": "sinds kort",
+   "ipa": "/sɪns ˈkɔrt/",
+   "fa": "از چندی پیش، تازگی",
+   "ex": "Ze werkt sinds kort als onderwijsassistent.",
+   "m": [
+    9,
+    19
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Kun jij me helpen?",
+   "fa": "می‌توانی کمکم کنی؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik snap er niets van.",
+   "fa": "هیچ سر در نمی‌آورم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Het moet precies.",
+   "fa": "باید دقیق باشد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Je krijgt het geld elke maand vooruit.",
+   "fa": "پول را هر ماه از پیش می‌گیری.",
+   "alt": [
+    "Je krijgt elke maand het geld vooruit."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Wij krijgen niets.",
+   "fa": "ما چیزی نمی‌گیریم.",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "day": 77,
+ "level": "B1",
+ "title": "Water, dijken en polders",
+ "fa_title": "آب، سدها و پُلدرها",
+ "audio": "audio/day77.mp3",
+ "img": "img/day77.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een zondag in november nam Alex ons mee op een uitstapje.",
+   "s": 6.76
+  },
+  {
+   "p": 0,
+   "t": "“Ik wil jullie laten zien hoe dit land droog blijft.”",
+   "s": 12.38
+  },
+  {
+   "p": 1,
+   "t": "We reden met een huurauto naar de Afsluitdijk.",
+   "s": 16.68
+  },
+  {
+   "p": 1,
+   "t": "Die dijk is tweeëndertig kilometer lang, dwars door het water.",
+   "s": 21.05
+  },
+  {
+   "p": 1,
+   "t": "Aan de ene kant ligt de Waddenzee, aan de andere kant het IJsselmeer.",
+   "s": 26.74
+  },
+  {
+   "p": 1,
+   "t": "Vóór 1932 was het IJsselmeer een zee, de Zuiderzee, en waren er vaak overstromingen.",
+   "s": 32.66
+  },
+  {
+   "p": 2,
+   "t": "In het bezoekerscentrum leerden we veel meer.",
+   "s": 42.21
+  },
+  {
+   "p": 2,
+   "t": "Ongeveer een kwart van Nederland ligt onder de zeespiegel.",
+   "s": 46.16
+  },
+  {
+   "p": 2,
+   "t": "Zonder dijken, duinen en gemalen zou een groot deel van het land regelmatig onder water staan.",
+   "s": 51.23
+  },
+  {
+   "p": 3,
+   "t": "“Wat is het NAP?” vroeg Mia.",
+   "s": 59.27
+  },
+  {
+   "p": 3,
+   "t": "“Het Normaal Amsterdams Peil,” las Alex voor.",
+   "s": 64.04
+  },
+  {
+   "p": 3,
+   "t": "“Daarmee meten we hoe hoog of laag iets ligt.”",
+   "s": 68.96
+  },
+  {
+   "p": 3,
+   "t": "Schiphol ligt bijvoorbeeld ruim drie meter onder NAP.",
+   "s": 73.38
+  },
+  {
+   "p": 4,
+   "t": "Er was ook een film over 1953.",
+   "s": 78.54
+  },
+  {
+   "p": 4,
+   "t": "Tijdens een zware storm braken toen de dijken in Zeeland.",
+   "s": 83.52
+  },
+  {
+   "p": 4,
+   "t": "Meer dan achttienhonderd mensen verdronken.",
+   "s": 88.65
+  },
+  {
+   "p": 4,
+   "t": "Daarna werden de Deltawerken gebouwd: enorme dammen en keringen die het zuidwesten beschermen.",
+   "s": 92.62
+  },
+  {
+   "p": 5,
+   "t": "“Wie betaalt dat allemaal?” vroeg ik.",
+   "s": 100.68
+  },
+  {
+   "p": 5,
+   "t": "“Wij,” zei Alex.",
+   "s": 105.4
+  },
+  {
+   "p": 5,
+   "t": "“Iedereen betaalt belasting aan het waterschap.”",
+   "s": 108.49
+  },
+  {
+   "p": 6,
+   "t": "Mia keek naar de golven.",
+   "s": 112.57
+  },
+  {
+   "p": 6,
+   "t": "“Dus deze dijk houdt de zee tegen?”",
+   "s": 115.65
+  },
+  {
+   "p": 6,
+   "t": "“Ja,” zei Alex.",
+   "s": 119.26
+  },
+  {
+   "p": 6,
+   "t": "“Al bijna honderd jaar.”",
+   "s": 122.49
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar gingen ze naartoe?",
+   "o": [
+    "naar de Afsluitdijk",
+    "naar Zeeland",
+    "naar Texel",
+    "naar Rotterdam"
+   ],
+   "a": 0,
+   "fa": "کجا رفتند؟"
+  },
+  {
+   "q": "Hoe lang is de Afsluitdijk?",
+   "o": [
+    "twaalf kilometer",
+    "honderd kilometer",
+    "tweeëndertig kilometer",
+    "drie kilometer"
+   ],
+   "a": 2,
+   "fa": "«آفسلاوت‌دایک» چقدر طول دارد؟"
+  },
+  {
+   "q": "Wat was het IJsselmeer vroeger?",
+   "o": [
+    "een rivier",
+    "een polder",
+    "een bos",
+    "een zee, de Zuiderzee"
+   ],
+   "a": 3,
+   "fa": "«آیسل‌میر» قبلاً چه بود؟"
+  },
+  {
+   "q": "Hoeveel van Nederland ligt onder de zeespiegel?",
+   "o": [
+    "bijna niets",
+    "ongeveer een kwart",
+    "de helft",
+    "alles"
+   ],
+   "a": 1,
+   "fa": "چه مقدار از هلند زیر سطح دریاست؟"
+  },
+  {
+   "q": "Wat gebeurde er in 1953?",
+   "o": [
+    "de Afsluitdijk werd gebouwd",
+    "Amsterdam stond onder water",
+    "de dijken in Zeeland braken",
+    "er was een droogte"
+   ],
+   "a": 2,
+   "fa": "در سال ۱۹۵۳ چه اتفاقی افتاد؟"
+  },
+  {
+   "q": "Aan wie betaal je belasting voor het water?",
+   "o": [
+    "aan de gemeente",
+    "aan de koning",
+    "aan de buren",
+    "aan het waterschap"
+   ],
+   "a": 3,
+   "fa": "مالیات آب را به چه کسی می‌پردازی؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "uitstapje",
+   "art": "het",
+   "w": "het uitstapje",
+   "ipa": "/ˈœytstɑpjə/",
+   "fa": "گردش کوتاه",
+   "ex": "Op een zondag in november nam Alex ons mee op een uitstapje.",
+   "m": [
+    50,
+    59
+   ],
+   "book": 1
+  },
+  {
+   "id": "dijk",
+   "art": "de",
+   "w": "de dijk",
+   "ipa": "/dɛik/",
+   "fa": "سد ساحلی (دایک)",
+   "ex": "Dus deze dijk houdt de zee tegen?",
+   "m": [
+    9,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "overstroming",
+   "art": "de",
+   "w": "de overstroming",
+   "ipa": "/ˈoːvərstroːmɪŋ/",
+   "fa": "سیل",
+   "ex": "Vroeger waren er vaak overstromingen.",
+   "m": [
+    22,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "bezoekerscentrum",
+   "art": "het",
+   "w": "het bezoekerscentrum",
+   "ipa": "/bəˈzukərsɛntrʏm/",
+   "fa": "مرکز بازدیدکنندگان",
+   "ex": "In het bezoekerscentrum leerden we veel meer.",
+   "m": [
+    7,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "gemaal",
+   "art": "het",
+   "w": "het gemaal",
+   "ipa": "/ɣəˈmaːl/",
+   "fa": "ایستگاه پمپاژ",
+   "ex": "Een gemaal pompt het water weg.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "meten",
+   "art": "",
+   "w": "meten",
+   "ipa": "/ˈmeːtə(n)/",
+   "fa": "اندازه گرفتن",
+   "ex": "Daarmee meten we hoe hoog of laag iets ligt.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdrinken",
+   "art": "",
+   "w": "verdrinken",
+   "ipa": "/vərˈdrɪŋkə(n)/",
+   "fa": "غرق شدن",
+   "ex": "Meer dan achttienhonderd mensen verdronken.",
+   "m": [
+    32,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "beschermen",
+   "art": "",
+   "w": "beschermen",
+   "ipa": "/bəˈsxɛrmə(n)/",
+   "fa": "محافظت کردن",
+   "ex": "Daarna werden de Deltawerken gebouwd: enorme dammen en keringen die het zuidwesten beschermen.",
+   "m": [
+    83,
+    93
+   ],
+   "book": 1
+  },
+  {
+   "id": "waterschap",
+   "art": "het",
+   "w": "het waterschap",
+   "ipa": "/ˈʋaːtərsxɑp/",
+   "fa": "اداره‌ی آب منطقه‌ای",
+   "ex": "Iedereen betaalt belasting aan het waterschap.",
+   "m": [
+    35,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "golf",
+   "art": "de",
+   "w": "de golf",
+   "ipa": "/ɣɔlf/",
+   "fa": "موج",
+   "ex": "De golven sloegen tegen de dijk.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "huurauto",
+   "art": "de",
+   "w": "de huurauto",
+   "ipa": "/ˈɦyːrˌɑutoː/",
+   "fa": "ماشین کرایه‌ای",
+   "ex": "We reden met een huurauto naar de Afsluitdijk.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "film",
+   "art": "de",
+   "w": "de film",
+   "ipa": "/fɪlm/",
+   "fa": "فیلم",
+   "ex": "Er was ook een film over 1953.",
+   "m": [
+    15,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "storm",
+   "art": "de",
+   "w": "de storm",
+   "ipa": "/stɔrm/",
+   "fa": "طوفان",
+   "ex": "Tijdens een zware storm braken toen de dijken in Zeeland.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "dam",
+   "art": "de",
+   "w": "de dam",
+   "ipa": "/dɑm/",
+   "fa": "سد",
+   "ex": "Daarna werden de Deltawerken gebouwd: enorme dammen en keringen die het zuidwesten beschermen.",
+   "m": [
+    45,
+    51
+   ],
+   "book": 0
+  },
+  {
+   "id": "laag",
+   "art": "",
+   "w": "laag",
+   "ipa": "/laːx/",
+   "fa": "پایین، کم‌ارتفاع",
+   "ex": "Daarmee meten we hoe hoog of laag iets ligt.",
+   "m": [
+    29,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "tegenhouden",
+   "art": "",
+   "w": "tegenhouden",
+   "ipa": "/ˈteːɣə(n)ˌɦɑudə(n)/",
+   "fa": "جلوی چیزی را گرفتن",
+   "ex": "Een dijk moet de zee tegenhouden.",
+   "m": [
+    21,
+    32
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Die dijk is tweeëndertig kilometer lang.",
+   "fa": "آن سد سی‌ودو کیلومتر طول دارد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Wat is het NAP?",
+   "fa": "NAP چیست؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Iedereen betaalt belasting aan het waterschap.",
+   "fa": "همه به اداره‌ی آب مالیات می‌دهند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Dus deze dijk houdt de zee tegen?",
+   "fa": "پس این سد جلوی دریا را می‌گیرد؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Al bijna honderd jaar.",
+   "fa": "تقریباً صد سال است.",
+   "alt": []
+  }
+ ]
+}

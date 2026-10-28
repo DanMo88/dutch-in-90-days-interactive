@@ -1,0 +1,461 @@
+{
+ "day": 64,
+ "level": "B1",
+ "title": "Fietsen op Texel",
+ "fa_title": "دوچرخه‌سواری در تِسل",
+ "audio": "audio/day64.mp3",
+ "img": "img/day64.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Eind juli wilden we nog een paar dagen weg, maar niet te ver.",
+   "s": 5.57
+  },
+  {
+   "p": 0,
+   "t": "“Ga naar Texel,” zei Dani.",
+   "s": 9.4
+  },
+  {
+   "p": 0,
+   "t": "“Daar heb je zee, duinen, schapen en wind.",
+   "s": 12.29
+  },
+  {
+   "p": 0,
+   "t": "Vooral wind.”",
+   "s": 17.23
+  },
+  {
+   "p": 1,
+   "t": "We namen de trein naar Den Helder en daarna de veerboot.",
+   "s": 19.54
+  },
+  {
+   "p": 1,
+   "t": "De overtocht duurde maar twintig minuten.",
+   "s": 24.1
+  },
+  {
+   "p": 1,
+   "t": "Mia stond de hele tijd aan de reling om naar de meeuwen te kijken.",
+   "s": 28.15
+  },
+  {
+   "p": 2,
+   "t": "Op Texel huurden we fietsen.",
+   "s": 33.01
+  },
+  {
+   "p": 2,
+   "t": "Het begin ging heerlijk.",
+   "s": 36.06
+  },
+  {
+   "p": 2,
+   "t": "We vlogen bijna over het fietspad, langs weilanden vol schapen en dorpjes met witte kerkjes.",
+   "s": 39.13
+  },
+  {
+   "p": 2,
+   "t": "“Wat is fietsen hier makkelijk!” riep ik.",
+   "s": 46.84
+  },
+  {
+   "p": 3,
+   "t": "Na een uur begreep ik waarom: we hadden de wind mee gehad.",
+   "s": 52.2
+  },
+  {
+   "p": 3,
+   "t": "Toen we terug wilden, hadden we hem tegen.",
+   "s": 57.06
+  },
+  {
+   "p": 3,
+   "t": "Ik trapte zo hard als ik kon, maar het voelde alsof ik stilstond.",
+   "s": 61.17
+  },
+  {
+   "p": 3,
+   "t": "Een oude meneer op een elektrische fiets haalde ons met een glimlach in.",
+   "s": 66.65
+  },
+  {
+   "p": 4,
+   "t": "Halverwege stopten we bij Ecomare, een centrum voor de natuur van de Waddenzee.",
+   "s": 72.02
+  },
+  {
+   "p": 4,
+   "t": "Daar worden zieke en verzwakte zeehonden opgevangen.",
+   "s": 78.4
+  },
+  {
+   "p": 4,
+   "t": "We keken hoe ze vis kregen.",
+   "s": 82.95
+  },
+  {
+   "p": 4,
+   "t": "Mia vond één zeehondje zo schattig dat ze hem een naam gaf: Stip.",
+   "s": 86.29
+  },
+  {
+   "p": 5,
+   "t": "'s Avonds aten we vis aan de haven.",
+   "s": 92.18
+  },
+  {
+   "p": 5,
+   "t": "Mijn benen deden pijn, mijn haar zat vol zout en ik was nog nooit zo moe geweest.",
+   "s": 95.99
+  },
+  {
+   "p": 5,
+   "t": "“Nu ben je pas echt Nederlands,” zei Alex.",
+   "s": 102.29
+  },
+  {
+   "p": 5,
+   "t": "“Je hebt de tegenwind overleefd.”",
+   "s": 106.63
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom raadde Dani Texel aan?",
+   "o": [
+    "het is er warm",
+    "je hebt er zee, duinen, schapen en wind",
+    "het is goedkoop",
+    "er zijn veel winkels"
+   ],
+   "a": 1,
+   "fa": "چرا دانی تسل را پیشنهاد کرد؟"
+  },
+  {
+   "q": "Hoe lang duurde de overtocht?",
+   "o": [
+    "twintig minuten",
+    "een uur",
+    "tien minuten",
+    "twee uur"
+   ],
+   "a": 0,
+   "fa": "سفر با کشتی چقدر طول کشید؟"
+  },
+  {
+   "q": "Waarom ging het fietsen eerst zo makkelijk?",
+   "o": [
+    "de fietsen waren elektrisch",
+    "het ging bergaf",
+    "ze fietsten langzaam",
+    "ze hadden de wind mee"
+   ],
+   "a": 3,
+   "fa": "چرا دوچرخه‌سواری اول آن‌قدر آسان بود؟"
+  },
+  {
+   "q": "Wie haalde hen in?",
+   "o": [
+    "een kind",
+    "een bus",
+    "een oude meneer op een elektrische fiets",
+    "Dani"
+   ],
+   "a": 2,
+   "fa": "چه کسی از آن‌ها جلو زد؟"
+  },
+  {
+   "q": "Wat gebeurt er bij Ecomare?",
+   "o": [
+    "er worden fietsen verhuurd",
+    "zieke en verzwakte zeehonden worden opgevangen",
+    "er wordt vis verkocht",
+    "je kunt er zwemmen"
+   ],
+   "a": 1,
+   "fa": "در «اکومار» چه کاری انجام می‌شود؟"
+  },
+  {
+   "q": "Waar gaf Mia een naam aan?",
+   "o": [
+    "een schaap",
+    "een meeuw",
+    "haar fiets",
+    "een zeehondje"
+   ],
+   "a": 3,
+   "fa": "میا روی چه چیزی اسم گذاشت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "veerboot",
+   "art": "de",
+   "w": "de veerboot",
+   "ipa": "/ˈveːrboːt/",
+   "fa": "کشتی مسافربری (فِری)",
+   "ex": "We namen de trein naar Den Helder en daarna de veerboot.",
+   "m": [
+    47,
+    55
+   ],
+   "book": 1
+  },
+  {
+   "id": "overtocht",
+   "art": "de",
+   "w": "de overtocht",
+   "ipa": "/ˈoːvərtɔxt/",
+   "fa": "عبور (سفر کوتاه با کشتی)",
+   "ex": "De overtocht duurde maar twintig minuten.",
+   "m": [
+    3,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "reling",
+   "art": "de",
+   "w": "de reling",
+   "ipa": "/ˈreːlɪŋ/",
+   "fa": "نرده‌ی کشتی",
+   "ex": "Houd je goed vast aan de reling.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "meeuw",
+   "art": "de",
+   "w": "de meeuw",
+   "ipa": "/meːu/",
+   "fa": "مرغ دریایی",
+   "ex": "Een meeuw pakte mijn broodje.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "weiland",
+   "art": "het",
+   "w": "het weiland",
+   "ipa": "/ˈʋɛilɑnt/",
+   "fa": "چراگاه",
+   "ex": "In het weiland staan schapen.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "trappen",
+   "art": "",
+   "w": "trappen",
+   "ipa": "/ˈtrɑpə(n)/",
+   "fa": "رکاب زدن",
+   "ex": "Ik trapte zo hard als ik kon, maar het voelde alsof ik stilstond.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "inhalen",
+   "art": "",
+   "w": "inhalen",
+   "ipa": "/ˈɪnɦaːlə(n)/",
+   "fa": "سبقت گرفتن",
+   "ex": "Een oude meneer haalde ons in.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "zeehond",
+   "art": "de",
+   "w": "de zeehond",
+   "ipa": "/ˈzeːɦɔnt/",
+   "fa": "فوک (سگ آبی)",
+   "ex": "Daar worden zieke en verzwakte zeehonden opgevangen.",
+   "m": [
+    31,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "tegenwind",
+   "art": "de",
+   "w": "de tegenwind",
+   "ipa": "/ˈteːɣə(n)ʋɪnt/",
+   "fa": "باد مخالف",
+   "ex": "Je hebt de tegenwind overleefd.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "overleven",
+   "art": "",
+   "w": "overleven",
+   "ipa": "/oːvərˈleːvə(n)/",
+   "fa": "جان سالم به در بردن",
+   "ex": "Je hebt de tegenwind overleefd.",
+   "m": [
+    21,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "duin",
+   "art": "de",
+   "w": "de duin",
+   "ipa": "/dœyn/",
+   "fa": "تپه‌ی شنی",
+   "ex": "Daar heb je zee, duinen, schapen en wind.",
+   "m": [
+    17,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "schaap",
+   "art": "het",
+   "w": "het schaap",
+   "ipa": "/sxaːp/",
+   "fa": "گوسفند",
+   "ex": "Daar heb je zee, duinen, schapen en wind.",
+   "m": [
+    25,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "dorp",
+   "art": "het",
+   "w": "het dorp",
+   "ipa": "/dɔr(ə)p/",
+   "fa": "روستا",
+   "ex": "We fietsten door een klein dorp.",
+   "m": [
+    27,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "meneer",
+   "art": "de",
+   "w": "de meneer",
+   "ipa": "/məˈneːr/",
+   "fa": "آقا",
+   "ex": "Een oude meneer op een elektrische fiets haalde ons met een glimlach in.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "halverwege",
+   "art": "",
+   "w": "halverwege",
+   "ipa": "/ˌhɑlvərˈʋeːɣə/",
+   "fa": "نیمه‌ی راه",
+   "ex": "Halverwege stopten we bij Ecomare, een centrum voor de natuur van de Waddenzee.",
+   "m": [
+    0,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "natuur",
+   "art": "de",
+   "w": "de natuur",
+   "ipa": "/naːˈtyr/",
+   "fa": "طبیعت",
+   "ex": "Halverwege stopten we bij Ecomare, een centrum voor de natuur van de Waddenzee.",
+   "m": [
+    55,
+    61
+   ],
+   "book": 0
+  },
+  {
+   "id": "schattig",
+   "art": "",
+   "w": "schattig",
+   "ipa": "/ˈsxɑtəx/",
+   "fa": "بامزه، ناز",
+   "ex": "Mia vond één zeehondje zo schattig dat ze hem een naam gaf: Stip.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "ver",
+   "art": "",
+   "w": "ver",
+   "ipa": "/vɛr/",
+   "fa": "دور",
+   "ex": "Eind juli wilden we nog een paar dagen weg, maar niet te ver.",
+   "m": [
+    57,
+    60
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Daar heb je zee, duinen en schapen.",
+   "fa": "آنجا دریا، تپه‌های شنی و گوسفند داری.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De overtocht duurde twintig minuten.",
+   "fa": "عبور با کشتی بیست دقیقه طول کشید.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "We hadden de wind mee.",
+   "fa": "باد موافق داشتیم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik trapte zo hard als ik kon.",
+   "fa": "تا جایی که می‌توانستم محکم رکاب زدم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik was nog nooit zo moe geweest.",
+   "fa": "هیچ‌وقت این‌قدر خسته نشده بودم.",
+   "alt": []
+  }
+ ]
+}

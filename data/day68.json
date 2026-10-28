@@ -1,0 +1,486 @@
+{
+ "day": 68,
+ "level": "B1",
+ "title": "Direct of onbeleefd?",
+ "fa_title": "رُک یا بی‌ادب؟",
+ "audio": "audio/day68.mp3",
+ "img": "img/day68.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Na twee weken op de afdeling vond ik dat het goed ging.",
+   "s": 6.21
+  },
+  {
+   "p": 0,
+   "t": "Tot donderdag.",
+   "s": 10.68
+  },
+  {
+   "p": 1,
+   "t": "Ik had net een patiënt geholpen met douchen toen Mark me aansprak op de gang.",
+   "s": 13.01
+  },
+  {
+   "p": 1,
+   "t": "“Sara, even iets.",
+   "s": 18.18
+  },
+  {
+   "p": 1,
+   "t": "Je hebt het bed van meneer De Vries niet goed opgemaakt.",
+   "s": 21.2
+  },
+  {
+   "p": 1,
+   "t": "En je hebt niet gemeld dat hij weinig had gegeten.",
+   "s": 25.88
+  },
+  {
+   "p": 1,
+   "t": "Dat moet je altijd in het dossier zetten.”",
+   "s": 30.12
+  },
+  {
+   "p": 2,
+   "t": "Hij zei het rustig, maar heel direct, en er stonden twee collega's naast ons.",
+   "s": 33.77
+  },
+  {
+   "p": 2,
+   "t": "Ik voelde mijn wangen warm worden.",
+   "s": 40.29
+  },
+  {
+   "p": 2,
+   "t": "In Iran zou een collega zoiets nooit zo openlijk zeggen, maar later, onder vier ogen.",
+   "s": 43.65
+  },
+  {
+   "p": 3,
+   "t": "'s Avonds vertelde ik het aan Emma.",
+   "s": 50.95
+  },
+  {
+   "p": 3,
+   "t": "“Hij vindt me vast een slechte zorgassistent.”",
+   "s": 54.74
+  },
+  {
+   "p": 4,
+   "t": "Emma schudde haar hoofd.",
+   "s": 58.85
+  },
+  {
+   "p": 4,
+   "t": "“Juist niet.",
+   "s": 61.95
+  },
+  {
+   "p": 4,
+   "t": "Als een Nederlander niets zegt, dán heb je een probleem.",
+   "s": 64.12
+  },
+  {
+   "p": 4,
+   "t": "Mark is eerlijk omdat hij je serieus neemt.",
+   "s": 68.68
+  },
+  {
+   "p": 4,
+   "t": "Dat is feedback, het is niet persoonlijk bedoeld.”",
+   "s": 72.79
+  },
+  {
+   "p": 5,
+   "t": "De volgende ochtend kwam Mark naar me toe met twee koppen koffie.",
+   "s": 77.29
+  },
+  {
+   "p": 5,
+   "t": "“Gisteren was ik misschien wat kortaf.",
+   "s": 82.21
+  },
+  {
+   "p": 5,
+   "t": "Maar je doet het echt goed, hoor.",
+   "s": 85.9
+  },
+  {
+   "p": 5,
+   "t": "De patiënten zijn dol op je.”",
+   "s": 89.45
+  },
+  {
+   "p": 6,
+   "t": "Ik haalde diep adem.",
+   "s": 92.51
+  },
+  {
+   "p": 6,
+   "t": "“Mag ik dan ook iets eerlijks zeggen?",
+   "s": 95.35
+  },
+  {
+   "p": 6,
+   "t": "Geef me feedback liever niet waar anderen bij staan.”",
+   "s": 98.65
+  },
+  {
+   "p": 7,
+   "t": "Mark keek verbaasd en knikte toen.",
+   "s": 102.92
+  },
+  {
+   "p": 7,
+   "t": "“Terecht.",
+   "s": 106.63
+  },
+  {
+   "p": 7,
+   "t": "Goed dat je het zegt.”",
+   "s": 108.56
+  },
+  {
+   "p": 7,
+   "t": "Sindsdien zijn we eigenlijk best goede collega's.",
+   "s": 111.21
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer ging het mis?",
+   "o": [
+    "op donderdag",
+    "op maandag",
+    "op haar eerste dag",
+    "in het weekend"
+   ],
+   "a": 0,
+   "fa": "کار کِی خراب شد؟"
+  },
+  {
+   "q": "Wat had Sara niet gemeld?",
+   "o": [
+    "dat ze ziek was",
+    "dat de patiënt weinig had gegeten",
+    "dat ze te laat was",
+    "dat het bed kapot was"
+   ],
+   "a": 1,
+   "fa": "سارا چه چیزی را گزارش نکرده بود؟"
+  },
+  {
+   "q": "Waarom voelde Sara zich ongemakkelijk?",
+   "o": [
+    "Mark schreeuwde",
+    "Mark sprak Engels",
+    "er stonden twee collega's naast hen",
+    "Mark lachte haar uit"
+   ],
+   "a": 2,
+   "fa": "چرا سارا احساس ناراحتی کرد؟"
+  },
+  {
+   "q": "Wat zegt Emma over Nederlanders?",
+   "o": [
+    "ze zijn onbeleefd",
+    "als ze niets zeggen, heb je pas een probleem",
+    "ze geven nooit feedback",
+    "ze praten niet over werk"
+   ],
+   "a": 1,
+   "fa": "اِما درباره‌ی هلندی‌ها چه می‌گوید؟"
+  },
+  {
+   "q": "Wat nam Mark de volgende ochtend mee?",
+   "o": [
+    "bloemen",
+    "een taart",
+    "een brief",
+    "twee koppen koffie"
+   ],
+   "a": 3,
+   "fa": "مارک صبح روز بعد چه آورد؟"
+  },
+  {
+   "q": "Wat vroeg Sara aan Mark?",
+   "o": [
+    "om haar feedback niet te geven waar anderen bij staan",
+    "om meer salaris",
+    "om een andere afdeling",
+    "om een vrije dag"
+   ],
+   "a": 0,
+   "fa": "سارا از مارک چه خواست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "aanspreken",
+   "art": "",
+   "w": "aanspreken",
+   "ipa": "/ˈaːnspreːkə(n)/",
+   "fa": "تذکر دادن (به کسی)",
+   "ex": "Mark sprak me aan op de gang.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "opmaken",
+   "art": "",
+   "w": "opmaken",
+   "ipa": "/ˈɔpmaːkə(n)/",
+   "fa": "مرتب کردن (تخت)",
+   "ex": "Je hebt het bed van meneer De Vries niet goed opgemaakt.",
+   "m": [
+    46,
+    55
+   ],
+   "book": 1
+  },
+  {
+   "id": "melden",
+   "art": "",
+   "w": "melden",
+   "ipa": "/ˈmɛldə(n)/",
+   "fa": "گزارش دادن، اطلاع دادن",
+   "ex": "En je hebt niet gemeld dat hij weinig had gegeten.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "dossier",
+   "art": "het",
+   "w": "het dossier",
+   "ipa": "/dɔˈsjeː/",
+   "fa": "پرونده",
+   "ex": "Dat moet je altijd in het dossier zetten.",
+   "m": [
+    26,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "openlijk",
+   "art": "",
+   "w": "openlijk",
+   "ipa": "/ˈoːpə(n)lək/",
+   "fa": "آشکارا، جلوی جمع",
+   "ex": "Hij zei het heel openlijk.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "onder-vier-ogen",
+   "art": "",
+   "w": "onder vier ogen",
+   "ipa": "/ˈɔndər viːr ˈoːɣə(n)/",
+   "fa": "خصوصی، دونفره",
+   "ex": "Kunnen we dit onder vier ogen bespreken?",
+   "m": [
+    14,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "serieus-nemen",
+   "art": "",
+   "w": "serieus nemen",
+   "ipa": "/seːriˈjøːs ˈneːmə(n)/",
+   "fa": "جدی گرفتن",
+   "ex": "Mark neemt je serieus.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "kortaf",
+   "art": "",
+   "w": "kortaf",
+   "ipa": "/kɔrtˈɑf/",
+   "fa": "کوتاه و تند",
+   "ex": "Gisteren was ik misschien wat kortaf.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "dol-zijn-op",
+   "art": "",
+   "w": "dol zijn op",
+   "ipa": "/dɔl zɛin ɔp/",
+   "fa": "عاشقِ ... بودن",
+   "ex": "De patiënten zijn dol op haar.",
+   "m": [
+    13,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "terecht",
+   "art": "",
+   "w": "terecht",
+   "ipa": "/təˈrɛxt/",
+   "fa": "به‌جا، درست",
+   "ex": "Je hebt gelijk, dat is terecht.",
+   "m": [
+    23,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "direct",
+   "art": "",
+   "w": "direct",
+   "ipa": "/diˈrɛkt/",
+   "fa": "رُک، مستقیم",
+   "ex": "Hij zei het rustig, maar heel direct, en er stonden twee collega's naast ons.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "onbeleefd",
+   "art": "",
+   "w": "onbeleefd",
+   "ipa": "/ˌɔnbəˈleːft/",
+   "fa": "بی‌ادب",
+   "ex": "Dat is niet onbeleefd, maar direct.",
+   "m": [
+    12,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "douchen",
+   "art": "",
+   "w": "douchen",
+   "ipa": "/ˈduʃə(n)/",
+   "fa": "دوش گرفتن",
+   "ex": "Ik had net een patiënt geholpen met douchen toen Mark me aansprak op de gang.",
+   "m": [
+    36,
+    43
+   ],
+   "book": 0
+  },
+  {
+   "id": "wang",
+   "art": "de",
+   "w": "de wang",
+   "ipa": "/ʋɑŋ/",
+   "fa": "گونه",
+   "ex": "Ik voelde mijn wangen warm worden.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "feedback",
+   "art": "de",
+   "w": "de feedback",
+   "ipa": "/ˈfidbɛk/",
+   "fa": "بازخورد",
+   "ex": "Dat is feedback, het is niet persoonlijk bedoeld.",
+   "m": [
+    7,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "eigenlijk",
+   "art": "",
+   "w": "eigenlijk",
+   "ipa": "/ˈɛiɣə(n)lək/",
+   "fa": "در واقع",
+   "ex": "Sindsdien zijn we eigenlijk best goede collega's.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "slecht",
+   "art": "",
+   "w": "slecht",
+   "ipa": "/slɛxt/",
+   "fa": "بد",
+   "ex": "Hij vindt me vast een slechte zorgassistent.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "schudden",
+   "art": "",
+   "w": "schudden",
+   "ipa": "/ˈsxʏdə(n)/",
+   "fa": "تکان دادن",
+   "ex": "Emma schudde haar hoofd.",
+   "m": [
+    5,
+    12
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Hij zei het rustig, maar heel direct.",
+   "fa": "آرام گفت، ولی خیلی رُک.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Het is niet persoonlijk bedoeld.",
+   "fa": "منظورش شخصی نیست.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Je doet het echt goed.",
+   "fa": "واقعاً خوب کار می‌کنی.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik haalde diep adem.",
+   "fa": "نفس عمیقی کشیدم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Goed dat je het zegt.",
+   "fa": "خوب شد که گفتی.",
+   "alt": []
+  }
+ ]
+}

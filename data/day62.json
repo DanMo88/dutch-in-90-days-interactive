@@ -1,0 +1,440 @@
+{
+ "day": 62,
+ "level": "B1",
+ "title": "Op de camping in Frankrijk",
+ "fa_title": "در کمپینگ فرانسه",
+ "audio": "audio/day62.mp3",
+ "img": "img/day62.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In juli begon de zomervakantie, en half Nederland leek tegelijk naar het zuiden te rijden.",
+   "s": 5.95
+  },
+  {
+   "p": 0,
+   "t": "Dani en Emma gingen met hun caravan naar een camping in de Ardèche, in Frankrijk.",
+   "s": 12.92
+  },
+  {
+   "p": 0,
+   "t": "Wij gingen mee en huurden een tent op dezelfde camping.",
+   "s": 19.46
+  },
+  {
+   "p": 1,
+   "t": "Op de eerste ochtend moest ik lachen.",
+   "s": 24.15
+  },
+  {
+   "p": 1,
+   "t": "Naast de caravan van Dani stonden vijf andere caravans met een gele nummerplaat.",
+   "s": 27.65
+  },
+  {
+   "p": 1,
+   "t": "“Allemaal Nederlanders,” zei Dani trots.",
+   "s": 33.84
+  },
+  {
+   "p": 1,
+   "t": "“Wij zijn een kampeervolk.”",
+   "s": 38.07
+  },
+  {
+   "p": 2,
+   "t": "Ik zag wat Emma allemaal had meegenomen: hagelslag, pindakaas, drop en zelfs twaalf pakken Nederlandse koffie.",
+   "s": 41.21
+  },
+  {
+   "p": 2,
+   "t": "“De koffie hier is toch prima?” vroeg ik verbaasd.",
+   "s": 50.2
+  },
+  {
+   "p": 2,
+   "t": "“Maar niet zo lekker als thuis,” antwoordde Emma met een knipoog.",
+   "s": 56.21
+  },
+  {
+   "p": 3,
+   "t": "Overdag zwommen we in de rivier en wandelden we tussen de wijngaarden.",
+   "s": 61.18
+  },
+  {
+   "p": 3,
+   "t": "Noah, die nu vijf maanden oud is, sliep in een reisbedje onder de luifel.",
+   "s": 66.52
+  },
+  {
+   "p": 3,
+   "t": "Mia speelde de hele dag met Franse en Duitse kinderen.",
+   "s": 72.93
+  },
+  {
+   "p": 3,
+   "t": "Ze verstonden elkaar nauwelijks, maar dat maakte helemaal niet uit.",
+   "s": 78.12
+  },
+  {
+   "p": 4,
+   "t": "'s Avonds zaten de Nederlanders samen op klapstoeltjes voor hun caravans.",
+   "s": 83.68
+  },
+  {
+   "p": 4,
+   "t": "Iemand vertelde dat het in Nederland al een week regende.",
+   "s": 89.81
+  },
+  {
+   "p": 4,
+   "t": "Iedereen keek tevreden naar de ondergaande zon.",
+   "s": 94.34
+  },
+  {
+   "p": 5,
+   "t": "“Waarom ga je naar Frankrijk als je je eigen eten meeneemt?” vroeg ik aan Dani.",
+   "s": 98.63
+  },
+  {
+   "p": 5,
+   "t": "Hij dacht even na.",
+   "s": 106.13
+  },
+  {
+   "p": 5,
+   "t": "“Voor het weer,” zei hij.",
+   "s": 108.82
+  },
+  {
+   "p": 5,
+   "t": "“En voor het gevoel van vrijheid.”",
+   "s": 111.95
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar gingen Dani en Emma naartoe?",
+   "o": [
+    "naar Spanje",
+    "naar een camping in de Ardèche",
+    "naar Texel",
+    "naar Duitsland"
+   ],
+   "a": 1,
+   "fa": "دانی و اِما کجا رفتند؟"
+  },
+  {
+   "q": "Waar sliepen Sara, Alex en Mia?",
+   "o": [
+    "in een gehuurde tent",
+    "in een hotel",
+    "in de caravan van Dani",
+    "in de auto"
+   ],
+   "a": 0,
+   "fa": "سارا، الکس و میا کجا خوابیدند؟"
+  },
+  {
+   "q": "Hoe zag Sara dat de caravans Nederlands waren?",
+   "o": [
+    "aan de vlaggen",
+    "aan de taal",
+    "aan de fietsen",
+    "aan de gele nummerplaten"
+   ],
+   "a": 3,
+   "fa": "سارا از کجا فهمید که کاروان‌ها هلندی‌اند؟"
+  },
+  {
+   "q": "Wat had Emma meegenomen?",
+   "o": [
+    "een televisie",
+    "twaalf pakken koffie",
+    "een fiets",
+    "een hond"
+   ],
+   "a": 1,
+   "fa": "اما چه با خودش آورده بود؟"
+  },
+  {
+   "q": "Hoe ging het spelen van Mia met de andere kinderen?",
+   "o": [
+    "ze speelde liever alleen",
+    "ze spraken allemaal Engels",
+    "ze verstonden elkaar nauwelijks, maar dat maakte niet uit",
+    "ze spraken allemaal Frans"
+   ],
+   "a": 2,
+   "fa": "بازی میا با بچه‌های دیگر چطور بود؟"
+  },
+  {
+   "q": "Waarom gaat Dani naar Frankrijk?",
+   "o": [
+    "voor het eten",
+    "voor de wijn",
+    "voor zijn werk",
+    "voor het weer en het gevoel van vrijheid"
+   ],
+   "a": 3,
+   "fa": "چرا دانی به فرانسه می‌رود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "zomervakantie",
+   "art": "de",
+   "w": "de zomervakantie",
+   "ipa": "/ˈzoːmərvaːkɑnsi/",
+   "fa": "تعطیلات تابستان",
+   "ex": "In de zomervakantie zijn de scholen zes weken dicht.",
+   "m": [
+    6,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "caravan",
+   "art": "de",
+   "w": "de caravan",
+   "ipa": "/ˈkɛrəvɛn/",
+   "fa": "کاروان (خانه‌ی سیار)",
+   "ex": "'s Avonds zaten de Nederlanders samen op klapstoeltjes voor hun caravans.",
+   "m": [
+    64,
+    72
+   ],
+   "book": 1
+  },
+  {
+   "id": "tent",
+   "art": "de",
+   "w": "de tent",
+   "ipa": "/tɛnt/",
+   "fa": "چادر",
+   "ex": "Wij gingen mee en huurden een tent op dezelfde camping.",
+   "m": [
+    30,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "trots",
+   "art": "",
+   "w": "trots",
+   "ipa": "/trɔts/",
+   "fa": "مفتخر، با غرور",
+   "ex": "Dani was trots op zijn caravan.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "meenemen",
+   "art": "",
+   "w": "meenemen",
+   "ipa": "/ˈmeːneːmə(n)/",
+   "fa": "با خود بردن",
+   "ex": "Emma heeft veel eten meegenomen.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "verbaasd",
+   "art": "",
+   "w": "verbaasd",
+   "ipa": "/vərˈbaːst/",
+   "fa": "متعجب",
+   "ex": "Ik keek verbaasd naar de koffie.",
+   "m": [
+    8,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "wijngaard",
+   "art": "de",
+   "w": "de wijngaard",
+   "ipa": "/ˈʋɛiŋɣaːrt/",
+   "fa": "تاکستان",
+   "ex": "Overdag zwommen we in de rivier en wandelden we tussen de wijngaarden.",
+   "m": [
+    58,
+    69
+   ],
+   "book": 1
+  },
+  {
+   "id": "luifel",
+   "art": "de",
+   "w": "de luifel",
+   "ipa": "/ˈlœyfəl/",
+   "fa": "سایبان",
+   "ex": "Onder de luifel blijf je droog.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "nauwelijks",
+   "art": "",
+   "w": "nauwelijks",
+   "ipa": "/ˈnɑuʋələks/",
+   "fa": "به‌سختی، به‌زور",
+   "ex": "Ze verstonden elkaar nauwelijks, maar dat maakte helemaal niet uit.",
+   "m": [
+    21,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "tevreden",
+   "art": "",
+   "w": "tevreden",
+   "ipa": "/təˈvreːdə(n)/",
+   "fa": "راضی",
+   "ex": "Iedereen keek tevreden naar de ondergaande zon.",
+   "m": [
+    14,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "camping",
+   "art": "de",
+   "w": "de camping",
+   "ipa": "/ˈkɛmpɪŋ/",
+   "fa": "کمپینگ",
+   "ex": "Wij gingen mee en huurden een tent op dezelfde camping.",
+   "m": [
+    47,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "frankrijk",
+   "art": "",
+   "w": "Frankrijk",
+   "ipa": "/ˈfrɑŋkrɛik/",
+   "fa": "فرانسه",
+   "ex": "Waarom ga je naar Frankrijk als je je eigen eten meeneemt?",
+   "m": [
+    18,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "nummerplaat",
+   "art": "de",
+   "w": "de nummerplaat",
+   "ipa": "/ˈnʏmərˌplaːt/",
+   "fa": "پلاک خودرو",
+   "ex": "Naast de caravan van Dani stonden vijf andere caravans met een gele nummerplaat.",
+   "m": [
+    68,
+    79
+   ],
+   "book": 0
+  },
+  {
+   "id": "prima",
+   "art": "",
+   "w": "prima",
+   "ipa": "/ˈprimaː/",
+   "fa": "عالی، خوب",
+   "ex": "De koffie hier is toch prima?",
+   "m": [
+    23,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "overdag",
+   "art": "",
+   "w": "overdag",
+   "ipa": "/oːvərˈdɑx/",
+   "fa": "در طول روز",
+   "ex": "Overdag zwommen we in de rivier en wandelden we tussen de wijngaarden.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "reisbedje",
+   "art": "het",
+   "w": "het reisbedje",
+   "ipa": "/ˈrɛizbɛcə/",
+   "fa": "تخت سفری بچه",
+   "ex": "Noah, die nu vijf maanden oud is, sliep in een reisbedje onder de luifel.",
+   "m": [
+    47,
+    56
+   ],
+   "book": 0
+  },
+  {
+   "id": "duits",
+   "art": "",
+   "w": "Duits",
+   "ipa": "/dœyts/",
+   "fa": "آلمانی",
+   "ex": "Mia speelde de hele dag met Franse en Duitse kinderen.",
+   "m": [
+    38,
+    44
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wij zijn een kampeervolk.",
+   "fa": "ما ملتی اهل کمپینگ هستیم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De koffie hier is toch prima?",
+   "fa": "قهوه‌ی اینجا که خوب است؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Overdag zwommen we in de rivier.",
+   "fa": "در طول روز در رودخانه شنا می‌کردیم.",
+   "alt": [
+    "We zwommen overdag in de rivier."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Ze verstonden elkaar nauwelijks.",
+   "fa": "به‌سختی حرف همدیگر را می‌فهمیدند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Voor het gevoel van vrijheid.",
+   "fa": "برای حس آزادی.",
+   "alt": []
+  }
+ ]
+}

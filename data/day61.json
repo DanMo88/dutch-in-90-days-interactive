@@ -1,0 +1,443 @@
+{
+ "day": 61,
+ "level": "B1",
+ "title": "Het sollicitatiegesprek",
+ "fa_title": "مصاحبه‌ی شغلی",
+ "audio": "audio/day61.mp3",
+ "img": "img/day61.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Twee weken nadat ik mijn brief had verstuurd, ging mijn telefoon.",
+   "s": 5.82
+  },
+  {
+   "p": 0,
+   "t": "Het was het ziekenhuis: of ik dinsdag langs wilde komen voor een sollicitatiegesprek.",
+   "s": 11.44
+  },
+  {
+   "p": 1,
+   "t": "Fatima had me goed voorbereid.",
+   "s": 18.55
+  },
+  {
+   "p": 1,
+   "t": "“Kom op tijd, geef een stevige hand en kijk mensen recht aan,” zei ze.",
+   "s": 22.16
+  },
+  {
+   "p": 1,
+   "t": "“En wees eerlijk.",
+   "s": 28.91
+  },
+  {
+   "p": 1,
+   "t": "Nederlanders houden niet van mooie praatjes.”",
+   "s": 31.33
+  },
+  {
+   "p": 2,
+   "t": "Het gesprek was met twee mensen: Ingrid, de teamleider, en Mark, een verpleegkundige van de afdeling.",
+   "s": 35.63
+  },
+  {
+   "p": 3,
+   "t": "“Waarom wilt u bij ons werken?” vroeg Ingrid.",
+   "s": 45.16
+  },
+  {
+   "p": 3,
+   "t": "Ik vertelde dat ik in Iran tien jaar als verpleegkundige had gewerkt en dat ik de zorg enorm miste.",
+   "s": 50.73
+  },
+  {
+   "p": 4,
+   "t": "Toen kwam een vraag die ik niet had verwacht.",
+   "s": 58.77
+  },
+  {
+   "p": 4,
+   "t": "“Wat is uw grootste zwakte?” vroeg Mark.",
+   "s": 62.74
+  },
+  {
+   "p": 4,
+   "t": "Ik moest even nadenken.",
+   "s": 68.07
+  },
+  {
+   "p": 4,
+   "t": "“Mijn Nederlands is nog niet perfect.",
+   "s": 71.08
+  },
+  {
+   "p": 4,
+   "t": "Maar ik werk er elke dag aan, en als ik iets niet begrijp, vraag ik het.”",
+   "s": 74.88
+  },
+  {
+   "p": 4,
+   "t": "Mark knikte.",
+   "s": 81.27
+  },
+  {
+   "p": 4,
+   "t": "“Dat vind ik een goed antwoord.”",
+   "s": 83.57
+  },
+  {
+   "p": 5,
+   "t": "Aan het eind mocht ik zelf vragen stellen.",
+   "s": 86.6
+  },
+  {
+   "p": 5,
+   "t": "Ik vroeg naar de werktijden en naar de begeleiding van nieuwe collega's.",
+   "s": 90.43
+  },
+  {
+   "p": 5,
+   "t": "De eerste maand zou ik een vaste buddy krijgen, legde Ingrid uit.",
+   "s": 96.3
+  },
+  {
+   "p": 6,
+   "t": "“We laten het u binnen een week weten,” zei ze.",
+   "s": 102.54
+  },
+  {
+   "p": 6,
+   "t": "Buiten belde ik meteen Alex.",
+   "s": 106.82
+  },
+  {
+   "p": 6,
+   "t": "“Ik heb een goed gevoel!”",
+   "s": 110.32
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer werd Sara gebeld?",
+   "o": [
+    "een dag na haar brief",
+    "twee weken nadat ze haar brief had verstuurd",
+    "na een maand",
+    "op een zondag"
+   ],
+   "a": 1,
+   "fa": "کِی به سارا زنگ زدند؟"
+  },
+  {
+   "q": "Wat was een tip van Fatima?",
+   "o": [
+    "praat veel over jezelf",
+    "neem een cadeautje mee",
+    "wees eerlijk en kom op tijd",
+    "draag een pak"
+   ],
+   "a": 2,
+   "fa": "یکی از توصیه‌های فاطمه چه بود؟"
+  },
+  {
+   "q": "Wie is Ingrid?",
+   "o": [
+    "de teamleider",
+    "een patiënt",
+    "een verpleegkundige",
+    "de zus van Fatima"
+   ],
+   "a": 0,
+   "fa": "اینگرید کیست؟"
+  },
+  {
+   "q": "Welke vraag had Sara niet verwacht?",
+   "o": [
+    "waarom ze daar wilde werken",
+    "waar ze woont",
+    "hoe oud ze is",
+    "wat haar grootste zwakte is"
+   ],
+   "a": 3,
+   "fa": "سارا انتظار چه سؤالی را نداشت؟"
+  },
+  {
+   "q": "Wat krijgt een nieuwe collega de eerste maand?",
+   "o": [
+    "een auto",
+    "extra salaris",
+    "een vaste buddy",
+    "vrije dagen"
+   ],
+   "a": 2,
+   "fa": "همکار جدید در ماه اول چه می‌گیرد؟"
+  },
+  {
+   "q": "Hoe voelde Sara zich na het gesprek?",
+   "o": [
+    "ze had een goed gevoel",
+    "ze was teleurgesteld",
+    "ze was boos",
+    "ze was onzeker"
+   ],
+   "a": 0,
+   "fa": "حس سارا بعد از مصاحبه چه بود؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "sollicitatiegesprek",
+   "art": "het",
+   "w": "het sollicitatiegesprek",
+   "ipa": "/sɔliˈsitaː(t)siɣəsprɛk/",
+   "fa": "مصاحبه‌ی شغلی",
+   "ex": "Het was het ziekenhuis: of ik dinsdag langs wilde komen voor een sollicitatiegesprek.",
+   "m": [
+    65,
+    84
+   ],
+   "book": 1
+  },
+  {
+   "id": "voorbereiden",
+   "art": "",
+   "w": "voorbereiden",
+   "ipa": "/ˈvoːrbərɛidə(n)/",
+   "fa": "آماده کردن",
+   "ex": "Fatima had me goed voorbereid.",
+   "m": [
+    19,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "stevig",
+   "art": "",
+   "w": "stevig",
+   "ipa": "/ˈsteːvəx/",
+   "fa": "محکم",
+   "ex": "Kom op tijd, geef een stevige hand en kijk mensen recht aan.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "eerlijk",
+   "art": "",
+   "w": "eerlijk",
+   "ipa": "/ˈeːrlək/",
+   "fa": "صادق",
+   "ex": "En wees eerlijk.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "teamleider",
+   "art": "de",
+   "w": "de teamleider",
+   "ipa": "/ˈtiːmlɛidər/",
+   "fa": "سرپرست تیم",
+   "ex": "De teamleider maakt het rooster.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "afdeling",
+   "art": "de",
+   "w": "de afdeling",
+   "ipa": "/ˈɑvdeːlɪŋ/",
+   "fa": "بخش",
+   "ex": "Ik werk op de afdeling interne geneeskunde.",
+   "m": [
+    14,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwakte",
+   "art": "de",
+   "w": "de zwakte",
+   "ipa": "/ˈzʋɑktə/",
+   "fa": "نقطه‌ضعف",
+   "ex": "Wat is uw grootste zwakte?",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "verwachten",
+   "art": "",
+   "w": "verwachten",
+   "ipa": "/vərˈʋɑxtə(n)/",
+   "fa": "انتظار داشتن",
+   "ex": "Toen kwam een vraag die ik niet had verwacht.",
+   "m": [
+    36,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "begeleiding",
+   "art": "de",
+   "w": "de begeleiding",
+   "ipa": "/bəɣəˈlɛidɪŋ/",
+   "fa": "راهنمایی، همراهی",
+   "ex": "Ik vroeg naar de werktijden en naar de begeleiding van nieuwe collega's.",
+   "m": [
+    39,
+    50
+   ],
+   "book": 1
+  },
+  {
+   "id": "gevoel",
+   "art": "het",
+   "w": "het gevoel",
+   "ipa": "/ɣəˈvul/",
+   "fa": "احساس",
+   "ex": "Ik heb een goed gevoel!",
+   "m": [
+    16,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "versturen",
+   "art": "",
+   "w": "versturen",
+   "ipa": "/vərˈstyːrə(n)/",
+   "fa": "فرستادن، ارسال کردن",
+   "ex": "Twee weken nadat ik mijn brief had verstuurd, ging mijn telefoon.",
+   "m": [
+    35,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "op-tijd",
+   "art": "",
+   "w": "op tijd",
+   "ipa": "/ɔp ˈtɛit/",
+   "fa": "به‌موقع",
+   "ex": "Kom op tijd, geef een stevige hand en kijk mensen recht aan.",
+   "m": [
+    4,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "collega",
+   "art": "de",
+   "w": "de collega",
+   "ipa": "/ˌkɔˈleːɣaː/",
+   "fa": "همکار",
+   "ex": "Ik vroeg naar de werktijden en naar de begeleiding van nieuwe collega's.",
+   "m": [
+    62,
+    71
+   ],
+   "book": 0
+  },
+  {
+   "id": "werktijd",
+   "art": "de",
+   "w": "de werktijd",
+   "ipa": "/ˈʋɛrktɛit/",
+   "fa": "ساعت کاری",
+   "ex": "Ik vroeg naar de werktijden en naar de begeleiding van nieuwe collega's.",
+   "m": [
+    17,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "buddy",
+   "art": "de",
+   "w": "de buddy",
+   "ipa": "/ˈbʏdi/",
+   "fa": "همکار راهنما (همراه)",
+   "ex": "De eerste maand zou ik een vaste buddy krijgen, legde Ingrid uit.",
+   "m": [
+    33,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "knikken",
+   "art": "",
+   "w": "knikken",
+   "ipa": "/ˈknɪkə(n)/",
+   "fa": "سر تکان دادن",
+   "ex": "Mark knikte.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "iran",
+   "art": "",
+   "w": "Iran",
+   "ipa": "/iˈraːn/",
+   "fa": "ایران",
+   "ex": "In Iran werkte ik als verpleegkundige.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Kom op tijd.",
+   "fa": "به‌موقع بیا.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Waarom wilt u bij ons werken?",
+   "fa": "چرا می‌خواهید پیش ما کار کنید؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Mijn Nederlands is nog niet perfect.",
+   "fa": "هلندی‌ام هنوز کامل نیست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Dat vind ik een goed antwoord.",
+   "fa": "به نظرم جواب خوبی است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik heb een goed gevoel!",
+   "fa": "حس خوبی دارم!",
+   "alt": []
+  }
+ ]
+}

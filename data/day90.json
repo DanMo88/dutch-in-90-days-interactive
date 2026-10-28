@@ -1,0 +1,455 @@
+{
+ "day": 90,
+ "level": "B1",
+ "title": "Thuis in Nederland",
+ "fa_title": "در خانه، در هلند",
+ "audio": "audio/day90.mp3",
+ "img": "img/day90.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Oudejaarsavond.",
+   "s": 5.09
+  },
+  {
+   "p": 0,
+   "t": "Uit de keuken komt de geur van oliebollen.",
+   "s": 7.73
+  },
+  {
+   "p": 0,
+   "t": "Het is stiller dan vorig jaar: sinds deze zomer mogen gewone mensen geen vuurwerk meer afsteken, alleen nog sterretjes.",
+   "s": 11.54
+  },
+  {
+   "p": 0,
+   "t": "Zestien maanden geleden kwamen we in Amsterdam aan, met vier koffers en bijna geen woord Nederlands.",
+   "s": 20.57
+  },
+  {
+   "p": 0,
+   "t": "Ik schrijf een brief aan de Sara van die eerste dag.",
+   "s": 28.24
+  },
+  {
+   "p": 1,
+   "t": "Lieve Sara,",
+   "s": 32.67
+  },
+  {
+   "p": 2,
+   "t": "Je staat voor een smal huis aan de gracht en kijkt naar de steile trap.",
+   "s": 35.01
+  },
+  {
+   "p": 2,
+   "t": "Je bent moe en een beetje bang.",
+   "s": 40.37
+  },
+  {
+   "p": 2,
+   "t": "Maar het komt goed.",
+   "s": 43.79
+  },
+  {
+   "p": 3,
+   "t": "Je gaat fietsen in de regen en het niet eens meer merken.",
+   "s": 46.57
+  },
+  {
+   "p": 3,
+   "t": "Je gaat zelf de huisarts bellen en een huurcontract lezen.",
+   "s": 50.9
+  },
+  {
+   "p": 3,
+   "t": "Je gaat weer in de zorg werken en je slaagt voor je examen.",
+   "s": 55.54
+  },
+  {
+   "p": 4,
+   "t": "En je gaat vrienden maken.",
+   "s": 60.18
+  },
+  {
+   "p": 4,
+   "t": "Dani, die je elke traditie uitlegt.",
+   "s": 63.06
+  },
+  {
+   "p": 4,
+   "t": "Emma, die je haar keuken en haar geduld geeft.",
+   "s": 67.15
+  },
+  {
+   "p": 4,
+   "t": "Fatima, met wie je samen een nieuwe taal leert.",
+   "s": 71.45
+  },
+  {
+   "p": 4,
+   "t": "Oma Anna, met haar verhalen.",
+   "s": 76.24
+  },
+  {
+   "p": 4,
+   "t": "En Noah, die bijna zijn eerste stapjes zet.",
+   "s": 79.81
+  },
+  {
+   "p": 5,
+   "t": "Je zult Iran blijven missen.",
+   "s": 84.34
+  },
+  {
+   "p": 5,
+   "t": "Dat mag.",
+   "s": 87.49
+  },
+  {
+   "p": 5,
+   "t": "Je hart wordt er niet kleiner van, maar groter.",
+   "s": 89.4
+  },
+  {
+   "p": 6,
+   "t": "Om twaalf uur gaan we naar buiten.",
+   "s": 93.81
+  },
+  {
+   "p": 6,
+   "t": "Mia en Noah kijken naar de sterretjes.",
+   "s": 97.04
+  },
+  {
+   "p": 6,
+   "t": "Alex slaat een arm om me heen.",
+   "s": 101.12
+  },
+  {
+   "p": 6,
+   "t": "“Gelukkig nieuwjaar!”",
+   "s": 104.62
+  },
+  {
+   "p": 7,
+   "t": "Oost west, thuis best.",
+   "s": 107.26
+  },
+  {
+   "p": 7,
+   "t": "Ik ben thuis.",
+   "s": 110.54
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat ruikt Sara op oudejaarsavond?",
+   "o": [
+    "oliebollen",
+    "soep",
+    "vuurwerk",
+    "koffie"
+   ],
+   "a": 0,
+   "fa": "سارا در شب سال نو بوی چه چیزی را حس می‌کند؟"
+  },
+  {
+   "q": "Waarom is het stiller dan vorig jaar?",
+   "o": [
+    "iedereen is op vakantie",
+    "gewone mensen mogen geen vuurwerk meer afsteken",
+    "het regent",
+    "er is een storm"
+   ],
+   "a": 1,
+   "fa": "چرا امسال آرام‌تر از پارسال است؟"
+  },
+  {
+   "q": "Hoe lang geleden kwamen ze in Amsterdam aan?",
+   "o": [
+    "een jaar",
+    "twee jaar",
+    "zestien maanden",
+    "zes maanden"
+   ],
+   "a": 2,
+   "fa": "چند وقت پیش به آمستردام آمدند؟"
+  },
+  {
+   "q": "Aan wie schrijft Sara een brief?",
+   "o": [
+    "aan haar moeder in Iran",
+    "aan Dani",
+    "aan Mia",
+    "aan de Sara van de eerste dag"
+   ],
+   "a": 3,
+   "fa": "سارا به چه کسی نامه می‌نویسد؟"
+  },
+  {
+   "q": "Wat zegt Sara over Iran missen?",
+   "o": [
+    "dat mag, haar hart wordt groter",
+    "dat is verboden",
+    "dat doet ze niet meer",
+    "dat is een probleem"
+   ],
+   "a": 0,
+   "fa": "سارا درباره‌ی دلتنگی برای ایران چه می‌گوید؟"
+  },
+  {
+   "q": "Wat doen ze om twaalf uur?",
+   "o": [
+    "ze gaan slapen",
+    "ze gaan naar buiten",
+    "ze kijken tv",
+    "ze bellen Iran"
+   ],
+   "a": 1,
+   "fa": "ساعت دوازده چه کار می‌کنند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "geur",
+   "art": "de",
+   "w": "de geur",
+   "ipa": "/ɣøːr/",
+   "fa": "بو، رایحه",
+   "ex": "Uit de keuken komt de geur van oliebollen.",
+   "m": [
+    22,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "afsteken",
+   "art": "",
+   "w": "afsteken",
+   "ipa": "/ˈɑfsteːkə(n)/",
+   "fa": "آتش زدن (آتش‌بازی)",
+   "ex": "Je mag geen vuurwerk meer afsteken.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "sterretje",
+   "art": "het",
+   "w": "het sterretje",
+   "ipa": "/ˈstɛrəcə/",
+   "fa": "فشفشه",
+   "ex": "Mia en Noah kijken naar de sterretjes.",
+   "m": [
+    27,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "koffer",
+   "art": "de",
+   "w": "de koffer",
+   "ipa": "/ˈkɔfər/",
+   "fa": "چمدان",
+   "ex": "We kwamen met vier koffers.",
+   "m": [
+    19,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "merken",
+   "art": "",
+   "w": "merken",
+   "ipa": "/ˈmɛrkə(n)/",
+   "fa": "متوجه شدن",
+   "ex": "Je gaat het niet eens meer merken.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "traditie",
+   "art": "de",
+   "w": "de traditie",
+   "ipa": "/traːˈdi(t)si/",
+   "fa": "رسم، سنت",
+   "ex": "Dani, die je elke traditie uitlegt.",
+   "m": [
+    18,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "geduld",
+   "art": "het",
+   "w": "het geduld",
+   "ipa": "/ɣəˈdʏlt/",
+   "fa": "صبر، حوصله",
+   "ex": "Emma, die je haar keuken en haar geduld geeft.",
+   "m": [
+    33,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "stapje",
+   "art": "het",
+   "w": "het stapje",
+   "ipa": "/ˈstɑpjə/",
+   "fa": "قدم کوچک",
+   "ex": "En Noah, die bijna zijn eerste stapjes zet.",
+   "m": [
+    31,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "missen",
+   "art": "",
+   "w": "missen",
+   "ipa": "/ˈmɪsə(n)/",
+   "fa": "دلتنگ بودن",
+   "ex": "Je zult Iran blijven missen.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "gelukkig-nieuwjaar",
+   "art": "",
+   "w": "Gelukkig nieuwjaar!",
+   "ipa": "/ɣəˈlʏkəx niuˈjaːr/",
+   "fa": "سال نو مبارک!",
+   "ex": "Om twaalf uur roept iedereen: \"Gelukkig nieuwjaar!\"",
+   "m": [
+    31,
+    50
+   ],
+   "book": 1
+  },
+  {
+   "id": "zestien",
+   "art": "",
+   "w": "zestien",
+   "ipa": "/ˈzɛstin/",
+   "fa": "شانزده",
+   "ex": "Zestien maanden geleden kwamen we in Amsterdam aan, met vier koffers en bijna geen woord Nederlands.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "buiten",
+   "art": "",
+   "w": "buiten",
+   "ipa": "/ˈbœytə(n)/",
+   "fa": "بیرون",
+   "ex": "Om twaalf uur gaan we naar buiten.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "oost",
+   "art": "",
+   "w": "oost",
+   "ipa": "/oːst/",
+   "fa": "شرق",
+   "ex": "Oost west, thuis best.",
+   "m": [
+    0,
+    4
+   ],
+   "book": 0
+  },
+  {
+   "id": "west",
+   "art": "",
+   "w": "west",
+   "ipa": "/ʋɛst/",
+   "fa": "غرب",
+   "ex": "Oost west, thuis best.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "kijken",
+   "art": "",
+   "w": "kijken",
+   "ipa": "/ˈkɛikə(n)/",
+   "fa": "نگاه کردن",
+   "ex": "Mia en Noah kijken naar de sterretjes.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "zullen",
+   "art": "",
+   "w": "zullen",
+   "ipa": "/ˈzʏlə(n)/",
+   "fa": "خواهد (فعل کمکی آینده)",
+   "ex": "Je zult Iran blijven missen.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Je bent moe en een beetje bang.",
+   "fa": "خسته‌ای و کمی ترسیده.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Maar het komt goed.",
+   "fa": "ولی درست می‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Je gaat vrienden maken.",
+   "fa": "دوست پیدا خواهی کرد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Je hart wordt er niet kleiner van.",
+   "fa": "دلت از این کوچک‌تر نمی‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Oost west, thuis best.",
+   "fa": "هیچ جا خانه‌ی خود آدم نمی‌شود.",
+   "alt": []
+  }
+ ]
+}

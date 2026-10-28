@@ -1,0 +1,460 @@
+{
+ "day": 69,
+ "level": "B1",
+ "title": "Even in mijn agenda kijken",
+ "fa_title": "یک لحظه تقویمم را نگاه کنم",
+ "audio": "audio/day69.mp3",
+ "img": "img/day69.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Ik wilde mijn nieuwe collega Lotte en haar vriend bij ons thuis uitnodigen.",
+   "s": 6.26
+  },
+  {
+   "p": 0,
+   "t": "In Iran is het heel gewoon om iemand spontaan te bellen: “Kom vanavond eten!”",
+   "s": 12.44
+  },
+  {
+   "p": 0,
+   "t": "Er is altijd genoeg, en hoe meer gasten, hoe beter.",
+   "s": 19.18
+  },
+  {
+   "p": 1,
+   "t": "Dus vroeg ik in de pauze: “Hebben jullie zin om zaterdag bij ons te komen eten?”",
+   "s": 24.79
+  },
+  {
+   "p": 2,
+   "t": "Lotte pakte haar telefoon.",
+   "s": 31.73
+  },
+  {
+   "p": 2,
+   "t": "“Leuk!",
+   "s": 34.82
+  },
+  {
+   "p": 2,
+   "t": "Even in mijn agenda kijken...",
+   "s": 36.54
+  },
+  {
+   "p": 2,
+   "t": "Zaterdag kan niet, dan hebben we een verjaardag.",
+   "s": 39.91
+  },
+  {
+   "p": 2,
+   "t": "Volgende week ook niet.",
+   "s": 44.58
+  },
+  {
+   "p": 2,
+   "t": "Over drie weken, op vrijdag?",
+   "s": 47.41
+  },
+  {
+   "p": 2,
+   "t": "Dan heb ik nog een gaatje.”",
+   "s": 51.19
+  },
+  {
+   "p": 3,
+   "t": "Drie weken!",
+   "s": 53.98
+  },
+  {
+   "p": 3,
+   "t": "Ik moest erom lachen, maar Lotte meende het.",
+   "s": 56.23
+  },
+  {
+   "p": 3,
+   "t": "Ze stuurde me zelfs een Datumprikker: een linkje waarop je kunt aanklikken welke dagen je kunt.",
+   "s": 60.32
+  },
+  {
+   "p": 4,
+   "t": "“Heel normaal,” zei Dani later.",
+   "s": 67.77
+  },
+  {
+   "p": 4,
+   "t": "“Nederlanders plannen alles, ook met vrienden.",
+   "s": 71.54
+  },
+  {
+   "p": 4,
+   "t": "Als je iemand onverwacht uitnodigt, vinden mensen dat lief, maar vaak kunnen ze niet.",
+   "s": 76.05
+  },
+  {
+   "p": 4,
+   "t": "En nog een tip: we eten vroeg, rond zes uur.",
+   "s": 83.54
+  },
+  {
+   "p": 4,
+   "t": "Als je om acht uur pas begint, hebben je gasten al gegeten.”",
+   "s": 88.71
+  },
+  {
+   "p": 5,
+   "t": "Drie weken later stonden Lotte en haar vriend precies om zes uur voor de deur, met een bos bloemen.",
+   "s": 94.4
+  },
+  {
+   "p": 5,
+   "t": "Ik had Perzische rijst met saffraan gemaakt, met kip en een salade.",
+   "s": 102.44
+  },
+  {
+   "p": 5,
+   "t": "Ze bleven tot middernacht.",
+   "s": 108.55
+  },
+  {
+   "p": 6,
+   "t": "Bij de deur pakte Lotte haar telefoon.",
+   "s": 111.62
+  },
+  {
+   "p": 6,
+   "t": "“Volgende keer bij ons.",
+   "s": 115.46
+  },
+  {
+   "p": 6,
+   "t": "Wanneer kunnen jullie?”",
+   "s": 118.41
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wie wilde Sara uitnodigen?",
+   "o": [
+    "Mark en zijn vrouw",
+    "haar collega Lotte en haar vriend",
+    "Dani en Emma",
+    "Fatima"
+   ],
+   "a": 1,
+   "fa": "سارا می‌خواست چه کسانی را دعوت کند؟"
+  },
+  {
+   "q": "Waarom kon Lotte zaterdag niet?",
+   "o": [
+    "ze moest werken",
+    "ze was ziek",
+    "ze had een verjaardag",
+    "ze ging op vakantie"
+   ],
+   "a": 2,
+   "fa": "چرا لوته شنبه نمی‌توانست؟"
+  },
+  {
+   "q": "Wanneer had Lotte tijd?",
+   "o": [
+    "over drie weken",
+    "morgen",
+    "volgende week",
+    "over drie maanden"
+   ],
+   "a": 0,
+   "fa": "لوته کِی وقت داشت؟"
+  },
+  {
+   "q": "Wat is een Datumprikker?",
+   "o": [
+    "een kalender aan de muur",
+    "een app voor recepten",
+    "een cadeautje",
+    "een linkje waarop je aanklikt welke dagen je kunt"
+   ],
+   "a": 3,
+   "fa": "«داتوم‌پریکر» چیست؟"
+  },
+  {
+   "q": "Hoe laat eten veel Nederlanders?",
+   "o": [
+    "om acht uur",
+    "rond zes uur",
+    "om vijf uur",
+    "om negen uur"
+   ],
+   "a": 1,
+   "fa": "خیلی از هلندی‌ها ساعت چند شام می‌خورند؟"
+  },
+  {
+   "q": "Wat kookte Sara?",
+   "o": [
+    "stamppot",
+    "pizza",
+    "Perzische rijst met saffraan, kip en salade",
+    "soep"
+   ],
+   "a": 2,
+   "fa": "سارا چه پخت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "uitnodigen",
+   "art": "",
+   "w": "uitnodigen",
+   "ipa": "/ˈœytnoːdəɣə(n)/",
+   "fa": "دعوت کردن",
+   "ex": "Ik wilde mijn nieuwe collega Lotte en haar vriend bij ons thuis uitnodigen.",
+   "m": [
+    64,
+    74
+   ],
+   "book": 1
+  },
+  {
+   "id": "spontaan",
+   "art": "",
+   "w": "spontaan",
+   "ipa": "/spɔnˈtaːn/",
+   "fa": "یهویی، بی‌برنامه",
+   "ex": "In Iran is het heel gewoon om iemand spontaan te bellen.",
+   "m": [
+    37,
+    45
+   ],
+   "book": 1
+  },
+  {
+   "id": "agenda",
+   "art": "de",
+   "w": "de agenda",
+   "ipa": "/aːˈɣɛndaː/",
+   "fa": "تقویم، دفتر برنامه",
+   "ex": "Even in mijn agenda kijken...",
+   "m": [
+    13,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "gaatje",
+   "art": "het",
+   "w": "het gaatje",
+   "ipa": "/ˈɣaːcə/",
+   "fa": "وقت خالی",
+   "ex": "Dan heb ik nog een gaatje.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "menen",
+   "art": "",
+   "w": "menen",
+   "ipa": "/ˈmeːnə(n)/",
+   "fa": "جدی گفتن",
+   "ex": "Ze meende het echt.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanklikken",
+   "art": "",
+   "w": "aanklikken",
+   "ipa": "/ˈaːŋklɪkə(n)/",
+   "fa": "کلیک کردن",
+   "ex": "Klik de dagen aan waarop je kunt.",
+   "m": [
+    0,
+    4
+   ],
+   "book": 1
+  },
+  {
+   "id": "plannen",
+   "art": "",
+   "w": "plannen",
+   "ipa": "/ˈplɛnə(n)/",
+   "fa": "برنامه‌ریزی کردن",
+   "ex": "Nederlanders plannen alles, ook met vrienden.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "onverwacht",
+   "art": "",
+   "w": "onverwacht",
+   "ipa": "/ɔnvərˈʋɑxt/",
+   "fa": "غیرمنتظره",
+   "ex": "Er kwam onverwacht bezoek.",
+   "m": [
+    8,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "saffraan",
+   "art": "de",
+   "w": "de saffraan",
+   "ipa": "/sɑˈfraːn/",
+   "fa": "زعفران",
+   "ex": "Ik had Perzische rijst met saffraan gemaakt, met kip en een salade.",
+   "m": [
+    27,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "middernacht",
+   "art": "",
+   "w": "middernacht",
+   "ipa": "/ˈmɪdərnɑxt/",
+   "fa": "نیمه‌شب",
+   "ex": "Ze bleven tot middernacht.",
+   "m": [
+    14,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "gast",
+   "art": "de",
+   "w": "de gast",
+   "ipa": "/ɣɑst/",
+   "fa": "مهمان",
+   "ex": "Er is altijd genoeg, en hoe meer gasten, hoe beter.",
+   "m": [
+    33,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "perzisch",
+   "art": "",
+   "w": "Perzisch",
+   "ipa": "/pɛrˈzis/",
+   "fa": "ایرانی، فارسی",
+   "ex": "Ik maakte Perzisch eten voor mijn gasten.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "wanneer",
+   "art": "",
+   "w": "wanneer",
+   "ipa": "/ʋɑˈneːr/",
+   "fa": "کِی",
+   "ex": "Wanneer kunnen jullie?",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "salade",
+   "art": "de",
+   "w": "de salade",
+   "ipa": "/saːˈlaːdə/",
+   "fa": "سالاد",
+   "ex": "Ik had Perzische rijst met saffraan gemaakt, met kip en een salade.",
+   "m": [
+    60,
+    66
+   ],
+   "book": 0
+  },
+  {
+   "id": "zin",
+   "art": "de",
+   "w": "de zin",
+   "ipa": "/zɪn/",
+   "fa": "میل، حوصله (zin hebben)",
+   "ex": "Hebben jullie zin om te komen eten?",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "dus",
+   "art": "",
+   "w": "dus",
+   "ipa": "/dʏs/",
+   "fa": "پس، بنابراین",
+   "ex": "Dus vroeg ik het in de pauze.",
+   "m": [
+    0,
+    3
+   ],
+   "book": 0
+  },
+  {
+   "id": "zaterdag",
+   "art": "",
+   "w": "zaterdag",
+   "ipa": "/ˈzaːtərˌdɑx/",
+   "fa": "شنبه",
+   "ex": "Zaterdag kan niet, dan hebben we een verjaardag.",
+   "m": [
+    0,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Kom vanavond eten!",
+   "fa": "امشب برای شام بیا!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Zaterdag kan niet.",
+   "fa": "شنبه نمی‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Dan heb ik nog een gaatje.",
+   "fa": "آن موقع هنوز یک وقت خالی دارم.",
+   "alt": [
+    "Ik heb dan nog een gaatje."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Nederlanders plannen alles.",
+   "fa": "هلندی‌ها همه چیز را برنامه‌ریزی می‌کنند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Volgende keer bij ons.",
+   "fa": "دفعه‌ی بعد خانه‌ی ما.",
+   "alt": []
+  }
+ ]
+}

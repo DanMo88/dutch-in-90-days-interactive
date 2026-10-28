@@ -1,0 +1,412 @@
+{
+ "day": 84,
+ "level": "B1",
+ "title": "Een Sinterklaasgedicht schrijven",
+ "fa_title": "نوشتن شعر سینترکلاس",
+ "audio": "audio/day84.mp3",
+ "img": "img/day84.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Een week lang dacht ik alleen aan rijm.",
+   "s": 6.12
+  },
+  {
+   "p": 0,
+   "t": "Wat rijmt er op Dani?",
+   "s": 9.87
+  },
+  {
+   "p": 1,
+   "t": "Een Sinterklaasgedicht heeft een vaste vorm.",
+   "s": 12.71
+  },
+  {
+   "p": 1,
+   "t": "Het is geschreven alsof Sinterklaas het zelf heeft gemaakt, en de regels rijmen twee aan twee.",
+   "s": 16.84
+  },
+  {
+   "p": 1,
+   "t": "Je plaagt de ander met iets wat iedereen van hem weet.",
+   "s": 24.31
+  },
+  {
+   "p": 2,
+   "t": "Over Dani weet iedereen twee dingen: hij zit altijd op zijn fiets, ook als het stormt, en hij komt altijd te laat, omdat hij onderweg met iedereen een praatje maakt.",
+   "s": 28.56
+  },
+  {
+   "p": 3,
+   "t": "Ik schreef: “Sinterklaas zag Dani fietsen, door de regen en de wind. / Hij groet elke buurman, elke hond en elk kind.”",
+   "s": 39.31
+  },
+  {
+   "p": 4,
+   "t": "Niet slecht!",
+   "s": 50.57
+  },
+  {
+   "p": 4,
+   "t": "Maar daarna liep ik vast.",
+   "s": 52.81
+  },
+  {
+   "p": 4,
+   "t": "Ik ging naar Emma, die het geheim natuurlijk niet zou verraden.",
+   "s": 55.96
+  },
+  {
+   "p": 5,
+   "t": "“Rijm is niet het moeilijkste,” zei ze, terwijl Noah op haar knie zat.",
+   "s": 60.87
+  },
+  {
+   "p": 5,
+   "t": "“Het ritme is belangrijk.",
+   "s": 66.67
+  },
+  {
+   "p": 5,
+   "t": "Lees het hardop.”",
+   "s": 69.85
+  },
+  {
+   "p": 5,
+   "t": "Ze tikte de maat op tafel, en al snel hoorde ik waar mijn zinnen te lang waren.",
+   "s": 72.45
+  },
+  {
+   "p": 6,
+   "t": "Samen maakten we nog twee regels: “Hij komt altijd te laat, maar altijd met een lach, / want hij praat met de hele buurt, de hele dag.”",
+   "s": 78.54
+  },
+  {
+   "p": 7,
+   "t": "Na een avond schrappen en herschrijven had ik twaalf regels.",
+   "s": 88.32
+  },
+  {
+   "p": 7,
+   "t": "Ik las ze voor aan Alex.",
+   "s": 93.49
+  },
+  {
+   "p": 7,
+   "t": "Hij lachte zo hard dat Mia uit bed kwam.",
+   "s": 96.79
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar dacht Sara een week lang aan?",
+   "o": [
+    "aan haar werk",
+    "aan rijm",
+    "aan haar examen",
+    "aan vakantie"
+   ],
+   "a": 1,
+   "fa": "سارا یک هفته به چه فکر می‌کرد؟"
+  },
+  {
+   "q": "Hoe rijmen de regels van een Sinterklaasgedicht?",
+   "o": [
+    "twee aan twee",
+    "helemaal niet",
+    "drie aan drie",
+    "alleen de laatste regel"
+   ],
+   "a": 0,
+   "fa": "سطرهای شعر سینترکلاس چطور هم‌قافیه می‌شوند؟"
+  },
+  {
+   "q": "Wat weet iedereen van Dani?",
+   "o": [
+    "hij kookt goed",
+    "hij houdt van katten",
+    "hij fietst altijd en komt altijd te laat",
+    "hij zingt graag"
+   ],
+   "a": 2,
+   "fa": "همه درباره‌ی دانی چه می‌دانند؟"
+  },
+  {
+   "q": "Wat is volgens Emma belangrijk?",
+   "o": [
+    "lange zinnen",
+    "moeilijke woorden",
+    "een mooie kaart",
+    "het ritme"
+   ],
+   "a": 3,
+   "fa": "به گفته‌ی اِما چه چیزی مهم است؟"
+  },
+  {
+   "q": "Hoeveel regels had Sara na een avond?",
+   "o": [
+    "twaalf",
+    "twee",
+    "twintig",
+    "zes"
+   ],
+   "a": 0,
+   "fa": "سارا بعد از یک شب چند سطر داشت؟"
+  },
+  {
+   "q": "Waarom kwam Mia uit bed?",
+   "o": [
+    "ze had honger",
+    "Alex lachte zo hard",
+    "ze was ziek",
+    "Noah huilde"
+   ],
+   "a": 1,
+   "fa": "چرا میا از تخت بیرون آمد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "rijm",
+   "art": "het",
+   "w": "het rijm",
+   "ipa": "/rɛim/",
+   "fa": "قافیه",
+   "ex": "Een week lang dacht ik alleen aan rijm.",
+   "m": [
+    34,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "vorm",
+   "art": "de",
+   "w": "de vorm",
+   "ipa": "/vɔrm/",
+   "fa": "شکل، قالب",
+   "ex": "Een Sinterklaasgedicht heeft een vaste vorm.",
+   "m": [
+    39,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "regel",
+   "art": "de",
+   "w": "de regel",
+   "ipa": "/ˈreːɣəl/",
+   "fa": "سطر (شعر)؛ قانون",
+   "ex": "De regels rijmen twee aan twee.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "onderweg",
+   "art": "",
+   "w": "onderweg",
+   "ipa": "/ɔndərˈʋɛx/",
+   "fa": "در راه",
+   "ex": "Hij praat onderweg met iedereen.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "vastlopen",
+   "art": "",
+   "w": "vastlopen",
+   "ipa": "/ˈvɑstloːpə(n)/",
+   "fa": "گیر کردن",
+   "ex": "Na twee regels liep ik vast.",
+   "m": [
+    15,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "geheim",
+   "art": "het",
+   "w": "het geheim",
+   "ipa": "/ɣəˈɦɛim/",
+   "fa": "راز",
+   "ex": "Ik ging naar Emma, die het geheim natuurlijk niet zou verraden.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "verraden",
+   "art": "",
+   "w": "verraden",
+   "ipa": "/vəˈraːdə(n)/",
+   "fa": "لو دادن",
+   "ex": "Ik ging naar Emma, die het geheim natuurlijk niet zou verraden.",
+   "m": [
+    54,
+    62
+   ],
+   "book": 1
+  },
+  {
+   "id": "ritme",
+   "art": "het",
+   "w": "het ritme",
+   "ipa": "/ˈrɪtmə/",
+   "fa": "ریتم",
+   "ex": "Het ritme is belangrijk.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "hardop",
+   "art": "",
+   "w": "hardop",
+   "ipa": "/ɦɑrˈdɔp/",
+   "fa": "با صدای بلند",
+   "ex": "Lees het hardop.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "schrappen",
+   "art": "",
+   "w": "schrappen",
+   "ipa": "/ˈsxrɑpə(n)/",
+   "fa": "خط زدن، حذف کردن",
+   "ex": "Na een avond schrappen en herschrijven had ik twaalf regels.",
+   "m": [
+    13,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "groeten",
+   "art": "",
+   "w": "groeten",
+   "ipa": "/ˈɣrutə(n)/",
+   "fa": "سلام کردن، احوال‌پرسی کردن",
+   "ex": "Hij groet elke buurman.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "hard",
+   "art": "",
+   "w": "hard",
+   "ipa": "/ɦɑrt/",
+   "fa": "بلند؛ محکم",
+   "ex": "Hij lachte zo hard.",
+   "m": [
+    14,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "maat",
+   "art": "de",
+   "w": "de maat",
+   "ipa": "/maːt/",
+   "fa": "ضرب (ریتم)؛ اندازه",
+   "ex": "Ze tikte de maat op tafel.",
+   "m": [
+    12,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "herschrijven",
+   "art": "",
+   "w": "herschrijven",
+   "ipa": "/ɦɛrˈsxrɛivə(n)/",
+   "fa": "بازنویسی کردن",
+   "ex": "Na een avond herschrijven had ik twaalf regels.",
+   "m": [
+    13,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "praatje",
+   "art": "het",
+   "w": "het praatje",
+   "ipa": "/praːtjə/",
+   "fa": "گپ کوتاه",
+   "ex": "Hij maakt met iedereen een praatje.",
+   "m": [
+    27,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "terwijl",
+   "art": "",
+   "w": "terwijl",
+   "ipa": "/tɛrˈʋɛil/",
+   "fa": "در حالی که",
+   "ex": "Emma lachte, terwijl Noah op haar knie zat.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wat rijmt er op Dani?",
+   "fa": "چه چیزی با «دانی» هم‌قافیه است؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij komt altijd te laat.",
+   "fa": "او همیشه دیر می‌آید.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Lees het hardop.",
+   "fa": "بلند بخوانش.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Het ritme is belangrijk.",
+   "fa": "ریتم مهم است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik las ze voor aan Alex.",
+   "fa": "آن‌ها را برای الکس خواندم.",
+   "alt": [
+    "Ik las ze aan Alex voor."
+   ]
+  }
+ ]
+}

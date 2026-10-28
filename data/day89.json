@@ -1,0 +1,428 @@
+{
+ "day": 89,
+ "level": "B1",
+ "title": "Kerstpakket en kerstdiner",
+ "fa_title": "سبد هدیه‌ی کریسمس و شام کریسمس",
+ "audio": "audio/day89.mp3",
+ "img": "img/day89.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Een week voor kerst stond er op de afdeling een grote doos met mijn naam erop: mijn kerstpakket.",
+   "s": 6.02
+  },
+  {
+   "p": 0,
+   "t": "Veel Nederlandse werkgevers geven hun personeel aan het eind van het jaar zo'n pakket, als bedankje.",
+   "s": 13.88
+  },
+  {
+   "p": 0,
+   "t": "In het mijne zaten wijn, kaas, chocolade, een theedoek en een cadeaubon.",
+   "s": 21.88
+  },
+  {
+   "p": 1,
+   "t": "Dit jaar wilde ik zelf het kerstdiner koken.",
+   "s": 29.23
+  },
+  {
+   "p": 1,
+   "t": "Op tweede kerstdag nodigden we Dani, Emma, Noah en Oma Anna uit in ons nieuwe huis.",
+   "s": 33.52
+  },
+  {
+   "p": 1,
+   "t": "Vorig jaar hadden zij ons verwend met gourmetten.",
+   "s": 41.82
+  },
+  {
+   "p": 1,
+   "t": "Nu was het mijn beurt.",
+   "s": 46.29
+  },
+  {
+   "p": 2,
+   "t": "Ik maakte een Perzisch feestmaal: rijst met saffraan en een knapperige korst, die we tahdig noemen, kip met pruimen, een stoofpot met kruiden en een salade met granaatappel.",
+   "s": 48.99
+  },
+  {
+   "p": 2,
+   "t": "Oma Anna bracht oliebollen mee.",
+   "s": 63.08
+  },
+  {
+   "p": 2,
+   "t": "“Dat hoort er nu eenmaal bij.”",
+   "s": 66.66
+  },
+  {
+   "p": 3,
+   "t": "Toen ze de volle schalen zag, keek ze verbaasd.",
+   "s": 69.72
+  },
+  {
+   "p": 3,
+   "t": "“Kind, voor hoeveel mensen heb je gekookt?”",
+   "s": 74.29
+  },
+  {
+   "p": 3,
+   "t": "“In Iran zeggen we: als er niet te veel is, is er te weinig,” lachte ik.",
+   "s": 78.49
+  },
+  {
+   "p": 4,
+   "t": "Dani nam drie keer van de tahdig.",
+   "s": 85.33
+  },
+  {
+   "p": 4,
+   "t": "Emma wilde het recept van de stoofpot.",
+   "s": 88.94
+  },
+  {
+   "p": 4,
+   "t": "En Noah, die nu tien maanden is, trok zich op aan de rand van de tafel en stond daar, wankel maar trots, met een stukje oliebol in zijn hand.",
+   "s": 92.91
+  },
+  {
+   "p": 4,
+   "t": "“Hij staat!” riep Mia.",
+   "s": 104.85
+  },
+  {
+   "p": 5,
+   "t": "Na het eten dronken we Perzische thee met Hollandse oliebollen.",
+   "s": 109.08
+  },
+  {
+   "p": 5,
+   "t": "Het paste verrassend goed bij elkaar.",
+   "s": 114.54
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is een kerstpakket?",
+   "o": [
+    "een cadeau van de werkgever aan het personeel",
+    "een kerstboom",
+    "een kerstkaart",
+    "een pakje van Sinterklaas"
+   ],
+   "a": 0,
+   "fa": "سبد هدیه‌ی کریسمس چیست؟"
+  },
+  {
+   "q": "Wat zat er in Sara's kerstpakket?",
+   "o": [
+    "een fiets",
+    "wijn, kaas, chocolade, een theedoek en een cadeaubon",
+    "alleen geld",
+    "een boek"
+   ],
+   "a": 1,
+   "fa": "در سبد هدیه‌ی سارا چه بود؟"
+  },
+  {
+   "q": "Wanneer was het kerstdiner?",
+   "o": [
+    "op kerstavond",
+    "op eerste kerstdag",
+    "op tweede kerstdag",
+    "op oudejaarsavond"
+   ],
+   "a": 2,
+   "fa": "شام کریسمس کِی بود؟"
+  },
+  {
+   "q": "Wat is tahdig?",
+   "o": [
+    "een soep",
+    "een toetje",
+    "een soort thee",
+    "knapperige rijst met een korst"
+   ],
+   "a": 3,
+   "fa": "«ته‌دیگ» چیست؟"
+  },
+  {
+   "q": "Wat bracht Oma Anna mee?",
+   "o": [
+    "oliebollen",
+    "taart",
+    "wijn",
+    "bloemen"
+   ],
+   "a": 0,
+   "fa": "مادربزرگ آنا چه آورد؟"
+  },
+  {
+   "q": "Wat deed Noah?",
+   "o": [
+    "hij sliep de hele avond",
+    "hij trok zich op aan de tafel en stond",
+    "hij huilde",
+    "hij liep door de kamer"
+   ],
+   "a": 1,
+   "fa": "نوآ چه کرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "personeel",
+   "art": "het",
+   "w": "het personeel",
+   "ipa": "/pɛrsoːˈneːl/",
+   "fa": "کارکنان",
+   "ex": "Het personeel krijgt een kerstpakket.",
+   "m": [
+    4,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "bedankje",
+   "art": "het",
+   "w": "het bedankje",
+   "ipa": "/bəˈdɑŋkjə/",
+   "fa": "تشکر کوچک (هدیه‌ی تشکر)",
+   "ex": "Het pakket is een bedankje.",
+   "m": [
+    18,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "cadeaubon",
+   "art": "de",
+   "w": "de cadeaubon",
+   "ipa": "/kaːˈdoːbɔn/",
+   "fa": "کارت هدیه",
+   "ex": "In het mijne zaten wijn, kaas, chocolade, een theedoek en een cadeaubon.",
+   "m": [
+    62,
+    71
+   ],
+   "book": 1
+  },
+  {
+   "id": "verwennen",
+   "art": "",
+   "w": "verwennen",
+   "ipa": "/vərˈʋɛnə(n)/",
+   "fa": "لوس کردن، پذیرایی ویژه کردن",
+   "ex": "Vorig jaar hadden zij ons verwend met gourmetten.",
+   "m": [
+    26,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "korst",
+   "art": "de",
+   "w": "de korst",
+   "ipa": "/kɔrst/",
+   "fa": "پوسته؛ ته‌دیگ",
+   "ex": "De rijst heeft een knapperige korst.",
+   "m": [
+    30,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "pruim",
+   "art": "de",
+   "w": "de pruim",
+   "ipa": "/prœym/",
+   "fa": "آلو",
+   "ex": "Ik maak kip met pruimen.",
+   "m": [
+    16,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "stoofpot",
+   "art": "de",
+   "w": "de stoofpot",
+   "ipa": "/ˈstoːfpɔt/",
+   "fa": "خورش",
+   "ex": "Emma wilde het recept van de stoofpot.",
+   "m": [
+    29,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "granaatappel",
+   "art": "de",
+   "w": "de granaatappel",
+   "ipa": "/ɣraːˈnaːtɑpəl/",
+   "fa": "انار",
+   "ex": "Op de salade liggen stukjes granaatappel.",
+   "m": [
+    28,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "zich-optrekken",
+   "art": "",
+   "w": "zich optrekken",
+   "ipa": "/zɪx ˈɔptrɛkə(n)/",
+   "fa": "خود را بالا کشیدن",
+   "ex": "Noah trok zich op aan de tafel.",
+   "m": [
+    5,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "wankel",
+   "art": "",
+   "w": "wankel",
+   "ipa": "/ˈʋɑŋkəl/",
+   "fa": "لرزان، ناپایدار",
+   "ex": "Hij stond nog een beetje wankel.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "wijn",
+   "art": "de",
+   "w": "de wijn",
+   "ipa": "/ʋɛin/",
+   "fa": "شراب",
+   "ex": "In het mijne zaten wijn, kaas, chocolade, een theedoek en een cadeaubon.",
+   "m": [
+    19,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "theedoek",
+   "art": "de",
+   "w": "de theedoek",
+   "ipa": "/ˈteːduk/",
+   "fa": "دستمال آشپزخانه",
+   "ex": "In het mijne zaten wijn, kaas, chocolade, een theedoek en een cadeaubon.",
+   "m": [
+    46,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "kruid",
+   "art": "het",
+   "w": "het kruid",
+   "ipa": "/krœyt/",
+   "fa": "سبزی معطر، ادویه",
+   "ex": "Ik maakte een stoofpot met kruiden.",
+   "m": [
+    27,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "kerstdiner",
+   "art": "het",
+   "w": "het kerstdiner",
+   "ipa": "/ˈkɛrstdiˌneː/",
+   "fa": "شام کریسمس",
+   "ex": "Dit jaar wilde ik zelf het kerstdiner koken.",
+   "m": [
+    27,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "feestmaal",
+   "art": "het",
+   "w": "het feestmaal",
+   "ipa": "/ˈfeːstmaːl/",
+   "fa": "ضیافت",
+   "ex": "Ik maakte een Perzisch feestmaal.",
+   "m": [
+    23,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "knapperig",
+   "art": "",
+   "w": "knapperig",
+   "ipa": "/ˈknɑpərəx/",
+   "fa": "ترد",
+   "ex": "De korst is lekker knapperig.",
+   "m": [
+    19,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "verrassend",
+   "art": "",
+   "w": "verrassend",
+   "ipa": "/vəˈrɑsənt/",
+   "fa": "به‌طرز غافلگیرکننده",
+   "ex": "Het paste verrassend goed bij elkaar.",
+   "m": [
+    10,
+    20
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Nu was het mijn beurt.",
+   "fa": "حالا نوبت من بود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Dat hoort er nu eenmaal bij.",
+   "fa": "خب این هم جزوش است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Voor hoeveel mensen heb je gekookt?",
+   "fa": "برای چند نفر غذا پختی؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Dani nam drie keer van de tahdig.",
+   "fa": "دانی سه بار از ته‌دیگ برداشت.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Het paste verrassend goed bij elkaar.",
+   "fa": "به‌طرز غافلگیرکننده‌ای به هم می‌آمد.",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,470 @@
+{
+ "day": 88,
+ "level": "B1",
+ "title": "Uitslag: geslaagd!",
+ "fa_title": "نتیجه: قبول شدم!",
+ "audio": "audio/day88.mp3",
+ "img": "img/day88.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Eind november had ik mijn laatste examens gedaan: lezen, luisteren, schrijven en spreken, allemaal op B1-niveau.",
+   "s": 6.09
+  },
+  {
+   "p": 0,
+   "t": "Spreken was het moeilijkst.",
+   "s": 15.79
+  },
+  {
+   "p": 0,
+   "t": "Je praat in een microfoon tegen een computer, en je hebt maar een paar seconden om na te denken.",
+   "s": 19.04
+  },
+  {
+   "p": 1,
+   "t": "Daarna begon het wachten.",
+   "s": 25.59
+  },
+  {
+   "p": 1,
+   "t": "Elke ochtend keek ik op de website van DUO.",
+   "s": 28.62
+  },
+  {
+   "p": 1,
+   "t": "Niets.",
+   "s": 32.73
+  },
+  {
+   "p": 1,
+   "t": "Op een dinsdag, net thuis van mijn dienst, zag ik het: nieuwe berichten.",
+   "s": 34.56
+  },
+  {
+   "p": 1,
+   "t": "Mijn handen trilden toen ik inlogde.",
+   "s": 40.59
+  },
+  {
+   "p": 1,
+   "t": "KNM: geslaagd.",
+   "s": 44.31
+  },
+  {
+   "p": 1,
+   "t": "Lezen: geslaagd.",
+   "s": 47.52
+  },
+  {
+   "p": 1,
+   "t": "Luisteren: geslaagd.",
+   "s": 50.59
+  },
+  {
+   "p": 1,
+   "t": "Schrijven: geslaagd.",
+   "s": 53.74
+  },
+  {
+   "p": 1,
+   "t": "Spreken: geslaagd.",
+   "s": 57.01
+  },
+  {
+   "p": 2,
+   "t": "Ik las het drie keer.",
+   "s": 60.23
+  },
+  {
+   "p": 2,
+   "t": "Toen gilde ik zo hard dat Lucy, die bij ons logeerde, onder de bank vloog.",
+   "s": 62.99
+  },
+  {
+   "p": 2,
+   "t": "Alex kwam uit zijn werkkamer rennen.",
+   "s": 69.21
+  },
+  {
+   "p": 2,
+   "t": "Ik kon niets zeggen en wees alleen naar het scherm.",
+   "s": 72.88
+  },
+  {
+   "p": 2,
+   "t": "Hij tilde me op en draaide me rond.",
+   "s": 77.07
+  },
+  {
+   "p": 3,
+   "t": "Als alle onderdelen zijn afgerond, krijg ik mijn inburgeringsdiploma.",
+   "s": 80.81
+  },
+  {
+   "p": 3,
+   "t": "En later kan ik, als ik dat wil, ook Nederlander worden.",
+   "s": 86.68
+  },
+  {
+   "p": 4,
+   "t": "In Nederland trakteer je als er iets te vieren valt.",
+   "s": 91.45
+  },
+  {
+   "p": 4,
+   "t": "Dus de volgende dag nam ik twee grote taarten mee naar de afdeling.",
+   "s": 95.9
+  },
+  {
+   "p": 4,
+   "t": "Mark had een slinger opgehangen.",
+   "s": 101.37
+  },
+  {
+   "p": 5,
+   "t": "Ook Mia trakteerde op school, met zelfgebakken koekjes.",
+   "s": 104.57
+  },
+  {
+   "p": 5,
+   "t": "“Mijn moeder is nu officieel Nederlands,” vertelde ze aan haar klas.",
+   "s": 109.79
+  },
+  {
+   "p": 5,
+   "t": "Dat klopt niet helemaal.",
+   "s": 115.31
+  },
+  {
+   "p": 5,
+   "t": "Maar zo voelde het wel.",
+   "s": 118.21
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welk examen vond Sara het moeilijkst?",
+   "o": [
+    "lezen",
+    "luisteren",
+    "schrijven",
+    "spreken"
+   ],
+   "a": 3,
+   "fa": "سارا کدام امتحان را از همه سخت‌تر دانست؟"
+  },
+  {
+   "q": "Waar keek Sara elke ochtend?",
+   "o": [
+    "in de brievenbus",
+    "op de website van DUO",
+    "in de krant",
+    "op school"
+   ],
+   "a": 1,
+   "fa": "سارا هر صبح کجا را نگاه می‌کرد؟"
+  },
+  {
+   "q": "Wat deed Lucy toen Sara gilde?",
+   "o": [
+    "ze vloog onder de bank",
+    "ze miauwde hard",
+    "ze sprong op tafel",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "وقتی سارا جیغ زد، لوسی چه کرد؟"
+  },
+  {
+   "q": "Wat deed Alex?",
+   "o": [
+    "hij belde Dani",
+    "hij huilde",
+    "hij tilde Sara op en draaide haar rond",
+    "hij ging slapen"
+   ],
+   "a": 2,
+   "fa": "الکس چه کرد؟"
+  },
+  {
+   "q": "Wat nam Sara mee naar de afdeling?",
+   "o": [
+    "bloemen",
+    "drop",
+    "koekjes",
+    "twee grote taarten"
+   ],
+   "a": 3,
+   "fa": "سارا چه چیزی به بخش برد؟"
+  },
+  {
+   "q": "Wat zei Mia tegen haar klas?",
+   "o": [
+    "'Mijn moeder is nu officieel Nederlands'",
+    "'Mijn moeder is juf'",
+    "'We gaan verhuizen'",
+    "'Mijn moeder is ziek'"
+   ],
+   "a": 0,
+   "fa": "میا به همکلاسی‌هایش چه گفت؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "niveau",
+   "art": "het",
+   "w": "het niveau",
+   "ipa": "/niˈvoː/",
+   "fa": "سطح",
+   "ex": "Ik heb het examen op B1-niveau gedaan.",
+   "m": [
+    24,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "microfoon",
+   "art": "de",
+   "w": "de microfoon",
+   "ipa": "/mikroːˈfoːn/",
+   "fa": "میکروفون",
+   "ex": "Je praat in een microfoon.",
+   "m": [
+    16,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "slagen",
+   "art": "",
+   "w": "slagen",
+   "ipa": "/ˈslaːɣə(n)/",
+   "fa": "قبول شدن",
+   "ex": "Ik ben voor alle examens geslaagd!",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "gillen",
+   "art": "",
+   "w": "gillen",
+   "ipa": "/ˈɣɪlə(n)/",
+   "fa": "جیغ زدن",
+   "ex": "Ik gilde van blijdschap.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "optillen",
+   "art": "",
+   "w": "optillen",
+   "ipa": "/ˈɔptɪlə(n)/",
+   "fa": "بلند کردن",
+   "ex": "Alex tilde me op.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "onderdeel",
+   "art": "het",
+   "w": "het onderdeel",
+   "ipa": "/ˈɔndərdeːl/",
+   "fa": "بخش، جزء",
+   "ex": "Als alle onderdelen zijn afgerond, krijg ik mijn inburgeringsdiploma.",
+   "m": [
+    9,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "afronden",
+   "art": "",
+   "w": "afronden",
+   "ipa": "/ˈɑfrɔndə(n)/",
+   "fa": "تمام کردن",
+   "ex": "Als alle onderdelen zijn afgerond, krijg ik mijn inburgeringsdiploma.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "trakteren",
+   "art": "",
+   "w": "trakteren",
+   "ipa": "/trɑkˈteːrə(n)/",
+   "fa": "شیرینی دادن، مهمان کردن",
+   "ex": "Ook Mia trakteerde op school, met zelfgebakken koekjes.",
+   "m": [
+    8,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "slinger",
+   "art": "de",
+   "w": "de slinger",
+   "ipa": "/ˈslɪŋər/",
+   "fa": "ریسه (تزئینی)",
+   "ex": "Mark had een slinger opgehangen.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "officieel",
+   "art": "",
+   "w": "officieel",
+   "ipa": "/ɔfiˈʃeːl/",
+   "fa": "رسمی، رسماً",
+   "ex": "Mijn moeder is nu officieel Nederlands.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "seconde",
+   "art": "de",
+   "w": "de seconde",
+   "ipa": "/ˌsəˈkɔndə/",
+   "fa": "ثانیه",
+   "ex": "Je hebt maar een paar seconden om na te denken.",
+   "m": [
+    22,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "scherm",
+   "art": "het",
+   "w": "het scherm",
+   "ipa": "/sxɛrm/",
+   "fa": "صفحه‌ی نمایش",
+   "ex": "Ik kon niets zeggen en wees alleen naar het scherm.",
+   "m": [
+    44,
+    50
+   ],
+   "book": 0
+  },
+  {
+   "id": "logeren",
+   "art": "",
+   "w": "logeren",
+   "ipa": "/loːˈʒeːrə(n)/",
+   "fa": "مهمان ماندن (شب ماندن)",
+   "ex": "Toen gilde ik zo hard dat Lucy, die bij ons logeerde, onder de bank vloog.",
+   "m": [
+    44,
+    52
+   ],
+   "book": 0
+  },
+  {
+   "id": "werkkamer",
+   "art": "de",
+   "w": "de werkkamer",
+   "ipa": "/ˈʋɛrkˌkaːmər/",
+   "fa": "اتاق کار",
+   "ex": "Alex kwam uit zijn werkkamer rennen.",
+   "m": [
+    19,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "nederlander",
+   "art": "de",
+   "w": "de Nederlander",
+   "ipa": "/ˈneːdərˌlɑndər/",
+   "fa": "هلندی (شهروند هلند)",
+   "ex": "En later kan ik, als ik dat wil, ook Nederlander worden.",
+   "m": [
+    37,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "zelfgebakken",
+   "art": "",
+   "w": "zelfgebakken",
+   "ipa": "/ˈzɛlfxəˌbɑkə(n)/",
+   "fa": "خانگی‌پز",
+   "ex": "Ook Mia trakteerde op school, met zelfgebakken koekjes.",
+   "m": [
+    34,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "inburgeringsdiploma",
+   "art": "het",
+   "w": "het inburgeringsdiploma",
+   "ipa": "/ˈɪnbʏrɣərɪŋzdiˌploːmaː/",
+   "fa": "مدرک دوره‌ی ادغام",
+   "ex": "Als alle onderdelen zijn afgerond, krijg ik mijn inburgeringsdiploma.",
+   "m": [
+    49,
+    68
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Spreken was het moeilijkst.",
+   "fa": "صحبت کردن از همه سخت‌تر بود.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Elke ochtend keek ik op de website van DUO.",
+   "fa": "هر صبح سایت DUO را نگاه می‌کردم.",
+   "alt": [
+    "Ik keek elke ochtend op de website van DUO."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Ik las het drie keer.",
+   "fa": "سه بار خواندمش.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Hij tilde me op.",
+   "fa": "مرا بلند کرد.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Mijn moeder is nu officieel Nederlands.",
+   "fa": "مادرم حالا رسماً هلندی است.",
+   "alt": []
+  }
+ ]
+}

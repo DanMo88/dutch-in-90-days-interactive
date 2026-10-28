@@ -1,0 +1,450 @@
+{
+ "day": 67,
+ "level": "B1",
+ "title": "Mijn eerste werkdag",
+ "fa_title": "اولین روز کاری من",
+ "audio": "audio/day67.mp3",
+ "img": "img/day67.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Om kwart over zeven fietste ik door de stille stad naar het ziekenhuis.",
+   "s": 5.77
+  },
+  {
+   "p": 0,
+   "t": "In mijn tas zaten een boterham, een appel en een nieuw notitieboekje.",
+   "s": 11.51
+  },
+  {
+   "p": 1,
+   "t": "Bij de afdeling stond Mark al te wachten.",
+   "s": 17.65
+  },
+  {
+   "p": 1,
+   "t": "Hij was mijn buddy.",
+   "s": 21.85
+  },
+  {
+   "p": 1,
+   "t": "“Welkom!",
+   "s": 24.15
+  },
+  {
+   "p": 1,
+   "t": "Zeg maar gewoon Mark, hoor, en geen u.”",
+   "s": 26.16
+  },
+  {
+   "p": 2,
+   "t": "Iedereen zei hier 'je' tegen elkaar, ook tegen de teamleider.",
+   "s": 30.9
+  },
+  {
+   "p": 2,
+   "t": "Toen ik “Goedemorgen, mevrouw” zei tegen Ingrid, moest ze lachen.",
+   "s": 36.58
+  },
+  {
+   "p": 2,
+   "t": "“Gewoon Ingrid!",
+   "s": 42.79
+  },
+  {
+   "p": 2,
+   "t": "Anders voel ik me meteen tachtig.”",
+   "s": 45.26
+  },
+  {
+   "p": 2,
+   "t": "In Iran zou ik mijn baas nooit bij haar voornaam noemen.",
+   "s": 48.65
+  },
+  {
+   "p": 2,
+   "t": "Hier lijkt het alsof iedereen gelijk is.",
+   "s": 53.33
+  },
+  {
+   "p": 3,
+   "t": "De ochtend vloog voorbij.",
+   "s": 57.16
+  },
+  {
+   "p": 3,
+   "t": "Ik hielp patiënten met wassen en aankleden, deelde het ontbijt uit en mat de bloeddruk.",
+   "s": 60.19
+  },
+  {
+   "p": 3,
+   "t": "Sommige patiënten spraken snel of in dialect, maar de meesten hadden veel geduld met me.",
+   "s": 67.76
+  },
+  {
+   "p": 4,
+   "t": "Om half één was het lunchpauze.",
+   "s": 75.4
+  },
+  {
+   "p": 4,
+   "t": "Ik had een warme maaltijd verwacht, maar in de kantine aten mijn collega's gewoon brood: een boterham met kaas, een glas melk of karnemelk, en dat was het.",
+   "s": 78.93
+  },
+  {
+   "p": 4,
+   "t": "Na twintig minuten stond iedereen alweer op.",
+   "s": 91.71
+  },
+  {
+   "p": 5,
+   "t": "“Is dit alles?” vroeg ik zachtjes aan Mark.",
+   "s": 96.18
+  },
+  {
+   "p": 5,
+   "t": "“Wat had je dan gedacht?” grijnsde hij.",
+   "s": 101.51
+  },
+  {
+   "p": 5,
+   "t": "“Warm eten we 's avonds, om zes uur.”",
+   "s": 106.4
+  },
+  {
+   "p": 6,
+   "t": "Na mijn dienst fietste ik naar huis.",
+   "s": 110.79
+  },
+  {
+   "p": 6,
+   "t": "Ik was doodmoe, maar ik zong de hele weg.",
+   "s": 114.27
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe laat fietste Sara naar het ziekenhuis?",
+   "o": [
+    "om zeven uur",
+    "om kwart over zeven",
+    "om acht uur",
+    "om half acht"
+   ],
+   "a": 1,
+   "fa": "سارا ساعت چند به سمت بیمارستان رکاب زد؟"
+  },
+  {
+   "q": "Wie was Sara's buddy?",
+   "o": [
+    "Ingrid",
+    "een patiënt",
+    "Mark",
+    "Fatima"
+   ],
+   "a": 2,
+   "fa": "همکار راهنمای سارا چه کسی بود؟"
+  },
+  {
+   "q": "Waarom moest Ingrid lachen?",
+   "o": [
+    "Sara zei 'mevrouw' tegen haar",
+    "Sara was te laat",
+    "Sara maakte een grap",
+    "Mark viel"
+   ],
+   "a": 0,
+   "fa": "چرا اینگرید خندید؟"
+  },
+  {
+   "q": "Wat deed Sara 's ochtends niet?",
+   "o": [
+    "patiënten helpen met wassen",
+    "het ontbijt uitdelen",
+    "de bloeddruk meten",
+    "een operatie doen"
+   ],
+   "a": 3,
+   "fa": "سارا صبح چه کاری نکرد؟"
+  },
+  {
+   "q": "Wat aten de collega's in de lunchpauze?",
+   "o": [
+    "brood met kaas",
+    "een warme maaltijd",
+    "soep",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "همکاران در وقت ناهار چه خوردند؟"
+  },
+  {
+   "q": "Wanneer eten veel Nederlanders warm, volgens Mark?",
+   "o": [
+    "'s middags",
+    "'s avonds om zes uur",
+    "'s ochtends",
+    "om tien uur 's avonds"
+   ],
+   "a": 1,
+   "fa": "به گفته‌ی مارک، خیلی از هلندی‌ها کِی غذای گرم می‌خورند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "notitieboekje",
+   "art": "het",
+   "w": "het notitieboekje",
+   "ipa": "/noːˈti(t)sibukjə/",
+   "fa": "دفترچه‌ی یادداشت",
+   "ex": "In mijn tas zaten een boterham, een appel en een nieuw notitieboekje.",
+   "m": [
+    55,
+    68
+   ],
+   "book": 1
+  },
+  {
+   "id": "voornaam",
+   "art": "de",
+   "w": "de voornaam",
+   "ipa": "/ˈvoːrnaːm/",
+   "fa": "اسم کوچک",
+   "ex": "In Iran zou ik mijn baas nooit bij haar voornaam noemen.",
+   "m": [
+    40,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "gelijk",
+   "art": "",
+   "w": "gelijk",
+   "ipa": "/ɣəˈlɛik/",
+   "fa": "برابر",
+   "ex": "Hier lijkt het alsof iedereen gelijk is.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "aankleden",
+   "art": "",
+   "w": "aankleden",
+   "ipa": "/ˈaːŋkleːdə(n)/",
+   "fa": "لباس پوشاندن",
+   "ex": "Ik help patiënten met aankleden.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitdelen",
+   "art": "",
+   "w": "uitdelen",
+   "ipa": "/ˈœydeːlə(n)/",
+   "fa": "پخش کردن",
+   "ex": "Om acht uur deel ik het ontbijt uit.",
+   "m": [
+    12,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "bloeddruk",
+   "art": "de",
+   "w": "de bloeddruk",
+   "ipa": "/ˈbludrʏk/",
+   "fa": "فشار خون",
+   "ex": "De verpleegkundige meet je bloeddruk.",
+   "m": [
+    27,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "dialect",
+   "art": "het",
+   "w": "het dialect",
+   "ipa": "/diaːˈlɛkt/",
+   "fa": "لهجه، گویش",
+   "ex": "Sommige patiënten spreken dialect.",
+   "m": [
+    26,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "kantine",
+   "art": "de",
+   "w": "de kantine",
+   "ipa": "/kɑnˈtinə/",
+   "fa": "غذاخوری (سلف)",
+   "ex": "We lunchen in de kantine.",
+   "m": [
+    17,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "dienst",
+   "art": "de",
+   "w": "de dienst",
+   "ipa": "/dinst/",
+   "fa": "شیفت کاری",
+   "ex": "Mijn dienst begint om half acht.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "doodmoe",
+   "art": "",
+   "w": "doodmoe",
+   "ipa": "/doːtˈmu/",
+   "fa": "خیلی خسته",
+   "ex": "Ik was doodmoe, maar ik zong de hele weg.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "baas",
+   "art": "de",
+   "w": "de baas",
+   "ipa": "/baːs/",
+   "fa": "رئیس",
+   "ex": "In Iran zou ik mijn baas nooit bij haar voornaam noemen.",
+   "m": [
+    20,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "mevrouw",
+   "art": "de",
+   "w": "de mevrouw",
+   "ipa": "/məˈvrɑu/",
+   "fa": "خانم",
+   "ex": "Goedemorgen, mevrouw.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "tachtig",
+   "art": "",
+   "w": "tachtig",
+   "ipa": "/ˈtɑxtəx/",
+   "fa": "هشتاد",
+   "ex": "Anders voel ik me meteen tachtig.",
+   "m": [
+    25,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "wassen",
+   "art": "",
+   "w": "wassen",
+   "ipa": "/ˈʋɑsə(n)/",
+   "fa": "شستن",
+   "ex": "Om half één was het lunchpauze.",
+   "m": [
+    12,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "maaltijd",
+   "art": "de",
+   "w": "de maaltijd",
+   "ipa": "/ˈmaːltɛit/",
+   "fa": "وعده‌ی غذایی",
+   "ex": "Ik had een warme maaltijd verwacht.",
+   "m": [
+    17,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "zachtjes",
+   "art": "",
+   "w": "zachtjes",
+   "ipa": "/ˈzɑxtjəs/",
+   "fa": "آهسته (با صدای آرام)",
+   "ex": "Ik vroeg het zachtjes aan Mark.",
+   "m": [
+    13,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "grijnzen",
+   "art": "",
+   "w": "grijnzen",
+   "ipa": "/ˈɣrɛinzə(n)/",
+   "fa": "نیش‌خند زدن",
+   "ex": "Mark grijnsde naar me.",
+   "m": [
+    5,
+    13
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Zeg maar gewoon Mark.",
+   "fa": "فقط بگو مارک.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De ochtend vloog voorbij.",
+   "fa": "صبح مثل برق گذشت.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik mat de bloeddruk.",
+   "fa": "فشار خون را اندازه گرفتم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Is dit alles?",
+   "fa": "همه‌اش همین است؟",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "We eten om zes uur warm.",
+   "fa": "ساعت شش غذای گرم می‌خوریم.",
+   "alt": [
+    "Om zes uur eten we warm."
+   ]
+  }
+ ]
+}

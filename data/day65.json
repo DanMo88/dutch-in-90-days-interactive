@@ -1,0 +1,445 @@
+{
+ "day": 65,
+ "level": "B1",
+ "title": "Ik heb de baan!",
+ "fa_title": "کار را گرفتم!",
+ "audio": "audio/day65.mp3",
+ "img": "img/day65.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op een maandagochtend in augustus ging mijn telefoon.",
+   "s": 4.99
+  },
+  {
+   "p": 0,
+   "t": "Het was Ingrid.",
+   "s": 9.76
+  },
+  {
+   "p": 0,
+   "t": "“Sara, ik heb goed nieuws.",
+   "s": 12.15
+  },
+  {
+   "p": 0,
+   "t": "We willen je graag aannemen als zorgassistent.”",
+   "s": 15.55
+  },
+  {
+   "p": 0,
+   "t": "Ik moest even gaan zitten.",
+   "s": 20.12
+  },
+  {
+   "p": 0,
+   "t": "Na bijna een jaar van taallessen, brieven en formulieren had ik een baan!",
+   "s": 23.04
+  },
+  {
+   "p": 1,
+   "t": "Een paar dagen later kreeg ik mijn arbeidscontract per e-mail: een jaarcontract voor vierentwintig uur per week.",
+   "s": 29.58
+  },
+  {
+   "p": 2,
+   "t": "Er stonden veel woorden in die ik niet kende: bruto, netto, proeftijd, vakantiegeld.",
+   "s": 38.46
+  },
+  {
+   "p": 2,
+   "t": "Gelukkig kwam Dani langs.",
+   "s": 47.16
+  },
+  {
+   "p": 2,
+   "t": "“Bruto is wat je verdient voordat de belasting eraf gaat,” legde hij uit.",
+   "s": 50.27
+  },
+  {
+   "p": 2,
+   "t": "“Netto is wat er echt op je rekening komt.",
+   "s": 56.76
+  },
+  {
+   "p": 2,
+   "t": "En kijk, vakantiegeld: dat is acht procent extra.",
+   "s": 60.98
+  },
+  {
+   "p": 2,
+   "t": "Dat krijg je meestal in mei, net voor de zomer.”",
+   "s": 66.85
+  },
+  {
+   "p": 3,
+   "t": "“Krijg ik extra geld om op vakantie te gaan?” vroeg ik ongelovig.",
+   "s": 71.49
+  },
+  {
+   "p": 4,
+   "t": "“Zo werkt het hier,” lachte Dani.",
+   "s": 78.54
+  },
+  {
+   "p": 4,
+   "t": "“En je hebt ook recht op vakantiedagen.",
+   "s": 82.19
+  },
+  {
+   "p": 4,
+   "t": "Bij een parttimebaan zijn dat er iets minder dan bij een volle baan.”",
+   "s": 86.08
+  },
+  {
+   "p": 5,
+   "t": "Ik las ook dat ik een proeftijd van een maand had.",
+   "s": 91.6
+  },
+  {
+   "p": 5,
+   "t": "In die tijd kunnen de werkgever en ik het contract makkelijk beëindigen.",
+   "s": 95.82
+  },
+  {
+   "p": 5,
+   "t": "Dat maakte me een beetje zenuwachtig, maar Alex zei: “Jij gaat het prima doen.”",
+   "s": 101.83
+  },
+  {
+   "p": 5,
+   "t": "Op 1 september begin ik.",
+   "s": 108.68
+  },
+  {
+   "p": 5,
+   "t": "Die avond zette Alex een fles bubbels op tafel.",
+   "s": 111.85
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wie belde Sara?",
+   "o": [
+    "Fatima",
+    "Ingrid",
+    "Dani",
+    "de gemeente"
+   ],
+   "a": 1,
+   "fa": "چه کسی به سارا زنگ زد؟"
+  },
+  {
+   "q": "Voor hoeveel uur per week is het contract?",
+   "o": [
+    "veertig",
+    "twaalf",
+    "zesendertig",
+    "vierentwintig"
+   ],
+   "a": 3,
+   "fa": "قرارداد برای چند ساعت در هفته است؟"
+  },
+  {
+   "q": "Wat is netto?",
+   "o": [
+    "wat er echt op je rekening komt",
+    "wat je verdient voor de belasting",
+    "je vakantiegeld",
+    "de belasting zelf"
+   ],
+   "a": 0,
+   "fa": "«نتو» (خالص) چیست؟"
+  },
+  {
+   "q": "Hoeveel vakantiegeld krijg je?",
+   "o": [
+    "vijf procent",
+    "tien procent",
+    "acht procent",
+    "niets"
+   ],
+   "a": 2,
+   "fa": "چقدر پول تعطیلات می‌گیری؟"
+  },
+  {
+   "q": "Wat kan er in de proeftijd gebeuren?",
+   "o": [
+    "je krijgt meer geld",
+    "je mag niet ziek worden",
+    "je werkt gratis",
+    "de werkgever en Sara kunnen het contract makkelijk beëindigen"
+   ],
+   "a": 3,
+   "fa": "در دوره‌ی آزمایشی چه اتفاقی ممکن است بیفتد؟"
+  },
+  {
+   "q": "Wanneer begint Sara?",
+   "o": [
+    "morgen",
+    "op 1 september",
+    "in mei",
+    "na de kerst"
+   ],
+   "a": 1,
+   "fa": "سارا کِی شروع می‌کند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "aannemen",
+   "art": "",
+   "w": "aannemen",
+   "ipa": "/ˈaːneːmə(n)/",
+   "fa": "استخدام کردن",
+   "ex": "We willen je graag aannemen als zorgassistent.",
+   "m": [
+    19,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "baan",
+   "art": "de",
+   "w": "de baan",
+   "ipa": "/baːn/",
+   "fa": "شغل، کار",
+   "ex": "Na bijna een jaar van taallessen, brieven en formulieren had ik een baan!",
+   "m": [
+    68,
+    72
+   ],
+   "book": 1
+  },
+  {
+   "id": "arbeidscontract",
+   "art": "het",
+   "w": "het arbeidscontract",
+   "ipa": "/ˈɑrbɛitskɔntrɑkt/",
+   "fa": "قرارداد کار",
+   "ex": "Lees je arbeidscontract goed door.",
+   "m": [
+    8,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "bruto",
+   "art": "",
+   "w": "bruto",
+   "ipa": "/ˈbrytoː/",
+   "fa": "ناخالص",
+   "ex": "Bruto is wat je verdient voordat de belasting eraf gaat.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 1
+  },
+  {
+   "id": "netto",
+   "art": "",
+   "w": "netto",
+   "ipa": "/ˈnɛtoː/",
+   "fa": "خالص",
+   "ex": "Netto is wat er echt op je rekening komt.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 1
+  },
+  {
+   "id": "vakantiegeld",
+   "art": "het",
+   "w": "het vakantiegeld",
+   "ipa": "/vaːˈkɑnsiɣɛlt/",
+   "fa": "پول تعطیلات (حقوق اضافه)",
+   "ex": "En kijk, vakantiegeld: dat is acht procent extra.",
+   "m": [
+    9,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "ongelovig",
+   "art": "",
+   "w": "ongelovig",
+   "ipa": "/ɔŋɣəˈloːvəx/",
+   "fa": "ناباور",
+   "ex": "Ze keek me ongelovig aan.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "recht-hebben-op",
+   "art": "",
+   "w": "recht hebben op",
+   "ipa": "/rɛxt ˈɦɛbə(n) ɔp/",
+   "fa": "حق داشتن به",
+   "ex": "Je hebt recht op vakantiedagen.",
+   "m": [
+    3,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "proeftijd",
+   "art": "de",
+   "w": "de proeftijd",
+   "ipa": "/ˈpruftɛit/",
+   "fa": "دوره‌ی آزمایشی",
+   "ex": "Ik las ook dat ik een proeftijd van een maand had.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "werkgever",
+   "art": "de",
+   "w": "de werkgever",
+   "ipa": "/ˈʋɛrkxeːvər/",
+   "fa": "کارفرما",
+   "ex": "In die tijd kunnen de werkgever en ik het contract makkelijk beëindigen.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "augustus",
+   "art": "",
+   "w": "augustus",
+   "ipa": "/ɑuˈɣʏstʏs/",
+   "fa": "اوت",
+   "ex": "Op een maandagochtend in augustus ging mijn telefoon.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "e-mail",
+   "art": "de",
+   "w": "de e-mail",
+   "ipa": "/ˈimeːl/",
+   "fa": "ایمیل",
+   "ex": "Ik kreeg mijn contract per e-mail.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "procent",
+   "art": "het",
+   "w": "het procent",
+   "ipa": "/proːˈsɛnt/",
+   "fa": "درصد",
+   "ex": "En kijk, vakantiegeld: dat is acht procent extra.",
+   "m": [
+    35,
+    42
+   ],
+   "book": 0
+  },
+  {
+   "id": "extra",
+   "art": "",
+   "w": "extra",
+   "ipa": "/ˈɛkstraː/",
+   "fa": "اضافه",
+   "ex": "En kijk, vakantiegeld: dat is acht procent extra.",
+   "m": [
+    43,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "meestal",
+   "art": "",
+   "w": "meestal",
+   "ipa": "/ˈmeːstɑl/",
+   "fa": "معمولاً",
+   "ex": "Dat krijg je meestal in mei, net voor de zomer.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "beeindigen",
+   "art": "",
+   "w": "beëindigen",
+   "ipa": "/bəˈɛindəɣə(n)/",
+   "fa": "پایان دادن، فسخ کردن",
+   "ex": "In die tijd kunnen de werkgever en ik het contract makkelijk beëindigen.",
+   "m": [
+    61,
+    71
+   ],
+   "book": 0
+  },
+  {
+   "id": "zomer",
+   "art": "de",
+   "w": "de zomer",
+   "ipa": "/ˈzoːmər/",
+   "fa": "تابستان",
+   "ex": "Dat krijg je meestal in mei, net voor de zomer.",
+   "m": [
+    41,
+    46
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "We willen je graag aannemen.",
+   "fa": "خیلی دوست داریم استخدامت کنیم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik had een baan!",
+   "fa": "کار پیدا کرده بودم!",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Netto is wat er echt op je rekening komt.",
+   "fa": "خالص همان چیزی است که واقعاً به حسابت می‌آید.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Zo werkt het hier.",
+   "fa": "اینجا این‌طوری است.",
+   "alt": [
+    "Het werkt hier zo."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Jij gaat het prima doen.",
+   "fa": "تو عالی از پسش برمی‌آیی.",
+   "alt": []
+  }
+ ]
+}

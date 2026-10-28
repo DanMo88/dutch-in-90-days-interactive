@@ -1,0 +1,438 @@
+{
+ "day": 78,
+ "level": "B1",
+ "title": "Herfststorm: code oranje",
+ "fa_title": "طوفان پاییزی: کد نارنجی",
+ "audio": "audio/day78.mp3",
+ "img": "img/day78.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op dinsdagavond kreeg ik een melding op mijn telefoon: “KNMI: code oranje voor zware windstoten in Noord-Holland.”",
+   "s": 6.46
+  },
+  {
+   "p": 0,
+   "t": "De eerste herfststorm van het seizoen kwam eraan.",
+   "s": 15.37
+  },
+  {
+   "p": 1,
+   "t": "Code oranje betekent dat het weer gevaarlijk kan zijn.",
+   "s": 19.63
+  },
+  {
+   "p": 1,
+   "t": "Je moet je voorbereiden en liefst niet de weg op gaan.",
+   "s": 24.28
+  },
+  {
+   "p": 1,
+   "t": "Bij code rood is het nog ernstiger.",
+   "s": 28.48
+  },
+  {
+   "p": 2,
+   "t": "We haalden de stoelen en de plantenbakken van het balkon.",
+   "s": 32.09
+  },
+  {
+   "p": 2,
+   "t": "Dani appte in de buurtgroep: “Zet je containers vast en parkeer je fiets niet onder een boom!”",
+   "s": 36.42
+  },
+  {
+   "p": 3,
+   "t": "De volgende ochtend loeide de wind om het huis.",
+   "s": 43.21
+  },
+  {
+   "p": 3,
+   "t": "Op straat lagen takken, en een fiets lag midden op de stoep.",
+   "s": 47.49
+  },
+  {
+   "p": 3,
+   "t": "Er reden bijna geen treinen, omdat er bomen op het spoor waren gevallen.",
+   "s": 52.49
+  },
+  {
+   "p": 3,
+   "t": "Ook de pont over het IJ voer niet.",
+   "s": 58.24
+  },
+  {
+   "p": 4,
+   "t": "Alex kon thuiswerken.",
+   "s": 61.74
+  },
+  {
+   "p": 4,
+   "t": "Ik moest om half acht op de afdeling zijn, maar fietsen in deze storm was onmogelijk.",
+   "s": 64.92
+  },
+  {
+   "p": 4,
+   "t": "Ik belde Ingrid.",
+   "s": 71.65
+  },
+  {
+   "p": 4,
+   "t": "“Kom maar als het veilig is,” zei ze.",
+   "s": 74.43
+  },
+  {
+   "p": 4,
+   "t": "“Je veiligheid gaat voor.",
+   "s": 78.45
+  },
+  {
+   "p": 4,
+   "t": "Een collega die vlakbij woont, neemt de ochtend over.”",
+   "s": 81.38
+  },
+  {
+   "p": 5,
+   "t": "'s Middags was het ergste voorbij.",
+   "s": 86.34
+  },
+  {
+   "p": 5,
+   "t": "Ik fietste naar het ziekenhuis, langs omgewaaide bomen en een kapot bord.",
+   "s": 89.88
+  },
+  {
+   "p": 5,
+   "t": "Op de afdeling was het gewoon druk.",
+   "s": 96.02
+  },
+  {
+   "p": 5,
+   "t": "“Welkom in de Nederlandse herfst,” zei Mark.",
+   "s": 99.68
+  }
+ ],
+ "comp": [
+  {
+   "q": "Van wie kwam de waarschuwing?",
+   "o": [
+    "van het KNMI",
+    "van de school",
+    "van Dani",
+    "van de NS"
+   ],
+   "a": 0,
+   "fa": "هشدار از طرف چه کسی بود؟"
+  },
+  {
+   "q": "Wat betekent code oranje?",
+   "o": [
+    "dat het een feestdag is",
+    "dat het weer gevaarlijk kan zijn",
+    "dat het warm wordt",
+    "dat er sneeuw komt"
+   ],
+   "a": 1,
+   "fa": "کد نارنجی یعنی چه؟"
+  },
+  {
+   "q": "Wat schreef Dani in de buurtgroep?",
+   "o": [
+    "dat iedereen binnen moest blijven",
+    "dat er een feest was",
+    "dat je je fiets niet onder een boom moest parkeren",
+    "dat de school dicht was"
+   ],
+   "a": 2,
+   "fa": "دانی در گروه محله چه نوشت؟"
+  },
+  {
+   "q": "Waarom reden er bijna geen treinen?",
+   "o": [
+    "er was een staking",
+    "het spoor was bevroren",
+    "er was geen stroom",
+    "er waren bomen op het spoor gevallen"
+   ],
+   "a": 3,
+   "fa": "چرا تقریباً هیچ قطاری حرکت نمی‌کرد؟"
+  },
+  {
+   "q": "Wat zei Ingrid?",
+   "o": [
+    "kom maar als het veilig is",
+    "je moet om half acht komen",
+    "neem een taxi",
+    "je krijgt een boete"
+   ],
+   "a": 0,
+   "fa": "اینگرید چه گفت؟"
+  },
+  {
+   "q": "Wanneer fietste Sara naar het ziekenhuis?",
+   "o": [
+    "om half acht",
+    "'s middags",
+    "'s avonds",
+    "de volgende dag"
+   ],
+   "a": 1,
+   "fa": "سارا کِی به بیمارستان رکاب زد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "melding",
+   "art": "de",
+   "w": "de melding",
+   "ipa": "/ˈmɛldɪŋ/",
+   "fa": "اعلان، پیام هشدار",
+   "ex": "Op dinsdagavond kreeg ik een melding op mijn telefoon.",
+   "m": [
+    29,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "windstoot",
+   "art": "de",
+   "w": "de windstoot",
+   "ipa": "/ˈʋɪntstoːt/",
+   "fa": "تندباد",
+   "ex": "Er komen zware windstoten.",
+   "m": [
+    15,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "gevaarlijk",
+   "art": "",
+   "w": "gevaarlijk",
+   "ipa": "/ɣəˈvaːrlək/",
+   "fa": "خطرناک",
+   "ex": "Code oranje betekent dat het weer gevaarlijk kan zijn.",
+   "m": [
+    34,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "ernstig",
+   "art": "",
+   "w": "ernstig",
+   "ipa": "/ˈɛrnstəx/",
+   "fa": "جدی، وخیم",
+   "ex": "Bij code rood is het nog ernstiger.",
+   "m": [
+    25,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "tak",
+   "art": "de",
+   "w": "de tak",
+   "ipa": "/tɑk/",
+   "fa": "شاخه",
+   "ex": "Er lagen takken op straat.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "spoor",
+   "art": "het",
+   "w": "het spoor",
+   "ipa": "/spoːr/",
+   "fa": "ریل (راه‌آهن)",
+   "ex": "Er lag een boom op het spoor.",
+   "m": [
+    23,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "varen",
+   "art": "",
+   "w": "varen",
+   "ipa": "/ˈvaːrə(n)/",
+   "fa": "با کشتی رفتن، حرکت کردن (کشتی)",
+   "ex": "Ook de pont over het IJ voer niet.",
+   "m": [
+    24,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "thuiswerken",
+   "art": "",
+   "w": "thuiswerken",
+   "ipa": "/ˈtœysʋɛrkə(n)/",
+   "fa": "از خانه کار کردن",
+   "ex": "Alex kon thuiswerken.",
+   "m": [
+    9,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "veiligheid",
+   "art": "de",
+   "w": "de veiligheid",
+   "ipa": "/ˈvɛiləxɦɛit/",
+   "fa": "امنیت، ایمنی",
+   "ex": "Je veiligheid gaat voor.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "omwaaien",
+   "art": "",
+   "w": "omwaaien",
+   "ipa": "/ˈɔmʋaːjə(n)/",
+   "fa": "با باد افتادن",
+   "ex": "Er zijn veel bomen omgewaaid.",
+   "m": [
+    19,
+    28
+   ],
+   "book": 1
+  },
+  {
+   "id": "seizoen",
+   "art": "het",
+   "w": "het seizoen",
+   "ipa": "/sɛiˈzun/",
+   "fa": "فصل",
+   "ex": "De eerste herfststorm van het seizoen kwam eraan.",
+   "m": [
+    30,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "parkeren",
+   "art": "",
+   "w": "parkeren",
+   "ipa": "/ˌpɑrˈkeːrə(n)/",
+   "fa": "پارک کردن",
+   "ex": "Je moet je fiets niet onder een boom parkeren.",
+   "m": [
+    37,
+    45
+   ],
+   "book": 0
+  },
+  {
+   "id": "onmogelijk",
+   "art": "",
+   "w": "onmogelijk",
+   "ipa": "/ɔnˈmoːɣələk/",
+   "fa": "غیرممکن",
+   "ex": "Ik moest om half acht op de afdeling zijn, maar fietsen in deze storm was onmogelijk.",
+   "m": [
+    74,
+    84
+   ],
+   "book": 0
+  },
+  {
+   "id": "veilig",
+   "art": "",
+   "w": "veilig",
+   "ipa": "/ˈvɛiləx/",
+   "fa": "امن",
+   "ex": "Kom maar als het veilig is.",
+   "m": [
+    17,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "vlakbij",
+   "art": "",
+   "w": "vlakbij",
+   "ipa": "/vlɑɡˈbɛi/",
+   "fa": "نزدیک",
+   "ex": "Een collega die vlakbij woont, neemt de ochtend over.",
+   "m": [
+    16,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "appen",
+   "art": "",
+   "w": "appen",
+   "ipa": "/ˈɛpə(n)/",
+   "fa": "پیام دادن (واتس‌اپ)",
+   "ex": "Dani appte in de buurtgroep.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "overnemen",
+   "art": "",
+   "w": "overnemen",
+   "ipa": "/ˈoːvərneːmə(n)/",
+   "fa": "بر عهده گرفتن",
+   "ex": "Een collega kan de ochtend overnemen.",
+   "m": [
+    27,
+    36
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Code oranje betekent dat het weer gevaarlijk kan zijn.",
+   "fa": "کد نارنجی یعنی هوا ممکن است خطرناک باشد.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Parkeer je fiets niet onder een boom!",
+   "fa": "دوچرخه‌ات را زیر درخت پارک نکن!",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Alex kon thuiswerken.",
+   "fa": "الکس می‌توانست از خانه کار کند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Kom maar als het veilig is.",
+   "fa": "هر وقت امن شد بیا.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Je veiligheid gaat voor.",
+   "fa": "امنیتت مقدم است.",
+   "alt": []
+  }
+ ]
+}
