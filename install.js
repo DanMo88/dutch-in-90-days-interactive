@@ -36,7 +36,7 @@
   function modal(title, steps) {
     var d = document.createElement('dialog'); d.className = 'pwa-dlg'; d.setAttribute('dir', 'rtl'); d.setAttribute('lang', 'fa');
     d.innerHTML = '<form method="dialog"><h3>' + title + '</h3><ol>' + steps.map(function (s) { return '<li>' + s + '</li>'; }).join('') + '</ol>' +
-      '<p class="note">بعد از نصب، «' + NAME + '» مثل یک اپ از صفحهٔ اصلی گوشی یا کامپیوتر باز می‌شود و پیشرفتت ذخیره می‌ماند.</p>' +
+      '<p class="note">بعد از نصب، «' + en(NAME) + '» مثل یک اپ از صفحهٔ اصلی گوشی یا کامپیوتر باز می‌شود و پیشرفتت ذخیره می‌ماند.</p>' +
       '<button class="ok" value="ok">باشه</button></form>';
     document.body.appendChild(d);
     if (d.showModal) d.showModal(); else d.setAttribute('open', '');
