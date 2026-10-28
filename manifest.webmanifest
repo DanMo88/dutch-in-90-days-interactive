@@ -8,8 +8,8 @@
   "scope": "/dutch-in-90-days-interactive/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f5f6ff",
-  "theme_color": "#4f46e5",
+  "background_color": "#163A7A",
+  "theme_color": "#163A7A",
   "icons": [
     {"src": "icons/icon-192.png","sizes": "192x192","type": "image/png","purpose": "any"},
     {"src": "icons/icon-512.png","sizes": "512x512","type": "image/png","purpose": "any"},

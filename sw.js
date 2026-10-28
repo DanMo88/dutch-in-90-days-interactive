@@ -1,9 +1,9 @@
 // HTML: network-first · JSON data: network-first · css/js/manifest: stale-while-revalidate
 // media (audio/img/fonts/icons): cache-on-demand · cross-origin: never touched
-const V = 'nl90i-v6';
-const SHELL = ['./', 'index.html', 'style.css?v=4', 'app.js?v=4', 'install.js?v=5', 'manifest.webmanifest', 'data/index.json',
+const V = 'nl90i-v7';
+const SHELL = ['./', 'index.html', 'style.css?v=4', 'app.js?v=4', 'install.js?v=5', 'splash.css?v=1', 'splash.js?v=1', 'manifest.webmanifest', 'data/index.json',
   'fonts/Vazirmatn-Regular.woff2', 'fonts/Vazirmatn-Bold.woff2', 'fonts/Vazirmatn-Black.woff2',
-  'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-192.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'audio/sfx-correct.mp3', 'audio/sfx-wrong.mp3'];
+  'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-192.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/splash-logo.svg', 'icons/splash-title.svg', 'audio/sfx-correct.mp3', 'audio/sfx-wrong.mp3'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(V).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('nl90i') && k !== V && k !== 'nl90i-media').map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 async function ranged(req, res) {
