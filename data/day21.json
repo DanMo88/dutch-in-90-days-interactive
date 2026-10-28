@@ -1,0 +1,466 @@
+{
+ "day": 21,
+ "level": "A1",
+ "title": "Artis en een patatje",
+ "fa_title": "باغ‌وحش آرتیس و سیب‌زمینی سرخ‌کرده",
+ "audio": "audio/day21.mp3",
+ "img": "img/day21.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vandaag gaan we met Dani en Emma naar Artis.",
+   "s": 5.38
+  },
+  {
+   "p": 0,
+   "t": "Artis is de dierentuin van Amsterdam.",
+   "s": 9.96
+  },
+  {
+   "p": 0,
+   "t": "Hij is bijna tweehonderd jaar oud!",
+   "s": 13.91
+  },
+  {
+   "p": 1,
+   "t": "Bij de ingang is een oude poort met twee gouden vogels.",
+   "s": 17.66
+  },
+  {
+   "p": 1,
+   "t": "Mia rent naar binnen.",
+   "s": 22.99
+  },
+  {
+   "p": 1,
+   "t": "“Waar zijn de olifanten?”",
+   "s": 25.77
+  },
+  {
+   "p": 2,
+   "t": "We zien olifanten, giraffen en zebra's.",
+   "s": 28.79
+  },
+  {
+   "p": 2,
+   "t": "De apen springen en roepen.",
+   "s": 33.68
+  },
+  {
+   "p": 2,
+   "t": "De flamingo's zijn roze en staan op één been.",
+   "s": 36.87
+  },
+  {
+   "p": 3,
+   "t": "Daarna gaan we naar de vlindertuin.",
+   "s": 41.71
+  },
+  {
+   "p": 3,
+   "t": "Daar is het warm, net als in de tropen.",
+   "s": 45.13
+  },
+  {
+   "p": 3,
+   "t": "Een blauwe vlinder gaat op de hand van Mia zitten.",
+   "s": 49.37
+  },
+  {
+   "p": 3,
+   "t": "“Hij vindt mij lief!”",
+   "s": 53.91
+  },
+  {
+   "p": 4,
+   "t": "Na Artis hebben we honger.",
+   "s": 56.44
+  },
+  {
+   "p": 4,
+   "t": "We kopen patat bij een snackbar.",
+   "s": 59.44
+  },
+  {
+   "p": 4,
+   "t": "“In Amsterdam zeggen veel mensen patat,” zegt Dani.",
+   "s": 62.91
+  },
+  {
+   "p": 4,
+   "t": "“In het zuiden zeggen ze friet.”",
+   "s": 68.07
+  },
+  {
+   "p": 5,
+   "t": "“Een patatje met mayonaise, graag,” zeg ik.",
+   "s": 71.16
+  },
+  {
+   "p": 6,
+   "t": "Emma eet niet veel.",
+   "s": 76.04
+  },
+  {
+   "p": 6,
+   "t": "Ze legt haar hand op haar buik en lacht.",
+   "s": 78.76
+  },
+  {
+   "p": 6,
+   "t": "“De baby schopt!”",
+   "s": 82.52
+  },
+  {
+   "p": 7,
+   "t": "Mia legt ook haar hand erop.",
+   "s": 85.07
+  },
+  {
+   "p": 7,
+   "t": "“Ik voel het!",
+   "s": 88.32
+  },
+  {
+   "p": 7,
+   "t": "Hallo, baby!”",
+   "s": 90.32
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is Artis?",
+   "o": [
+    "een museum",
+    "een dierentuin",
+    "een park",
+    "een winkel"
+   ],
+   "a": 1,
+   "fa": "آرتیس چیست؟"
+  },
+  {
+   "q": "Wat staat er op de poort?",
+   "o": [
+    "twee gouden vogels",
+    "een olifant",
+    "een leeuw",
+    "een fiets"
+   ],
+   "a": 0,
+   "fa": "روی دروازه چه هست؟"
+  },
+  {
+   "q": "Welke kleur hebben de flamingo's?",
+   "o": [
+    "wit",
+    "geel",
+    "blauw",
+    "roze"
+   ],
+   "a": 3,
+   "fa": "فلامینگوها چه رنگی‌اند؟"
+  },
+  {
+   "q": "Waar is het warm?",
+   "o": [
+    "bij de apen",
+    "in de vlindertuin",
+    "bij de ingang",
+    "in de snackbar"
+   ],
+   "a": 1,
+   "fa": "کجا گرم است؟"
+  },
+  {
+   "q": "Hoe zeggen veel mensen in Amsterdam?",
+   "o": [
+    "friet",
+    "frietjes",
+    "patat",
+    "chips"
+   ],
+   "a": 2,
+   "fa": "خیلی‌ها در آمستردام چه می‌گویند؟"
+  },
+  {
+   "q": "Wat doet de baby?",
+   "o": [
+    "slapen",
+    "huilen",
+    "eten",
+    "schoppen"
+   ],
+   "a": 3,
+   "fa": "بچه‌ی توی شکم چه کار می‌کند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "dierentuin",
+   "art": "de",
+   "w": "de dierentuin",
+   "ipa": "/ˈdirə(n)tœyn/",
+   "fa": "باغ‌وحش",
+   "ex": "Artis is de dierentuin van Amsterdam.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "dier",
+   "art": "het",
+   "w": "het dier",
+   "ipa": "/dir/",
+   "fa": "حیوان",
+   "ex": "Een kat is een lief dier.",
+   "m": [
+    20,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "olifant",
+   "art": "de",
+   "w": "de olifant",
+   "ipa": "/ˈoːlifɑnt/",
+   "fa": "فیل",
+   "ex": "We zien olifanten, giraffen en zebra's.",
+   "m": [
+    8,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "aap",
+   "art": "de",
+   "w": "de aap",
+   "ipa": "/aːp/",
+   "fa": "میمون",
+   "ex": "De apen springen en roepen.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "vlinder",
+   "art": "de",
+   "w": "de vlinder",
+   "ipa": "/ˈvlɪndər/",
+   "fa": "پروانه",
+   "ex": "Een blauwe vlinder gaat op de hand van Mia zitten.",
+   "m": [
+    11,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "ingang",
+   "art": "de",
+   "w": "de ingang",
+   "ipa": "/ˈɪnɣɑŋ/",
+   "fa": "ورودی",
+   "ex": "Bij de ingang is een oude poort met twee gouden vogels.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "patat",
+   "art": "de",
+   "w": "de patat",
+   "ipa": "/paːˈtɑt/",
+   "fa": "سیب‌زمینی سرخ‌کرده",
+   "ex": "We kopen patat bij een snackbar.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "buik",
+   "art": "de",
+   "w": "de buik",
+   "ipa": "/bœyk/",
+   "fa": "شکم",
+   "ex": "Ze legt haar hand op haar buik en lacht.",
+   "m": [
+    26,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "voelen",
+   "art": "",
+   "w": "voelen",
+   "ipa": "/ˈvulə(n)/",
+   "fa": "حس کردن",
+   "ex": "Ik voel het!",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "baby",
+   "art": "de",
+   "w": "de baby",
+   "ipa": "/ˈbeːbi/",
+   "fa": "نوزاد",
+   "ex": "De baby schopt!",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "poort",
+   "art": "de",
+   "w": "de poort",
+   "ipa": "/poːrt/",
+   "fa": "دروازه",
+   "ex": "Bij de ingang is een oude poort met twee gouden vogels.",
+   "m": [
+    26,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "gouden",
+   "art": "",
+   "w": "gouden",
+   "ipa": "/ˈɣɑudə(n)/",
+   "fa": "طلایی",
+   "ex": "Bij de ingang is een oude poort met twee gouden vogels.",
+   "m": [
+    41,
+    47
+   ],
+   "book": 0
+  },
+  {
+   "id": "vogel",
+   "art": "de",
+   "w": "de vogel",
+   "ipa": "/ˈvoːɣəl/",
+   "fa": "پرنده",
+   "ex": "Bij de ingang is een oude poort met twee gouden vogels.",
+   "m": [
+    48,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "giraf",
+   "art": "de",
+   "w": "de giraf",
+   "ipa": "/ʒiˈrɑf/",
+   "fa": "زرافه",
+   "ex": "We zien olifanten, giraffen en zebra's.",
+   "m": [
+    19,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "been",
+   "art": "het",
+   "w": "het been",
+   "ipa": "/beːn/",
+   "fa": "پا (ساق)؛ استخوان",
+   "ex": "De flamingo's zijn roze en staan op één been.",
+   "m": [
+    40,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "snackbar",
+   "art": "de",
+   "w": "de snackbar",
+   "ipa": "/ˈsnɛɡbɑr/",
+   "fa": "اسنک‌بار (فست‌فود)",
+   "ex": "We kopen patat bij een snackbar.",
+   "m": [
+    23,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "zuiden",
+   "art": "het",
+   "w": "het zuiden",
+   "ipa": "/ˈzœydə(n)/",
+   "fa": "جنوب",
+   "ex": "In het zuiden zeggen ze friet.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "schoppen",
+   "art": "",
+   "w": "schoppen",
+   "ipa": "/ˈsxɔpə(n)/",
+   "fa": "لگد زدن",
+   "ex": "De baby schopt!",
+   "m": [
+    8,
+    14
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Waar zijn de olifanten?",
+   "fa": "فیل‌ها کجا هستند؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De apen springen en roepen.",
+   "fa": "میمون‌ها می‌پرند و جیغ می‌کشند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Hij vindt mij lief!",
+   "fa": "از من خوشش می‌آید!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Een patatje met mayonaise, graag.",
+   "fa": "یک سیب‌زمینی سرخ‌کرده با مایونز، لطفاً.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik voel het!",
+   "fa": "حسش می‌کنم!",
+   "alt": []
+  }
+ ]
+}

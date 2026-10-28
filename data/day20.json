@@ -1,0 +1,451 @@
+{
+ "day": 20,
+ "level": "A1",
+ "title": "Bij Jumbo en Lidl",
+ "fa_title": "در یومبو و لیدل",
+ "audio": "audio/day20.mp3",
+ "img": "img/day20.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Ons huishoudgeld is bijna op.",
+   "s": 5.26
+  },
+  {
+   "p": 0,
+   "t": "“We moeten goedkoper boodschappen doen,” zegt Alex.",
+   "s": 8.98
+  },
+  {
+   "p": 1,
+   "t": "Emma geeft ons een tip.",
+   "s": 13.68
+  },
+  {
+   "p": 1,
+   "t": "“Probeer de Jumbo en de Lidl.",
+   "s": 16.46
+  },
+  {
+   "p": 1,
+   "t": "Vergelijk de prijzen!”",
+   "s": 19.78
+  },
+  {
+   "p": 2,
+   "t": "Eerst gaan we naar de Jumbo.",
+   "s": 22.76
+  },
+  {
+   "p": 2,
+   "t": "De winkel is geel en heel groot.",
+   "s": 25.82
+  },
+  {
+   "p": 2,
+   "t": "Er zijn veel aanbiedingen.",
+   "s": 29.53
+  },
+  {
+   "p": 2,
+   "t": "Ik koop rijst, pasta en een groot pak koffie.",
+   "s": 32.32
+  },
+  {
+   "p": 2,
+   "t": "Bij de kassa zegt het meisje: “Heeft u een klantenkaart?”",
+   "s": 36.98
+  },
+  {
+   "p": 2,
+   "t": "“Nee, nog niet,” zeg ik.",
+   "s": 41.76
+  },
+  {
+   "p": 3,
+   "t": "Dan gaan we naar de Lidl.",
+   "s": 45.46
+  },
+  {
+   "p": 3,
+   "t": "Die is kleiner, maar alles is goedkoop.",
+   "s": 48.17
+  },
+  {
+   "p": 3,
+   "t": "De groente en het fruit zijn vers.",
+   "s": 52.32
+  },
+  {
+   "p": 3,
+   "t": "Ik koop bananen, tomaten, uien en een zak aardappelen.",
+   "s": 55.99
+  },
+  {
+   "p": 4,
+   "t": "Midden in de winkel liggen gekke dingen: een boormachine, sokken en een tent!",
+   "s": 61.27
+  },
+  {
+   "p": 5,
+   "t": "“Een tent in een supermarkt?” vraagt Mia.",
+   "s": 67.38
+  },
+  {
+   "p": 6,
+   "t": "Thuis schrijf ik alle prijzen op een lijstje.",
+   "s": 72.71
+  },
+  {
+   "p": 6,
+   "t": "“We hebben vandaag twaalf euro bespaard!”",
+   "s": 76.87
+  },
+  {
+   "p": 7,
+   "t": "“Dan mogen we een ijsje!” zegt Mia.",
+   "s": 80.81
+  },
+  {
+   "p": 7,
+   "t": "Slim meisje.",
+   "s": 85.85
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom willen ze goedkoper boodschappen doen?",
+   "o": [
+    "ze hebben honger",
+    "het huishoudgeld is bijna op",
+    "de AH is dicht",
+    "ze hebben feest"
+   ],
+   "a": 1,
+   "fa": "چرا می‌خواهند ارزان‌تر خرید کنند؟"
+  },
+  {
+   "q": "Welke kleur heeft de Jumbo?",
+   "o": [
+    "rood",
+    "blauw",
+    "geel",
+    "groen"
+   ],
+   "a": 2,
+   "fa": "یومبو چه رنگی است؟"
+  },
+  {
+   "q": "Wat koopt Sara bij de Jumbo?",
+   "o": [
+    "rijst, pasta en koffie",
+    "bananen",
+    "een tent",
+    "sokken"
+   ],
+   "a": 0,
+   "fa": "سارا در یومبو چه می‌خرد؟"
+  },
+  {
+   "q": "Hoe is de Lidl?",
+   "o": [
+    "groter en duur",
+    "kleiner en goedkoop",
+    "oud en vies",
+    "dicht"
+   ],
+   "a": 1,
+   "fa": "لیدل چطور است؟"
+  },
+  {
+   "q": "Wat ligt er midden in de Lidl?",
+   "o": [
+    "brood",
+    "bloemen",
+    "kaas",
+    "een tent"
+   ],
+   "a": 3,
+   "fa": "وسط لیدل چه چیزی هست؟"
+  },
+  {
+   "q": "Hoeveel hebben ze bespaard?",
+   "o": [
+    "twee euro",
+    "vijf euro",
+    "twaalf euro",
+    "twintig euro"
+   ],
+   "a": 2,
+   "fa": "چقدر صرفه‌جویی کرده‌اند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "vergelijken",
+   "art": "",
+   "w": "vergelijken",
+   "ipa": "/vərɣəˈlɛikə(n)/",
+   "fa": "مقایسه کردن",
+   "ex": "Vergelijk de prijzen!",
+   "m": [
+    0,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanbieding",
+   "art": "de",
+   "w": "de aanbieding",
+   "ipa": "/ˈaːmbidɪŋ/",
+   "fa": "حراج، پیشنهاد ویژه",
+   "ex": "Er zijn veel aanbiedingen.",
+   "m": [
+    13,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "rijst",
+   "art": "de",
+   "w": "de rijst",
+   "ipa": "/rɛist/",
+   "fa": "برنج",
+   "ex": "Ik koop rijst, pasta en een groot pak koffie.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "groente",
+   "art": "de",
+   "w": "de groente",
+   "ipa": "/ˈɣruntə/",
+   "fa": "سبزی",
+   "ex": "De groente en het fruit zijn vers.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "fruit",
+   "art": "het",
+   "w": "het fruit",
+   "ipa": "/frœyt/",
+   "fa": "میوه",
+   "ex": "De groente en het fruit zijn vers.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "aardappel",
+   "art": "de",
+   "w": "de aardappel",
+   "ipa": "/ˈaːrdɑpəl/",
+   "fa": "سیب‌زمینی",
+   "ex": "Ik koop bananen, tomaten, uien en een zak aardappelen.",
+   "m": [
+    42,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "ui",
+   "art": "de",
+   "w": "de ui",
+   "ipa": "/œy/",
+   "fa": "پیاز",
+   "ex": "Ik koop bananen, tomaten, uien en een zak aardappelen.",
+   "m": [
+    26,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "vers",
+   "art": "",
+   "w": "vers",
+   "ipa": "/vɛrs/",
+   "fa": "تازه",
+   "ex": "De groente en het fruit zijn vers.",
+   "m": [
+    29,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "besparen",
+   "art": "",
+   "w": "besparen",
+   "ipa": "/bəˈspaːrə(n)/",
+   "fa": "صرفه‌جویی کردن",
+   "ex": "We hebben vandaag twaalf euro bespaard!",
+   "m": [
+    30,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "lijstje",
+   "art": "het",
+   "w": "het lijstje",
+   "ipa": "/ˈlɛiʃə/",
+   "fa": "فهرست کوچک",
+   "ex": "Thuis schrijf ik alle prijzen op een lijstje.",
+   "m": [
+    37,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "huishoudgeld",
+   "art": "het",
+   "w": "het huishoudgeld",
+   "ipa": "/ˈɦœysɦɑutxɛlt/",
+   "fa": "پول خرج خانه",
+   "ex": "Ons huishoudgeld is bijna op.",
+   "m": [
+    4,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "tip",
+   "art": "de",
+   "w": "de tip",
+   "ipa": "/tɪp/",
+   "fa": "نکته، توصیه",
+   "ex": "Emma geeft ons een tip.",
+   "m": [
+    19,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "pasta",
+   "art": "de",
+   "w": "de pasta",
+   "ipa": "/ˈpɑstaː/",
+   "fa": "پاستا، ماکارونی",
+   "ex": "Ik koop rijst, pasta en een groot pak koffie.",
+   "m": [
+    15,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "klantenkaart",
+   "art": "de",
+   "w": "de klantenkaart",
+   "ipa": "/ˈklɑntə(n)ˌkaːrt/",
+   "fa": "کارت مشتری",
+   "ex": "Heeft u een klantenkaart?",
+   "m": [
+    12,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "banaan",
+   "art": "de",
+   "w": "de banaan",
+   "ipa": "/baːˈnaːn/",
+   "fa": "موز",
+   "ex": "Ik koop bananen, tomaten, uien en een zak aardappelen.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "tomaat",
+   "art": "de",
+   "w": "de tomaat",
+   "ipa": "/toːˈmaːt/",
+   "fa": "گوجه‌فرنگی",
+   "ex": "Ik koop bananen, tomaten, uien en een zak aardappelen.",
+   "m": [
+    17,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "ijsje",
+   "art": "het",
+   "w": "het ijsje",
+   "ipa": "/ˈɛiʃə/",
+   "fa": "بستنی",
+   "ex": "Dan mogen we een ijsje!",
+   "m": [
+    17,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "slim",
+   "art": "",
+   "w": "slim",
+   "ipa": "/slɪm/",
+   "fa": "باهوش",
+   "ex": "Slim meisje.",
+   "m": [
+    0,
+    4
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vergelijk de prijzen!",
+   "fa": "قیمت‌ها را مقایسه کن!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Er zijn veel aanbiedingen.",
+   "fa": "حراج‌های زیادی هست.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Heeft u een klantenkaart?",
+   "fa": "کارت مشتری دارید؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De groente en het fruit zijn vers.",
+   "fa": "سبزی و میوه تازه است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "We hebben twaalf euro bespaard!",
+   "fa": "دوازده یورو صرفه‌جویی کرده‌ایم!",
+   "alt": []
+  }
+ ]
+}

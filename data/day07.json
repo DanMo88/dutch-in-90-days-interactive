@@ -1,0 +1,503 @@
+{
+ "day": 7,
+ "level": "A1",
+ "title": "Regen, regen, regen",
+ "fa_title": "باران، باران، باران",
+ "audio": "audio/day07.mp3",
+ "img": "img/day07.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het regent.",
+   "s": 6.26
+  },
+  {
+   "p": 0,
+   "t": "Het regent de hele dag.",
+   "s": 8.46
+  },
+  {
+   "p": 0,
+   "t": "Het regent ook de volgende dag!",
+   "s": 11.47
+  },
+  {
+   "p": 1,
+   "t": "Ik wil naar de winkel fietsen, maar het is heel nat.",
+   "s": 15.05
+  },
+  {
+   "p": 1,
+   "t": "Ik kijk uit het raam.",
+   "s": 19.52
+  },
+  {
+   "p": 1,
+   "t": "Grijs, grijs, grijs.",
+   "s": 22.15
+  },
+  {
+   "p": 2,
+   "t": "Dani staat buiten.",
+   "s": 25.93
+  },
+  {
+   "p": 2,
+   "t": "Hij heeft een regenjas aan en hij fietst gewoon.",
+   "s": 28.66
+  },
+  {
+   "p": 3,
+   "t": "“Fiets je in de regen?” vraag ik.",
+   "s": 33.19
+  },
+  {
+   "p": 4,
+   "t": "“Natuurlijk!” lacht hij.",
+   "s": 37.8
+  },
+  {
+   "p": 4,
+   "t": "“Anders fiets je nooit in Nederland!”",
+   "s": 41.9
+  },
+  {
+   "p": 5,
+   "t": "Hij pakt zijn telefoon.",
+   "s": 45.24
+  },
+  {
+   "p": 5,
+   "t": "“Kijk, dit is Buienradar.",
+   "s": 48.04
+  },
+  {
+   "p": 5,
+   "t": "Die app laat zien waar de regen is.",
+   "s": 51.57
+  },
+  {
+   "p": 5,
+   "t": "Over tien minuten is het droog.",
+   "s": 55.27
+  },
+  {
+   "p": 5,
+   "t": "Dan ga je fietsen!”",
+   "s": 58.71
+  },
+  {
+   "p": 6,
+   "t": "Ik kijk op de kaart.",
+   "s": 61.35
+  },
+  {
+   "p": 6,
+   "t": "Ik zie blauwe vlekken.",
+   "s": 63.9
+  },
+  {
+   "p": 6,
+   "t": "Dat is de regen.",
+   "s": 66.6
+  },
+  {
+   "p": 6,
+   "t": "En echt: na tien minuten stopt het.",
+   "s": 69.1
+  },
+  {
+   "p": 6,
+   "t": "De zon komt even.",
+   "s": 73.32
+  },
+  {
+   "p": 7,
+   "t": "Ik fiets snel naar de Albert Heijn.",
+   "s": 76.07
+  },
+  {
+   "p": 7,
+   "t": "Maar op de terugweg regent het weer.",
+   "s": 79.46
+  },
+  {
+   "p": 7,
+   "t": "Ik ben drijfnat!",
+   "s": 83.01
+  },
+  {
+   "p": 8,
+   "t": "Die middag koop ik een regenpak: een jas en een broek.",
+   "s": 85.43
+  },
+  {
+   "p": 8,
+   "t": "Nu ben ik klaar voor het Nederlandse weer.",
+   "s": 90.3
+  },
+  {
+   "p": 8,
+   "t": "Regen?",
+   "s": 94.02
+  },
+  {
+   "p": 8,
+   "t": "Geen probleem!",
+   "s": 95.87
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe is het weer?",
+   "o": [
+    "zonnig",
+    "het sneeuwt",
+    "het regent",
+    "heel warm"
+   ],
+   "a": 2,
+   "fa": "هوا چطور است؟"
+  },
+  {
+   "q": "Wat doet Dani in de regen?",
+   "o": [
+    "hij blijft thuis",
+    "hij fietst gewoon",
+    "hij neemt de auto",
+    "hij slaapt"
+   ],
+   "a": 1,
+   "fa": "دانی زیر باران چه کار می‌کند؟"
+  },
+  {
+   "q": "Wat is Buienradar?",
+   "o": [
+    "een winkel",
+    "een app over regen",
+    "een tv-programma",
+    "een fiets"
+   ],
+   "a": 1,
+   "fa": "Buienradar چیست؟"
+  },
+  {
+   "q": "Wanneer is het droog?",
+   "o": [
+    "over tien minuten",
+    "morgen",
+    "over een uur",
+    "nooit"
+   ],
+   "a": 0,
+   "fa": "کِی هوا خشک می‌شود؟"
+  },
+  {
+   "q": "Hoe is Sara na de terugweg?",
+   "o": [
+    "droog",
+    "moe",
+    "drijfnat",
+    "boos"
+   ],
+   "a": 2,
+   "fa": "سارا در راه برگشت چه وضعی دارد؟"
+  },
+  {
+   "q": "Wat koopt Sara die middag?",
+   "o": [
+    "een paraplu",
+    "een regenpak",
+    "een auto",
+    "laarzen"
+   ],
+   "a": 1,
+   "fa": "سارا آن بعدازظهر چه می‌خرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "regen",
+   "art": "de",
+   "w": "de regen",
+   "ipa": "/ˈreːɣə(n)/",
+   "fa": "باران",
+   "ex": "Die app laat zien waar de regen is.",
+   "m": [
+    26,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "regenen",
+   "art": "",
+   "w": "regenen",
+   "ipa": "/ˈreːɣənə(n)/",
+   "fa": "باران آمدن",
+   "ex": "Maar op de terugweg regent het weer.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "nat",
+   "art": "",
+   "w": "nat",
+   "ipa": "/nɑt/",
+   "fa": "خیس",
+   "ex": "Ik wil naar de winkel fietsen, maar het is heel nat.",
+   "m": [
+    48,
+    51
+   ],
+   "book": 1
+  },
+  {
+   "id": "droog",
+   "art": "",
+   "w": "droog",
+   "ipa": "/droːx/",
+   "fa": "خشک",
+   "ex": "Over tien minuten is het droog.",
+   "m": [
+    25,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "regenjas",
+   "art": "de",
+   "w": "de regenjas",
+   "ipa": "/ˈreːɣə(n)jɑs/",
+   "fa": "بارانی",
+   "ex": "Hij heeft een regenjas aan en hij fietst gewoon.",
+   "m": [
+    14,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "weer",
+   "art": "het",
+   "w": "het weer",
+   "ipa": "/ʋeːr/",
+   "fa": "هوا (آب‌وهوا)",
+   "ex": "Hoe is het weer vandaag?",
+   "m": [
+    11,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "zon",
+   "art": "de",
+   "w": "de zon",
+   "ipa": "/zɔn/",
+   "fa": "خورشید",
+   "ex": "De zon komt even.",
+   "m": [
+    3,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "grijs",
+   "art": "",
+   "w": "grijs",
+   "ipa": "/ɣrɛis/",
+   "fa": "خاکستری",
+   "ex": "Grijs, grijs, grijs.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 1
+  },
+  {
+   "id": "app",
+   "art": "de",
+   "w": "de app",
+   "ipa": "/ɛp/",
+   "fa": "اپ، برنامه‌ی گوشی",
+   "ex": "Die app laat zien waar de regen is.",
+   "m": [
+    4,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "regenpak",
+   "art": "het",
+   "w": "het regenpak",
+   "ipa": "/ˈreːɣə(n)pɑk/",
+   "fa": "لباس ضدباران (کاپشن و شلوار)",
+   "ex": "Die middag koop ik een regenpak: een jas en een broek.",
+   "m": [
+    23,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "telefoon",
+   "art": "de",
+   "w": "de telefoon",
+   "ipa": "/teːləˈfoːn/",
+   "fa": "گوشی، تلفن",
+   "ex": "Hij pakt zijn telefoon.",
+   "m": [
+    14,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "vlek",
+   "art": "de",
+   "w": "de vlek",
+   "ipa": "/vlɛk/",
+   "fa": "لکه",
+   "ex": "Ik zie blauwe vlekken.",
+   "m": [
+    14,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "minuut",
+   "art": "de",
+   "w": "de minuut",
+   "ipa": "/miˈnyt/",
+   "fa": "دقیقه",
+   "ex": "En echt: na tien minuten stopt het.",
+   "m": [
+    17,
+    24
+   ],
+   "book": 0
+  },
+  {
+   "id": "natuurlijk",
+   "art": "",
+   "w": "natuurlijk",
+   "ipa": "/naːˈtyrlək/",
+   "fa": "البته، طبیعتاً",
+   "ex": "Natuurlijk!",
+   "m": [
+    0,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "snel",
+   "art": "",
+   "w": "snel",
+   "ipa": "/snɛl/",
+   "fa": "سریع، تند",
+   "ex": "Ik fiets snel naar de Albert Heijn.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "nooit",
+   "art": "",
+   "w": "nooit",
+   "ipa": "/noːit/",
+   "fa": "هرگز",
+   "ex": "Anders fiets je nooit in Nederland!",
+   "m": [
+    16,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "broek",
+   "art": "de",
+   "w": "de broek",
+   "ipa": "/bruk/",
+   "fa": "شلوار",
+   "ex": "Die middag koop ik een regenpak: een jas en een broek.",
+   "m": [
+    48,
+    53
+   ],
+   "book": 0
+  },
+  {
+   "id": "probleem",
+   "art": "het",
+   "w": "het probleem",
+   "ipa": "/ˌproːˈbleːm/",
+   "fa": "مشکل",
+   "ex": "Geen probleem!",
+   "m": [
+    5,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "drijfnat",
+   "art": "",
+   "w": "drijfnat",
+   "ipa": "/drɛifˈnɑt/",
+   "fa": "خیسِ آب",
+   "ex": "Ik ben drijfnat!",
+   "m": [
+    7,
+    15
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het regent de hele dag.",
+   "fa": "تمام روز باران می‌آید.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Fiets je in de regen?",
+   "fa": "زیر باران دوچرخه‌سواری می‌کنی؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Over tien minuten is het droog.",
+   "fa": "ده دقیقه‌ی دیگر هوا خشک می‌شود.",
+   "alt": [
+    "Het is over tien minuten droog."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Ik ben drijfnat!",
+   "fa": "خیسِ آب شده‌ام!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Nu ben ik klaar voor het Nederlandse weer.",
+   "fa": "حالا برای هوای هلند آماده‌ام.",
+   "alt": [
+    "Ik ben nu klaar voor het Nederlandse weer."
+   ]
+  }
+ ]
+}

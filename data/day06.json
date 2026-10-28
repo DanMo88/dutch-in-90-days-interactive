@@ -1,0 +1,498 @@
+{
+ "day": 6,
+ "level": "A1",
+ "title": "De eerste schooldag",
+ "fa_title": "اولین روز مدرسه",
+ "audio": "audio/day06.mp3",
+ "img": "img/day06.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vandaag is een belangrijke dag.",
+   "s": 4.9
+  },
+  {
+   "p": 0,
+   "t": "Mia gaat voor het eerst naar school in Amsterdam!",
+   "s": 8.26
+  },
+  {
+   "p": 0,
+   "t": "Ze zit in groep 4.",
+   "s": 12.62
+  },
+  {
+   "p": 1,
+   "t": "Om half acht maak ik haar broodtrommel.",
+   "s": 15.43
+  },
+  {
+   "p": 1,
+   "t": "Er gaan twee boterhammen met kaas in en een appel.",
+   "s": 19.04
+  },
+  {
+   "p": 1,
+   "t": "Ook neemt ze een beker water mee.",
+   "s": 23.57
+  },
+  {
+   "p": 2,
+   "t": "We fietsen samen naar school.",
+   "s": 26.95
+  },
+  {
+   "p": 2,
+   "t": "Mia zit achterop.",
+   "s": 30.15
+  },
+  {
+   "p": 2,
+   "t": "Op het schoolplein staan veel kinderen en ouders.",
+   "s": 32.93
+  },
+  {
+   "p": 2,
+   "t": "Mia houdt mijn hand vast.",
+   "s": 37.23
+  },
+  {
+   "p": 2,
+   "t": "Ze is een beetje bang.",
+   "s": 40.21
+  },
+  {
+   "p": 3,
+   "t": "Dan komt er een vrouw met een rode bril.",
+   "s": 43.15
+  },
+  {
+   "p": 3,
+   "t": "“Hallo!",
+   "s": 46.76
+  },
+  {
+   "p": 3,
+   "t": "Ik ben juf Marieke.",
+   "s": 48.62
+  },
+  {
+   "p": 3,
+   "t": "Jij bent vast Mia!”",
+   "s": 51.29
+  },
+  {
+   "p": 4,
+   "t": "Mia knikt.",
+   "s": 54.12
+  },
+  {
+   "p": 5,
+   "t": "“Welkom in groep 4.",
+   "s": 56.42
+  },
+  {
+   "p": 5,
+   "t": "Kom maar mee.",
+   "s": 59.37
+  },
+  {
+   "p": 5,
+   "t": "Je zit naast Sophie.”",
+   "s": 61.54
+  },
+  {
+   "p": 6,
+   "t": "Sophie zwaait naar Mia.",
+   "s": 64.34
+  },
+  {
+   "p": 6,
+   "t": "Mia zwaait terug en gaat de klas in.",
+   "s": 67.51
+  },
+  {
+   "p": 7,
+   "t": "Om drie uur haal ik haar op.",
+   "s": 71.34
+  },
+  {
+   "p": 7,
+   "t": "Ze rent naar mij toe.",
+   "s": 74.35
+  },
+  {
+   "p": 8,
+   "t": "“Mama!",
+   "s": 77.07
+  },
+  {
+   "p": 8,
+   "t": "Ik heb een vriendin!",
+   "s": 78.9
+  },
+  {
+   "p": 8,
+   "t": "Sophie!",
+   "s": 81.49
+  },
+  {
+   "p": 8,
+   "t": "En de juf is heel lief!”",
+   "s": 83.37
+  },
+  {
+   "p": 9,
+   "t": "“En je broodtrommel?” vraag ik.",
+   "s": 86.4
+  },
+  {
+   "p": 10,
+   "t": "“Leeg!” lacht Mia.",
+   "s": 91.15
+  },
+  {
+   "p": 10,
+   "t": "De eerste schooldag is goed gegaan.",
+   "s": 95.1
+  }
+ ],
+ "comp": [
+  {
+   "q": "In welke groep zit Mia?",
+   "o": [
+    "groep 1",
+    "groep 2",
+    "groep 4",
+    "groep 8"
+   ],
+   "a": 2,
+   "fa": "میا در کدام گروه (کلاس) است؟"
+  },
+  {
+   "q": "Wat zit er in de broodtrommel?",
+   "o": [
+    "boterhammen en een appel",
+    "pizza",
+    "koekjes",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "در جعبه‌ی غذای میا چه هست؟"
+  },
+  {
+   "q": "Hoe gaan Sara en Mia naar school?",
+   "o": [
+    "met de tram",
+    "lopend",
+    "met de fiets",
+    "met de auto"
+   ],
+   "a": 2,
+   "fa": "سارا و میا چطور به مدرسه می‌روند؟"
+  },
+  {
+   "q": "Hoe voelt Mia zich op het schoolplein?",
+   "o": [
+    "boos",
+    "een beetje bang",
+    "heel moe",
+    "ziek"
+   ],
+   "a": 1,
+   "fa": "میا در حیاط مدرسه چه حسی دارد؟"
+  },
+  {
+   "q": "Wie is Sophie?",
+   "o": [
+    "de juf",
+    "een buurvrouw",
+    "een meisje in de klas",
+    "de moeder van Mia"
+   ],
+   "a": 2,
+   "fa": "سوفی کیست؟"
+  },
+  {
+   "q": "Hoe is de broodtrommel na school?",
+   "o": [
+    "vol",
+    "kapot",
+    "weg",
+    "leeg"
+   ],
+   "a": 3,
+   "fa": "جعبه‌ی غذا بعد از مدرسه چطور است؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "school",
+   "art": "de",
+   "w": "de school",
+   "ipa": "/sxoːl/",
+   "fa": "مدرسه",
+   "ex": "Mia gaat voor het eerst naar school in Amsterdam!",
+   "m": [
+    29,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "broodtrommel",
+   "art": "de",
+   "w": "de broodtrommel",
+   "ipa": "/ˈbroːtrɔməl/",
+   "fa": "جعبه‌ی غذا",
+   "ex": "Om half acht maak ik haar broodtrommel.",
+   "m": [
+    26,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "schoolplein",
+   "art": "het",
+   "w": "het schoolplein",
+   "ipa": "/ˈsxoːlplɛin/",
+   "fa": "حیاط مدرسه",
+   "ex": "Op het schoolplein staan veel kinderen en ouders.",
+   "m": [
+    7,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "juf",
+   "art": "de",
+   "w": "de juf",
+   "ipa": "/jʏf/",
+   "fa": "خانم معلم",
+   "ex": "En de juf is heel lief!",
+   "m": [
+    6,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "klas",
+   "art": "de",
+   "w": "de klas",
+   "ipa": "/klɑs/",
+   "fa": "کلاس",
+   "ex": "Mia zwaait terug en gaat de klas in.",
+   "m": [
+    28,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "bang",
+   "art": "",
+   "w": "bang",
+   "ipa": "/bɑŋ/",
+   "fa": "ترسیده",
+   "ex": "Ze is een beetje bang.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "vriendin",
+   "art": "de",
+   "w": "de vriendin",
+   "ipa": "/vrinˈdɪn/",
+   "fa": "دوست (دختر)",
+   "ex": "Ik heb een vriendin!",
+   "m": [
+    11,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "ophalen",
+   "art": "",
+   "w": "ophalen",
+   "ipa": "/ˈɔpɦaːlə(n)/",
+   "fa": "دنبال کسی رفتن",
+   "ex": "Papa haalt mij om drie uur op.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "leeg",
+   "art": "",
+   "w": "leeg",
+   "ipa": "/leːx/",
+   "fa": "خالی",
+   "ex": "Mijn glas is leeg.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwaaien",
+   "art": "",
+   "w": "zwaaien",
+   "ipa": "/ˈzʋaːjə(n)/",
+   "fa": "دست تکان دادن",
+   "ex": "Mia zwaait terug en gaat de klas in.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "belangrijk",
+   "art": "",
+   "w": "belangrijk",
+   "ipa": "/bəˈlɑŋrɛik/",
+   "fa": "مهم",
+   "ex": "Vandaag is een belangrijke dag.",
+   "m": [
+    15,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "groep",
+   "art": "de",
+   "w": "de groep",
+   "ipa": "/ɣrup/",
+   "fa": "گروه، کلاس (در مدرسه‌ی هلندی)",
+   "ex": "Ze zit in groep 4.",
+   "m": [
+    10,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "beker",
+   "art": "de",
+   "w": "de beker",
+   "ipa": "/ˈbeːkər/",
+   "fa": "لیوان دسته‌دار؛ قمقمه",
+   "ex": "Ook neemt ze een beker water mee.",
+   "m": [
+    17,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "achterop",
+   "art": "",
+   "w": "achterop",
+   "ipa": "/ˌɑxtəˈrɔp/",
+   "fa": "ترکِ (دوچرخه)",
+   "ex": "Mia zit achterop.",
+   "m": [
+    8,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "kind",
+   "art": "het",
+   "w": "het kind",
+   "ipa": "/kɪnt/",
+   "fa": "بچه، کودک",
+   "ex": "Op het schoolplein staan veel kinderen en ouders.",
+   "m": [
+    30,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "ouders",
+   "art": "de",
+   "w": "de ouders",
+   "ipa": "/ˈɑudərs/",
+   "fa": "والدین",
+   "ex": "Op het schoolplein staan veel kinderen en ouders.",
+   "m": [
+    42,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "bril",
+   "art": "de",
+   "w": "de bril",
+   "ipa": "/brɪl/",
+   "fa": "عینک",
+   "ex": "Dan komt er een vrouw met een rode bril.",
+   "m": [
+    35,
+    39
+   ],
+   "book": 0
+  },
+  {
+   "id": "hand",
+   "art": "de",
+   "w": "de hand",
+   "ipa": "/ɦɑnt/",
+   "fa": "دست",
+   "ex": "Mia houdt mijn hand vast.",
+   "m": [
+    15,
+    19
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vandaag is een belangrijke dag.",
+   "fa": "امروز روز مهمی است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mia gaat naar school.",
+   "fa": "میا به مدرسه می‌رود.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ze is een beetje bang.",
+   "fa": "او کمی می‌ترسد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Om drie uur haal ik haar op.",
+   "fa": "ساعت سه دنبالش می‌روم.",
+   "alt": [
+    "Ik haal haar om drie uur op."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "De juf is heel lief.",
+   "fa": "خانم معلم خیلی مهربان است.",
+   "alt": []
+  }
+ ]
+}

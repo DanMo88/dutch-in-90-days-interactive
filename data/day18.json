@@ -1,0 +1,501 @@
+{
+ "day": 18,
+ "level": "A1",
+ "title": "Herfst in het Vondelpark",
+ "fa_title": "پاییز در پارک فوندل",
+ "audio": "audio/day18.mp3",
+ "img": "img/day18.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is eind oktober.",
+   "s": 5.2
+  },
+  {
+   "p": 0,
+   "t": "De bladeren zijn geel, oranje en rood.",
+   "s": 8.01
+  },
+  {
+   "p": 0,
+   "t": "Het is herfst.",
+   "s": 12.34
+  },
+  {
+   "p": 1,
+   "t": "Vandaag is het droog.",
+   "s": 14.85
+  },
+  {
+   "p": 1,
+   "t": "We gaan naar het Vondelpark.",
+   "s": 17.57
+  },
+  {
+   "p": 1,
+   "t": "Dat is het bekendste park van Amsterdam.",
+   "s": 20.51
+  },
+  {
+   "p": 1,
+   "t": "Lucy blijft thuis, maar Dani en Emma gaan mee.",
+   "s": 24.43
+  },
+  {
+   "p": 2,
+   "t": "In het park is het druk.",
+   "s": 29.21
+  },
+  {
+   "p": 2,
+   "t": "Mensen wandelen, fietsen en rennen.",
+   "s": 31.99
+  },
+  {
+   "p": 2,
+   "t": "Er zijn honden, eenden en zelfs papegaaien!",
+   "s": 35.9
+  },
+  {
+   "p": 2,
+   "t": "Groene papegaaien in Amsterdam!",
+   "s": 40.29
+  },
+  {
+   "p": 3,
+   "t": "Mia rent door de bladeren.",
+   "s": 43.93
+  },
+  {
+   "p": 3,
+   "t": "Ritsel, ritsel!",
+   "s": 47.06
+  },
+  {
+   "p": 3,
+   "t": "Ze zoekt kastanjes.",
+   "s": 50.06
+  },
+  {
+   "p": 3,
+   "t": "“Kijk, mama!",
+   "s": 52.98
+  },
+  {
+   "p": 3,
+   "t": "Ze zijn bruin en glad.”",
+   "s": 55.62
+  },
+  {
+   "p": 4,
+   "t": "Het waait hard.",
+   "s": 58.74
+  },
+  {
+   "p": 4,
+   "t": "Mijn muts vliegt bijna weg.",
+   "s": 61.23
+  },
+  {
+   "p": 4,
+   "t": "Alex lacht.",
+   "s": 64.6
+  },
+  {
+   "p": 4,
+   "t": "“Nu ben je echt Nederlands: je loopt in de wind!”",
+   "s": 67.01
+  },
+  {
+   "p": 5,
+   "t": "We gaan zitten bij het grote meer.",
+   "s": 71.65
+  },
+  {
+   "p": 5,
+   "t": "Emma heeft een thermoskan met warme thee meegenomen.",
+   "s": 75.07
+  },
+  {
+   "p": 5,
+   "t": "Dani heeft stroopwafels.",
+   "s": 79.73
+  },
+  {
+   "p": 6,
+   "t": "“Volgende week gaat de klok een uur terug,” zegt Dani.",
+   "s": 82.96
+  },
+  {
+   "p": 6,
+   "t": "“Dan is het 's avonds vroeg donker.”",
+   "s": 87.74
+  },
+  {
+   "p": 7,
+   "t": "“En dan is het tijd voor kaarsen en soep,” zegt Emma.",
+   "s": 91.34
+  },
+  {
+   "p": 8,
+   "t": "Ik vind de herfst niet erg.",
+   "s": 96.1
+  },
+  {
+   "p": 8,
+   "t": "Hij is koud, maar ook mooi en gezellig.",
+   "s": 99.2
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welk seizoen is het?",
+   "o": [
+    "de lente",
+    "de zomer",
+    "de herfst",
+    "de winter"
+   ],
+   "a": 2,
+   "fa": "چه فصلی است؟"
+  },
+  {
+   "q": "Welke vogels zien ze in het park?",
+   "o": [
+    "papegaaien",
+    "meeuwen",
+    "uilen",
+    "zwanen"
+   ],
+   "a": 0,
+   "fa": "در پارک چه پرنده‌هایی می‌بینند؟"
+  },
+  {
+   "q": "Wat zoekt Mia?",
+   "o": [
+    "bloemen",
+    "stenen",
+    "kastanjes",
+    "bladeren"
+   ],
+   "a": 2,
+   "fa": "میا دنبال چه می‌گردد؟"
+  },
+  {
+   "q": "Wat vliegt bijna weg?",
+   "o": [
+    "de muts van Sara",
+    "de tas van Emma",
+    "de jas van Alex",
+    "de bal van Mia"
+   ],
+   "a": 0,
+   "fa": "چه چیزی نزدیک است باد ببرد؟"
+  },
+  {
+   "q": "Wat heeft Dani meegenomen?",
+   "o": [
+    "thee",
+    "koekjes",
+    "appels",
+    "stroopwafels"
+   ],
+   "a": 3,
+   "fa": "دانی چه با خودش آورده؟"
+  },
+  {
+   "q": "Wat gebeurt er volgende week?",
+   "o": [
+    "Mia is jarig",
+    "de klok gaat een uur terug",
+    "het gaat sneeuwen",
+    "ze gaan op vakantie"
+   ],
+   "a": 1,
+   "fa": "هفته‌ی بعد چه اتفاقی می‌افتد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "herfst",
+   "art": "de",
+   "w": "de herfst",
+   "ipa": "/ɦɛrfst/",
+   "fa": "پاییز",
+   "ex": "Ik vind de herfst niet erg.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "blad",
+   "art": "het",
+   "w": "het blad",
+   "ipa": "/blɑt/",
+   "fa": "برگ",
+   "ex": "Er ligt een geel blad op de grond.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "park",
+   "art": "het",
+   "w": "het park",
+   "ipa": "/pɑrk/",
+   "fa": "پارک",
+   "ex": "Dat is het bekendste park van Amsterdam.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "wandelen",
+   "art": "",
+   "w": "wandelen",
+   "ipa": "/ˈʋɑndələ(n)/",
+   "fa": "پیاده‌روی کردن",
+   "ex": "Mensen wandelen, fietsen en rennen.",
+   "m": [
+    7,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "waaien",
+   "art": "",
+   "w": "waaien",
+   "ipa": "/ˈʋaːjə(n)/",
+   "fa": "وزیدن (باد)",
+   "ex": "Het waait hard.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "muts",
+   "art": "de",
+   "w": "de muts",
+   "ipa": "/mʏts/",
+   "fa": "کلاه بافتنی",
+   "ex": "Mijn muts vliegt bijna weg.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "kastanje",
+   "art": "de",
+   "w": "de kastanje",
+   "ipa": "/kɑsˈtɑɲə/",
+   "fa": "شاه‌بلوط",
+   "ex": "Ze zoekt kastanjes.",
+   "m": [
+    9,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "meer",
+   "art": "het",
+   "w": "het meer",
+   "ipa": "/meːr/",
+   "fa": "دریاچه",
+   "ex": "In het meer zwemmen eenden.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "donker",
+   "art": "",
+   "w": "donker",
+   "ipa": "/ˈdɔŋkər/",
+   "fa": "تاریک",
+   "ex": "Dan is het 's avonds vroeg donker.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "klok",
+   "art": "de",
+   "w": "de klok",
+   "ipa": "/klɔk/",
+   "fa": "ساعت (دیواری)",
+   "ex": "Volgende week gaat de klok een uur terug.",
+   "m": [
+    22,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "geel",
+   "art": "",
+   "w": "geel",
+   "ipa": "/ɣeːl/",
+   "fa": "زرد",
+   "ex": "De bladeren zijn geel, oranje en rood.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "oranje",
+   "art": "",
+   "w": "oranje",
+   "ipa": "/ˌoːˈrɑnjə/",
+   "fa": "نارنجی",
+   "ex": "De bladeren zijn geel, oranje en rood.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "hond",
+   "art": "de",
+   "w": "de hond",
+   "ipa": "/ɦɔnt/",
+   "fa": "سگ",
+   "ex": "Er zijn honden, eenden en zelfs papegaaien!",
+   "m": [
+    8,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "eend",
+   "art": "de",
+   "w": "de eend",
+   "ipa": "/eːnt/",
+   "fa": "اردک",
+   "ex": "Er zijn honden, eenden en zelfs papegaaien!",
+   "m": [
+    16,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "papegaai",
+   "art": "de",
+   "w": "de papegaai",
+   "ipa": "/pɑpəˈɣaːi/",
+   "fa": "طوطی",
+   "ex": "Er zijn honden, eenden en zelfs papegaaien!",
+   "m": [
+    32,
+    42
+   ],
+   "book": 0
+  },
+  {
+   "id": "bruin",
+   "art": "",
+   "w": "bruin",
+   "ipa": "/brœyn/",
+   "fa": "قهوه‌ای",
+   "ex": "Ze zijn bruin en glad.",
+   "m": [
+    8,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "glad",
+   "art": "",
+   "w": "glad",
+   "ipa": "/ɣlɑt/",
+   "fa": "صاف؛ لیز",
+   "ex": "Ze zijn bruin en glad.",
+   "m": [
+    17,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "thermoskan",
+   "art": "de",
+   "w": "de thermoskan",
+   "ipa": "/ˈtɛrmɔsˌkɑn/",
+   "fa": "فلاسک",
+   "ex": "Emma heeft een thermoskan met warme thee meegenomen.",
+   "m": [
+    15,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "vroeg",
+   "art": "",
+   "w": "vroeg",
+   "ipa": "/vrux/",
+   "fa": "زود",
+   "ex": "Dan is het 's avonds vroeg donker.",
+   "m": [
+    21,
+    26
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het is herfst.",
+   "fa": "پاییز است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Het waait hard.",
+   "fa": "باد شدیدی می‌وزد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ze zoekt kastanjes.",
+   "fa": "او دنبال شاه‌بلوط می‌گردد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De klok gaat een uur terug.",
+   "fa": "ساعت یک ساعت عقب کشیده می‌شود.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Dan is het vroeg donker.",
+   "fa": "آن‌وقت هوا زود تاریک می‌شود.",
+   "alt": [
+    "Het is dan vroeg donker."
+   ]
+  }
+ ]
+}

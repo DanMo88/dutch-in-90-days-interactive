@@ -1,0 +1,471 @@
+{
+ "day": 9,
+ "level": "A1",
+ "title": "Fietsen naar het werk",
+ "fa_title": "با دوچرخه سر کار",
+ "audio": "audio/day09.mp3",
+ "img": "img/day09.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Alex werkt bij een IT-bedrijf aan het IJ.",
+   "s": 4.82
+  },
+  {
+   "p": 0,
+   "t": "Vandaag fietst hij voor het eerst naar zijn werk.",
+   "s": 9.08
+  },
+  {
+   "p": 0,
+   "t": "Dani fietst mee.",
+   "s": 13.27
+  },
+  {
+   "p": 0,
+   "t": "Hij werkt ook in die buurt.",
+   "s": 15.74
+  },
+  {
+   "p": 1,
+   "t": "“Let goed op,” zegt Dani.",
+   "s": 18.73
+  },
+  {
+   "p": 1,
+   "t": "“In Amsterdam zijn veel fietsers, trams en toeristen.”",
+   "s": 21.99
+  },
+  {
+   "p": 2,
+   "t": "Ze rijden op het rode fietspad.",
+   "s": 27.29
+  },
+  {
+   "p": 2,
+   "t": "Bij een kruispunt is het stoplicht rood.",
+   "s": 30.79
+  },
+  {
+   "p": 2,
+   "t": "Ze wachten.",
+   "s": 34.91
+  },
+  {
+   "p": 2,
+   "t": "Dan is het groen.",
+   "s": 37.01
+  },
+  {
+   "p": 3,
+   "t": "“Pas op voor de tramrails!” roept Dani.",
+   "s": 39.38
+  },
+  {
+   "p": 3,
+   "t": "“Fiets er niet in.",
+   "s": 44.57
+  },
+  {
+   "p": 3,
+   "t": "Ga er schuin overheen.”",
+   "s": 47.01
+  },
+  {
+   "p": 4,
+   "t": "Bij een kleine straat zegt Dani: “Rechts gaat voor.",
+   "s": 49.99
+  },
+  {
+   "p": 4,
+   "t": "Die fietser komt van rechts.",
+   "s": 54.96
+  },
+  {
+   "p": 4,
+   "t": "Hij mag eerst.”",
+   "s": 58.12
+  },
+  {
+   "p": 5,
+   "t": "Alex wil naar links.",
+   "s": 60.43
+  },
+  {
+   "p": 5,
+   "t": "Hij steekt zijn linkerhand uit.",
+   "s": 62.99
+  },
+  {
+   "p": 5,
+   "t": "“Goed zo!” zegt Dani.",
+   "s": 66.43
+  },
+  {
+   "p": 6,
+   "t": "Na twintig minuten zijn ze bij het werk.",
+   "s": 70.62
+  },
+  {
+   "p": 6,
+   "t": "Alex zet zijn fiets in de fietsenstalling en doet hem op slot.",
+   "s": 74.57
+  },
+  {
+   "p": 7,
+   "t": "“Vanavond moet je je licht aandoen,” zegt Dani.",
+   "s": 79.79
+  },
+  {
+   "p": 7,
+   "t": "“Anders krijg je een boete!”",
+   "s": 84.52
+  },
+  {
+   "p": 8,
+   "t": "Fietsen in Amsterdam is spannend, maar ook leuk.",
+   "s": 87.43
+  },
+  {
+   "p": 8,
+   "t": "En gezond!",
+   "s": 92.32
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar werkt Alex?",
+   "o": [
+    "in een winkel",
+    "bij een IT-bedrijf",
+    "op een school",
+    "in een ziekenhuis"
+   ],
+   "a": 1,
+   "fa": "الکس کجا کار می‌کند؟"
+  },
+  {
+   "q": "Welke kleur heeft het fietspad?",
+   "o": [
+    "rood",
+    "groen",
+    "grijs",
+    "blauw"
+   ],
+   "a": 0,
+   "fa": "مسیر دوچرخه چه رنگی است؟"
+  },
+  {
+   "q": "Wat doen ze bij een rood stoplicht?",
+   "o": [
+    "snel fietsen",
+    "wachten",
+    "bellen",
+    "lopen"
+   ],
+   "a": 1,
+   "fa": "پشت چراغ قرمز چه کار می‌کنند؟"
+  },
+  {
+   "q": "Wat betekent “rechts gaat voor”?",
+   "o": [
+    "rechts mag eerst",
+    "altijd rechts fietsen",
+    "rechts mag niet",
+    "links mag eerst"
+   ],
+   "a": 0,
+   "fa": "«سمت راست حق تقدم دارد» یعنی چه؟"
+  },
+  {
+   "q": "Hoe lang fietst Alex naar zijn werk?",
+   "o": [
+    "vijf minuten",
+    "tien minuten",
+    "twintig minuten",
+    "een uur"
+   ],
+   "a": 2,
+   "fa": "الکس چقدر تا محل کارش رکاب می‌زند؟"
+  },
+  {
+   "q": "Wat moet Alex 's avonds doen?",
+   "o": [
+    "bellen",
+    "zijn licht aandoen",
+    "lopen",
+    "de tram nemen"
+   ],
+   "a": 1,
+   "fa": "الکس شب باید چه کار کند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "werk",
+   "art": "het",
+   "w": "het werk",
+   "ipa": "/ʋɛrk/",
+   "fa": "کار، محل کار",
+   "ex": "Na twintig minuten zijn ze bij het werk.",
+   "m": [
+    35,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "fietspad",
+   "art": "het",
+   "w": "het fietspad",
+   "ipa": "/ˈfitspɑt/",
+   "fa": "مسیر دوچرخه",
+   "ex": "Ze rijden op het rode fietspad.",
+   "m": [
+    22,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "stoplicht",
+   "art": "het",
+   "w": "het stoplicht",
+   "ipa": "/ˈstɔplɪxt/",
+   "fa": "چراغ راهنمایی",
+   "ex": "Bij een kruispunt is het stoplicht rood.",
+   "m": [
+    25,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "wachten",
+   "art": "",
+   "w": "wachten",
+   "ipa": "/ˈʋɑxtə(n)/",
+   "fa": "صبر کردن",
+   "ex": "We wachten op de bus.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "tram",
+   "art": "de",
+   "w": "de tram",
+   "ipa": "/trɛm/",
+   "fa": "تراموا",
+   "ex": "In Amsterdam zijn veel fietsers, trams en toeristen.",
+   "m": [
+    33,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "rechts",
+   "art": "",
+   "w": "rechts",
+   "ipa": "/rɛxts/",
+   "fa": "راست",
+   "ex": "Die fietser komt van rechts.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "links",
+   "art": "",
+   "w": "links",
+   "ipa": "/lɪŋks/",
+   "fa": "چپ",
+   "ex": "Alex wil naar links.",
+   "m": [
+    14,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "fietsenstalling",
+   "art": "de",
+   "w": "de fietsenstalling",
+   "ipa": "/ˈfitsə(n)stɑlɪŋ/",
+   "fa": "پارکینگ دوچرخه",
+   "ex": "Alex zet zijn fiets in de fietsenstalling en doet hem op slot.",
+   "m": [
+    26,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "boete",
+   "art": "de",
+   "w": "de boete",
+   "ipa": "/ˈbutə/",
+   "fa": "جریمه",
+   "ex": "Anders krijg je een boete!",
+   "m": [
+    20,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "gezond",
+   "art": "",
+   "w": "gezond",
+   "ipa": "/ɣəˈzɔnt/",
+   "fa": "سالم",
+   "ex": "Fruit is gezond.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "bedrijf",
+   "art": "het",
+   "w": "het bedrijf",
+   "ipa": "/bəˈdrɛif/",
+   "fa": "شرکت",
+   "ex": "Alex werkt bij een IT-bedrijf aan het IJ.",
+   "m": [
+    22,
+    29
+   ],
+   "book": 0
+  },
+  {
+   "id": "fietser",
+   "art": "de",
+   "w": "de fietser",
+   "ipa": "/ˈfitsər/",
+   "fa": "دوچرخه‌سوار",
+   "ex": "In Amsterdam zijn veel fietsers, trams en toeristen.",
+   "m": [
+    23,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "toerist",
+   "art": "de",
+   "w": "de toerist",
+   "ipa": "/tuˈrɪst/",
+   "fa": "گردشگر",
+   "ex": "In Amsterdam zijn veel fietsers, trams en toeristen.",
+   "m": [
+    42,
+    51
+   ],
+   "book": 0
+  },
+  {
+   "id": "kruispunt",
+   "art": "het",
+   "w": "het kruispunt",
+   "ipa": "/ˈkrœyspʏnt/",
+   "fa": "چهارراه",
+   "ex": "Bij een kruispunt is het stoplicht rood.",
+   "m": [
+    8,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "groen",
+   "art": "",
+   "w": "groen",
+   "ipa": "/ɣrun/",
+   "fa": "سبز",
+   "ex": "Dan is het groen.",
+   "m": [
+    11,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "eerst",
+   "art": "",
+   "w": "eerst",
+   "ipa": "/eːrst/",
+   "fa": "اول، اول از همه",
+   "ex": "Vandaag fietst hij voor het eerst naar zijn werk.",
+   "m": [
+    28,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "vanavond",
+   "art": "",
+   "w": "vanavond",
+   "ipa": "/ˌvɑˈnaːvɔnt/",
+   "fa": "امشب",
+   "ex": "Vanavond moet je je licht aandoen.",
+   "m": [
+    0,
+    8
+   ],
+   "book": 0
+  },
+  {
+   "id": "leuk",
+   "art": "",
+   "w": "leuk",
+   "ipa": "/løːk/",
+   "fa": "جالب، باحال",
+   "ex": "Fietsen in Amsterdam is spannend, maar ook leuk.",
+   "m": [
+    43,
+    47
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Let goed op!",
+   "fa": "خوب حواست را جمع کن!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Het stoplicht is rood.",
+   "fa": "چراغ قرمز است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Rechts gaat voor.",
+   "fa": "سمت راست حق تقدم دارد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik zet mijn fiets in de fietsenstalling.",
+   "fa": "دوچرخه‌ام را در پارکینگ دوچرخه می‌گذارم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Fietsen is gezond.",
+   "fa": "دوچرخه‌سواری برای سلامتی خوب است.",
+   "alt": []
+  }
+ ]
+}

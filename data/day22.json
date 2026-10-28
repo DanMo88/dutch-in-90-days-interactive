@@ -1,0 +1,470 @@
+{
+ "day": 22,
+ "level": "A1",
+ "title": "Sint-Maarten",
+ "fa_title": "جشن سینت‌مارتن",
+ "audio": "audio/day22.mp3",
+ "img": "img/day22.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is elf november.",
+   "s": 5.07
+  },
+  {
+   "p": 0,
+   "t": "Vandaag is het Sint-Maarten.",
+   "s": 7.98
+  },
+  {
+   "p": 0,
+   "t": "In de klas heeft Mia een lampion gemaakt.",
+   "s": 11.15
+  },
+  {
+   "p": 0,
+   "t": "Hij is oranje en ziet eruit als een pompoen.",
+   "s": 15.12
+  },
+  {
+   "p": 1,
+   "t": "“Vanavond gaan we langs de deuren,” zegt Mia.",
+   "s": 19.2
+  },
+  {
+   "p": 1,
+   "t": "“En dan zingen we liedjes.",
+   "s": 23.32
+  },
+  {
+   "p": 1,
+   "t": "Dan krijgen we snoep!”",
+   "s": 26.28
+  },
+  {
+   "p": 2,
+   "t": "Het is zes uur en al donker.",
+   "s": 29.07
+  },
+  {
+   "p": 2,
+   "t": "Mia doet haar jas aan.",
+   "s": 32.52
+  },
+  {
+   "p": 2,
+   "t": "Ik zet het lichtje in de lampion aan.",
+   "s": 35.49
+  },
+  {
+   "p": 2,
+   "t": "Het is een klein lampje, geen echte kaars.",
+   "s": 39.07
+  },
+  {
+   "p": 3,
+   "t": "We lopen samen door de straat.",
+   "s": 43.46
+  },
+  {
+   "p": 3,
+   "t": "Er zijn veel kinderen met lampions.",
+   "s": 46.88
+  },
+  {
+   "p": 3,
+   "t": "Het is prachtig.",
+   "s": 50.63
+  },
+  {
+   "p": 4,
+   "t": "Mia belt aan bij Dani en Emma.",
+   "s": 53.2
+  },
+  {
+   "p": 4,
+   "t": "De deur gaat open.",
+   "s": 57.27
+  },
+  {
+   "p": 4,
+   "t": "Mia zingt:",
+   "s": 59.96
+  },
+  {
+   "p": 5,
+   "t": "“Sint-Maarten, Sint-Maarten, de koeien hebben staarten...”",
+   "s": 63.33
+  },
+  {
+   "p": 6,
+   "t": "Emma klapt.",
+   "s": 67.29
+  },
+  {
+   "p": 6,
+   "t": "“Wat mooi, Mia!”",
+   "s": 69.52
+  },
+  {
+   "p": 6,
+   "t": "Ze geeft haar een mandarijn en een snoepje.",
+   "s": 72.31
+  },
+  {
+   "p": 7,
+   "t": "Lucy kijkt verbaasd naar de lampion.",
+   "s": 75.96
+  },
+  {
+   "p": 7,
+   "t": "Ze wil ermee spelen!",
+   "s": 79.73
+  },
+  {
+   "p": 8,
+   "t": "Bij tien huizen zingt Mia een liedje.",
+   "s": 82.74
+  },
+  {
+   "p": 8,
+   "t": "Haar tas is vol.",
+   "s": 86.52
+  },
+  {
+   "p": 8,
+   "t": "Thuis legt ze alles op tafel.",
+   "s": 89.35
+  },
+  {
+   "p": 8,
+   "t": "“Mama, dit is het leukste feest van Nederland!”",
+   "s": 92.73
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer is het Sint-Maarten?",
+   "o": [
+    "op elf november",
+    "op vijf december",
+    "op één januari",
+    "op elf oktober"
+   ],
+   "a": 0,
+   "fa": "سینت‌مارتن کِی است؟"
+  },
+  {
+   "q": "Hoe ziet de lampion van Mia eruit?",
+   "o": [
+    "als een ster",
+    "als een maan",
+    "als een pompoen",
+    "als een beer"
+   ],
+   "a": 2,
+   "fa": "فانوس میا شبیه چیست؟"
+  },
+  {
+   "q": "Wat zit er in de lampion?",
+   "o": [
+    "een echte kaars",
+    "een klein lampje",
+    "snoep",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "داخل فانوس چه هست؟"
+  },
+  {
+   "q": "Wat doen de kinderen bij de deuren?",
+   "o": [
+    "dansen",
+    "zingen",
+    "lezen",
+    "praten"
+   ],
+   "a": 1,
+   "fa": "بچه‌ها دمِ درها چه کار می‌کنند؟"
+  },
+  {
+   "q": "Wat geeft Emma aan Mia?",
+   "o": [
+    "een koekje",
+    "een appel",
+    "chocolade",
+    "een mandarijn en een snoepje"
+   ],
+   "a": 3,
+   "fa": "اِما به میا چه می‌دهد؟"
+  },
+  {
+   "q": "Wat wil Lucy doen?",
+   "o": [
+    "slapen",
+    "met de lampion spelen",
+    "eten",
+    "naar buiten"
+   ],
+   "a": 1,
+   "fa": "لوسی می‌خواهد چه کار کند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "lampion",
+   "art": "de",
+   "w": "de lampion",
+   "ipa": "/lɑmpiˈjɔn/",
+   "fa": "فانوس کاغذی",
+   "ex": "In de klas heeft Mia een lampion gemaakt.",
+   "m": [
+    25,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "lied",
+   "art": "het",
+   "w": "het lied",
+   "ipa": "/lit/",
+   "fa": "آهنگ، ترانه",
+   "ex": "Bij tien huizen zingt Mia een liedje.",
+   "m": [
+    30,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "zingen",
+   "art": "",
+   "w": "zingen",
+   "ipa": "/ˈzɪŋə(n)/",
+   "fa": "آواز خواندن",
+   "ex": "Bij tien huizen zingt Mia een liedje.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanbellen",
+   "art": "",
+   "w": "aanbellen",
+   "ipa": "/ˈaːmbɛlə(n)/",
+   "fa": "زنگ در را زدن",
+   "ex": "Mia belt aan bij Dani en Emma.",
+   "m": [
+    4,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "snoep",
+   "art": "het",
+   "w": "het snoep",
+   "ipa": "/snup/",
+   "fa": "آبنبات، شیرینی",
+   "ex": "Dan krijgen we snoep!",
+   "m": [
+    15,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "ster",
+   "art": "de",
+   "w": "de ster",
+   "ipa": "/stɛr/",
+   "fa": "ستاره",
+   "ex": "Aan de hemel staat een ster.",
+   "m": [
+    23,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "maan",
+   "art": "de",
+   "w": "de maan",
+   "ipa": "/maːn/",
+   "fa": "ماه",
+   "ex": "De maan is vanavond rond.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "mandarijn",
+   "art": "de",
+   "w": "de mandarijn",
+   "ipa": "/mɑndaːˈrɛin/",
+   "fa": "نارنگی",
+   "ex": "Ze geeft haar een mandarijn en een snoepje.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "feest",
+   "art": "het",
+   "w": "het feest",
+   "ipa": "/feːst/",
+   "fa": "جشن",
+   "ex": "Mama, dit is het leukste feest van Nederland!",
+   "m": [
+    25,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "vol",
+   "art": "",
+   "w": "vol",
+   "ipa": "/vɔl/",
+   "fa": "پر",
+   "ex": "Mijn tas is vol.",
+   "m": [
+    12,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "november",
+   "art": "",
+   "w": "november",
+   "ipa": "/noːˈvɛmbər/",
+   "fa": "نوامبر",
+   "ex": "Het is elf november.",
+   "m": [
+    11,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "pompoen",
+   "art": "de",
+   "w": "de pompoen",
+   "ipa": "/pɔmˈpun/",
+   "fa": "کدوحلوایی",
+   "ex": "Hij is oranje en ziet eruit als een pompoen.",
+   "m": [
+    36,
+    43
+   ],
+   "book": 0
+  },
+  {
+   "id": "deur",
+   "art": "de",
+   "w": "de deur",
+   "ipa": "/døːr/",
+   "fa": "در",
+   "ex": "Vanavond gaan we langs de deuren.",
+   "m": [
+    26,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "jas",
+   "art": "de",
+   "w": "de jas",
+   "ipa": "/jɑs/",
+   "fa": "کاپشن، کت",
+   "ex": "Mia doet haar jas aan.",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "koe",
+   "art": "de",
+   "w": "de koe",
+   "ipa": "/ku/",
+   "fa": "گاو",
+   "ex": "Sint-Maarten, Sint-Maarten, de koeien hebben staarten...",
+   "m": [
+    31,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "spelen",
+   "art": "",
+   "w": "spelen",
+   "ipa": "/ˈspeːlə(n)/",
+   "fa": "بازی کردن",
+   "ex": "Ze wil ermee spelen!",
+   "m": [
+    13,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "tas",
+   "art": "de",
+   "w": "de tas",
+   "ipa": "/tɑs/",
+   "fa": "کیف، کیسه",
+   "ex": "Haar tas is vol.",
+   "m": [
+    5,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vanavond gaan we langs de deuren.",
+   "fa": "امشب در خانه‌ها را می‌زنیم.",
+   "alt": [
+    "We gaan vanavond langs de deuren."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Het is al donker.",
+   "fa": "هوا دیگر تاریک شده است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Mia belt aan bij Dani.",
+   "fa": "میا زنگ خانه‌ی دانی را می‌زند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Haar tas is vol.",
+   "fa": "کیسه‌اش پر است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Dit is het leukste feest!",
+   "fa": "این باحال‌ترین جشن است!",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "day": 13,
+ "level": "A1",
+ "title": "Op zoek bij de Action",
+ "fa_title": "گشت‌وگذار در فروشگاه اَکشن",
+ "audio": "audio/day13.mp3",
+ "img": "img/day13.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Ons huis is nog een beetje leeg.",
+   "s": 4.94
+  },
+  {
+   "p": 0,
+   "t": "We hebben een bed, een tafel en stoelen, maar het is niet gezellig.",
+   "s": 8.44
+  },
+  {
+   "p": 1,
+   "t": "“Ga naar de Action,” zegt Emma.",
+   "s": 14.43
+  },
+  {
+   "p": 1,
+   "t": "“Daar is alles goedkoop!”",
+   "s": 18.15
+  },
+  {
+   "p": 2,
+   "t": "De Action is een grote winkel met heel veel spullen: lampen, kaarsen, speelgoed en snoep.",
+   "s": 21.13
+  },
+  {
+   "p": 2,
+   "t": "Elke week zijn er nieuwe dingen.",
+   "s": 29.85
+  },
+  {
+   "p": 3,
+   "t": "Ik neem een winkelwagen.",
+   "s": 33.16
+  },
+  {
+   "p": 3,
+   "t": "Mia wil alles!",
+   "s": 36.02
+  },
+  {
+   "p": 3,
+   "t": "Een knuffel, stiften, een bal...",
+   "s": 38.57
+  },
+  {
+   "p": 4,
+   "t": "“Eén ding, Mia,” zeg ik.",
+   "s": 42.62
+  },
+  {
+   "p": 4,
+   "t": "Ze kiest een knuffelkat.",
+   "s": 46.52
+  },
+  {
+   "p": 4,
+   "t": "“Die lijkt op Lucy!” zegt ze.",
+   "s": 49.35
+  },
+  {
+   "p": 5,
+   "t": "Ik koop een lamp, vijf kaarsen, twee kussens en een plant.",
+   "s": 53.88
+  },
+  {
+   "p": 5,
+   "t": "Alles samen kost maar vijfendertig euro.",
+   "s": 59.6
+  },
+  {
+   "p": 6,
+   "t": "Thuis zet ik de lamp naast de bank.",
+   "s": 63.8
+  },
+  {
+   "p": 6,
+   "t": "Ik leg de kussens op de bank en ik zet de plant bij het raam.",
+   "s": 67.24
+  },
+  {
+   "p": 6,
+   "t": "'s Avonds steek ik de kaarsen aan.",
+   "s": 72.04
+  },
+  {
+   "p": 7,
+   "t": "Alex komt thuis van zijn werk.",
+   "s": 75.66
+  },
+  {
+   "p": 7,
+   "t": "Hij kijkt rond.",
+   "s": 78.97
+  },
+  {
+   "p": 7,
+   "t": "“Wauw!",
+   "s": 81.29
+  },
+  {
+   "p": 7,
+   "t": "Wat is het hier gezellig!”",
+   "s": 83.01
+  },
+  {
+   "p": 8,
+   "t": "“Ja,” zeg ik.",
+   "s": 85.87
+  },
+  {
+   "p": 8,
+   "t": "“Nu is het echt ons huis.”",
+   "s": 88.88
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom gaat Sara naar de Action?",
+   "o": [
+    "het huis is een beetje leeg",
+    "ze heeft eten nodig",
+    "ze zoekt werk",
+    "Mia is jarig"
+   ],
+   "a": 0,
+   "fa": "چرا سارا به اکشن می‌رود؟"
+  },
+  {
+   "q": "Hoe zijn de spullen bij de Action?",
+   "o": [
+    "duur",
+    "goedkoop",
+    "oud",
+    "kapot"
+   ],
+   "a": 1,
+   "fa": "وسایل اکشن چطورند؟"
+  },
+  {
+   "q": "Wat kiest Mia?",
+   "o": [
+    "een bal",
+    "stiften",
+    "een knuffelkat",
+    "snoep"
+   ],
+   "a": 2,
+   "fa": "میا چه انتخاب می‌کند؟"
+  },
+  {
+   "q": "Hoeveel kost alles samen?",
+   "o": [
+    "vijf euro",
+    "vijftien euro",
+    "vijfendertig euro",
+    "honderd euro"
+   ],
+   "a": 2,
+   "fa": "همه‌ی خریدها روی هم چند می‌شود؟"
+  },
+  {
+   "q": "Waar zet Sara de plant?",
+   "o": [
+    "bij het raam",
+    "in de keuken",
+    "op de tafel",
+    "buiten"
+   ],
+   "a": 0,
+   "fa": "سارا گیاه را کجا می‌گذارد؟"
+  },
+  {
+   "q": "Wat zegt Alex?",
+   "o": [
+    "“Wat duur!”",
+    "“Wat gezellig!”",
+    "“Ik heb honger.”",
+    "“Waar is Mia?”"
+   ],
+   "a": 1,
+   "fa": "الکس چه می‌گوید؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "goedkoop",
+   "art": "",
+   "w": "goedkoop",
+   "ipa": "/ɣutˈkoːp/",
+   "fa": "ارزان",
+   "ex": "Daar is alles goedkoop!",
+   "m": [
+    14,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "lamp",
+   "art": "de",
+   "w": "de lamp",
+   "ipa": "/lɑmp/",
+   "fa": "چراغ، لامپ",
+   "ex": "Thuis zet ik de lamp naast de bank.",
+   "m": [
+    16,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "winkelwagen",
+   "art": "de",
+   "w": "de winkelwagen",
+   "ipa": "/ˈʋɪŋkəlʋaːɣə(n)/",
+   "fa": "چرخ خرید",
+   "ex": "Ik neem een winkelwagen.",
+   "m": [
+    12,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "knuffel",
+   "art": "de",
+   "w": "de knuffel",
+   "ipa": "/ˈknʏfəl/",
+   "fa": "عروسک پولیشی؛ بغل",
+   "ex": "Een knuffel, stiften, een bal...",
+   "m": [
+    4,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "kussen",
+   "art": "het",
+   "w": "het kussen",
+   "ipa": "/ˈkʏsə(n)/",
+   "fa": "کوسن، بالش",
+   "ex": "Ik koop een lamp, vijf kaarsen, twee kussens en een plant.",
+   "m": [
+    37,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "plant",
+   "art": "de",
+   "w": "de plant",
+   "ipa": "/plɑnt/",
+   "fa": "گیاه",
+   "ex": "Ik koop een lamp, vijf kaarsen, twee kussens en een plant.",
+   "m": [
+    52,
+    57
+   ],
+   "book": 1
+  },
+  {
+   "id": "woonkamer",
+   "art": "de",
+   "w": "de woonkamer",
+   "ipa": "/ˈʋoːŋkaːmər/",
+   "fa": "اتاق نشیمن",
+   "ex": "De tv staat in de woonkamer.",
+   "m": [
+    18,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "bank",
+   "art": "de",
+   "w": "de bank",
+   "ipa": "/bɑŋk/",
+   "fa": "کاناپه، مبل",
+   "ex": "Papa slaapt op de bank.",
+   "m": [
+    18,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "aansteken",
+   "art": "",
+   "w": "aansteken",
+   "ipa": "/ˈaːnsteːkə(n)/",
+   "fa": "روشن کردن (شمع، آتش)",
+   "ex": "Ik steek een kaars aan.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "stoel",
+   "art": "de",
+   "w": "de stoel",
+   "ipa": "/stul/",
+   "fa": "صندلی",
+   "ex": "We hebben een bed, een tafel en stoelen, maar het is niet gezellig.",
+   "m": [
+    32,
+    39
+   ],
+   "book": 1
+  },
+  {
+   "id": "bed",
+   "art": "het",
+   "w": "het bed",
+   "ipa": "/bɛt/",
+   "fa": "تخت",
+   "ex": "We hebben een bed, een tafel en stoelen, maar het is niet gezellig.",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "speelgoed",
+   "art": "het",
+   "w": "het speelgoed",
+   "ipa": "/ˈspeːlɣut/",
+   "fa": "اسباب‌بازی",
+   "ex": "De Action is een grote winkel met heel veel spullen: lampen, kaarsen, speelgoed en snoep.",
+   "m": [
+    70,
+    79
+   ],
+   "book": 0
+  },
+  {
+   "id": "stift",
+   "art": "de",
+   "w": "de stift",
+   "ipa": "/stɪft/",
+   "fa": "ماژیک",
+   "ex": "Een knuffel, stiften, een bal...",
+   "m": [
+    13,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "ding",
+   "art": "het",
+   "w": "het ding",
+   "ipa": "/dɪŋ/",
+   "fa": "چیز",
+   "ex": "Elke week zijn er nieuwe dingen.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "echt",
+   "art": "",
+   "w": "echt",
+   "ipa": "/ɛxt/",
+   "fa": "واقعاً، واقعی",
+   "ex": "Nu is het echt ons huis.",
+   "m": [
+    10,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "leggen",
+   "art": "",
+   "w": "leggen",
+   "ipa": "/ˈlɛɣə(n)/",
+   "fa": "گذاشتن (به حالت خوابیده)",
+   "ex": "Ik leg de kussens op de bank en ik zet de plant bij het raam.",
+   "m": [
+    3,
+    6
+   ],
+   "book": 0
+  },
+  {
+   "id": "week",
+   "art": "de",
+   "w": "de week",
+   "ipa": "/ʋeːk/",
+   "fa": "هفته",
+   "ex": "Elke week zijn er nieuwe dingen.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "euro",
+   "art": "de",
+   "w": "de euro",
+   "ipa": "/ˈøːroː/",
+   "fa": "یورو",
+   "ex": "Alles samen kost maar vijfendertig euro.",
+   "m": [
+    35,
+    39
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Daar is alles goedkoop!",
+   "fa": "آنجا همه‌چیز ارزان است!",
+   "alt": [
+    "Alles is daar goedkoop!"
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Ik neem een winkelwagen.",
+   "fa": "یک چرخ خرید برمی‌دارم.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Die lijkt op Lucy!",
+   "fa": "این شبیه لوسی است!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik zet de lamp naast de bank.",
+   "fa": "چراغ را کنار کاناپه می‌گذارم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Wat is het hier gezellig!",
+   "fa": "اینجا چقدر دلنشین است!",
+   "alt": []
+  }
+ ]
+}

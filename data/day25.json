@@ -1,0 +1,448 @@
+{
+ "day": 25,
+ "level": "A1",
+ "title": "Pakjesavond",
+ "fa_title": "شب هدیه‌ها",
+ "audio": "audio/day25.mp3",
+ "img": "img/day25.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is vijf december: pakjesavond!",
+   "s": 5.16
+  },
+  {
+   "p": 0,
+   "t": "Dani en Emma vieren het samen met ons.",
+   "s": 9.51
+  },
+  {
+   "p": 0,
+   "t": "Oma Anna is er ook.",
+   "s": 13.77
+  },
+  {
+   "p": 1,
+   "t": "Voor de volwassenen doen we een surprise.",
+   "s": 16.76
+  },
+  {
+   "p": 1,
+   "t": "Iedereen trekt een lootje met een naam.",
+   "s": 20.58
+  },
+  {
+   "p": 1,
+   "t": "Ik heb Alex!",
+   "s": 24.15
+  },
+  {
+   "p": 1,
+   "t": "Ik maak een cadeau in een bijzondere verpakking: een grote fiets van karton.",
+   "s": 26.43
+  },
+  {
+   "p": 1,
+   "t": "Daarin zit een nieuwe fietsbel.",
+   "s": 32.79
+  },
+  {
+   "p": 1,
+   "t": "En ik schrijf een gedicht.",
+   "s": 36.16
+  },
+  {
+   "p": 1,
+   "t": "Dat is een kort grappig verhaal dat rijmt.",
+   "s": 38.91
+  },
+  {
+   "p": 2,
+   "t": "Dan wordt er hard op de deur geklopt.",
+   "s": 42.69
+  },
+  {
+   "p": 2,
+   "t": "Bonk, bonk, bonk!",
+   "s": 46.3
+  },
+  {
+   "p": 3,
+   "t": "Mia rent naar de deur.",
+   "s": 49.88
+  },
+  {
+   "p": 3,
+   "t": "Er is niemand, maar er staat een grote zak vol pakjes!",
+   "s": 52.68
+  },
+  {
+   "p": 3,
+   "t": "“Sinterklaas is geweest!”",
+   "s": 58.1
+  },
+  {
+   "p": 4,
+   "t": "Mia krijgt een tekenset en een boek.",
+   "s": 61.27
+  },
+  {
+   "p": 4,
+   "t": "Ze is dolblij.",
+   "s": 65.27
+  },
+  {
+   "p": 5,
+   "t": "Dan leest Alex zijn gedicht voor:",
+   "s": 67.77
+  },
+  {
+   "p": 6,
+   "t": "“Alex fietst elke dag naar zijn werk, maar zijn bel is niet zo sterk...”",
+   "s": 71.37
+  },
+  {
+   "p": 7,
+   "t": "Iedereen lacht.",
+   "s": 78.57
+  },
+  {
+   "p": 7,
+   "t": "Alex pakt de fiets van karton uit.",
+   "s": 80.83
+  },
+  {
+   "p": 7,
+   "t": "“Een nieuwe bel!",
+   "s": 84.58
+  },
+  {
+   "p": 7,
+   "t": "Dank je wel, Sint!”",
+   "s": 86.8
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer is het pakjesavond?",
+   "o": [
+    "op vijf december",
+    "op zes december",
+    "op vijfentwintig december",
+    "op elf november"
+   ],
+   "a": 0,
+   "fa": "شب هدیه‌ها کِی است؟"
+  },
+  {
+   "q": "Wie heeft Sara op haar lootje?",
+   "o": [
+    "Emma",
+    "Dani",
+    "Alex",
+    "Oma Anna"
+   ],
+   "a": 2,
+   "fa": "اسم چه کسی در قرعه‌ی سارا درآمده؟"
+  },
+  {
+   "q": "Wat is de verpakking van het cadeau?",
+   "o": [
+    "een doos",
+    "een fiets van karton",
+    "een tas",
+    "een schoen"
+   ],
+   "a": 1,
+   "fa": "بسته‌بندی هدیه چیست؟"
+  },
+  {
+   "q": "Wat is een gedicht?",
+   "o": [
+    "een lied",
+    "een tekening",
+    "een brief",
+    "een kort grappig verhaal dat rijmt"
+   ],
+   "a": 3,
+   "fa": "«شعر» (gedicht) چیست؟"
+  },
+  {
+   "q": "Wat staat er bij de deur?",
+   "o": [
+    "Sinterklaas",
+    "een zak vol pakjes",
+    "Piet",
+    "een paard"
+   ],
+   "a": 1,
+   "fa": "دمِ در چه هست؟"
+  },
+  {
+   "q": "Wat krijgt Mia?",
+   "o": [
+    "een fiets",
+    "een pop",
+    "een tekenset en een boek",
+    "een bal"
+   ],
+   "a": 2,
+   "fa": "میا چه می‌گیرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "pakje",
+   "art": "het",
+   "w": "het pakje",
+   "ipa": "/ˈpɑkjə/",
+   "fa": "بسته‌ی کادو",
+   "ex": "Er is niemand, maar er staat een grote zak vol pakjes!",
+   "m": [
+    47,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "lootje",
+   "art": "het",
+   "w": "het lootje",
+   "ipa": "/ˈloːtjə/",
+   "fa": "برگه‌ی قرعه",
+   "ex": "Iedereen trekt een lootje met een naam.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "surprise",
+   "art": "de",
+   "w": "de surprise",
+   "ipa": "/syrˈprizə/",
+   "fa": "سورپرایز (کادوی دست‌ساز)",
+   "ex": "Voor de volwassenen doen we een surprise.",
+   "m": [
+    32,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "gedicht",
+   "art": "het",
+   "w": "het gedicht",
+   "ipa": "/ɣəˈdɪxt/",
+   "fa": "شعر",
+   "ex": "Dan leest Alex zijn gedicht voor.",
+   "m": [
+    20,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "rijmen",
+   "art": "",
+   "w": "rijmen",
+   "ipa": "/ˈrɛimə(n)/",
+   "fa": "قافیه داشتن",
+   "ex": "Dat is een kort grappig verhaal dat rijmt.",
+   "m": [
+    36,
+    41
+   ],
+   "book": 1
+  },
+  {
+   "id": "kloppen",
+   "art": "",
+   "w": "kloppen",
+   "ipa": "/ˈklɔpə(n)/",
+   "fa": "در زدن",
+   "ex": "Dan wordt er hard op de deur geklopt.",
+   "m": [
+    29,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitpakken",
+   "art": "",
+   "w": "uitpakken",
+   "ipa": "/ˈœytpɑkə(n)/",
+   "fa": "باز کردن (کادو)",
+   "ex": "Mia pakt haar cadeau uit.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "zak",
+   "art": "de",
+   "w": "de zak",
+   "ipa": "/zɑk/",
+   "fa": "کیسه",
+   "ex": "De zak is vol pakjes.",
+   "m": [
+    3,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "vieren",
+   "art": "",
+   "w": "vieren",
+   "ipa": "/ˈvirə(n)/",
+   "fa": "جشن گرفتن",
+   "ex": "Dani en Emma vieren het samen met ons.",
+   "m": [
+    13,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "grappig",
+   "art": "",
+   "w": "grappig",
+   "ipa": "/ˈɣrɑpəx/",
+   "fa": "بامزه، خنده‌دار",
+   "ex": "Dat is een kort grappig verhaal dat rijmt.",
+   "m": [
+    16,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "december",
+   "art": "",
+   "w": "december",
+   "ipa": "/deːˈsɛmbər/",
+   "fa": "دسامبر",
+   "ex": "Het is vijf december: pakjesavond!",
+   "m": [
+    12,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "naam",
+   "art": "de",
+   "w": "de naam",
+   "ipa": "/naːm/",
+   "fa": "اسم",
+   "ex": "Iedereen trekt een lootje met een naam.",
+   "m": [
+    34,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "kort",
+   "art": "",
+   "w": "kort",
+   "ipa": "/kɔrt/",
+   "fa": "کوتاه",
+   "ex": "Dat is een kort grappig verhaal dat rijmt.",
+   "m": [
+    11,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "verhaal",
+   "art": "het",
+   "w": "het verhaal",
+   "ipa": "/vərˈɦaːl/",
+   "fa": "داستان",
+   "ex": "Dat is een kort grappig verhaal dat rijmt.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "niemand",
+   "art": "",
+   "w": "niemand",
+   "ipa": "/ˈnimɑnt/",
+   "fa": "هیچ‌کس",
+   "ex": "Er is niemand, maar er staat een grote zak vol pakjes!",
+   "m": [
+    6,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "dolblij",
+   "art": "",
+   "w": "dolblij",
+   "ipa": "/ˈdɔlblɛi/",
+   "fa": "خیلی خوشحال",
+   "ex": "Ze is dolblij.",
+   "m": [
+    6,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "tekenset",
+   "art": "de",
+   "w": "de tekenset",
+   "ipa": "/ˈteːkənsɛt/",
+   "fa": "جعبه‌ی وسایل نقاشی",
+   "ex": "Mia krijgt een tekenset en een boek.",
+   "m": [
+    15,
+    23
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Iedereen trekt een lootje.",
+   "fa": "همه یک قرعه برمی‌دارند.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik heb Alex!",
+   "fa": "اسم الکس به من افتاده!",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Er wordt hard op de deur geklopt.",
+   "fa": "محکم به در می‌کوبند.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Sinterklaas is geweest!",
+   "fa": "سینترکلاس آمده است!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Mia is dolblij.",
+   "fa": "میا خیلی خوشحال است.",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+{
+ "day": 27,
+ "level": "A1",
+ "title": "Kerst met de buren",
+ "fa_title": "کریسمس با همسایه‌ها",
+ "audio": "audio/day27.mp3",
+ "img": "img/day27.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is eerste kerstdag.",
+   "s": 5.44
+  },
+  {
+   "p": 0,
+   "t": "Dani en Emma komen bij ons eten.",
+   "s": 8.46
+  },
+  {
+   "p": 0,
+   "t": "Oma Anna komt ook.",
+   "s": 12.44
+  },
+  {
+   "p": 1,
+   "t": "“Wat eten we?” vraagt Alex.",
+   "s": 15.37
+  },
+  {
+   "p": 2,
+   "t": "“We gaan gourmetten!” zegt Emma.",
+   "s": 19.96
+  },
+  {
+   "p": 2,
+   "t": "“Dat doen veel Nederlanders met kerst.”",
+   "s": 24.55
+  },
+  {
+   "p": 3,
+   "t": "Ze neemt een gourmetstel mee.",
+   "s": 28.19
+  },
+  {
+   "p": 3,
+   "t": "Dat is een grote elektrische plaat met kleine pannetjes.",
+   "s": 31.26
+  },
+  {
+   "p": 3,
+   "t": "Iedereen bakt zijn eigen eten aan tafel.",
+   "s": 36.21
+  },
+  {
+   "p": 4,
+   "t": "Op tafel staan veel schaaltjes: stukjes kip, kleine biefstukjes, groente, garnalen en champignons.",
+   "s": 40.4
+  },
+  {
+   "p": 4,
+   "t": "En natuurlijk stokbrood met kruidenboter en verschillende sauzen.",
+   "s": 50.54
+  },
+  {
+   "p": 5,
+   "t": "Mia bakt een pannenkoekje in haar eigen pannetje.",
+   "s": 56.24
+  },
+  {
+   "p": 5,
+   "t": "“Kijk!",
+   "s": 60.65
+  },
+  {
+   "p": 5,
+   "t": "Ik ben een kok!”",
+   "s": 62.35
+  },
+  {
+   "p": 6,
+   "t": "We praten en lachen.",
+   "s": 64.6
+  },
+  {
+   "p": 6,
+   "t": "Het gourmetten duurt heel lang.",
+   "s": 67.32
+  },
+  {
+   "p": 6,
+   "t": "Na drie uur zijn we nog steeds aan het eten!",
+   "s": 70.58
+  },
+  {
+   "p": 7,
+   "t": "“Dit is het mooiste van gourmetten,” zegt Oma Anna.",
+   "s": 74.9
+  },
+  {
+   "p": 7,
+   "t": "“Lang samen aan tafel zitten.”",
+   "s": 79.8
+  },
+  {
+   "p": 8,
+   "t": "Als toetje is er ijs.",
+   "s": 83.13
+  },
+  {
+   "p": 8,
+   "t": "Daarna geeft Oma Anna iedereen een klein cadeautje.",
+   "s": 86.01
+  },
+  {
+   "p": 8,
+   "t": "Voor Mia is het een pop.",
+   "s": 90.83
+  },
+  {
+   "p": 8,
+   "t": "Voor mij een sjaal die ze zelf heeft gebreid.",
+   "s": 93.76
+  },
+  {
+   "p": 9,
+   "t": "“Fijne kerst,” zegt ze.",
+   "s": 97.88
+  },
+  {
+   "p": 9,
+   "t": "Ik geef haar een knuffel.",
+   "s": 101.15
+  },
+  {
+   "p": 9,
+   "t": "Ze is net familie.",
+   "s": 103.85
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welke dag is het?",
+   "o": [
+    "tweede kerstdag",
+    "eerste kerstdag",
+    "oudejaarsdag",
+    "pakjesavond"
+   ],
+   "a": 1,
+   "fa": "چه روزی است؟"
+  },
+  {
+   "q": "Wat gaan ze doen?",
+   "o": [
+    "gourmetten",
+    "pizza bakken",
+    "naar een restaurant",
+    "patat eten"
+   ],
+   "a": 0,
+   "fa": "قرار است چه کار کنند؟"
+  },
+  {
+   "q": "Wat is een gourmetstel?",
+   "o": [
+    "een grote pan",
+    "een oven",
+    "een elektrische plaat met kleine pannetjes",
+    "een magnetron"
+   ],
+   "a": 2,
+   "fa": "گورمت‌ستل چیست؟"
+  },
+  {
+   "q": "Wat bakt Mia?",
+   "o": [
+    "een ei",
+    "kip",
+    "een biefstuk",
+    "een pannenkoekje"
+   ],
+   "a": 3,
+   "fa": "میا چه می‌پزد؟"
+  },
+  {
+   "q": "Hoe lang duurt het gourmetten?",
+   "o": [
+    "een half uur",
+    "een uur",
+    "drie uur",
+    "tien minuten"
+   ],
+   "a": 2,
+   "fa": "گورمت کردن چقدر طول می‌کشد؟"
+  },
+  {
+   "q": "Wat krijgt Sara van Oma Anna?",
+   "o": [
+    "een pop",
+    "een sjaal",
+    "een boek",
+    "een kaars"
+   ],
+   "a": 1,
+   "fa": "سارا از مادربزرگ آنا چه هدیه‌ای می‌گیرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "eerste-kerstdag",
+   "art": "",
+   "w": "eerste kerstdag",
+   "ipa": "/ˈeːrstə ˈkɛrsdɑx/",
+   "fa": "روز اول کریسمس",
+   "ex": "Het is eerste kerstdag.",
+   "m": [
+    7,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "gourmetten",
+   "art": "",
+   "w": "gourmetten",
+   "ipa": "/ɣurˈmɛtə(n)/",
+   "fa": "گورمت کردن (پختن غذا سر میز روی صفحه‌ی برقی)",
+   "ex": "Dit is het mooiste van gourmetten.",
+   "m": [
+    23,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "pan",
+   "art": "de",
+   "w": "de pan",
+   "ipa": "/pɑn/",
+   "fa": "ماهیتابه",
+   "ex": "Mia bakt een pannenkoekje in haar eigen pannetje.",
+   "m": [
+    40,
+    48
+   ],
+   "book": 1
+  },
+  {
+   "id": "bakken",
+   "art": "",
+   "w": "bakken",
+   "ipa": "/ˈbɑkə(n)/",
+   "fa": "پختن، سرخ کردن",
+   "ex": "Iedereen bakt zijn eigen eten aan tafel.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "kip",
+   "art": "de",
+   "w": "de kip",
+   "ipa": "/kɪp/",
+   "fa": "مرغ",
+   "ex": "Op tafel staan veel schaaltjes: stukjes kip, kleine biefstukjes, groente, garnalen en champignons.",
+   "m": [
+    40,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "saus",
+   "art": "de",
+   "w": "de saus",
+   "ipa": "/sɑus/",
+   "fa": "سس",
+   "ex": "En natuurlijk stokbrood met kruidenboter en verschillende sauzen.",
+   "m": [
+    58,
+    64
+   ],
+   "book": 1
+  },
+  {
+   "id": "toetje",
+   "art": "het",
+   "w": "het toetje",
+   "ipa": "/ˈtucə/",
+   "fa": "دسر",
+   "ex": "Als toetje is er ijs.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "pop",
+   "art": "de",
+   "w": "de pop",
+   "ipa": "/pɔp/",
+   "fa": "عروسک",
+   "ex": "Mia speelt met haar pop.",
+   "m": [
+    20,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "sjaal",
+   "art": "de",
+   "w": "de sjaal",
+   "ipa": "/ʃaːl/",
+   "fa": "شال‌گردن",
+   "ex": "Voor mij een sjaal die ze zelf heeft gebreid.",
+   "m": [
+    13,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "fijn",
+   "art": "",
+   "w": "fijn",
+   "ipa": "/fɛin/",
+   "fa": "خوب، دلپذیر",
+   "ex": "Fijne feestdagen!",
+   "m": [
+    0,
+    5
+   ],
+   "book": 1
+  },
+  {
+   "id": "elektrisch",
+   "art": "",
+   "w": "elektrisch",
+   "ipa": "/ˌeːˈlɛktris/",
+   "fa": "برقی",
+   "ex": "Dat is een grote elektrische plaat met kleine pannetjes.",
+   "m": [
+    17,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "plaat",
+   "art": "de",
+   "w": "de plaat",
+   "ipa": "/plaːt/",
+   "fa": "صفحه",
+   "ex": "Dat is een grote elektrische plaat met kleine pannetjes.",
+   "m": [
+    29,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "schaaltje",
+   "art": "het",
+   "w": "het schaaltje",
+   "ipa": "/ˈsxaːlcə/",
+   "fa": "کاسه‌ی کوچک",
+   "ex": "Op tafel staan veel schaaltjes: stukjes kip, kleine biefstukjes, groente, garnalen en champignons.",
+   "m": [
+    20,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "kruidenboter",
+   "art": "de",
+   "w": "de kruidenboter",
+   "ipa": "/ˈkrœydə(n)ˌboːtər/",
+   "fa": "کره‌ی سبزیجات",
+   "ex": "En natuurlijk stokbrood met kruidenboter en verschillende sauzen.",
+   "m": [
+    28,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "garnaal",
+   "art": "de",
+   "w": "de garnaal",
+   "ipa": "/ɣɑrˈnaːl/",
+   "fa": "میگو",
+   "ex": "Op tafel staan veel schaaltjes: stukjes kip, kleine biefstukjes, groente, garnalen en champignons.",
+   "m": [
+    74,
+    82
+   ],
+   "book": 0
+  },
+  {
+   "id": "stokbrood",
+   "art": "het",
+   "w": "het stokbrood",
+   "ipa": "/ˈstɔkbroːt/",
+   "fa": "نان باگت",
+   "ex": "En natuurlijk stokbrood met kruidenboter en verschillende sauzen.",
+   "m": [
+    14,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "kok",
+   "art": "de",
+   "w": "de kok",
+   "ipa": "/kɔk/",
+   "fa": "آشپز",
+   "ex": "Ik ben een kok!",
+   "m": [
+    11,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "breien",
+   "art": "",
+   "w": "breien",
+   "ipa": "/ˈbrɛiə(n)/",
+   "fa": "بافتن (بافتنی)",
+   "ex": "Voor mij een sjaal die ze zelf heeft gebreid.",
+   "m": [
+    37,
+    44
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wat eten we?",
+   "fa": "چه می‌خوریم؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Iedereen bakt zijn eigen eten.",
+   "fa": "هر کس غذای خودش را می‌پزد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Kijk, ik ben een kok!",
+   "fa": "ببین، من آشپزم!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Als toetje is er ijs.",
+   "fa": "برای دسر بستنی هست.",
+   "alt": [
+    "Er is ijs als toetje."
+   ]
+  },
+  {
+   "id": "s5",
+   "en": "Ze is net familie.",
+   "fa": "او مثل خانواده است.",
+   "alt": []
+  }
+ ]
+}

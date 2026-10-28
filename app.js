@@ -6,6 +6,7 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;',
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const wlen = t => t.length + 0.45 * (t.match(/[mwMW]/g) || []).length + 0.2 * (t.match(/[A-Z]/g) || []).length;
 const fitW = (t, k) => { const L = wlen(t); return L > (k || 8) ? ` style="font-size:min(var(--fs),${((k || 8) * 16 / L).toFixed(1)}vw)"` : ''; };
+const fitQ = t => { const L = wlen(t), M = Math.max(...t.split(/\s+/).map(wlen)), f = []; if (L > 22) f.push((22 * 16 / L).toFixed(1) + 'vw'); if (M > 12) f.push((130 / M).toFixed(1) + 'vw'); return f.length ? ` style="font-size:min(var(--fs),${f.join(',')})"` : ''; };
 const timers = new Set();
 const later = (fn, ms) => { const t = setTimeout(() => { timers.delete(t); fn(); }, ms); timers.add(t); return t; };
 const clearTimers = () => { timers.forEach(clearTimeout); timers.clear(); };
@@ -123,7 +124,7 @@ function home() {
     }
   });
   screen(`
-    <div class="home-head"><div class="logo">هلندی در ۹۰ روز<small>دوره‌ی تعاملی · نسخه‌ی نمونه (روز ۱)</small></div>
+    <div class="home-head"><div class="logo">هلندی در ۹۰ روز<small>دوره‌ی تعاملی · داستان، لغت، جمله‌سازی</small></div>
       <button class="inst" data-install>📲 نصب اپ</button></div>
     <div class="hero"><div class="num">🎯</div><div><b>${FA(done)} از ${FA(90)} روز کامل شده</b><span>درس پیشنهادی: روز ${FA(cur || rec)}</span></div></div>
     <div class="days" id="days">${list}</div>`);
@@ -201,7 +202,7 @@ const fitFa = t => t.length > 9 ? ` style="font-size:min(clamp(18px,3dvh,27px),$
 function compScreen(st, R) {
   const q = D.comp[st.i], [n, of] = sectionPos(R, 'c');
   choiceScreen({ R, key: 'c' + st.i, pill: FA(n) + '/' + FA(of), sec: 'بخش ۱ · درک مطلب <small>(جواب‌ها آخر درس)</small>',
-    promptHtml: `<div class="qen en"${fitW(q.q, 22)}>${esc(q.q)}</div><div class="qfa">${esc(q.fa)}</div>`, opts: q.o, grid: false });
+    promptHtml: `<div class="qen en"${fitQ(q.q)}>${esc(q.q)}</div><div class="qfa">${esc(q.fa)}</div>`, opts: q.o, grid: false });
 }
 
 /* ---------- 3a. word intro ---------- */

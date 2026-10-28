@@ -1,0 +1,478 @@
+{
+ "day": 30,
+ "level": "A1",
+ "title": "De Nieuwjaarsduik",
+ "fa_title": "شیرجه‌ی سال نو",
+ "audio": "audio/day30.mp3",
+ "img": "img/day30.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is één januari.",
+   "s": 4.9
+  },
+  {
+   "p": 0,
+   "t": "“Wie gaat mee naar Zandvoort?” vraagt Dani.",
+   "s": 7.73
+  },
+  {
+   "p": 0,
+   "t": "“Het is de Nieuwjaarsduik!”",
+   "s": 13.18
+  },
+  {
+   "p": 1,
+   "t": "“Een duik?",
+   "s": 16.23
+  },
+  {
+   "p": 1,
+   "t": "In de zee?",
+   "s": 18.28
+  },
+  {
+   "p": 1,
+   "t": "In januari?” vraag ik.",
+   "s": 20.42
+  },
+  {
+   "p": 2,
+   "t": "“Ja!",
+   "s": 24.9
+  },
+  {
+   "p": 2,
+   "t": "Dat is traditie.”",
+   "s": 26.56
+  },
+  {
+   "p": 3,
+   "t": "We nemen de trein.",
+   "s": 29.23
+  },
+  {
+   "p": 3,
+   "t": "Na een halfuur zijn we in Zandvoort.",
+   "s": 31.79
+  },
+  {
+   "p": 3,
+   "t": "Het waait hard en het is maar vijf graden.",
+   "s": 35.51
+  },
+  {
+   "p": 4,
+   "t": "Overal zijn mensen met een oranje muts.",
+   "s": 39.52
+  },
+  {
+   "p": 4,
+   "t": "Iedereen krijgt er een.",
+   "s": 43.54
+  },
+  {
+   "p": 4,
+   "t": "Dani en Alex trekken hun jas uit.",
+   "s": 46.15
+  },
+  {
+   "p": 4,
+   "t": "Ze dragen alleen een zwembroek!",
+   "s": 50.42
+  },
+  {
+   "p": 5,
+   "t": "Om twaalf uur klinkt een toeter.",
+   "s": 53.93
+  },
+  {
+   "p": 5,
+   "t": "Iedereen rent de zee in.",
+   "s": 57.09
+  },
+  {
+   "p": 5,
+   "t": "Ze gillen en lachen.",
+   "s": 60.31
+  },
+  {
+   "p": 5,
+   "t": "Na een minuut rennen ze weer terug.",
+   "s": 63.09
+  },
+  {
+   "p": 5,
+   "t": "Alex is helemaal rood.",
+   "s": 66.49
+  },
+  {
+   "p": 5,
+   "t": "“Het is zó koud!”",
+   "s": 69.88
+  },
+  {
+   "p": 6,
+   "t": "Mia, Emma en ik blijven op het strand en klappen.",
+   "s": 72.84
+  },
+  {
+   "p": 7,
+   "t": "Daarna krijgt iedereen een kom warme erwtensoep.",
+   "s": 77.7
+  },
+  {
+   "p": 7,
+   "t": "Wat lekker!",
+   "s": 82.09
+  },
+  {
+   "p": 8,
+   "t": "In de trein naar huis denk ik na.",
+   "s": 84.27
+  },
+  {
+   "p": 8,
+   "t": "We wonen nu vier maanden in Amsterdam.",
+   "s": 87.59
+  },
+  {
+   "p": 8,
+   "t": "Ik spreek al een beetje Nederlands.",
+   "s": 91.51
+  },
+  {
+   "p": 8,
+   "t": "Mijn goede voornemen voor het nieuwe jaar?",
+   "s": 95.01
+  },
+  {
+   "p": 8,
+   "t": "Nog meer Nederlands leren!",
+   "s": 98.73
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar is de Nieuwjaarsduik?",
+   "o": [
+    "in Amsterdam",
+    "in Zandvoort",
+    "in het IJ",
+    "in Noord"
+   ],
+   "a": 1,
+   "fa": "شیرجه‌ی سال نو کجاست؟"
+  },
+  {
+   "q": "Hoe gaan ze naar Zandvoort?",
+   "o": [
+    "met de trein",
+    "met de auto",
+    "met de fiets",
+    "met de pont"
+   ],
+   "a": 0,
+   "fa": "چطور به زاندفورت می‌روند؟"
+  },
+  {
+   "q": "Hoe warm is het?",
+   "o": [
+    "vijftien graden",
+    "tien graden",
+    "nul graden",
+    "vijf graden"
+   ],
+   "a": 3,
+   "fa": "هوا چقدر گرم است؟"
+  },
+  {
+   "q": "Wat krijgt iedereen?",
+   "o": [
+    "een sjaal",
+    "een handdoek",
+    "een oranje muts",
+    "een jas"
+   ],
+   "a": 2,
+   "fa": "همه چه چیزی می‌گیرند؟"
+  },
+  {
+   "q": "Wie gaan de zee in?",
+   "o": [
+    "Sara en Mia",
+    "Emma",
+    "iedereen",
+    "Dani en Alex"
+   ],
+   "a": 3,
+   "fa": "چه کسانی به دریا می‌روند؟"
+  },
+  {
+   "q": "Wat is het voornemen van Sara?",
+   "o": [
+    "meer sporten",
+    "nog meer Nederlands leren",
+    "minder snoep eten",
+    "een nieuwe fiets kopen"
+   ],
+   "a": 1,
+   "fa": "تصمیم سال نوی سارا چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "zee",
+   "art": "de",
+   "w": "de zee",
+   "ipa": "/zeː/",
+   "fa": "دریا",
+   "ex": "Iedereen rent de zee in.",
+   "m": [
+    17,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "strand",
+   "art": "het",
+   "w": "het strand",
+   "ipa": "/strɑnt/",
+   "fa": "ساحل",
+   "ex": "Mia, Emma en ik blijven op het strand en klappen.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "duik",
+   "art": "de",
+   "w": "de duik",
+   "ipa": "/dœyk/",
+   "fa": "شیرجه",
+   "ex": "Hij maakt een duik in het water.",
+   "m": [
+    14,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "trein",
+   "art": "de",
+   "w": "de trein",
+   "ipa": "/trɛin/",
+   "fa": "قطار",
+   "ex": "In de trein naar huis denk ik na.",
+   "m": [
+    6,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "graad",
+   "art": "de",
+   "w": "de graad",
+   "ipa": "/ɣraːt/",
+   "fa": "درجه",
+   "ex": "Het is vandaag tien graden.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwembroek",
+   "art": "de",
+   "w": "de zwembroek",
+   "ipa": "/ˈzʋɛmbruk/",
+   "fa": "مایوی مردانه",
+   "ex": "Ze dragen alleen een zwembroek!",
+   "m": [
+    21,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "rennen",
+   "art": "",
+   "w": "rennen",
+   "ipa": "/ˈrɛnə(n)/",
+   "fa": "دویدن",
+   "ex": "Na een minuut rennen ze weer terug.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "soep",
+   "art": "de",
+   "w": "de soep",
+   "ipa": "/sup/",
+   "fa": "سوپ",
+   "ex": "De soep is warm en lekker.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "voornemen",
+   "art": "het",
+   "w": "het voornemen",
+   "ipa": "/ˈvoːrneːmə(n)/",
+   "fa": "تصمیم (برای آینده)",
+   "ex": "Mijn goede voornemen voor het nieuwe jaar?",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "traditie",
+   "art": "de",
+   "w": "de traditie",
+   "ipa": "/traːˈdi(t)si/",
+   "fa": "رسم، سنت",
+   "ex": "Dat is traditie.",
+   "m": [
+    7,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "januari",
+   "art": "",
+   "w": "januari",
+   "ipa": "/ˌjɑnyˈ(ʋ)aːri/",
+   "fa": "ژانویه",
+   "ex": "Het is één januari.",
+   "m": [
+    11,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "halfuur",
+   "art": "het",
+   "w": "het halfuur",
+   "ipa": "/ɦɑlfˈyːr/",
+   "fa": "نیم ساعت",
+   "ex": "Na een halfuur zijn we in Zandvoort.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "toeter",
+   "art": "de",
+   "w": "de toeter",
+   "ipa": "/ˈtutər/",
+   "fa": "بوق",
+   "ex": "Om twaalf uur klinkt een toeter.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "kom",
+   "art": "de",
+   "w": "de kom",
+   "ipa": "/kɔm/",
+   "fa": "کاسه",
+   "ex": "Daarna krijgt iedereen een kom warme erwtensoep.",
+   "m": [
+    27,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "spreken",
+   "art": "",
+   "w": "spreken",
+   "ipa": "/ˈspreːkə(n)/",
+   "fa": "صحبت کردن",
+   "ex": "Ik spreek al een beetje Nederlands.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "leren",
+   "art": "",
+   "w": "leren",
+   "ipa": "/ˈleːrə(n)/",
+   "fa": "یاد گرفتن؛ یاد دادن",
+   "ex": "Nog meer Nederlands leren!",
+   "m": [
+    20,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "maand",
+   "art": "de",
+   "w": "de maand",
+   "ipa": "/maːnt/",
+   "fa": "ماه",
+   "ex": "We wonen nu vier maanden in Amsterdam.",
+   "m": [
+    17,
+    24
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het is maar vijf graden.",
+   "fa": "فقط پنج درجه است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Iedereen rent de zee in.",
+   "fa": "همه به دریا می‌دوند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "We nemen de trein.",
+   "fa": "با قطار می‌رویم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik spreek al een beetje Nederlands.",
+   "fa": "حالا کمی هلندی صحبت می‌کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik wil nog meer Nederlands leren.",
+   "fa": "می‌خواهم باز هم بیشتر هلندی یاد بگیرم.",
+   "alt": []
+  }
+ ]
+}

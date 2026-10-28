@@ -1,0 +1,458 @@
+{
+ "day": 23,
+ "level": "A1",
+ "title": "Sinterklaas komt aan!",
+ "fa_title": "سینترکلاس می‌رسد!",
+ "audio": "audio/day23.mp3",
+ "img": "img/day23.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is half november.",
+   "s": 5.69
+  },
+  {
+   "p": 0,
+   "t": "Vandaag komt Sinterklaas aan in Amsterdam!",
+   "s": 8.44
+  },
+  {
+   "p": 0,
+   "t": "Hij komt met een stoomboot uit Spanje.",
+   "s": 12.77
+  },
+  {
+   "p": 1,
+   "t": "Mia is heel vroeg wakker.",
+   "s": 16.65
+  },
+  {
+   "p": 1,
+   "t": "“Komt hij echt, mama?”",
+   "s": 19.77
+  },
+  {
+   "p": 2,
+   "t": "Langs het water staan duizenden mensen.",
+   "s": 22.93
+  },
+  {
+   "p": 2,
+   "t": "Kinderen dragen een mijter van papier.",
+   "s": 26.83
+  },
+  {
+   "p": 2,
+   "t": "Er klinkt muziek en iedereen zingt.",
+   "s": 30.54
+  },
+  {
+   "p": 3,
+   "t": "“Zie ginds komt de stoomboot uit Spanje weer aan...”",
+   "s": 34.18
+  },
+  {
+   "p": 4,
+   "t": "Dan zien we de boot!",
+   "s": 38.63
+  },
+  {
+   "p": 4,
+   "t": "Hij is groot en heeft veel kleuren.",
+   "s": 41.18
+  },
+  {
+   "p": 4,
+   "t": "Bovenop staat Sinterklaas.",
+   "s": 44.93
+  },
+  {
+   "p": 4,
+   "t": "Hij heeft een lange witte baard, een rode mantel en een hoge rode mijter.",
+   "s": 48.29
+  },
+  {
+   "p": 4,
+   "t": "Hij zwaait naar de kinderen.",
+   "s": 54.66
+  },
+  {
+   "p": 5,
+   "t": "Pieten met roetvegen op hun gezicht gooien pepernoten.",
+   "s": 57.6
+  },
+  {
+   "p": 5,
+   "t": "Mia vangt er drie!",
+   "s": 62.65
+  },
+  {
+   "p": 6,
+   "t": "Later rijdt Sinterklaas door de stad op zijn witte paard.",
+   "s": 65.26
+  },
+  {
+   "p": 6,
+   "t": "Het paard heet Ozosnel.",
+   "s": 70.15
+  },
+  {
+   "p": 7,
+   "t": "“Sinterklaas!",
+   "s": 73.16
+  },
+  {
+   "p": 7,
+   "t": "Sinterklaas!” roept Mia.",
+   "s": 75.55
+  },
+  {
+   "p": 7,
+   "t": "Hij kijkt naar haar en zwaait.",
+   "s": 80.07
+  },
+  {
+   "p": 8,
+   "t": "“Hij zag mij, mama!",
+   "s": 83.32
+  },
+  {
+   "p": 8,
+   "t": "Hij zag mij!”",
+   "s": 86.32
+  },
+  {
+   "p": 8,
+   "t": "Mia straalt.",
+   "s": 88.55
+  },
+  {
+   "p": 8,
+   "t": "Ik ook.",
+   "s": 90.88
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar komt Sinterklaas vandaan?",
+   "o": [
+    "uit Duitsland",
+    "uit Spanje",
+    "uit België",
+    "uit Frankrijk"
+   ],
+   "a": 1,
+   "fa": "سینترکلاس از کجا می‌آید؟"
+  },
+  {
+   "q": "Hoe komt Sinterklaas aan?",
+   "o": [
+    "met een stoomboot",
+    "met de trein",
+    "met de fiets",
+    "met het vliegtuig"
+   ],
+   "a": 0,
+   "fa": "سینترکلاس چطور می‌رسد؟"
+  },
+  {
+   "q": "Wat dragen de kinderen?",
+   "o": [
+    "een muts",
+    "een kroon",
+    "een mijter van papier",
+    "een hoed"
+   ],
+   "a": 2,
+   "fa": "بچه‌ها چه چیزی سرشان می‌گذارند؟"
+  },
+  {
+   "q": "Wat gooien de Pieten?",
+   "o": [
+    "snoep",
+    "ballonnen",
+    "bloemen",
+    "pepernoten"
+   ],
+   "a": 3,
+   "fa": "پیت‌ها چه پرتاب می‌کنند؟"
+  },
+  {
+   "q": "Hoeveel pepernoten vangt Mia?",
+   "o": [
+    "één",
+    "twee",
+    "drie",
+    "tien"
+   ],
+   "a": 2,
+   "fa": "میا چند تا شیرینی ادویه‌ای می‌گیرد؟"
+  },
+  {
+   "q": "Hoe heet het paard?",
+   "o": [
+    "Ozosnel",
+    "Bello",
+    "Lucy",
+    "Piet"
+   ],
+   "a": 0,
+   "fa": "اسم اسب چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "aankomen",
+   "art": "",
+   "w": "aankomen",
+   "ipa": "/ˈaːŋkoːmə(n)/",
+   "fa": "رسیدن",
+   "ex": "De trein komt om tien uur aan.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "stoomboot",
+   "art": "de",
+   "w": "de stoomboot",
+   "ipa": "/ˈstoːmboːt/",
+   "fa": "کشتی بخار",
+   "ex": "Hij komt met een stoomboot uit Spanje.",
+   "m": [
+    17,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "mijter",
+   "art": "de",
+   "w": "de mijter",
+   "ipa": "/ˈmɛitər/",
+   "fa": "کلاه اسقفی",
+   "ex": "Kinderen dragen een mijter van papier.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "baard",
+   "art": "de",
+   "w": "de baard",
+   "ipa": "/baːrt/",
+   "fa": "ریش",
+   "ex": "Opa heeft een witte baard.",
+   "m": [
+    20,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "paard",
+   "art": "het",
+   "w": "het paard",
+   "ipa": "/paːrt/",
+   "fa": "اسب",
+   "ex": "Later rijdt Sinterklaas door de stad op zijn witte paard.",
+   "m": [
+    51,
+    56
+   ],
+   "book": 1
+  },
+  {
+   "id": "zwaaien",
+   "art": "",
+   "w": "zwaaien",
+   "ipa": "/ˈzʋaːjə(n)/",
+   "fa": "دست تکان دادن",
+   "ex": "Hij kijkt naar haar en zwaait.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "gooien",
+   "art": "",
+   "w": "gooien",
+   "ipa": "/ˈɣoːjə(n)/",
+   "fa": "پرتاب کردن",
+   "ex": "Pieten met roetvegen op hun gezicht gooien pepernoten.",
+   "m": [
+    36,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "vangen",
+   "art": "",
+   "w": "vangen",
+   "ipa": "/ˈvɑŋə(n)/",
+   "fa": "گرفتن (در هوا)",
+   "ex": "Mia vangt er drie!",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "pepernoot",
+   "art": "de",
+   "w": "de pepernoot",
+   "ipa": "/ˈpeːpərnoːt/",
+   "fa": "شیرینی کوچک ادویه‌ای",
+   "ex": "Pieten met roetvegen op hun gezicht gooien pepernoten.",
+   "m": [
+    43,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "wakker",
+   "art": "",
+   "w": "wakker",
+   "ipa": "/ˈʋɑkər/",
+   "fa": "بیدار",
+   "ex": "Mia is heel vroeg wakker.",
+   "m": [
+    18,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "spanje",
+   "art": "",
+   "w": "Spanje",
+   "ipa": "/ˈspɑnjə/",
+   "fa": "اسپانیا",
+   "ex": "Hij komt met een stoomboot uit Spanje.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "muziek",
+   "art": "de",
+   "w": "de muziek",
+   "ipa": "/myˈzik/",
+   "fa": "موسیقی",
+   "ex": "Er klinkt muziek en iedereen zingt.",
+   "m": [
+    10,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "kleur",
+   "art": "de",
+   "w": "de kleur",
+   "ipa": "/kløːr/",
+   "fa": "رنگ",
+   "ex": "Hij is groot en heeft veel kleuren.",
+   "m": [
+    27,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "mantel",
+   "art": "de",
+   "w": "de mantel",
+   "ipa": "/ˈmɑntəl/",
+   "fa": "شنل، ردا",
+   "ex": "Hij heeft een lange witte baard, een rode mantel en een hoge rode mijter.",
+   "m": [
+    42,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "dragen",
+   "art": "",
+   "w": "dragen",
+   "ipa": "/ˈdraːɣə(n)/",
+   "fa": "پوشیدن؛ حمل کردن",
+   "ex": "Kinderen dragen een mijter van papier.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "rood",
+   "art": "",
+   "w": "rood",
+   "ipa": "/roːt/",
+   "fa": "قرمز",
+   "ex": "Hij heeft een lange witte baard, een rode mantel en een hoge rode mijter.",
+   "m": [
+    37,
+    41
+   ],
+   "book": 0
+  },
+  {
+   "id": "lang",
+   "art": "",
+   "w": "lang",
+   "ipa": "/lɑŋ/",
+   "fa": "بلند، دراز",
+   "ex": "Langs het water staan duizenden mensen.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Komt hij echt?",
+   "fa": "واقعاً می‌آید؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij heeft een lange witte baard.",
+   "fa": "او ریش سفید بلندی دارد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Hij zwaait naar de kinderen.",
+   "fa": "او برای بچه‌ها دست تکان می‌دهد.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mia vangt er drie!",
+   "fa": "میا سه تا می‌گیرد!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Hij zag mij!",
+   "fa": "مرا دید!",
+   "alt": []
+  }
+ ]
+}

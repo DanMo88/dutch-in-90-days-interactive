@@ -1,0 +1,517 @@
+{
+ "day": 3,
+ "level": "A1",
+ "title": "Hagelslag op brood",
+ "fa_title": "هاخلسلاخ روی نان",
+ "audio": "audio/day03.mp3",
+ "img": "img/day03.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is zaterdag.",
+   "s": 4.77
+  },
+  {
+   "p": 0,
+   "t": "We hebben tijd voor een groot ontbijt.",
+   "s": 7.33
+  },
+  {
+   "p": 0,
+   "t": "Alex zet thee en ik maak boterhammen.",
+   "s": 10.91
+  },
+  {
+   "p": 1,
+   "t": "Op tafel staan brood, boter, kaas, jam, pindakaas en een pak karnemelk.",
+   "s": 15.01
+  },
+  {
+   "p": 1,
+   "t": "Er is ook een doos met kleine stukjes chocolade.",
+   "s": 23.46
+  },
+  {
+   "p": 1,
+   "t": "Dat is hagelslag.",
+   "s": 28.12
+  },
+  {
+   "p": 2,
+   "t": "“Wat is dat?” vraagt Mia.",
+   "s": 30.88
+  },
+  {
+   "p": 3,
+   "t": "“Hagelslag,” zeg ik.",
+   "s": 35.18
+  },
+  {
+   "p": 3,
+   "t": "“Nederlandse kinderen eten het op brood.”",
+   "s": 38.35
+  },
+  {
+   "p": 4,
+   "t": "Mia doet boter op haar boterham.",
+   "s": 42.35
+  },
+  {
+   "p": 4,
+   "t": "Dan doet ze er hagelslag op.",
+   "s": 45.96
+  },
+  {
+   "p": 4,
+   "t": "Veel hagelslag!",
+   "s": 49.3
+  },
+  {
+   "p": 4,
+   "t": "Ze neemt een hap.",
+   "s": 52.01
+  },
+  {
+   "p": 4,
+   "t": "“Mmm, lekker!” roept ze.",
+   "s": 54.38
+  },
+  {
+   "p": 5,
+   "t": "Alex drinkt karnemelk.",
+   "s": 59.27
+  },
+  {
+   "p": 5,
+   "t": "Hij trekt een gek gezicht.",
+   "s": 62.27
+  },
+  {
+   "p": 5,
+   "t": "“Het is zuur!”",
+   "s": 65.22
+  },
+  {
+   "p": 5,
+   "t": "Mia lacht.",
+   "s": 67.47
+  },
+  {
+   "p": 5,
+   "t": "Ik probeer pindakaas.",
+   "s": 69.57
+  },
+  {
+   "p": 5,
+   "t": "Dat vind ik lekker.",
+   "s": 72.55
+  },
+  {
+   "p": 6,
+   "t": "Dan klopt Dani op het raam.",
+   "s": 74.87
+  },
+  {
+   "p": 6,
+   "t": "Lucy zit op zijn arm.",
+   "s": 78.01
+  },
+  {
+   "p": 7,
+   "t": "“Goedemorgen!",
+   "s": 80.91
+  },
+  {
+   "p": 7,
+   "t": "Eet smakelijk!”",
+   "s": 83.19
+  },
+  {
+   "p": 8,
+   "t": "“Dank je!",
+   "s": 85.55
+  },
+  {
+   "p": 8,
+   "t": "Wil je ook een boterham?”",
+   "s": 87.33
+  },
+  {
+   "p": 9,
+   "t": "“Nee, dank je.",
+   "s": 90.3
+  },
+  {
+   "p": 9,
+   "t": "Ik heb al gegeten.",
+   "s": 92.94
+  },
+  {
+   "p": 9,
+   "t": "Maar hagelslag eet ik nog elke dag!”",
+   "s": 95.54
+  },
+  {
+   "p": 10,
+   "t": "Iedereen lacht.",
+   "s": 99.51
+  },
+  {
+   "p": 10,
+   "t": "Mia heeft een nieuw lievelingsontbijt: brood met hagelslag.",
+   "s": 101.77
+  }
+ ],
+ "comp": [
+  {
+   "q": "Welke dag is het?",
+   "o": [
+    "maandag",
+    "vrijdag",
+    "zaterdag",
+    "zondag"
+   ],
+   "a": 2,
+   "fa": "چه روزی است؟"
+  },
+  {
+   "q": "Wat is hagelslag?",
+   "o": [
+    "stukjes chocolade",
+    "een soort kaas",
+    "een drankje",
+    "een koekje"
+   ],
+   "a": 0,
+   "fa": "هاخلسلاخ چیست؟"
+  },
+  {
+   "q": "Wat doet Mia eerst op haar brood?",
+   "o": [
+    "jam",
+    "boter",
+    "kaas",
+    "pindakaas"
+   ],
+   "a": 1,
+   "fa": "میا اول چه چیزی روی نانش می‌گذارد؟"
+  },
+  {
+   "q": "Wat vindt Alex van karnemelk?",
+   "o": [
+    "zoet",
+    "warm",
+    "zuur",
+    "lekker"
+   ],
+   "a": 2,
+   "fa": "نظر الکس درباره‌ی دوغ هلندی چیست؟"
+  },
+  {
+   "q": "Wat vindt Sara lekker?",
+   "o": [
+    "karnemelk",
+    "pindakaas",
+    "thee",
+    "jam"
+   ],
+   "a": 1,
+   "fa": "سارا چه چیزی را خوشمزه می‌داند؟"
+  },
+  {
+   "q": "Wie klopt op het raam?",
+   "o": [
+    "juf Marieke",
+    "Emma",
+    "Oma Anna",
+    "Dani"
+   ],
+   "a": 3,
+   "fa": "چه کسی به پنجره می‌زند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "ontbijt",
+   "art": "het",
+   "w": "het ontbijt",
+   "ipa": "/ɔndˈbɛit/",
+   "fa": "صبحانه",
+   "ex": "We hebben tijd voor een groot ontbijt.",
+   "m": [
+    30,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "boterham",
+   "art": "de",
+   "w": "de boterham",
+   "ipa": "/ˈboːtərɦɑm/",
+   "fa": "برش نان (ساندویچ)",
+   "ex": "Alex zet thee en ik maak boterhammen.",
+   "m": [
+    25,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "boter",
+   "art": "de",
+   "w": "de boter",
+   "ipa": "/ˈboːtər/",
+   "fa": "کره",
+   "ex": "Mia doet boter op haar boterham.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "hagelslag",
+   "art": "de",
+   "w": "de hagelslag",
+   "ipa": "/ˈɦaːɣəlslɑx/",
+   "fa": "ریزه‌های شکلاتی",
+   "ex": "Maar hagelslag eet ik nog elke dag!",
+   "m": [
+    5,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "pindakaas",
+   "art": "de",
+   "w": "de pindakaas",
+   "ipa": "/ˈpɪndaːkaːs/",
+   "fa": "کره‌ی بادام‌زمینی",
+   "ex": "Ik probeer pindakaas.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "karnemelk",
+   "art": "de",
+   "w": "de karnemelk",
+   "ipa": "/ˈkɑrnəmɛlk/",
+   "fa": "دوغ هلندی",
+   "ex": "Alex drinkt karnemelk.",
+   "m": [
+    12,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "zuur",
+   "art": "",
+   "w": "zuur",
+   "ipa": "/zyːr/",
+   "fa": "ترش",
+   "ex": "Het is zuur!",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "lekker",
+   "art": "",
+   "w": "lekker",
+   "ipa": "/ˈlɛkər/",
+   "fa": "خوشمزه",
+   "ex": "Dat vind ik lekker.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "tafel",
+   "art": "de",
+   "w": "de tafel",
+   "ipa": "/ˈtaːfəl/",
+   "fa": "میز",
+   "ex": "Op tafel staan brood, boter, kaas, jam, pindakaas en een pak karnemelk.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "eet-smakelijk",
+   "art": "",
+   "w": "Eet smakelijk!",
+   "ipa": "/eːt ˈsmaːkələk/",
+   "fa": "نوش جان!",
+   "ex": "\"Eet smakelijk!\" zegt mama.",
+   "m": [
+    1,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "thee",
+   "art": "de",
+   "w": "de thee",
+   "ipa": "/teː/",
+   "fa": "چای",
+   "ex": "Alex zet thee en ik maak boterhammen.",
+   "m": [
+    9,
+    13
+   ],
+   "book": 0
+  },
+  {
+   "id": "jam",
+   "art": "de",
+   "w": "de jam",
+   "ipa": "/ʒɛm/",
+   "fa": "مربا",
+   "ex": "Op tafel staan brood, boter, kaas, jam, pindakaas en een pak karnemelk.",
+   "m": [
+    35,
+    38
+   ],
+   "book": 0
+  },
+  {
+   "id": "arm",
+   "art": "de",
+   "w": "de arm",
+   "ipa": "/ɑrm/",
+   "fa": "بازو",
+   "ex": "Lucy zit op zijn arm.",
+   "m": [
+    17,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "chocolade",
+   "art": "de",
+   "w": "de chocolade",
+   "ipa": "/ˌʃoːkoːˈlaːdə/",
+   "fa": "شکلات",
+   "ex": "Er is ook een doos met kleine stukjes chocolade.",
+   "m": [
+    38,
+    47
+   ],
+   "book": 0
+  },
+  {
+   "id": "hap",
+   "art": "de",
+   "w": "de hap",
+   "ipa": "/ɦɑp/",
+   "fa": "لقمه، گاز",
+   "ex": "Ze neemt een hap.",
+   "m": [
+    13,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "gek",
+   "art": "",
+   "w": "gek",
+   "ipa": "/ɣɛk/",
+   "fa": "عجیب، خنده‌دار",
+   "ex": "Hij trekt een gek gezicht.",
+   "m": [
+    14,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "gezicht",
+   "art": "het",
+   "w": "het gezicht",
+   "ipa": "/ɣəˈzɪxt/",
+   "fa": "صورت، چهره",
+   "ex": "Hij trekt een gek gezicht.",
+   "m": [
+    18,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "proberen",
+   "art": "",
+   "w": "proberen",
+   "ipa": "/ˌproːˈbeːrə(n)/",
+   "fa": "امتحان کردن، سعی کردن",
+   "ex": "Ik probeer pindakaas.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "lachen",
+   "art": "",
+   "w": "lachen",
+   "ipa": "/ˈlɑxə(n)/",
+   "fa": "خندیدن",
+   "ex": "Mia lacht.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wil je ook een boterham?",
+   "fa": "تو هم یک ساندویچ می‌خواهی؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mia doet boter op haar boterham.",
+   "fa": "میا روی نانش کره می‌مالد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Karnemelk is zuur.",
+   "fa": "دوغ هلندی ترش است.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik heb al gegeten.",
+   "fa": "من قبلاً غذا خورده‌ام.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Hagelslag eet ik elke dag.",
+   "fa": "هر روز هاخلسلاخ می‌خورم.",
+   "alt": [
+    "Ik eet elke dag hagelslag.",
+    "Elke dag eet ik hagelslag."
+   ]
+  }
+ ]
+}

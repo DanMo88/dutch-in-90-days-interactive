@@ -1,0 +1,438 @@
+{
+ "day": 24,
+ "level": "A1",
+ "title": "Schoen zetten",
+ "fa_title": "گذاشتن کفش برای سینترکلاس",
+ "audio": "audio/day24.mp3",
+ "img": "img/day24.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "“Mama, mag ik vanavond mijn schoen zetten?” vraagt Mia.",
+   "s": 4.96
+  },
+  {
+   "p": 1,
+   "t": "In Nederland zetten kinderen in november hun schoen.",
+   "s": 11.6
+  },
+  {
+   "p": 1,
+   "t": "Ze zetten hem bij de deur of bij de verwarming.",
+   "s": 15.93
+  },
+  {
+   "p": 1,
+   "t": "Ze zingen een liedje voor Sinterklaas.",
+   "s": 19.93
+  },
+  {
+   "p": 1,
+   "t": "'s Nachts komt Piet over het dak.",
+   "s": 23.62
+  },
+  {
+   "p": 1,
+   "t": "Hij doet iets lekkers in de schoen.",
+   "s": 26.81
+  },
+  {
+   "p": 2,
+   "t": "“Ja, dat mag,” zeg ik.",
+   "s": 30.13
+  },
+  {
+   "p": 3,
+   "t": "Mia maakt een tekening van het paard Ozosnel.",
+   "s": 33.65
+  },
+  {
+   "p": 3,
+   "t": "Ze legt een wortel in haar schoen.",
+   "s": 37.93
+  },
+  {
+   "p": 3,
+   "t": "“Voor het paard,” zegt ze.",
+   "s": 41.27
+  },
+  {
+   "p": 3,
+   "t": "“Hij heeft vast honger.”",
+   "s": 44.52
+  },
+  {
+   "p": 4,
+   "t": "Dan zingt Mia: “Sinterklaas kapoentje, gooi wat in mijn schoentje...”",
+   "s": 47.35
+  },
+  {
+   "p": 5,
+   "t": "Om acht uur gaat ze naar bed.",
+   "s": 52.99
+  },
+  {
+   "p": 5,
+   "t": "Ze is heel opgewonden.",
+   "s": 56.2
+  },
+  {
+   "p": 5,
+   "t": "“Ik kan niet slapen!”",
+   "s": 59.09
+  },
+  {
+   "p": 6,
+   "t": "Later kijken Alex en ik naar de schoen.",
+   "s": 61.65
+  },
+  {
+   "p": 6,
+   "t": "De wortel is weg en er ligt een chocoladeletter: een grote M.",
+   "s": 65.76
+  },
+  {
+   "p": 7,
+   "t": "Op het briefje staat: “Dank je wel voor de mooie tekening.",
+   "s": 71.31
+  },
+  {
+   "p": 7,
+   "t": "Liefs, Sint.”",
+   "s": 76.24
+  },
+  {
+   "p": 8,
+   "t": "De volgende ochtend gilt Mia: “Hij is geweest!",
+   "s": 79.02
+  },
+  {
+   "p": 8,
+   "t": "Hij is geweest!”",
+   "s": 83.54
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar zetten kinderen hun schoen?",
+   "o": [
+    "bij de deur of de verwarming",
+    "in de tuin",
+    "op de tafel",
+    "in bed"
+   ],
+   "a": 0,
+   "fa": "بچه‌ها کفششان را کجا می‌گذارند؟"
+  },
+  {
+   "q": "Hoe komt Piet in het huis?",
+   "o": [
+    "door de deur",
+    "door het raam",
+    "over het dak",
+    "met de lift"
+   ],
+   "a": 2,
+   "fa": "پیت چطور وارد خانه می‌شود؟"
+  },
+  {
+   "q": "Wat legt Mia in haar schoen?",
+   "o": [
+    "een appel",
+    "een wortel",
+    "een koekje",
+    "suiker"
+   ],
+   "a": 1,
+   "fa": "میا در کفشش چه می‌گذارد؟"
+  },
+  {
+   "q": "Hoe laat gaat Mia naar bed?",
+   "o": [
+    "om zeven uur",
+    "om negen uur",
+    "om tien uur",
+    "om acht uur"
+   ],
+   "a": 3,
+   "fa": "میا ساعت چند به رختخواب می‌رود؟"
+  },
+  {
+   "q": "Wat ligt er in de schoen?",
+   "o": [
+    "een chocoladeletter",
+    "een boek",
+    "speelgoed",
+    "niets"
+   ],
+   "a": 0,
+   "fa": "در کفش چه هست؟"
+  },
+  {
+   "q": "Wat staat er op het briefje?",
+   "o": [
+    "“Ga slapen!”",
+    "“Tot morgen.”",
+    "“Dank je wel voor de mooie tekening.”",
+    "“Gefeliciteerd!”"
+   ],
+   "a": 2,
+   "fa": "روی یادداشت چه نوشته؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "schoen",
+   "art": "de",
+   "w": "de schoen",
+   "ipa": "/sxun/",
+   "fa": "کفش",
+   "ex": "Mama, mag ik vanavond mijn schoen zetten?",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "zetten",
+   "art": "",
+   "w": "zetten",
+   "ipa": "/ˈzɛtə(n)/",
+   "fa": "گذاشتن (ایستاده)",
+   "ex": "Ik zet de vaas op tafel.",
+   "m": [
+    3,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "verwarming",
+   "art": "de",
+   "w": "de verwarming",
+   "ipa": "/vərˈʋɑrmɪŋ/",
+   "fa": "شوفاژ، بخاری",
+   "ex": "Ze zetten hem bij de deur of bij de verwarming.",
+   "m": [
+    36,
+    46
+   ],
+   "book": 1
+  },
+  {
+   "id": "dak",
+   "art": "het",
+   "w": "het dak",
+   "ipa": "/dɑk/",
+   "fa": "سقف، بام",
+   "ex": "Er zit een kat op het dak.",
+   "m": [
+    22,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "tekening",
+   "art": "de",
+   "w": "de tekening",
+   "ipa": "/ˈteːkənɪŋ/",
+   "fa": "نقاشی",
+   "ex": "Dank je wel voor de mooie tekening.",
+   "m": [
+    26,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "wortel",
+   "art": "de",
+   "w": "de wortel",
+   "ipa": "/ˈʋɔrtəl/",
+   "fa": "هویج",
+   "ex": "Ze legt een wortel in haar schoen.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "letter",
+   "art": "de",
+   "w": "de letter",
+   "ipa": "/ˈlɛtər/",
+   "fa": "حرف (الفبا)",
+   "ex": "De letter M is van Mia.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "briefje",
+   "art": "het",
+   "w": "het briefje",
+   "ipa": "/ˈbrifjə/",
+   "fa": "یادداشت کوتاه",
+   "ex": "Er ligt een briefje op tafel.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "slapen",
+   "art": "",
+   "w": "slapen",
+   "ipa": "/ˈslaːpə(n)/",
+   "fa": "خوابیدن",
+   "ex": "Ik kan niet slapen!",
+   "m": [
+    12,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "ochtend",
+   "art": "de",
+   "w": "de ochtend",
+   "ipa": "/ˈɔxtənt/",
+   "fa": "صبح",
+   "ex": "De volgende ochtend gilt Mia.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "opgewonden",
+   "art": "",
+   "w": "opgewonden",
+   "ipa": "/ˈɔpxəˌʋɔndə(n)/",
+   "fa": "هیجان‌زده",
+   "ex": "Ze is heel opgewonden.",
+   "m": [
+    11,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "weg",
+   "art": "",
+   "w": "weg",
+   "ipa": "/ʋɛx/",
+   "fa": "رفته، ناپدید",
+   "ex": "De wortel is weg en er ligt een chocoladeletter: een grote M.",
+   "m": [
+    13,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "mooi",
+   "art": "",
+   "w": "mooi",
+   "ipa": "/moːi/",
+   "fa": "زیبا، قشنگ",
+   "ex": "Dank je wel voor de mooie tekening.",
+   "m": [
+    20,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "dank-je-wel",
+   "art": "",
+   "w": "dank je wel",
+   "ipa": "/ˌdɑŋk jə ˈʋɛl/",
+   "fa": "خیلی ممنون",
+   "ex": "Dank je wel voor de mooie tekening.",
+   "m": [
+    0,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "liefs",
+   "art": "",
+   "w": "liefs",
+   "ipa": "/lifs/",
+   "fa": "با عشق (پایان نامه)",
+   "ex": "Liefs, Sint.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 0
+  },
+  {
+   "id": "later",
+   "art": "",
+   "w": "later",
+   "ipa": "/ˈlaːtər/",
+   "fa": "بعداً",
+   "ex": "Later kijken Alex en ik naar de schoen.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 0
+  },
+  {
+   "id": "vast",
+   "art": "",
+   "w": "vast",
+   "ipa": "/vɑst/",
+   "fa": "حتماً",
+   "ex": "Hij heeft vast honger.",
+   "m": [
+    10,
+    14
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mag ik mijn schoen zetten?",
+   "fa": "اجازه هست کفشم را بگذارم؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hij heeft vast honger.",
+   "fa": "حتماً گرسنه است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik kan niet slapen!",
+   "fa": "نمی‌توانم بخوابم!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "De wortel is weg.",
+   "fa": "هویج غیب شده است.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Hij is geweest!",
+   "fa": "او آمده است!",
+   "alt": []
+  }
+ ]
+}

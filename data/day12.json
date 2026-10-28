@@ -1,0 +1,468 @@
+{
+ "day": 12,
+ "level": "A1",
+ "title": "Met de pont naar Noord",
+ "fa_title": "با فِری به آمستردام شمالی",
+ "audio": "audio/day12.mp3",
+ "img": "img/day12.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is zondag.",
+   "s": 5.21
+  },
+  {
+   "p": 0,
+   "t": "We willen naar Amsterdam-Noord.",
+   "s": 7.87
+  },
+  {
+   "p": 0,
+   "t": "Noord ligt aan de andere kant van het IJ.",
+   "s": 11.07
+  },
+  {
+   "p": 0,
+   "t": "Dat is een groot water achter het Centraal Station.",
+   "s": 14.74
+  },
+  {
+   "p": 1,
+   "t": "We fietsen naar het station.",
+   "s": 19.04
+  },
+  {
+   "p": 1,
+   "t": "Daar is een grote fietsenstalling onder het water!",
+   "s": 22.1
+  },
+  {
+   "p": 1,
+   "t": "Maar wij nemen de fiets mee op de pont.",
+   "s": 26.42
+  },
+  {
+   "p": 2,
+   "t": "De pont is een boot.",
+   "s": 30.46
+  },
+  {
+   "p": 2,
+   "t": "Hij is gratis, voor iedereen.",
+   "s": 33.12
+  },
+  {
+   "p": 2,
+   "t": "Fietsers en wandelaars gaan allemaal mee.",
+   "s": 36.74
+  },
+  {
+   "p": 2,
+   "t": "Er gaat elke paar minuten een pont.",
+   "s": 41.13
+  },
+  {
+   "p": 3,
+   "t": "We rijden de pont op.",
+   "s": 44.87
+  },
+  {
+   "p": 3,
+   "t": "De boot vaart weg.",
+   "s": 47.54
+  },
+  {
+   "p": 3,
+   "t": "De wind is koud en fris.",
+   "s": 50.1
+  },
+  {
+   "p": 3,
+   "t": "Mia kijkt naar het water en de grote boten.",
+   "s": 53.56
+  },
+  {
+   "p": 3,
+   "t": "“Kijk!",
+   "s": 57.73
+  },
+  {
+   "p": 3,
+   "t": "Een meeuw!” roept ze.",
+   "s": 59.46
+  },
+  {
+   "p": 4,
+   "t": "Na vijf minuten zijn we in Noord.",
+   "s": 63.23
+  },
+  {
+   "p": 4,
+   "t": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "s": 66.82
+  },
+  {
+   "p": 4,
+   "t": "We zien een hoge toren en een wit museum.",
+   "s": 73.21
+  },
+  {
+   "p": 5,
+   "t": "We fietsen langs het water en eten een broodje.",
+   "s": 77.27
+  },
+  {
+   "p": 5,
+   "t": "Dan nemen we de pont terug.",
+   "s": 81.35
+  },
+  {
+   "p": 6,
+   "t": "“Nog een keer!” zegt Mia.",
+   "s": 84.46
+  },
+  {
+   "p": 6,
+   "t": "Gratis varen, dat vindt zij het leukst van Amsterdam.",
+   "s": 88.95
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar ligt Noord?",
+   "o": [
+    "naast De Pijp",
+    "aan de andere kant van het IJ",
+    "bij de Dam",
+    "bij de zee"
+   ],
+   "a": 1,
+   "fa": "آمستردام شمالی کجاست؟"
+  },
+  {
+   "q": "Wat is er onder het water bij het station?",
+   "o": [
+    "een metro",
+    "een winkel",
+    "een fietsenstalling",
+    "een museum"
+   ],
+   "a": 2,
+   "fa": "زیر آب کنار ایستگاه چه چیزی هست؟"
+  },
+  {
+   "q": "Hoeveel kost de pont?",
+   "o": [
+    "niets",
+    "één euro",
+    "twee euro",
+    "vijf euro"
+   ],
+   "a": 0,
+   "fa": "فِری چقدر خرج دارد؟"
+  },
+  {
+   "q": "Hoe is de wind op de pont?",
+   "o": [
+    "warm",
+    "koud en fris",
+    "er is geen wind",
+    "heel zacht"
+   ],
+   "a": 1,
+   "fa": "باد روی فِری چطور است؟"
+  },
+  {
+   "q": "Hoe lang duurt de tocht?",
+   "o": [
+    "twee minuten",
+    "vijf minuten",
+    "twintig minuten",
+    "een uur"
+   ],
+   "a": 1,
+   "fa": "سفر چقدر طول می‌کشد؟"
+  },
+  {
+   "q": "Wat vindt Mia het leukst?",
+   "o": [
+    "de toren",
+    "het broodje",
+    "de fiets",
+    "gratis varen"
+   ],
+   "a": 3,
+   "fa": "میا چه چیزی را از همه بیشتر دوست دارد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "pont",
+   "art": "de",
+   "w": "de pont",
+   "ipa": "/pɔnt/",
+   "fa": "فِری (کشتی گذر)",
+   "ex": "Er gaat elke paar minuten een pont.",
+   "m": [
+    30,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "boot",
+   "art": "de",
+   "w": "de boot",
+   "ipa": "/boːt/",
+   "fa": "قایق، کشتی",
+   "ex": "De pont is een boot.",
+   "m": [
+    15,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "gratis",
+   "art": "",
+   "w": "gratis",
+   "ipa": "/ˈɣraːtɪs/",
+   "fa": "رایگان",
+   "ex": "Hij is gratis, voor iedereen.",
+   "m": [
+    7,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "station",
+   "art": "het",
+   "w": "het station",
+   "ipa": "/staːˈʃɔn/",
+   "fa": "ایستگاه قطار",
+   "ex": "Dat is een groot water achter het Centraal Station.",
+   "m": [
+    43,
+    50
+   ],
+   "book": 1
+  },
+  {
+   "id": "varen",
+   "art": "",
+   "w": "varen",
+   "ipa": "/ˈvaːrə(n)/",
+   "fa": "با کشتی رفتن",
+   "ex": "Gratis varen, dat vindt zij het leukst van Amsterdam.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "wind",
+   "art": "de",
+   "w": "de wind",
+   "ipa": "/ʋɪnt/",
+   "fa": "باد",
+   "ex": "De wind is koud en fris.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "meeuw",
+   "art": "de",
+   "w": "de meeuw",
+   "ipa": "/meːu/",
+   "fa": "مرغ دریایی",
+   "ex": "Een meeuw eet mijn broodje!",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "rustig",
+   "art": "",
+   "w": "rustig",
+   "ipa": "/ˈrʏstəx/",
+   "fa": "آرام",
+   "ex": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "gebouw",
+   "art": "het",
+   "w": "het gebouw",
+   "ipa": "/ɣəˈbɑu/",
+   "fa": "ساختمان",
+   "ex": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "m": [
+    65,
+    73
+   ],
+   "book": 1
+  },
+  {
+   "id": "kant",
+   "art": "de",
+   "w": "de kant",
+   "ipa": "/kɑnt/",
+   "fa": "طرف، سمت",
+   "ex": "De bakker is aan de andere kant.",
+   "m": [
+    27,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "wandelaar",
+   "art": "de",
+   "w": "de wandelaar",
+   "ipa": "/ˈʋɑndəlaːr/",
+   "fa": "عابر پیاده",
+   "ex": "Fietsers en wandelaars gaan allemaal mee.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "anders",
+   "art": "",
+   "w": "anders",
+   "ipa": "/ˈɑndərs/",
+   "fa": "متفاوت، جور دیگر",
+   "ex": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "m": [
+    12,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "fris",
+   "art": "",
+   "w": "fris",
+   "ipa": "/frɪs/",
+   "fa": "خنک و تازه",
+   "ex": "De wind is koud en fris.",
+   "m": [
+    19,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "ruim",
+   "art": "",
+   "w": "ruim",
+   "ipa": "/rœym/",
+   "fa": "جادار، باز",
+   "ex": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "m": [
+    30,
+    34
+   ],
+   "book": 0
+  },
+  {
+   "id": "fabriek",
+   "art": "de",
+   "w": "de fabriek",
+   "ipa": "/faːˈbrik/",
+   "fa": "کارخانه",
+   "ex": "Hier is het anders: rustig en ruim, met oude fabrieken en nieuwe gebouwen.",
+   "m": [
+    45,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "hoog",
+   "art": "",
+   "w": "hoog",
+   "ipa": "/ɦoːx/",
+   "fa": "بلند",
+   "ex": "We zien een hoge toren en een wit museum.",
+   "m": [
+    12,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "water",
+   "art": "het",
+   "w": "het water",
+   "ipa": "/ˈʋaːtər/",
+   "fa": "آب",
+   "ex": "Daar is een grote fietsenstalling onder het water!",
+   "m": [
+    44,
+    49
+   ],
+   "book": 0
+  },
+  {
+   "id": "broodje",
+   "art": "het",
+   "w": "het broodje",
+   "ipa": "/ˈbroːtjə/",
+   "fa": "ساندویچ (نان کوچک)",
+   "ex": "We fietsen langs het water en eten een broodje.",
+   "m": [
+    39,
+    46
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "De pont is gratis.",
+   "fa": "فِری رایگان است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "De wind is koud en fris.",
+   "fa": "باد سرد و خنک است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Hier is het rustig.",
+   "fa": "اینجا آرام است.",
+   "alt": [
+    "Het is hier rustig."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "We eten een broodje.",
+   "fa": "یک ساندویچ می‌خوریم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Nog een keer!",
+   "fa": "یک بار دیگر!",
+   "alt": []
+  }
+ ]
+}

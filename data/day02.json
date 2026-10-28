@@ -1,0 +1,508 @@
+{
+ "day": 2,
+ "level": "A1",
+ "title": "Boodschappen bij Albert Heijn",
+ "fa_title": "خرید از آلبرت هاین",
+ "audio": "audio/day02.mp3",
+ "img": "img/day02.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vandaag doen Alex en ik boodschappen.",
+   "s": 5.6
+  },
+  {
+   "p": 0,
+   "t": "De supermarkt is om de hoek.",
+   "s": 9.35
+  },
+  {
+   "p": 0,
+   "t": "Het is een Albert Heijn.",
+   "s": 12.62
+  },
+  {
+   "p": 0,
+   "t": "Mia gaat ook mee.",
+   "s": 15.32
+  },
+  {
+   "p": 1,
+   "t": "In de winkel pak ik een mandje.",
+   "s": 18.06
+  },
+  {
+   "p": 1,
+   "t": "We hebben niet veel nodig: brood, kaas, melk, appels en koffie.",
+   "s": 21.04
+  },
+  {
+   "p": 1,
+   "t": "Mia wil ook koekjes.",
+   "s": 27.48
+  },
+  {
+   "p": 1,
+   "t": "“Mag het, mama?” vraagt ze.",
+   "s": 30.43
+  },
+  {
+   "p": 1,
+   "t": "“Ja, één pak,” zeg ik.",
+   "s": 35.37
+  },
+  {
+   "p": 2,
+   "t": "Er is veel kaas.",
+   "s": 38.98
+  },
+  {
+   "p": 2,
+   "t": "Jonge kaas, belegen kaas en oude kaas.",
+   "s": 41.88
+  },
+  {
+   "p": 2,
+   "t": "Alex kiest jonge kaas.",
+   "s": 46.82
+  },
+  {
+   "p": 2,
+   "t": "Die is zacht.",
+   "s": 50.12
+  },
+  {
+   "p": 3,
+   "t": "Bij de kassa zegt de vrouw: “Goedemiddag!",
+   "s": 52.57
+  },
+  {
+   "p": 3,
+   "t": "Heeft u een Bonuskaart?”",
+   "s": 56.6
+  },
+  {
+   "p": 4,
+   "t": "“Nee, nog niet,” zeg ik.",
+   "s": 59.77
+  },
+  {
+   "p": 5,
+   "t": "“Die is gratis.",
+   "s": 63.49
+  },
+  {
+   "p": 5,
+   "t": "Dan krijgt u korting.",
+   "s": 66.24
+  },
+  {
+   "p": 5,
+   "t": "Wilt u een tasje?”",
+   "s": 68.93
+  },
+  {
+   "p": 6,
+   "t": "“Nee, dank u.",
+   "s": 71.62
+  },
+  {
+   "p": 6,
+   "t": "Ik heb een eigen tas.”",
+   "s": 74.31
+  },
+  {
+   "p": 7,
+   "t": "“Pinnen of contant?”",
+   "s": 77.12
+  },
+  {
+   "p": 7,
+   "t": "“Pinnen, graag.”",
+   "s": 79.84
+  },
+  {
+   "p": 7,
+   "t": "Ik houd mijn bankpas bij het apparaat.",
+   "s": 82.35
+  },
+  {
+   "p": 7,
+   "t": "Piep!",
+   "s": 86.26
+  },
+  {
+   "p": 7,
+   "t": "Klaar.",
+   "s": 87.93
+  },
+  {
+   "p": 8,
+   "t": "“Wilt u het bonnetje?”",
+   "s": 89.65
+  },
+  {
+   "p": 8,
+   "t": "“Nee, dank u wel.”",
+   "s": 92.27
+  },
+  {
+   "p": 9,
+   "t": "Thuis zet Alex koffie.",
+   "s": 95.15
+  },
+  {
+   "p": 9,
+   "t": "Mia eet een koekje.",
+   "s": 98.37
+  },
+  {
+   "p": 9,
+   "t": "Onze eerste boodschappen in Nederland.",
+   "s": 101.01
+  },
+  {
+   "p": 9,
+   "t": "Het is gelukt!",
+   "s": 104.84
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar is de supermarkt?",
+   "o": [
+    "om de hoek",
+    "bij het station",
+    "in Noord",
+    "naast de school"
+   ],
+   "a": 0,
+   "fa": "سوپرمارکت کجاست؟"
+  },
+  {
+   "q": "Wat wil Mia?",
+   "o": [
+    "kaas",
+    "koekjes",
+    "appels",
+    "melk"
+   ],
+   "a": 1,
+   "fa": "میا چه می‌خواهد؟"
+  },
+  {
+   "q": "Welke kaas kiest Alex?",
+   "o": [
+    "oude kaas",
+    "belegen kaas",
+    "jonge kaas",
+    "geen kaas"
+   ],
+   "a": 2,
+   "fa": "الکس کدام پنیر را انتخاب می‌کند؟"
+  },
+  {
+   "q": "Heeft Sara een Bonuskaart?",
+   "o": [
+    "ja",
+    "nee, nog niet",
+    "ja, twee",
+    "dat weet ze niet"
+   ],
+   "a": 1,
+   "fa": "آیا سارا کارت Bonus دارد؟"
+  },
+  {
+   "q": "Hoe betaalt Sara?",
+   "o": [
+    "contant",
+    "met een Tikkie",
+    "ze pint",
+    "ze betaalt niet"
+   ],
+   "a": 2,
+   "fa": "سارا چطور پول می‌دهد؟"
+  },
+  {
+   "q": "Wat wil Sara niet?",
+   "o": [
+    "het bonnetje",
+    "de koffie",
+    "het brood",
+    "de koekjes"
+   ],
+   "a": 0,
+   "fa": "سارا چه چیزی را نمی‌خواهد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "supermarkt",
+   "art": "de",
+   "w": "de supermarkt",
+   "ipa": "/ˈsypərmɑrkt/",
+   "fa": "سوپرمارکت",
+   "ex": "De supermarkt is om de hoek.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "mandje",
+   "art": "het",
+   "w": "het mandje",
+   "ipa": "/ˈmɑncə/",
+   "fa": "سبد خرید دستی",
+   "ex": "In de winkel pak ik een mandje.",
+   "m": [
+    24,
+    30
+   ],
+   "book": 1
+  },
+  {
+   "id": "kaas",
+   "art": "de",
+   "w": "de kaas",
+   "ipa": "/kaːs/",
+   "fa": "پنیر",
+   "ex": "Jonge kaas, belegen kaas en oude kaas.",
+   "m": [
+    6,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "kassa",
+   "art": "de",
+   "w": "de kassa",
+   "ipa": "/ˈkɑsaː/",
+   "fa": "صندوق (پرداخت)",
+   "ex": "Bij de kassa betaal ik.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "pinnen",
+   "art": "",
+   "w": "pinnen",
+   "ipa": "/ˈpɪnə(n)/",
+   "fa": "با کارت پرداخت کردن",
+   "ex": "Pinnen of contant?",
+   "m": [
+    0,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "tasje",
+   "art": "het",
+   "w": "het tasje",
+   "ipa": "/ˈtɑʃə/",
+   "fa": "کیسه‌ی کوچک",
+   "ex": "Wilt u een tasje?",
+   "m": [
+    11,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "bonnetje",
+   "art": "het",
+   "w": "het bonnetje",
+   "ipa": "/ˈbɔnəcə/",
+   "fa": "رسید خرید",
+   "ex": "Wilt u het bonnetje?",
+   "m": [
+    11,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "korting",
+   "art": "de",
+   "w": "de korting",
+   "ipa": "/ˈkɔrtɪŋ/",
+   "fa": "تخفیف",
+   "ex": "Dan krijgt u korting.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "kiezen",
+   "art": "",
+   "w": "kiezen",
+   "ipa": "/ˈkizə(n)/",
+   "fa": "انتخاب کردن",
+   "ex": "Alex kiest jonge kaas.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "zacht",
+   "art": "",
+   "w": "zacht",
+   "ipa": "/zɑxt/",
+   "fa": "نرم",
+   "ex": "Die is zacht.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "boodschappen",
+   "art": "de",
+   "w": "de boodschappen",
+   "ipa": "/ˈboːtˌsxɑpə(n)/",
+   "fa": "خرید روزانه (مواد غذایی)",
+   "ex": "Vandaag doen Alex en ik boodschappen.",
+   "m": [
+    24,
+    36
+   ],
+   "book": 0
+  },
+  {
+   "id": "winkel",
+   "art": "de",
+   "w": "de winkel",
+   "ipa": "/ˈʋɪŋkəl/",
+   "fa": "مغازه، فروشگاه",
+   "ex": "In de winkel pak ik een mandje.",
+   "m": [
+    6,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "nodig",
+   "art": "",
+   "w": "nodig",
+   "ipa": "/ˈnoːdəx/",
+   "fa": "لازم",
+   "ex": "We hebben niet veel nodig: brood, kaas, melk, appels en koffie.",
+   "m": [
+    20,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "melk",
+   "art": "de",
+   "w": "de melk",
+   "ipa": "/mɛlk/",
+   "fa": "شیر",
+   "ex": "We hebben niet veel nodig: brood, kaas, melk, appels en koffie.",
+   "m": [
+    40,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "appel",
+   "art": "de",
+   "w": "de appel",
+   "ipa": "/ˈɑpəl/",
+   "fa": "سیب",
+   "ex": "We hebben niet veel nodig: brood, kaas, melk, appels en koffie.",
+   "m": [
+    46,
+    52
+   ],
+   "book": 0
+  },
+  {
+   "id": "contant",
+   "art": "",
+   "w": "contant",
+   "ipa": "/kɔnˈtɑnt/",
+   "fa": "نقدی",
+   "ex": "Pinnen of contant?",
+   "m": [
+    10,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "apparaat",
+   "art": "het",
+   "w": "het apparaat",
+   "ipa": "/ˌɑpaːˈraːt/",
+   "fa": "دستگاه",
+   "ex": "Ik houd mijn bankpas bij het apparaat.",
+   "m": [
+    29,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "lukken",
+   "art": "",
+   "w": "lukken",
+   "ipa": "/ˈlʏkə(n)/",
+   "fa": "موفق شدن، جور شدن",
+   "ex": "Het is gelukt!",
+   "m": [
+    7,
+    13
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vandaag doen we boodschappen.",
+   "fa": "امروز خرید می‌کنیم.",
+   "alt": [
+    "We doen vandaag boodschappen."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "De supermarkt is om de hoek.",
+   "fa": "سوپرمارکت همین سر نبش است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Heeft u een Bonuskaart?",
+   "fa": "کارت Bonus دارید؟",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik wil graag pinnen.",
+   "fa": "می‌خواهم با کارت پرداخت کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik heb een eigen tas.",
+   "fa": "خودم کیسه دارم.",
+   "alt": []
+  }
+ ]
+}

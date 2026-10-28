@@ -1,0 +1,465 @@
+{
+ "day": 8,
+ "level": "A1",
+ "title": "Bij de HEMA",
+ "fa_title": "در فروشگاه هِما",
+ "audio": "audio/day08.mp3",
+ "img": "img/day08.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mia heeft spullen nodig voor school: een etui, potloden en een gum.",
+   "s": 4.45
+  },
+  {
+   "p": 0,
+   "t": "Dani zegt: “Ga naar de HEMA.",
+   "s": 10.45
+  },
+  {
+   "p": 0,
+   "t": "Daar is alles!”",
+   "s": 13.99
+  },
+  {
+   "p": 1,
+   "t": "De HEMA is een Nederlandse winkel.",
+   "s": 16.7
+  },
+  {
+   "p": 1,
+   "t": "Je kunt er bijna alles kopen: sokken, handdoeken, schriften, taart en worst.",
+   "s": 20.29
+  },
+  {
+   "p": 2,
+   "t": "Mia kiest een roze etui met sterren.",
+   "s": 27.56
+  },
+  {
+   "p": 2,
+   "t": "Ik pak potloden, een gum en twee schriften.",
+   "s": 31.51
+  },
+  {
+   "p": 2,
+   "t": "Alex zoekt sokken.",
+   "s": 35.9
+  },
+  {
+   "p": 3,
+   "t": "Dan zien we de bakkerij in de winkel.",
+   "s": 38.71
+  },
+  {
+   "p": 3,
+   "t": "Er ligt een gebakje met een roze laagje.",
+   "s": 42.13
+  },
+  {
+   "p": 4,
+   "t": "“Wat is dat?” vraagt Mia.",
+   "s": 45.99
+  },
+  {
+   "p": 5,
+   "t": "“Dat is een tompouce,” zegt de verkoopster.",
+   "s": 50.65
+  },
+  {
+   "p": 5,
+   "t": "“Heel bekend in Nederland!”",
+   "s": 54.63
+  },
+  {
+   "p": 6,
+   "t": "We kopen er drie.",
+   "s": 57.85
+  },
+  {
+   "p": 6,
+   "t": "Bij de kassa ligt ook rookworst.",
+   "s": 60.34
+  },
+  {
+   "p": 6,
+   "t": "“Lekker met stamppot!” zegt de man achter ons.",
+   "s": 63.96
+  },
+  {
+   "p": 6,
+   "t": "Alex koopt er één.",
+   "s": 69.98
+  },
+  {
+   "p": 7,
+   "t": "Thuis eten we de tompoucen.",
+   "s": 72.67
+  },
+  {
+   "p": 7,
+   "t": "Dat is niet makkelijk!",
+   "s": 75.76
+  },
+  {
+   "p": 7,
+   "t": "De room komt er aan alle kanten uit.",
+   "s": 78.51
+  },
+  {
+   "p": 7,
+   "t": "Mia heeft room op haar neus.",
+   "s": 81.99
+  },
+  {
+   "p": 7,
+   "t": "We lachen allemaal.",
+   "s": 85.27
+  },
+  {
+   "p": 8,
+   "t": "“Morgen weer naar de HEMA?” vraagt Mia.",
+   "s": 87.95
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat heeft Mia nodig?",
+   "o": [
+    "kleren",
+    "spullen voor school",
+    "een fiets",
+    "speelgoed"
+   ],
+   "a": 1,
+   "fa": "میا به چه چیزی احتیاج دارد؟"
+  },
+  {
+   "q": "Wat kun je bij de HEMA kopen?",
+   "o": [
+    "alleen eten",
+    "alleen kleren",
+    "bijna alles",
+    "alleen boeken"
+   ],
+   "a": 2,
+   "fa": "در هِما چه چیزهایی می‌شود خرید؟"
+  },
+  {
+   "q": "Welke kleur heeft het etui van Mia?",
+   "o": [
+    "blauw",
+    "roze",
+    "groen",
+    "zwart"
+   ],
+   "a": 1,
+   "fa": "جامدادی میا چه رنگی است؟"
+  },
+  {
+   "q": "Wat is een tompouce?",
+   "o": [
+    "een worst",
+    "een gebakje",
+    "een drankje",
+    "een potlood"
+   ],
+   "a": 1,
+   "fa": "تومپوس چیست؟"
+  },
+  {
+   "q": "Wat koopt Alex bij de kassa?",
+   "o": [
+    "rookworst",
+    "taart",
+    "een gum",
+    "een schrift"
+   ],
+   "a": 0,
+   "fa": "الکس دمِ صندوق چه می‌خرد؟"
+  },
+  {
+   "q": "Wat heeft Mia op haar neus?",
+   "o": [
+    "chocolade",
+    "room",
+    "kaas",
+    "een pleister"
+   ],
+   "a": 1,
+   "fa": "روی بینی میا چیست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "spullen",
+   "art": "de",
+   "w": "de spullen",
+   "ipa": "/ˈspʏlə(n)/",
+   "fa": "وسایل",
+   "ex": "Mia heeft spullen nodig voor school: een etui, potloden en een gum.",
+   "m": [
+    10,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "etui",
+   "art": "het",
+   "w": "het etui",
+   "ipa": "/eˈtʋi/",
+   "fa": "جامدادی",
+   "ex": "Mia kiest een roze etui met sterren.",
+   "m": [
+    19,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "potlood",
+   "art": "het",
+   "w": "het potlood",
+   "ipa": "/ˈpɔtloːt/",
+   "fa": "مداد",
+   "ex": "Ik pak potloden, een gum en twee schriften.",
+   "m": [
+    7,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "gum",
+   "art": "de",
+   "w": "de gum",
+   "ipa": "/ɣʏm/",
+   "fa": "پاک‌کن",
+   "ex": "Ik pak potloden, een gum en twee schriften.",
+   "m": [
+    21,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "schrift",
+   "art": "het",
+   "w": "het schrift",
+   "ipa": "/sxrɪft/",
+   "fa": "دفتر",
+   "ex": "Ik pak potloden, een gum en twee schriften.",
+   "m": [
+    33,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "sok",
+   "art": "de",
+   "w": "de sok",
+   "ipa": "/sɔk/",
+   "fa": "جوراب",
+   "ex": "Alex zoekt sokken.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "gebakje",
+   "art": "het",
+   "w": "het gebakje",
+   "ipa": "/ɣəˈbɑkjə/",
+   "fa": "شیرینی (کیک کوچک)",
+   "ex": "Er ligt een gebakje met een roze laagje.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "worst",
+   "art": "de",
+   "w": "de worst",
+   "ipa": "/ʋɔrst/",
+   "fa": "سوسیس",
+   "ex": "Je kunt er bijna alles kopen: sokken, handdoeken, schriften, taart en worst.",
+   "m": [
+    70,
+    75
+   ],
+   "book": 1
+  },
+  {
+   "id": "room",
+   "art": "de",
+   "w": "de room",
+   "ipa": "/roːm/",
+   "fa": "خامه",
+   "ex": "De room komt er aan alle kanten uit.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "makkelijk",
+   "art": "",
+   "w": "makkelijk",
+   "ipa": "/ˈmɑkələk/",
+   "fa": "آسان",
+   "ex": "Dat is niet makkelijk!",
+   "m": [
+    12,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "handdoek",
+   "art": "de",
+   "w": "de handdoek",
+   "ipa": "/ˈɦɑnduk/",
+   "fa": "حوله",
+   "ex": "Je kunt er bijna alles kopen: sokken, handdoeken, schriften, taart en worst.",
+   "m": [
+    38,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "verkoopster",
+   "art": "de",
+   "w": "de verkoopster",
+   "ipa": "/vərˈkoːpstər/",
+   "fa": "فروشنده (زن)",
+   "ex": "“Dat is een tompouce,” zegt de verkoopster.",
+   "m": [
+    31,
+    42
+   ],
+   "book": 0
+  },
+  {
+   "id": "roze",
+   "art": "",
+   "w": "roze",
+   "ipa": "/rɔːzə/",
+   "fa": "صورتی",
+   "ex": "Mia kiest een roze etui met sterren.",
+   "m": [
+    14,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "allemaal",
+   "art": "",
+   "w": "allemaal",
+   "ipa": "/ˈɑləˌmaːl/",
+   "fa": "همه، همگی",
+   "ex": "We lachen allemaal.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "bakkerij",
+   "art": "de",
+   "w": "de bakkerij",
+   "ipa": "/bɑkəˈrɛi/",
+   "fa": "نانوایی، شیرینی‌پزی",
+   "ex": "Dan zien we de bakkerij in de winkel.",
+   "m": [
+    15,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "bekend",
+   "art": "",
+   "w": "bekend",
+   "ipa": "/bəˈkɛnt/",
+   "fa": "معروف",
+   "ex": "Heel bekend in Nederland!",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "neus",
+   "art": "de",
+   "w": "de neus",
+   "ipa": "/nøːs/",
+   "fa": "بینی",
+   "ex": "Mia heeft room op haar neus.",
+   "m": [
+    23,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "stamppot",
+   "art": "de",
+   "w": "de stamppot",
+   "ipa": "/ˈstɑmpɔt/",
+   "fa": "استامپوت (پوره‌ی سیب‌زمینی و سبزی)",
+   "ex": "Lekker met stamppot!",
+   "m": [
+    11,
+    19
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mia heeft spullen nodig voor school.",
+   "fa": "میا برای مدرسه وسایل لازم دارد.",
+   "alt": [
+    "Mia heeft voor school spullen nodig."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Je kunt er bijna alles kopen.",
+   "fa": "آنجا تقریباً همه‌چیز می‌شود خرید.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Dat is heel bekend in Nederland.",
+   "fa": "این در هلند خیلی معروف است.",
+   "alt": [
+    "In Nederland is dat heel bekend."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Dat is niet makkelijk!",
+   "fa": "این آسان نیست!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Mia heeft room op haar neus.",
+   "fa": "روی بینی میا خامه است.",
+   "alt": []
+  }
+ ]
+}

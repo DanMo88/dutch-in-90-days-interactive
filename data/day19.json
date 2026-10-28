@@ -1,0 +1,451 @@
+{
+ "day": 19,
+ "level": "A1",
+ "title": "Pannenkoeken in de Jordaan",
+ "fa_title": "پنکیک در محله‌ی یوردان",
+ "audio": "audio/day19.mp3",
+ "img": "img/day19.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is zaterdag.",
+   "s": 5.24
+  },
+  {
+   "p": 0,
+   "t": "Op het plein bij de Noorderkerk is markt.",
+   "s": 7.8
+  },
+  {
+   "p": 0,
+   "t": "We fietsen erheen door de Jordaan.",
+   "s": 11.77
+  },
+  {
+   "p": 0,
+   "t": "Dat is een oude wijk met smalle straatjes en mooie grachten.",
+   "s": 15.12
+  },
+  {
+   "p": 1,
+   "t": "Op de markt verkopen ze kaas, groente, bloemen en oude spullen.",
+   "s": 20.41
+  },
+  {
+   "p": 1,
+   "t": "Ik koop een bos tulpen voor vijf euro.",
+   "s": 26.96
+  },
+  {
+   "p": 2,
+   "t": "“Ik heb honger!” zegt Mia.",
+   "s": 31.08
+  },
+  {
+   "p": 3,
+   "t": "We gaan naar een pannenkoekenhuis.",
+   "s": 35.4
+  },
+  {
+   "p": 3,
+   "t": "Binnen is het warm en klein.",
+   "s": 38.65
+  },
+  {
+   "p": 3,
+   "t": "Op elke tafel staat een pot stroop en een bus poedersuiker.",
+   "s": 41.8
+  },
+  {
+   "p": 4,
+   "t": "De ober geeft ons de kaart.",
+   "s": 47.15
+  },
+  {
+   "p": 4,
+   "t": "Er zijn heel veel soorten pannenkoeken.",
+   "s": 50.32
+  },
+  {
+   "p": 5,
+   "t": "“Wat wilt u?” vraagt hij.",
+   "s": 54.04
+  },
+  {
+   "p": 6,
+   "t": "“Ik wil graag een pannenkoek met kaas en champignons,” zeg ik.",
+   "s": 58.29
+  },
+  {
+   "p": 6,
+   "t": "“Zonder spek, alstublieft.”",
+   "s": 63.88
+  },
+  {
+   "p": 7,
+   "t": "“Appel en kaneel,” zegt Alex.",
+   "s": 67.43
+  },
+  {
+   "p": 7,
+   "t": "“Met poedersuiker!” zegt Mia.",
+   "s": 71.32
+  },
+  {
+   "p": 8,
+   "t": "De pannenkoeken zijn groot, groter dan het bord!",
+   "s": 75.99
+  },
+  {
+   "p": 8,
+   "t": "Mia doet er ook veel stroop op.",
+   "s": 80.74
+  },
+  {
+   "p": 8,
+   "t": "Haar handen zijn heel plakkerig.",
+   "s": 84.18
+  },
+  {
+   "p": 8,
+   "t": "Maar ze is heel blij.",
+   "s": 87.57
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar is de markt?",
+   "o": [
+    "bij de Noorderkerk",
+    "op de Dam",
+    "in Noord",
+    "bij de school"
+   ],
+   "a": 0,
+   "fa": "بازار کجاست؟"
+  },
+  {
+   "q": "Wat koopt Sara op de markt?",
+   "o": [
+    "kaas",
+    "brood",
+    "tulpen",
+    "koffie"
+   ],
+   "a": 2,
+   "fa": "سارا در بازار چه می‌خرد؟"
+  },
+  {
+   "q": "Wat staat er op elke tafel?",
+   "o": [
+    "bloemen",
+    "stroop en poedersuiker",
+    "kaarsen",
+    "zout en peper"
+   ],
+   "a": 1,
+   "fa": "روی هر میز چه هست؟"
+  },
+  {
+   "q": "Wat bestelt Sara?",
+   "o": [
+    "appel en kaneel",
+    "spek",
+    "poedersuiker",
+    "kaas en champignons"
+   ],
+   "a": 3,
+   "fa": "سارا چه سفارش می‌دهد؟"
+  },
+  {
+   "q": "Hoe groot zijn de pannenkoeken?",
+   "o": [
+    "heel klein",
+    "groter dan het bord",
+    "zo groot als een hand",
+    "normaal"
+   ],
+   "a": 1,
+   "fa": "پنکیک‌ها چقدر بزرگ‌اند؟"
+  },
+  {
+   "q": "Waarom zijn de handen van Mia plakkerig?",
+   "o": [
+    "van de stroop",
+    "van de bloemen",
+    "van de kaas",
+    "van de fiets"
+   ],
+   "a": 0,
+   "fa": "چرا دست‌های میا چسبناک است؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "pannenkoek",
+   "art": "de",
+   "w": "de pannenkoek",
+   "ipa": "/ˈpɑnə(n)kuk/",
+   "fa": "پنکیک (هلندی)",
+   "ex": "Er zijn heel veel soorten pannenkoeken.",
+   "m": [
+    26,
+    38
+   ],
+   "book": 1
+  },
+  {
+   "id": "markt",
+   "art": "de",
+   "w": "de markt",
+   "ipa": "/mɑrkt/",
+   "fa": "بازار",
+   "ex": "Op het plein bij de Noorderkerk is markt.",
+   "m": [
+    35,
+    40
+   ],
+   "book": 1
+  },
+  {
+   "id": "wijk",
+   "art": "de",
+   "w": "de wijk",
+   "ipa": "/ʋɛik/",
+   "fa": "محله",
+   "ex": "Dat is een oude wijk met smalle straatjes en mooie grachten.",
+   "m": [
+    16,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "smal",
+   "art": "",
+   "w": "smal",
+   "ipa": "/smɑl/",
+   "fa": "باریک",
+   "ex": "Dat is een oude wijk met smalle straatjes en mooie grachten.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "ober",
+   "art": "de",
+   "w": "de ober",
+   "ipa": "/ˈoːbər/",
+   "fa": "گارسون",
+   "ex": "De ober geeft ons de kaart.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "kaart",
+   "art": "de",
+   "w": "de kaart",
+   "ipa": "/kaːrt/",
+   "fa": "منو",
+   "ex": "Mag ik de kaart, alstublieft?",
+   "m": [
+    10,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "bestellen",
+   "art": "",
+   "w": "bestellen",
+   "ipa": "/bəˈstɛlə(n)/",
+   "fa": "سفارش دادن",
+   "ex": "Ik bestel een thee.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "zonder",
+   "art": "",
+   "w": "zonder",
+   "ipa": "/ˈzɔndər/",
+   "fa": "بدونِ",
+   "ex": "Zonder spek, alstublieft.",
+   "m": [
+    0,
+    6
+   ],
+   "book": 1
+  },
+  {
+   "id": "stroop",
+   "art": "de",
+   "w": "de stroop",
+   "ipa": "/stroːp/",
+   "fa": "شیره",
+   "ex": "Mia doet er ook veel stroop op.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "bord",
+   "art": "het",
+   "w": "het bord",
+   "ipa": "/bɔrt/",
+   "fa": "بشقاب",
+   "ex": "Het bord is leeg.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "tulp",
+   "art": "de",
+   "w": "de tulp",
+   "ipa": "/tʏlp/",
+   "fa": "لاله",
+   "ex": "Ik koop een bos tulpen voor vijf euro.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "poedersuiker",
+   "art": "de",
+   "w": "de poedersuiker",
+   "ipa": "/ˈpudərˌsœykər/",
+   "fa": "پودر قند",
+   "ex": "Op elke tafel staat een pot stroop en een bus poedersuiker.",
+   "m": [
+    46,
+    58
+   ],
+   "book": 0
+  },
+  {
+   "id": "soort",
+   "art": "de",
+   "w": "de soort",
+   "ipa": "/soːrt/",
+   "fa": "نوع",
+   "ex": "Er zijn heel veel soorten pannenkoeken.",
+   "m": [
+    18,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "champignon",
+   "art": "de",
+   "w": "de champignon",
+   "ipa": "/ˌʃɑmpi(n)ˈjɔn/",
+   "fa": "قارچ",
+   "ex": "Ik wil graag een pannenkoek met kaas en champignons.",
+   "m": [
+    40,
+    51
+   ],
+   "book": 0
+  },
+  {
+   "id": "spek",
+   "art": "het",
+   "w": "het spek",
+   "ipa": "/spɛk/",
+   "fa": "بیکن (گوشت خوک دودی)",
+   "ex": "Zonder spek, alstublieft.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "kaneel",
+   "art": "de",
+   "w": "de kaneel",
+   "ipa": "/kaːˈneːl/",
+   "fa": "دارچین",
+   "ex": "Appel en kaneel.",
+   "m": [
+    9,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "plakkerig",
+   "art": "",
+   "w": "plakkerig",
+   "ipa": "/ˈplɑkərəx/",
+   "fa": "چسبناک",
+   "ex": "Haar handen zijn heel plakkerig.",
+   "m": [
+    22,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "groot",
+   "art": "",
+   "w": "groot",
+   "ipa": "/ɣroːt/",
+   "fa": "بزرگ",
+   "ex": "De pannenkoeken zijn groot, groter dan het bord!",
+   "m": [
+    28,
+    34
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik heb honger!",
+   "fa": "گرسنه‌ام!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Wat wilt u?",
+   "fa": "چه میل دارید؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Ik wil graag een pannenkoek met kaas.",
+   "fa": "لطفاً یک پنکیک با پنیر می‌خواهم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Zonder spek, alstublieft.",
+   "fa": "بدون بیکن، لطفاً.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "De pannenkoeken zijn groter dan het bord.",
+   "fa": "پنکیک‌ها از بشقاب بزرگ‌ترند.",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "day": 5,
+ "level": "A1",
+ "title": "Op de Albert Cuypmarkt",
+ "fa_title": "در بازار آلبرت کاوپ",
+ "audio": "audio/day05.mp3",
+ "img": "img/day05.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Op zaterdag gaan we naar de Albert Cuypmarkt.",
+   "s": 5.04
+  },
+  {
+   "p": 0,
+   "t": "De markt is vlak bij ons huis, in De Pijp.",
+   "s": 9.26
+  },
+  {
+   "p": 0,
+   "t": "Er zijn meer dan tweehonderd kramen!",
+   "s": 13.77
+  },
+  {
+   "p": 1,
+   "t": "Het is druk en gezellig.",
+   "s": 17.63
+  },
+  {
+   "p": 1,
+   "t": "Een man roept: “Aardbeien!",
+   "s": 20.6
+  },
+  {
+   "p": 1,
+   "t": "Drie bakjes voor vijf euro!”",
+   "s": 23.98
+  },
+  {
+   "p": 1,
+   "t": "Mia wil aardbeien.",
+   "s": 27.54
+  },
+  {
+   "p": 1,
+   "t": "We kopen drie bakjes.",
+   "s": 30.4
+  },
+  {
+   "p": 2,
+   "t": "Bij de kaaskraam mogen we proeven.",
+   "s": 33.26
+  },
+  {
+   "p": 2,
+   "t": "De verkoper geeft ons een stukje oude kaas.",
+   "s": 36.79
+  },
+  {
+   "p": 2,
+   "t": "“Mmm, die is sterk,” zegt Alex.",
+   "s": 41.13
+  },
+  {
+   "p": 2,
+   "t": "We kopen een stuk Goudse kaas.",
+   "s": 46.01
+  },
+  {
+   "p": 3,
+   "t": "Dan ruiken we iets zoets.",
+   "s": 49.48
+  },
+  {
+   "p": 3,
+   "t": "Het is een kraam met stroopwafels.",
+   "s": 52.38
+  },
+  {
+   "p": 3,
+   "t": "Een vrouw maakt ze vers.",
+   "s": 55.99
+  },
+  {
+   "p": 3,
+   "t": "Ze zijn warm en groot.",
+   "s": 58.88
+  },
+  {
+   "p": 4,
+   "t": "“Eén stroopwafel, alstublieft,” zegt Mia.",
+   "s": 61.82
+  },
+  {
+   "p": 5,
+   "t": "“Twee euro, meisje.”",
+   "s": 67.01
+  },
+  {
+   "p": 6,
+   "t": "Mia betaalt zelf.",
+   "s": 70.29
+  },
+  {
+   "p": 6,
+   "t": "Ze is trots.",
+   "s": 73.07
+  },
+  {
+   "p": 7,
+   "t": "We kopen ook bloemen: een bos zonnebloemen voor op tafel.",
+   "s": 75.37
+  },
+  {
+   "p": 8,
+   "t": "Thuis zet ik de bloemen in een vaas.",
+   "s": 80.62
+  },
+  {
+   "p": 8,
+   "t": "Alex snijdt de kaas.",
+   "s": 84.15
+  },
+  {
+   "p": 8,
+   "t": "Mia eet aardbeien.",
+   "s": 87.02
+  },
+  {
+   "p": 8,
+   "t": "Wat een mooie zaterdag!",
+   "s": 89.97
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wanneer gaan ze naar de markt?",
+   "o": [
+    "op maandag",
+    "op woensdag",
+    "op zaterdag",
+    "op zondag"
+   ],
+   "a": 2,
+   "fa": "کِی به بازار می‌روند؟"
+  },
+  {
+   "q": "Hoeveel kosten drie bakjes aardbeien?",
+   "o": [
+    "twee euro",
+    "drie euro",
+    "vijf euro",
+    "tien euro"
+   ],
+   "a": 2,
+   "fa": "سه ظرف توت‌فرنگی چند است؟"
+  },
+  {
+   "q": "Wat mogen ze bij de kaaskraam doen?",
+   "o": [
+    "proeven",
+    "koken",
+    "zingen",
+    "zitten"
+   ],
+   "a": 0,
+   "fa": "در غرفه‌ی پنیر چه کاری می‌توانند بکنند؟"
+  },
+  {
+   "q": "Hoe is de oude kaas?",
+   "o": [
+    "zoet",
+    "zacht",
+    "sterk",
+    "koud"
+   ],
+   "a": 2,
+   "fa": "پنیر کهنه چطور است؟"
+  },
+  {
+   "q": "Wie betaalt de stroopwafel?",
+   "o": [
+    "Alex",
+    "Sara",
+    "Dani",
+    "Mia"
+   ],
+   "a": 3,
+   "fa": "چه کسی پول استروپ‌وافل را می‌دهد؟"
+  },
+  {
+   "q": "Welke bloemen kopen ze?",
+   "o": [
+    "rozen",
+    "tulpen",
+    "zonnebloemen",
+    "geen bloemen"
+   ],
+   "a": 2,
+   "fa": "چه گل‌هایی می‌خرند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "markt",
+   "art": "de",
+   "w": "de markt",
+   "ipa": "/mɑrkt/",
+   "fa": "بازار",
+   "ex": "De markt is vlak bij ons huis, in De Pijp.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "kraam",
+   "art": "de",
+   "w": "de kraam",
+   "ipa": "/kraːm/",
+   "fa": "غرفه، بساط",
+   "ex": "Er zijn meer dan tweehonderd kramen!",
+   "m": [
+    29,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "druk",
+   "art": "",
+   "w": "druk",
+   "ipa": "/drʏk/",
+   "fa": "شلوغ",
+   "ex": "Het is druk en gezellig.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "gezellig",
+   "art": "",
+   "w": "gezellig",
+   "ipa": "/ɣəˈzɛləx/",
+   "fa": "دنج و صمیمی",
+   "ex": "Het is druk en gezellig.",
+   "m": [
+    15,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "aardbei",
+   "art": "de",
+   "w": "de aardbei",
+   "ipa": "/ˈaːrdbɛi/",
+   "fa": "توت‌فرنگی",
+   "ex": "Mia wil aardbeien.",
+   "m": [
+    8,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "proeven",
+   "art": "",
+   "w": "proeven",
+   "ipa": "/ˈpruvə(n)/",
+   "fa": "چشیدن",
+   "ex": "Bij de kaaskraam mogen we proeven.",
+   "m": [
+    26,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "vers",
+   "art": "",
+   "w": "vers",
+   "ipa": "/vɛrs/",
+   "fa": "تازه",
+   "ex": "Een vrouw maakt ze vers.",
+   "m": [
+    19,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "stroopwafel",
+   "art": "de",
+   "w": "de stroopwafel",
+   "ipa": "/ˈstroːpʋaːfəl/",
+   "fa": "استروپ‌وافل (وافل شیره‌ای)",
+   "ex": "Het is een kraam met stroopwafels.",
+   "m": [
+    21,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "bloem",
+   "art": "de",
+   "w": "de bloem",
+   "ipa": "/blum/",
+   "fa": "گل",
+   "ex": "Ik geef mama een bloem.",
+   "m": [
+    17,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "trots",
+   "art": "",
+   "w": "trots",
+   "ipa": "/trɔts/",
+   "fa": "مفتخر، سربلند",
+   "ex": "Ze is trots.",
+   "m": [
+    6,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "bakje",
+   "art": "het",
+   "w": "het bakje",
+   "ipa": "/ˈbɑkjə/",
+   "fa": "ظرف کوچک",
+   "ex": "Drie bakjes voor vijf euro!",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  },
+  {
+   "id": "alstublieft",
+   "art": "",
+   "w": "alstublieft",
+   "ipa": "/ˌɑ(l)styˈblift/",
+   "fa": "لطفاً (مؤدبانه)",
+   "ex": "Eén stroopwafel, alstublieft.",
+   "m": [
+    17,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "stukje",
+   "art": "het",
+   "w": "het stukje",
+   "ipa": "/ˈstʏkjə/",
+   "fa": "تکه‌ی کوچک",
+   "ex": "De verkoper geeft ons een stukje oude kaas.",
+   "m": [
+    26,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "sterk",
+   "art": "",
+   "w": "sterk",
+   "ipa": "/stɛrk/",
+   "fa": "تند، قوی",
+   "ex": "Mmm, die is sterk.",
+   "m": [
+    12,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "warm",
+   "art": "",
+   "w": "warm",
+   "ipa": "/ʋɑr(ə)m/",
+   "fa": "گرم",
+   "ex": "Ze zijn warm en groot.",
+   "m": [
+    8,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "zonnebloem",
+   "art": "de",
+   "w": "de zonnebloem",
+   "ipa": "/ˈzɔnəˌblum/",
+   "fa": "گل آفتابگردان",
+   "ex": "We kopen ook bloemen: een bos zonnebloemen voor op tafel.",
+   "m": [
+    30,
+    42
+   ],
+   "book": 0
+  },
+  {
+   "id": "vaas",
+   "art": "de",
+   "w": "de vaas",
+   "ipa": "/vaːs/",
+   "fa": "گلدان",
+   "ex": "Thuis zet ik de bloemen in een vaas.",
+   "m": [
+    31,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "snijden",
+   "art": "",
+   "w": "snijden",
+   "ipa": "/ˈsnɛidə(n)/",
+   "fa": "بریدن",
+   "ex": "Alex snijdt de kaas.",
+   "m": [
+    5,
+    11
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Het is druk en gezellig.",
+   "fa": "شلوغ و دلنشین است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mag ik even proeven?",
+   "fa": "می‌توانم کمی بچشم؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Eén stroopwafel, alstublieft.",
+   "fa": "یک استروپ‌وافل، لطفاً.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Mia betaalt zelf.",
+   "fa": "میا خودش پول می‌دهد.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik zet de bloemen in een vaas.",
+   "fa": "گل‌ها را در گلدان می‌گذارم.",
+   "alt": []
+  }
+ ]
+}

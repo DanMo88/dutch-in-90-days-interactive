@@ -1,0 +1,493 @@
+{
+ "day": 11,
+ "level": "A1",
+ "title": "Met de tram naar de Dam",
+ "fa_title": "با تراموا به میدان دام",
+ "audio": "audio/day11.mp3",
+ "img": "img/day11.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Vandaag gaan we met de tram naar de Dam.",
+   "s": 4.87
+  },
+  {
+   "p": 0,
+   "t": "De tramhalte is in onze straat.",
+   "s": 8.54
+  },
+  {
+   "p": 1,
+   "t": "“Hebben we een kaartje nodig?” vraagt Alex.",
+   "s": 12.12
+  },
+  {
+   "p": 2,
+   "t": "“Nee,” zegt Dani.",
+   "s": 17.54
+  },
+  {
+   "p": 2,
+   "t": "“Je kunt inchecken met je bankpas.",
+   "s": 20.46
+  },
+  {
+   "p": 2,
+   "t": "Dat heet OVpay.”",
+   "s": 23.87
+  },
+  {
+   "p": 3,
+   "t": "De tram komt.",
+   "s": 26.29
+  },
+  {
+   "p": 3,
+   "t": "Hij is wit en blauw.",
+   "s": 28.58
+  },
+  {
+   "p": 3,
+   "t": "We stappen in.",
+   "s": 31.3
+  },
+  {
+   "p": 3,
+   "t": "Ik houd mijn bankpas tegen de kaartlezer.",
+   "s": 33.58
+  },
+  {
+   "p": 3,
+   "t": "Piep!",
+   "s": 37.55
+  },
+  {
+   "p": 3,
+   "t": "Het lampje is groen.",
+   "s": 39.12
+  },
+  {
+   "p": 3,
+   "t": "Alex doet het ook.",
+   "s": 41.74
+  },
+  {
+   "p": 3,
+   "t": "Mia heeft een eigen kaart: een OV-chipkaart voor kinderen.",
+   "s": 44.27
+  },
+  {
+   "p": 4,
+   "t": "De tram rijdt door de stad.",
+   "s": 49.98
+  },
+  {
+   "p": 4,
+   "t": "We zien grachten, winkels en heel veel fietsen.",
+   "s": 53.07
+  },
+  {
+   "p": 4,
+   "t": "Een stem zegt: “Volgende halte: Dam.”",
+   "s": 57.9
+  },
+  {
+   "p": 5,
+   "t": "We stappen uit.",
+   "s": 62.38
+  },
+  {
+   "p": 5,
+   "t": "“Uitchecken!” roept Mia.",
+   "s": 64.79
+  },
+  {
+   "p": 5,
+   "t": "Piep!",
+   "s": 69.04
+  },
+  {
+   "p": 6,
+   "t": "De Dam is een groot plein.",
+   "s": 70.6
+  },
+  {
+   "p": 6,
+   "t": "Er zijn veel toeristen en duiven.",
+   "s": 73.77
+  },
+  {
+   "p": 6,
+   "t": "We zien het Koninklijk Paleis.",
+   "s": 77.3
+  },
+  {
+   "p": 7,
+   "t": "“Woont de koning hier?” vraagt Mia.",
+   "s": 80.58
+  },
+  {
+   "p": 8,
+   "t": "“Nee,” zeg ik.",
+   "s": 85.41
+  },
+  {
+   "p": 8,
+   "t": "“Hij woont in Den Haag.",
+   "s": 88.13
+  },
+  {
+   "p": 8,
+   "t": "Maar soms is hij hier voor een feest.”",
+   "s": 90.88
+  },
+  {
+   "p": 9,
+   "t": "We drinken warme chocolademelk op een terras.",
+   "s": 94.71
+  },
+  {
+   "p": 9,
+   "t": "Wat een mooie stad!",
+   "s": 99.18
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar is de tramhalte?",
+   "o": [
+    "bij het station",
+    "in hun straat",
+    "op de Dam",
+    "bij de school"
+   ],
+   "a": 1,
+   "fa": "ایستگاه تراموا کجاست؟"
+  },
+  {
+   "q": "Hoe checkt Sara in?",
+   "o": [
+    "met haar bankpas",
+    "met geld",
+    "met een kaartje",
+    "niet"
+   ],
+   "a": 0,
+   "fa": "سارا چطور چک‌این می‌کند؟"
+  },
+  {
+   "q": "Welke kleur heeft het lampje na het inchecken?",
+   "o": [
+    "rood",
+    "geel",
+    "groen",
+    "blauw"
+   ],
+   "a": 2,
+   "fa": "بعد از چک‌این چراغ کوچک چه رنگی می‌شود؟"
+  },
+  {
+   "q": "Wat zegt Mia bij het uitstappen?",
+   "o": [
+    "“Dank je wel!”",
+    "“Uitchecken!”",
+    "“Hallo!”",
+    "“Stop!”"
+   ],
+   "a": 1,
+   "fa": "میا موقع پیاده شدن چه می‌گوید؟"
+  },
+  {
+   "q": "Waar woont de koning?",
+   "o": [
+    "op de Dam",
+    "in De Pijp",
+    "in Noord",
+    "in Den Haag"
+   ],
+   "a": 3,
+   "fa": "پادشاه کجا زندگی می‌کند؟"
+  },
+  {
+   "q": "Wat drinken ze op het terras?",
+   "o": [
+    "koffie",
+    "thee",
+    "chocolademelk",
+    "water"
+   ],
+   "a": 2,
+   "fa": "روی تراس چه می‌نوشند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "halte",
+   "art": "de",
+   "w": "de halte",
+   "ipa": "/ˈɦɑltə/",
+   "fa": "ایستگاه",
+   "ex": "Volgende halte: Dam.",
+   "m": [
+    9,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "inchecken",
+   "art": "",
+   "w": "inchecken",
+   "ipa": "/ˈɪntʃɛkə(n)/",
+   "fa": "چک‌این کردن (زدن کارت موقع سوار شدن)",
+   "ex": "Je kunt inchecken met je bankpas.",
+   "m": [
+    8,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitchecken",
+   "art": "",
+   "w": "uitchecken",
+   "ipa": "/ˈœytʃɛkə(n)/",
+   "fa": "چک‌اوت کردن (زدن کارت موقع پیاده شدن)",
+   "ex": "Bij het station check ik uit.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "bankpas",
+   "art": "de",
+   "w": "de bankpas",
+   "ipa": "/ˈbɑŋkpɑs/",
+   "fa": "کارت بانکی",
+   "ex": "Ik houd mijn bankpas tegen de kaartlezer.",
+   "m": [
+    13,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "instappen",
+   "art": "",
+   "w": "instappen",
+   "ipa": "/ˈɪnstɑpə(n)/",
+   "fa": "سوار شدن",
+   "ex": "We stappen in.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "uitstappen",
+   "art": "",
+   "w": "uitstappen",
+   "ipa": "/ˈœytstɑpə(n)/",
+   "fa": "پیاده شدن",
+   "ex": "We stappen uit.",
+   "m": [
+    3,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "plein",
+   "art": "het",
+   "w": "het plein",
+   "ipa": "/plɛin/",
+   "fa": "میدان",
+   "ex": "De Dam is een groot plein.",
+   "m": [
+    20,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "paleis",
+   "art": "het",
+   "w": "het paleis",
+   "ipa": "/paːˈlɛis/",
+   "fa": "کاخ",
+   "ex": "We zien het Koninklijk Paleis.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "koning",
+   "art": "de",
+   "w": "de koning",
+   "ipa": "/ˈkoːnɪŋ/",
+   "fa": "پادشاه",
+   "ex": "Woont de koning hier?",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "terras",
+   "art": "het",
+   "w": "het terras",
+   "ipa": "/tɛˈrɑs/",
+   "fa": "تراس (فضای باز کافه)",
+   "ex": "We drinken warme chocolademelk op een terras.",
+   "m": [
+    38,
+    44
+   ],
+   "book": 1
+  },
+  {
+   "id": "stad",
+   "art": "de",
+   "w": "de stad",
+   "ipa": "/stɑt/",
+   "fa": "شهر",
+   "ex": "De tram rijdt door de stad.",
+   "m": [
+    22,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "stem",
+   "art": "de",
+   "w": "de stem",
+   "ipa": "/stɛm/",
+   "fa": "صدا (ی انسان)؛ رأی",
+   "ex": "In de tram hoor ik een stem.",
+   "m": [
+    23,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "duif",
+   "art": "de",
+   "w": "de duif",
+   "ipa": "/dœyf/",
+   "fa": "کبوتر",
+   "ex": "Er zijn veel toeristen en duiven.",
+   "m": [
+    26,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "wonen",
+   "art": "",
+   "w": "wonen",
+   "ipa": "/ˈʋoːnə(n)/",
+   "fa": "زندگی کردن، ساکن بودن",
+   "ex": "Hij woont in Den Haag.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "wit",
+   "art": "",
+   "w": "wit",
+   "ipa": "/ʋɪt/",
+   "fa": "سفید",
+   "ex": "Hij is wit en blauw.",
+   "m": [
+    7,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "lampje",
+   "art": "het",
+   "w": "het lampje",
+   "ipa": "/ˈlɑmpjə/",
+   "fa": "چراغ کوچک",
+   "ex": "Het lampje is groen.",
+   "m": [
+    4,
+    10
+   ],
+   "book": 0
+  },
+  {
+   "id": "volgend",
+   "art": "",
+   "w": "volgend",
+   "ipa": "/ˈvɔlɣənt/",
+   "fa": "بعدی",
+   "ex": "Volgende halte: Dam.",
+   "m": [
+    0,
+    8
+   ],
+   "book": 0
+  },
+  {
+   "id": "soms",
+   "art": "",
+   "w": "soms",
+   "ipa": "/sɔms/",
+   "fa": "گاهی",
+   "ex": "Maar soms is hij hier voor een feest.",
+   "m": [
+    5,
+    9
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Hebben we een kaartje nodig?",
+   "fa": "بلیت لازم داریم؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ik check in met mijn bankpas.",
+   "fa": "با کارت بانکی‌ام چک‌این می‌کنم.",
+   "alt": [
+    "Met mijn bankpas check ik in."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "De volgende halte is de Dam.",
+   "fa": "ایستگاه بعدی دام است.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Vergeet niet uit te checken.",
+   "fa": "یادت نرود چک‌اوت کنی.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Wat een mooie stad!",
+   "fa": "چه شهر زیبایی!",
+   "alt": []
+  }
+ ]
+}

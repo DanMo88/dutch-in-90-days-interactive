@@ -1,0 +1,471 @@
+{
+ "day": 28,
+ "level": "A1",
+ "title": "Oliebollen",
+ "fa_title": "اولیبول (پیراشکی هلندی)",
+ "audio": "audio/day28.mp3",
+ "img": "img/day28.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is negenentwintig december.",
+   "s": 4.85
+  },
+  {
+   "p": 0,
+   "t": "Oma Anna belt.",
+   "s": 8.32
+  },
+  {
+   "p": 0,
+   "t": "“Sara, kom morgen bij mij oliebollen bakken!”",
+   "s": 11.07
+  },
+  {
+   "p": 1,
+   "t": "Oma Anna woont in Amsterdam-Oost.",
+   "s": 15.7
+  },
+  {
+   "p": 1,
+   "t": "We gaan met de tram.",
+   "s": 19.54
+  },
+  {
+   "p": 2,
+   "t": "“Oliebollen eten we met oud en nieuw,” zegt Oma Anna.",
+   "s": 21.98
+  },
+  {
+   "p": 2,
+   "t": "“Dat doen we al honderden jaren.”",
+   "s": 26.99
+  },
+  {
+   "p": 3,
+   "t": "Ze legt het recept uit.",
+   "s": 30.21
+  },
+  {
+   "p": 3,
+   "t": "Bloem, melk, gist, eieren, een snufje zout en rozijnen.",
+   "s": 33.04
+  },
+  {
+   "p": 3,
+   "t": "Mia mag roeren.",
+   "s": 39.4
+  },
+  {
+   "p": 3,
+   "t": "Het deeg is plakkerig.",
+   "s": 41.96
+  },
+  {
+   "p": 4,
+   "t": "“Nu moet het deeg een uur rijzen,” zegt Oma Anna.",
+   "s": 44.84
+  },
+  {
+   "p": 4,
+   "t": "We drinken thee en ze vertelt over vroeger.",
+   "s": 49.4
+  },
+  {
+   "p": 5,
+   "t": "Na een uur is het deeg twee keer zo groot.",
+   "s": 53.56
+  },
+  {
+   "p": 5,
+   "t": "Oma Anna verwarmt de olie in een grote pan.",
+   "s": 57.62
+  },
+  {
+   "p": 5,
+   "t": "Ze schept met twee lepels balletjes deeg in de hete olie.",
+   "s": 61.95
+  },
+  {
+   "p": 5,
+   "t": "Sss!",
+   "s": 66.99
+  },
+  {
+   "p": 5,
+   "t": "Ze worden goudbruin.",
+   "s": 69.15
+  },
+  {
+   "p": 6,
+   "t": "We leggen de oliebollen op een schaal.",
+   "s": 71.95
+  },
+  {
+   "p": 6,
+   "t": "Dan doen we er veel poedersuiker op.",
+   "s": 75.4
+  },
+  {
+   "p": 6,
+   "t": "Mia neemt een hap.",
+   "s": 79.01
+  },
+  {
+   "p": 6,
+   "t": "Haar neus is helemaal wit!",
+   "s": 81.62
+  },
+  {
+   "p": 7,
+   "t": "“Wat lekker, Oma Anna!”",
+   "s": 85.06
+  },
+  {
+   "p": 7,
+   "t": "Ze glimlacht.",
+   "s": 88.15
+  },
+  {
+   "p": 7,
+   "t": "“Volgend jaar bak jij ze zelf.”",
+   "s": 90.62
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar woont Oma Anna?",
+   "o": [
+    "in De Pijp",
+    "in Noord",
+    "in Amsterdam-Oost",
+    "in Zandvoort"
+   ],
+   "a": 2,
+   "fa": "مادربزرگ آنا کجا زندگی می‌کند؟"
+  },
+  {
+   "q": "Wanneer eten Nederlanders oliebollen?",
+   "o": [
+    "met oud en nieuw",
+    "met Pasen",
+    "op Koningsdag",
+    "op Sint-Maarten"
+   ],
+   "a": 0,
+   "fa": "هلندی‌ها کِی اولیبول می‌خورند؟"
+  },
+  {
+   "q": "Wat mag Mia doen?",
+   "o": [
+    "bakken",
+    "roeren",
+    "snijden",
+    "afwassen"
+   ],
+   "a": 1,
+   "fa": "میا اجازه دارد چه کاری بکند؟"
+  },
+  {
+   "q": "Hoe lang moet het deeg rijzen?",
+   "o": [
+    "tien minuten",
+    "een half uur",
+    "twee uur",
+    "een uur"
+   ],
+   "a": 3,
+   "fa": "خمیر چقدر باید وَر بیاید؟"
+  },
+  {
+   "q": "Welke kleur krijgen de oliebollen?",
+   "o": [
+    "goudbruin",
+    "wit",
+    "zwart",
+    "geel"
+   ],
+   "a": 0,
+   "fa": "اولیبول‌ها چه رنگی می‌شوند؟"
+  },
+  {
+   "q": "Wat doen ze op de oliebollen?",
+   "o": [
+    "honing",
+    "stroop",
+    "poedersuiker",
+    "jam"
+   ],
+   "a": 2,
+   "fa": "روی اولیبول‌ها چه می‌ریزند؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "oliebol",
+   "art": "de",
+   "w": "de oliebol",
+   "ipa": "/ˈoːlibɔl/",
+   "fa": "اولیبول (پیراشکی سرخ‌کرده‌ی هلندی)",
+   "ex": "Sara, kom morgen bij mij oliebollen bakken!",
+   "m": [
+    25,
+    35
+   ],
+   "book": 1
+  },
+  {
+   "id": "recept",
+   "art": "het",
+   "w": "het recept",
+   "ipa": "/rəˈsɛpt/",
+   "fa": "دستور پخت",
+   "ex": "Oma heeft een goed recept.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "bloem",
+   "art": "de",
+   "w": "de bloem",
+   "ipa": "/blum/",
+   "fa": "آرد",
+   "ex": "Voor brood heb je bloem nodig.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "ei",
+   "art": "het",
+   "w": "het ei",
+   "ipa": "/ɛi/",
+   "fa": "تخم‌مرغ",
+   "ex": "Bloem, melk, gist, eieren, een snufje zout en rozijnen.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "deeg",
+   "art": "het",
+   "w": "het deeg",
+   "ipa": "/deːx/",
+   "fa": "خمیر",
+   "ex": "Nu moet het deeg een uur rijzen.",
+   "m": [
+    12,
+    16
+   ],
+   "book": 1
+  },
+  {
+   "id": "roeren",
+   "art": "",
+   "w": "roeren",
+   "ipa": "/ˈrurə(n)/",
+   "fa": "هم زدن",
+   "ex": "Mia mag roeren.",
+   "m": [
+    8,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "olie",
+   "art": "de",
+   "w": "de olie",
+   "ipa": "/ˈoːli/",
+   "fa": "روغن",
+   "ex": "Oma Anna verwarmt de olie in een grote pan.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "heet",
+   "art": "",
+   "w": "heet",
+   "ipa": "/ɦeːt/",
+   "fa": "داغ",
+   "ex": "Ze schept met twee lepels balletjes deeg in de hete olie.",
+   "m": [
+    47,
+    51
+   ],
+   "book": 1
+  },
+  {
+   "id": "lepel",
+   "art": "de",
+   "w": "de lepel",
+   "ipa": "/ˈleːpəl/",
+   "fa": "قاشق",
+   "ex": "Ze schept met twee lepels balletjes deeg in de hete olie.",
+   "m": [
+    19,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "vroeger",
+   "art": "",
+   "w": "vroeger",
+   "ipa": "/ˈvruɣər/",
+   "fa": "قدیم‌ها، در گذشته",
+   "ex": "We drinken thee en ze vertelt over vroeger.",
+   "m": [
+    35,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "gist",
+   "art": "de",
+   "w": "de gist",
+   "ipa": "/ɣɪst/",
+   "fa": "مخمر؛ خمیرمایه",
+   "ex": "Bloem, melk, gist, eieren, een snufje zout en rozijnen.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "rozijn",
+   "art": "de",
+   "w": "de rozijn",
+   "ipa": "/roːˈzɛin/",
+   "fa": "کشمش",
+   "ex": "Bloem, melk, gist, eieren, een snufje zout en rozijnen.",
+   "m": [
+    46,
+    54
+   ],
+   "book": 0
+  },
+  {
+   "id": "rijzen",
+   "art": "",
+   "w": "rijzen",
+   "ipa": "/ˈrɛizə(n)/",
+   "fa": "ور آمدن (خمیر)",
+   "ex": "Nu moet het deeg een uur rijzen.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "verwarmen",
+   "art": "",
+   "w": "verwarmen",
+   "ipa": "/vərˈʋɑrmə(n)/",
+   "fa": "گرم کردن",
+   "ex": "Oma Anna verwarmt de olie in een grote pan.",
+   "m": [
+    9,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "goudbruin",
+   "art": "",
+   "w": "goudbruin",
+   "ipa": "/ˈɣɑudbrœyn/",
+   "fa": "طلایی‌قهوه‌ای",
+   "ex": "Ze worden goudbruin.",
+   "m": [
+    10,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "schaal",
+   "art": "de",
+   "w": "de schaal",
+   "ipa": "/sxaːl/",
+   "fa": "دیس، ظرف بزرگ",
+   "ex": "We leggen de oliebollen op een schaal.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 0
+  },
+  {
+   "id": "glimlachen",
+   "art": "",
+   "w": "glimlachen",
+   "ipa": "/ˈɣlɪmlɑxə(n)/",
+   "fa": "لبخند زدن",
+   "ex": "Ze glimlacht.",
+   "m": [
+    3,
+    12
+   ],
+   "book": 0
+  },
+  {
+   "id": "helemaal",
+   "art": "",
+   "w": "helemaal",
+   "ipa": "/ˈɦeːləˌmaːl/",
+   "fa": "کاملاً",
+   "ex": "Haar neus is helemaal wit!",
+   "m": [
+    13,
+    21
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Kom morgen oliebollen bakken!",
+   "fa": "فردا بیا اولیبول بپزیم!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Mia mag roeren.",
+   "fa": "میا اجازه دارد هم بزند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Het deeg moet een uur rijzen.",
+   "fa": "خمیر باید یک ساعت ور بیاید.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Haar neus is helemaal wit!",
+   "fa": "بینی‌اش کاملاً سفید شده!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Volgend jaar bak jij ze zelf.",
+   "fa": "سال بعد خودت آن‌ها را می‌پزی.",
+   "alt": []
+  }
+ ]
+}

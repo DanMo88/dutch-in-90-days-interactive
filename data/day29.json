@@ -1,0 +1,450 @@
+{
+ "day": 29,
+ "level": "A1",
+ "title": "Oud en Nieuw",
+ "fa_title": "شب سال نو",
+ "audio": "audio/day29.mp3",
+ "img": "img/day29.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het is eenendertig december: oudejaarsavond.",
+   "s": 4.94
+  },
+  {
+   "p": 0,
+   "t": "We vieren het bij Dani en Emma.",
+   "s": 9.91
+  },
+  {
+   "p": 0,
+   "t": "Op tafel staat een schaal oliebollen van Oma Anna.",
+   "s": 13.47
+  },
+  {
+   "p": 1,
+   "t": "Het is een bijzonder jaar.",
+   "s": 18.43
+  },
+  {
+   "p": 1,
+   "t": "Mensen mogen zelf geen vuurwerk meer afsteken.",
+   "s": 21.23
+  },
+  {
+   "p": 1,
+   "t": "Dat is nu verboden in heel Nederland.",
+   "s": 25.98
+  },
+  {
+   "p": 2,
+   "t": "“Is dat niet saai?” vraagt Alex.",
+   "s": 29.96
+  },
+  {
+   "p": 3,
+   "t": "“Nee hoor,” zegt Dani.",
+   "s": 34.76
+  },
+  {
+   "p": 3,
+   "t": "“De gemeente geeft een grote vuurwerkshow boven het IJ.",
+   "s": 37.91
+  },
+  {
+   "p": 3,
+   "t": "En sterretjes mogen nog wel.”",
+   "s": 42.88
+  },
+  {
+   "p": 4,
+   "t": "Om half twaalf lopen we samen naar het water.",
+   "s": 46.13
+  },
+  {
+   "p": 4,
+   "t": "Er zijn duizenden mensen.",
+   "s": 50.43
+  },
+  {
+   "p": 5,
+   "t": "Dan tellen we samen af: “Tien, negen, acht... drie, twee, één!”",
+   "s": 53.43
+  },
+  {
+   "p": 6,
+   "t": "“Gelukkig nieuwjaar!”",
+   "s": 61.52
+  },
+  {
+   "p": 7,
+   "t": "Boven het IJ knalt het vuurwerk: rood, groen, goud en zilver.",
+   "s": 64.04
+  },
+  {
+   "p": 7,
+   "t": "Het is prachtig.",
+   "s": 70.9
+  },
+  {
+   "p": 8,
+   "t": "Mia zwaait met haar sterretje.",
+   "s": 73.29
+  },
+  {
+   "p": 8,
+   "t": "Iedereen geeft elkaar drie zoenen: links, rechts, links.",
+   "s": 76.55
+  },
+  {
+   "p": 8,
+   "t": "“Gelukkig nieuwjaar, Sara!” zegt Emma.",
+   "s": 82.55
+  },
+  {
+   "p": 8,
+   "t": "“Jij ook, Emma!",
+   "s": 88.08
+  },
+  {
+   "p": 8,
+   "t": "En de baby ook!”",
+   "s": 90.83
+  },
+  {
+   "p": 9,
+   "t": "Alex pakt mijn hand.",
+   "s": 93.41
+  },
+  {
+   "p": 9,
+   "t": "“Ons eerste nieuwjaar in Nederland.”",
+   "s": 96.19
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waar vieren ze oudejaarsavond?",
+   "o": [
+    "thuis",
+    "bij Dani en Emma",
+    "bij Oma Anna",
+    "in een restaurant"
+   ],
+   "a": 1,
+   "fa": "شب آخر سال را کجا جشن می‌گیرند؟"
+  },
+  {
+   "q": "Wat is er nieuw dit jaar?",
+   "o": [
+    "mensen mogen zelf geen vuurwerk afsteken",
+    "er is geen tv",
+    "er zijn geen oliebollen",
+    "de tram rijdt niet"
+   ],
+   "a": 0,
+   "fa": "امسال چه چیزی تازه است؟"
+  },
+  {
+   "q": "Waar is de vuurwerkshow?",
+   "o": [
+    "op de Dam",
+    "in het Vondelpark",
+    "in Noord",
+    "boven het IJ"
+   ],
+   "a": 3,
+   "fa": "نمایش آتش‌بازی کجاست؟"
+  },
+  {
+   "q": "Wat mag nog wel?",
+   "o": [
+    "knallers",
+    "sterretjes",
+    "pijlen",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "چه چیزی هنوز مجاز است؟"
+  },
+  {
+   "q": "Hoeveel zoenen geven ze?",
+   "o": [
+    "één",
+    "twee",
+    "drie",
+    "vier"
+   ],
+   "a": 2,
+   "fa": "چند بار همدیگر را می‌بوسند؟"
+  },
+  {
+   "q": "Wat zegt Alex?",
+   "o": [
+    "“Ik ben moe.”",
+    "“Het is koud.”",
+    "“Ons eerste nieuwjaar in Nederland.”",
+    "“Tot morgen.”"
+   ],
+   "a": 2,
+   "fa": "الکس چه می‌گوید؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "oudejaarsavond",
+   "art": "de",
+   "w": "de oudejaarsavond",
+   "ipa": "/ɑudəˈjaːrsaːvɔnt/",
+   "fa": "شب آخر سال",
+   "ex": "Het is eenendertig december: oudejaarsavond.",
+   "m": [
+    29,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "nieuwjaar",
+   "art": "",
+   "w": "nieuwjaar",
+   "ipa": "/ˈniujaːr/",
+   "fa": "سال نو",
+   "ex": "Ons eerste nieuwjaar in Nederland.",
+   "m": [
+    11,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "vuurwerk",
+   "art": "het",
+   "w": "het vuurwerk",
+   "ipa": "/ˈvyːrʋɛrk/",
+   "fa": "آتش‌بازی، ترقه",
+   "ex": "Mensen mogen zelf geen vuurwerk meer afsteken.",
+   "m": [
+    23,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "verboden",
+   "art": "",
+   "w": "verboden",
+   "ipa": "/vərˈboːdə(n)/",
+   "fa": "ممنوع",
+   "ex": "Dat is nu verboden in heel Nederland.",
+   "m": [
+    10,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "gemeente",
+   "art": "de",
+   "w": "de gemeente",
+   "ipa": "/ɣəˈmeːntə/",
+   "fa": "شهرداری",
+   "ex": "De gemeente geeft een grote vuurwerkshow boven het IJ.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "sterretje",
+   "art": "het",
+   "w": "het sterretje",
+   "ipa": "/ˈstɛrətjə/",
+   "fa": "فشفشه",
+   "ex": "En sterretjes mogen nog wel.",
+   "m": [
+    3,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "aftellen",
+   "art": "",
+   "w": "aftellen",
+   "ipa": "/ˈɑftɛlə(n)/",
+   "fa": "شمارش معکوس کردن",
+   "ex": "We tellen af: drie, twee, één!",
+   "m": [
+    3,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "zoen",
+   "art": "de",
+   "w": "de zoen",
+   "ipa": "/zun/",
+   "fa": "بوسه",
+   "ex": "Iedereen geeft elkaar drie zoenen: links, rechts, links.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "elkaar",
+   "art": "",
+   "w": "elkaar",
+   "ipa": "/ɛlˈkaːr/",
+   "fa": "همدیگر",
+   "ex": "Iedereen geeft elkaar drie zoenen: links, rechts, links.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "koud",
+   "art": "",
+   "w": "koud",
+   "ipa": "/kɑut/",
+   "fa": "سرد",
+   "ex": "Het water is koud.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "jaar",
+   "art": "het",
+   "w": "het jaar",
+   "ipa": "/jaːr/",
+   "fa": "سال",
+   "ex": "Het is een bijzonder jaar.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 0
+  },
+  {
+   "id": "saai",
+   "art": "",
+   "w": "saai",
+   "ipa": "/saːi/",
+   "fa": "کسل‌کننده",
+   "ex": "Is dat niet saai?",
+   "m": [
+    12,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "vuurwerkshow",
+   "art": "de",
+   "w": "de vuurwerkshow",
+   "ipa": "/ˈvyːrʋɛrkʃoː/",
+   "fa": "نمایش آتش‌بازی",
+   "ex": "De gemeente geeft een grote vuurwerkshow boven het IJ.",
+   "m": [
+    28,
+    40
+   ],
+   "book": 0
+  },
+  {
+   "id": "zilver",
+   "art": "het",
+   "w": "het zilver",
+   "ipa": "/ˈzɪlvər/",
+   "fa": "نقره",
+   "ex": "Boven het IJ knalt het vuurwerk: rood, groen, goud en zilver.",
+   "m": [
+    54,
+    60
+   ],
+   "book": 0
+  },
+  {
+   "id": "knallen",
+   "art": "",
+   "w": "knallen",
+   "ipa": "/ˈknɑlə(n)/",
+   "fa": "ترکیدن، صدا دادن",
+   "ex": "Boven het IJ knalt het vuurwerk: rood, groen, goud en zilver.",
+   "m": [
+    13,
+    18
+   ],
+   "book": 0
+  },
+  {
+   "id": "boven",
+   "art": "",
+   "w": "boven",
+   "ipa": "/ˈboːvə(n)/",
+   "fa": "بالای",
+   "ex": "De gemeente geeft een grote vuurwerkshow boven het IJ.",
+   "m": [
+    41,
+    46
+   ],
+   "book": 0
+  },
+  {
+   "id": "mogen",
+   "art": "",
+   "w": "mogen",
+   "ipa": "/ˈmoːɣə(n)/",
+   "fa": "اجازه داشتن",
+   "ex": "Mensen mogen zelf geen vuurwerk meer afsteken.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Vuurwerk is nu verboden.",
+   "fa": "آتش‌بازی حالا ممنوع است.",
+   "alt": [
+    "Nu is vuurwerk verboden."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Sterretjes mogen nog wel.",
+   "fa": "فشفشه هنوز مجاز است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "We tellen samen af.",
+   "fa": "با هم شمارش معکوس می‌کنیم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Iedereen geeft elkaar drie zoenen.",
+   "fa": "همه سه بار همدیگر را می‌بوسند.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ons eerste nieuwjaar in Nederland.",
+   "fa": "اولین سال نوی ما در هلند.",
+   "alt": []
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "day": 15,
+ "level": "A1",
+ "title": "Een verjaardag in de kring",
+ "fa_title": "جشن تولد در حلقه",
+ "audio": "audio/day15.mp3",
+ "img": "img/day15.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Dani is vandaag jarig.",
+   "s": 5.21
+  },
+  {
+   "p": 0,
+   "t": "Hij wordt zesendertig.",
+   "s": 8.37
+  },
+  {
+   "p": 0,
+   "t": "Emma zegt: “Kom vanavond om acht uur!”",
+   "s": 11.21
+  },
+  {
+   "p": 1,
+   "t": "Wij nemen een cadeautje mee: een fietsbel in de vorm van een kat.",
+   "s": 15.77
+  },
+  {
+   "p": 2,
+   "t": "In de woonkamer staan alle stoelen in een grote kring.",
+   "s": 21.58
+  },
+  {
+   "p": 2,
+   "t": "Er zijn al veel mensen: familie, vrienden en buren.",
+   "s": 26.51
+  },
+  {
+   "p": 2,
+   "t": "Oma Anna is er ook.",
+   "s": 31.96
+  },
+  {
+   "p": 2,
+   "t": "Zij is de oma van Dani.",
+   "s": 34.94
+  },
+  {
+   "p": 2,
+   "t": "Ze heeft wit krullend haar en een lieve lach.",
+   "s": 38.1
+  },
+  {
+   "p": 3,
+   "t": "“In Nederland feliciteer je iedereen!” zegt Emma.",
+   "s": 42.23
+  },
+  {
+   "p": 3,
+   "t": "Dus we lopen de kring rond en we geven iedereen een hand.",
+   "s": 48.29
+  },
+  {
+   "p": 4,
+   "t": "“Gefeliciteerd met je kleinzoon!” zeg ik tegen Oma Anna.",
+   "s": 53.3
+  },
+  {
+   "p": 5,
+   "t": "“Gefeliciteerd met je man!” zeg ik tegen Emma.",
+   "s": 60.01
+  },
+  {
+   "p": 6,
+   "t": "Dan gaan we zitten.",
+   "s": 65.85
+  },
+  {
+   "p": 6,
+   "t": "Er is koffie met taart.",
+   "s": 68.37
+  },
+  {
+   "p": 6,
+   "t": "Later zijn er bitterballen en kaasblokjes.",
+   "s": 71.19
+  },
+  {
+   "p": 6,
+   "t": "Iedereen praat over het weer, het werk en de vakantie.",
+   "s": 75.46
+  },
+  {
+   "p": 7,
+   "t": "In de wc hangt een verjaardagskalender.",
+   "s": 80.58
+  },
+  {
+   "p": 7,
+   "t": "Ik schrijf mijn naam bij 12 maart.",
+   "s": 84.69
+  },
+  {
+   "p": 8,
+   "t": "Dani pakt zijn cadeau uit.",
+   "s": 88.3
+  },
+  {
+   "p": 8,
+   "t": "“Tring tring!",
+   "s": 91.55
+  },
+  {
+   "p": 8,
+   "t": "Hij is prachtig!”",
+   "s": 93.9
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe oud wordt Dani?",
+   "o": [
+    "vijfentwintig",
+    "dertig",
+    "zesendertig",
+    "veertig"
+   ],
+   "a": 2,
+   "fa": "دانی چند ساله می‌شود؟"
+  },
+  {
+   "q": "Wat is het cadeau?",
+   "o": [
+    "een fietsbel",
+    "een boek",
+    "bloemen",
+    "een taart"
+   ],
+   "a": 0,
+   "fa": "هدیه چیست؟"
+  },
+  {
+   "q": "Hoe staan de stoelen?",
+   "o": [
+    "in een rij",
+    "in de keuken",
+    "buiten",
+    "in een kring"
+   ],
+   "a": 3,
+   "fa": "صندلی‌ها چطور چیده شده‌اند؟"
+  },
+  {
+   "q": "Wie is Oma Anna?",
+   "o": [
+    "de moeder van Emma",
+    "de oma van Dani",
+    "de juf",
+    "een buurvrouw"
+   ],
+   "a": 1,
+   "fa": "مادربزرگ آنا کیست؟"
+  },
+  {
+   "q": "Wat eten ze na de taart?",
+   "o": [
+    "soep",
+    "pizza",
+    "bitterballen en kaasblokjes",
+    "niets"
+   ],
+   "a": 2,
+   "fa": "بعد از کیک چه می‌خورند؟"
+  },
+  {
+   "q": "Waar hangt de verjaardagskalender?",
+   "o": [
+    "in de keuken",
+    "in de wc",
+    "in de slaapkamer",
+    "bij de deur"
+   ],
+   "a": 1,
+   "fa": "تقویم تولدها کجا آویزان است؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "jarig",
+   "art": "",
+   "w": "jarig",
+   "ipa": "/ˈjaːrəx/",
+   "fa": "تولدِ کسی بودن",
+   "ex": "Dani is vandaag jarig.",
+   "m": [
+    16,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "verjaardag",
+   "art": "de",
+   "w": "de verjaardag",
+   "ipa": "/vərˈjaːrdɑx/",
+   "fa": "تولد، جشن تولد",
+   "ex": "Mijn verjaardag is in mei.",
+   "m": [
+    5,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "cadeau",
+   "art": "het",
+   "w": "het cadeau",
+   "ipa": "/kaːˈdoː/",
+   "fa": "هدیه",
+   "ex": "Dani pakt zijn cadeau uit.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "kring",
+   "art": "de",
+   "w": "de kring",
+   "ipa": "/krɪŋ/",
+   "fa": "حلقه، دایره",
+   "ex": "In de woonkamer staan alle stoelen in een grote kring.",
+   "m": [
+    48,
+    53
+   ],
+   "book": 1
+  },
+  {
+   "id": "feliciteren",
+   "art": "",
+   "w": "feliciteren",
+   "ipa": "/feːlisiˈteːrə(n)/",
+   "fa": "تبریک گفتن",
+   "ex": "In Nederland feliciteer je iedereen!",
+   "m": [
+    13,
+    23
+   ],
+   "book": 1
+  },
+  {
+   "id": "gefeliciteerd",
+   "art": "",
+   "w": "Gefeliciteerd!",
+   "ipa": "/ɣəfeːlisiˈteːrt/",
+   "fa": "تبریک!",
+   "ex": "\"Gefeliciteerd, Mia!\"",
+   "m": [
+    1,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "familie",
+   "art": "de",
+   "w": "de familie",
+   "ipa": "/faːˈmili/",
+   "fa": "فامیل، خانواده",
+   "ex": "Er zijn al veel mensen: familie, vrienden en buren.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "taart",
+   "art": "de",
+   "w": "de taart",
+   "ipa": "/taːrt/",
+   "fa": "کیک",
+   "ex": "Er is koffie met taart.",
+   "m": [
+    17,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "oma",
+   "art": "de",
+   "w": "de oma",
+   "ipa": "/ˈoːmaː/",
+   "fa": "مادربزرگ",
+   "ex": "Zij is de oma van Dani.",
+   "m": [
+    10,
+    13
+   ],
+   "book": 1
+  },
+  {
+   "id": "kalender",
+   "art": "de",
+   "w": "de kalender",
+   "ipa": "/kaːˈlɛndər/",
+   "fa": "تقویم",
+   "ex": "Op de kalender staan alle verjaardagen.",
+   "m": [
+    6,
+    14
+   ],
+   "book": 1
+  },
+  {
+   "id": "fietsbel",
+   "art": "de",
+   "w": "de fietsbel",
+   "ipa": "/ˈfitsbɛl/",
+   "fa": "زنگ دوچرخه",
+   "ex": "Wij nemen een cadeautje mee: een fietsbel in de vorm van een kat.",
+   "m": [
+    33,
+    41
+   ],
+   "book": 0
+  },
+  {
+   "id": "kleinzoon",
+   "art": "de",
+   "w": "de kleinzoon",
+   "ipa": "/ˈklɛinzoːn/",
+   "fa": "نوه (پسر)",
+   "ex": "Gefeliciteerd met je kleinzoon!",
+   "m": [
+    21,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "mens",
+   "art": "de",
+   "w": "de mens",
+   "ipa": "/mɛns/",
+   "fa": "انسان، آدم",
+   "ex": "Er zijn al veel mensen: familie, vrienden en buren.",
+   "m": [
+    16,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "vakantie",
+   "art": "de",
+   "w": "de vakantie",
+   "ipa": "/vaːˈkɑn(t)si/",
+   "fa": "تعطیلات، سفر",
+   "ex": "Iedereen praat over het weer, het werk en de vakantie.",
+   "m": [
+    45,
+    53
+   ],
+   "book": 0
+  },
+  {
+   "id": "bitterbal",
+   "art": "de",
+   "w": "de bitterbal",
+   "ipa": "/ˈbɪtərˌbɑl/",
+   "fa": "بیتربال (گلوله‌ی سرخ‌کرده)",
+   "ex": "Later zijn er bitterballen en kaasblokjes.",
+   "m": [
+    14,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "prachtig",
+   "art": "",
+   "w": "prachtig",
+   "ipa": "/ˈprɑxtəx/",
+   "fa": "بسیار زیبا",
+   "ex": "Hij is prachtig!",
+   "m": [
+    7,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "krullend",
+   "art": "",
+   "w": "krullend",
+   "ipa": "/ˈkrʏlənt/",
+   "fa": "فرفری",
+   "ex": "Ze heeft wit krullend haar en een lieve lach.",
+   "m": [
+    13,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "wc",
+   "art": "de",
+   "w": "de wc",
+   "ipa": "/ʋeːˈseː/",
+   "fa": "دستشویی، توالت",
+   "ex": "In de wc hangt een verjaardagskalender.",
+   "m": [
+    6,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Dani is vandaag jarig.",
+   "fa": "امروز تولد دانی است.",
+   "alt": [
+    "Vandaag is Dani jarig."
+   ]
+  },
+  {
+   "id": "s2",
+   "en": "Gefeliciteerd met je kleinzoon!",
+   "fa": "تولد نوه‌تان مبارک!",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "We geven iedereen een hand.",
+   "fa": "با همه دست می‌دهیم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Er is koffie met taart.",
+   "fa": "قهوه و کیک هست.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Hij is prachtig!",
+   "fa": "خیلی قشنگ است!",
+   "alt": []
+  }
+ ]
+}

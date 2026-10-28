@@ -1,0 +1,473 @@
+{
+ "day": 26,
+ "level": "A1",
+ "title": "Een kerstboom kopen",
+ "fa_title": "خرید درخت کریسمس",
+ "audio": "audio/day26.mp3",
+ "img": "img/day26.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Sinterklaas is weg.",
+   "s": 5.57
+  },
+  {
+   "p": 0,
+   "t": "Nu begint de kerst!",
+   "s": 8.57
+  },
+  {
+   "p": 0,
+   "t": "Overal in de stad hangen lichtjes.",
+   "s": 11.53
+  },
+  {
+   "p": 0,
+   "t": "De grachten zijn prachtig.",
+   "s": 15.28
+  },
+  {
+   "p": 1,
+   "t": "“Wij willen een kerstboom,” zegt Mia.",
+   "s": 18.13
+  },
+  {
+   "p": 2,
+   "t": "Op een plein bij ons in de buurt is een kerstbomenverkoop.",
+   "s": 21.62
+  },
+  {
+   "p": 2,
+   "t": "Er staan honderden bomen.",
+   "s": 25.99
+  },
+  {
+   "p": 3,
+   "t": "“Welke boom wilt u?” vraagt de verkoper.",
+   "s": 29.07
+  },
+  {
+   "p": 4,
+   "t": "“Niet te groot,” zegt Alex.",
+   "s": 34.82
+  },
+  {
+   "p": 4,
+   "t": "“Ons huis is klein.”",
+   "s": 38.37
+  },
+  {
+   "p": 5,
+   "t": "Mia wijst naar een boom.",
+   "s": 41.2
+  },
+  {
+   "p": 5,
+   "t": "“Die!",
+   "s": 44.17
+  },
+  {
+   "p": 5,
+   "t": "Hij is perfect.”",
+   "s": 45.71
+  },
+  {
+   "p": 6,
+   "t": "De boom is anderhalve meter.",
+   "s": 48.51
+  },
+  {
+   "p": 6,
+   "t": "Hij kost dertig euro.",
+   "s": 51.96
+  },
+  {
+   "p": 7,
+   "t": "Maar hoe nemen we hem mee?",
+   "s": 55.09
+  },
+  {
+   "p": 7,
+   "t": "We hebben geen auto.",
+   "s": 58.38
+  },
+  {
+   "p": 7,
+   "t": "Alex legt de boom in de bakfiets van Dani.",
+   "s": 61.27
+  },
+  {
+   "p": 7,
+   "t": "Mia zit naast de boom.",
+   "s": 65.32
+  },
+  {
+   "p": 7,
+   "t": "“Ik pas op hem!”",
+   "s": 68.26
+  },
+  {
+   "p": 8,
+   "t": "Thuis zetten we de boom in de hoek van de woonkamer.",
+   "s": 70.68
+  },
+  {
+   "p": 8,
+   "t": "We hangen er lichtjes, ballen en sterren in.",
+   "s": 74.84
+  },
+  {
+   "p": 8,
+   "t": "Bovenin zet Mia een grote gouden ster.",
+   "s": 79.07
+  },
+  {
+   "p": 9,
+   "t": "We doen het grote licht uit.",
+   "s": 83.12
+  },
+  {
+   "p": 9,
+   "t": "De boom straalt.",
+   "s": 86.18
+  },
+  {
+   "p": 10,
+   "t": "Lucy komt binnen en kijkt naar de ballen.",
+   "s": 88.79
+  },
+  {
+   "p": 10,
+   "t": "“Nee, Lucy!",
+   "s": 92.4
+  },
+  {
+   "p": 10,
+   "t": "Niet spelen!” roept Mia.",
+   "s": 94.96
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat hangt er overal in de stad?",
+   "o": [
+    "vlaggen",
+    "lichtjes",
+    "bloemen",
+    "ballonnen"
+   ],
+   "a": 1,
+   "fa": "همه‌جای شهر چه آویزان است؟"
+  },
+  {
+   "q": "Waar kopen ze de boom?",
+   "o": [
+    "op een plein in de buurt",
+    "in de supermarkt",
+    "bij de Action",
+    "in het bos"
+   ],
+   "a": 0,
+   "fa": "درخت را کجا می‌خرند؟"
+  },
+  {
+   "q": "Hoe groot is de boom?",
+   "o": [
+    "één meter",
+    "twee meter",
+    "anderhalve meter",
+    "drie meter"
+   ],
+   "a": 2,
+   "fa": "درخت چقدر بلند است؟"
+  },
+  {
+   "q": "Hoeveel kost de boom?",
+   "o": [
+    "tien euro",
+    "twintig euro",
+    "vijftig euro",
+    "dertig euro"
+   ],
+   "a": 3,
+   "fa": "درخت چند است؟"
+  },
+  {
+   "q": "Hoe nemen ze de boom mee?",
+   "o": [
+    "met de bakfiets van Dani",
+    "met de auto",
+    "met de tram",
+    "met de bus"
+   ],
+   "a": 0,
+   "fa": "درخت را چطور می‌برند؟"
+  },
+  {
+   "q": "Wat zet Mia bovenin de boom?",
+   "o": [
+    "een bal",
+    "een engel",
+    "een gouden ster",
+    "een lampje"
+   ],
+   "a": 2,
+   "fa": "میا بالای درخت چه می‌گذارد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "kerst",
+   "art": "de",
+   "w": "de kerst",
+   "ipa": "/kɛrst/",
+   "fa": "کریسمس",
+   "ex": "Nu begint de kerst!",
+   "m": [
+    13,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "kerstboom",
+   "art": "de",
+   "w": "de kerstboom",
+   "ipa": "/ˈkɛrstboːm/",
+   "fa": "درخت کریسمس",
+   "ex": "Wij willen een kerstboom.",
+   "m": [
+    15,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "boom",
+   "art": "de",
+   "w": "de boom",
+   "ipa": "/boːm/",
+   "fa": "درخت",
+   "ex": "Er staat een boom in de tuin.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 1
+  },
+  {
+   "id": "lichtje",
+   "art": "het",
+   "w": "het lichtje",
+   "ipa": "/ˈlɪxjə/",
+   "fa": "چراغ ریز (تزئینی)",
+   "ex": "Overal in de stad hangen lichtjes.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 1
+  },
+  {
+   "id": "bal",
+   "art": "de",
+   "w": "de bal",
+   "ipa": "/bɑl/",
+   "fa": "گوی، توپ",
+   "ex": "Mia hangt een rode bal in de boom.",
+   "m": [
+    19,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "verkoper",
+   "art": "de",
+   "w": "de verkoper",
+   "ipa": "/vərˈkoːpər/",
+   "fa": "فروشنده",
+   "ex": "De verkoper is vriendelijk.",
+   "m": [
+    3,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "wijzen",
+   "art": "",
+   "w": "wijzen",
+   "ipa": "/ˈʋɛizə(n)/",
+   "fa": "اشاره کردن",
+   "ex": "Mia wijst naar een boom.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoek",
+   "art": "de",
+   "w": "de hoek",
+   "ipa": "/ɦuk/",
+   "fa": "گوشه",
+   "ex": "De stoel staat in de hoek.",
+   "m": [
+    21,
+    25
+   ],
+   "book": 1
+  },
+  {
+   "id": "ophangen",
+   "art": "",
+   "w": "ophangen",
+   "ipa": "/ˈɔphɑŋə(n)/",
+   "fa": "آویزان کردن",
+   "ex": "Ik hang de lichtjes op.",
+   "m": [
+    3,
+    7
+   ],
+   "book": 1
+  },
+  {
+   "id": "oppassen",
+   "art": "",
+   "w": "oppassen",
+   "ipa": "/ˈɔpɑsə(n)/",
+   "fa": "مراقب بودن، مواظبت کردن",
+   "ex": "Ik pas op hem!",
+   "m": [
+    3,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "overal",
+   "art": "",
+   "w": "overal",
+   "ipa": "/ˈoːvəˌrɑl/",
+   "fa": "همه‌جا",
+   "ex": "Overal in de stad hangen lichtjes.",
+   "m": [
+    0,
+    6
+   ],
+   "book": 0
+  },
+  {
+   "id": "perfect",
+   "art": "",
+   "w": "perfect",
+   "ipa": "/pɛrˈfɛkt/",
+   "fa": "بی‌نقص، عالی",
+   "ex": "Hij is perfect.",
+   "m": [
+    7,
+    14
+   ],
+   "book": 0
+  },
+  {
+   "id": "meter",
+   "art": "de",
+   "w": "de meter",
+   "ipa": "/ˈmeːtər/",
+   "fa": "متر",
+   "ex": "De boom is anderhalve meter.",
+   "m": [
+    22,
+    27
+   ],
+   "book": 0
+  },
+  {
+   "id": "auto",
+   "art": "de",
+   "w": "de auto",
+   "ipa": "/ˈɑutoː/",
+   "fa": "ماشین، خودرو",
+   "ex": "We hebben geen auto.",
+   "m": [
+    15,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "bakfiets",
+   "art": "de",
+   "w": "de bakfiets",
+   "ipa": "/ˈbɑkfits/",
+   "fa": "دوچرخه‌ی باری",
+   "ex": "Alex legt de boom in de bakfiets van Dani.",
+   "m": [
+    24,
+    32
+   ],
+   "book": 0
+  },
+  {
+   "id": "bovenin",
+   "art": "",
+   "w": "bovenin",
+   "ipa": "/boːvəˈnɪn/",
+   "fa": "بالای (چیزی)، در بالا",
+   "ex": "Bovenin zet Mia een grote gouden ster.",
+   "m": [
+    0,
+    7
+   ],
+   "book": 0
+  },
+  {
+   "id": "welk",
+   "art": "",
+   "w": "welk",
+   "ipa": "/ʋɛlk/",
+   "fa": "کدام",
+   "ex": "Welke boom wilt u?",
+   "m": [
+    0,
+    5
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wij willen een kerstboom.",
+   "fa": "ما یک درخت کریسمس می‌خواهیم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Welke boom wilt u?",
+   "fa": "کدام درخت را می‌خواهید؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "We hebben geen auto.",
+   "fa": "ما ماشین نداریم.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Ik pas op hem!",
+   "fa": "مواظبش هستم!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "We zetten de boom in de hoek.",
+   "fa": "درخت را در گوشه می‌گذاریم.",
+   "alt": []
+  }
+ ]
+}

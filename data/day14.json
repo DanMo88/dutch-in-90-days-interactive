@@ -1,0 +1,470 @@
+{
+ "day": 14,
+ "level": "A1",
+ "title": "Naar de Kruidvat",
+ "fa_title": "رفتن به کرویدفات",
+ "audio": "audio/day14.mp3",
+ "img": "img/day14.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Mia is ziek.",
+   "s": 5.12
+  },
+  {
+   "p": 0,
+   "t": "Ze hoest en ze heeft een loopneus.",
+   "s": 7.7
+  },
+  {
+   "p": 0,
+   "t": "Haar hoofd is warm.",
+   "s": 11.28
+  },
+  {
+   "p": 0,
+   "t": "Ze blijft vandaag thuis van school.",
+   "s": 14.07
+  },
+  {
+   "p": 1,
+   "t": "Ik bel juf Marieke.",
+   "s": 17.59
+  },
+  {
+   "p": 1,
+   "t": "“Mia is ziek.",
+   "s": 20.37
+  },
+  {
+   "p": 1,
+   "t": "Ze komt vandaag niet.”",
+   "s": 22.95
+  },
+  {
+   "p": 2,
+   "t": "“O, wat vervelend!",
+   "s": 25.76
+  },
+  {
+   "p": 2,
+   "t": "Beterschap, Mia!” zegt de juf.",
+   "s": 28.84
+  },
+  {
+   "p": 3,
+   "t": "Mia ligt op de bank onder een deken.",
+   "s": 34.17
+  },
+  {
+   "p": 3,
+   "t": "Alex blijft bij haar en ik ga naar de Kruidvat.",
+   "s": 37.73
+  },
+  {
+   "p": 3,
+   "t": "Dat is een drogisterij.",
+   "s": 42.09
+  },
+  {
+   "p": 3,
+   "t": "Je kunt er medicijnen, shampoo en tandpasta kopen.",
+   "s": 45.06
+  },
+  {
+   "p": 4,
+   "t": "Ik koop tissues, paracetamol voor kinderen en keelsnoepjes.",
+   "s": 50.23
+  },
+  {
+   "p": 4,
+   "t": "Bij de tandpasta staat: “1+1 gratis”.",
+   "s": 55.77
+  },
+  {
+   "p": 4,
+   "t": "Twee voor de prijs van één!",
+   "s": 60.63
+  },
+  {
+   "p": 4,
+   "t": "Ik pak er twee.",
+   "s": 63.73
+  },
+  {
+   "p": 5,
+   "t": "De verkoopster zegt: “Deze hoestdrank is goed voor kinderen.",
+   "s": 66.23
+  },
+  {
+   "p": 5,
+   "t": "En veel water drinken en rusten!”",
+   "s": 71.7
+  },
+  {
+   "p": 6,
+   "t": "Thuis maak ik thee met honing.",
+   "s": 75.56
+  },
+  {
+   "p": 6,
+   "t": "Lucy komt door het raam binnen en gaat naast Mia liggen.",
+   "s": 78.87
+  },
+  {
+   "p": 7,
+   "t": "“Lucy is ook een verpleegster, net als jij, mama!” zegt Mia.",
+   "s": 83.26
+  },
+  {
+   "p": 7,
+   "t": "Ik lach.",
+   "s": 90.52
+  },
+  {
+   "p": 7,
+   "t": "Morgen is ze vast beter.",
+   "s": 92.43
+  }
+ ],
+ "comp": [
+  {
+   "q": "Wat is er met Mia?",
+   "o": [
+    "ze is jarig",
+    "ze is ziek",
+    "ze is moe",
+    "ze is boos"
+   ],
+   "a": 1,
+   "fa": "میا چه‌اش شده؟"
+  },
+  {
+   "q": "Wie belt Sara?",
+   "o": [
+    "de huisarts",
+    "Dani",
+    "juf Marieke",
+    "Alex"
+   ],
+   "a": 2,
+   "fa": "سارا به چه کسی زنگ می‌زند؟"
+  },
+  {
+   "q": "Wat is de Kruidvat?",
+   "o": [
+    "een drogisterij",
+    "een supermarkt",
+    "een school",
+    "een bakkerij"
+   ],
+   "a": 0,
+   "fa": "کرویدفات چیست؟"
+  },
+  {
+   "q": "Wat betekent “1+1 gratis”?",
+   "o": [
+    "alles is gratis",
+    "één euro korting",
+    "het tweede is duur",
+    "twee voor de prijs van één"
+   ],
+   "a": 3,
+   "fa": "«۱+۱ رایگان» یعنی چه؟"
+  },
+  {
+   "q": "Wat maakt Sara voor Mia?",
+   "o": [
+    "soep",
+    "thee met honing",
+    "een boterham",
+    "chocolademelk"
+   ],
+   "a": 1,
+   "fa": "سارا برای میا چه درست می‌کند؟"
+  },
+  {
+   "q": "Wie gaat naast Mia liggen?",
+   "o": [
+    "Alex",
+    "Dani",
+    "Sara",
+    "Lucy"
+   ],
+   "a": 3,
+   "fa": "چه کسی کنار میا دراز می‌کشد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "ziek",
+   "art": "",
+   "w": "ziek",
+   "ipa": "/zik/",
+   "fa": "بیمار",
+   "ex": "Mia is ziek.",
+   "m": [
+    7,
+    11
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoesten",
+   "art": "",
+   "w": "hoesten",
+   "ipa": "/ˈɦustə(n)/",
+   "fa": "سرفه کردن",
+   "ex": "Ze hoest en ze heeft een loopneus.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "hoofd",
+   "art": "het",
+   "w": "het hoofd",
+   "ipa": "/ɦoːft/",
+   "fa": "سر",
+   "ex": "Haar hoofd is warm.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "drogisterij",
+   "art": "de",
+   "w": "de drogisterij",
+   "ipa": "/droːɣɪstəˈrɛi/",
+   "fa": "فروشگاه لوازم بهداشتی و دارویی",
+   "ex": "Dat is een drogisterij.",
+   "m": [
+    11,
+    22
+   ],
+   "book": 1
+  },
+  {
+   "id": "medicijn",
+   "art": "het",
+   "w": "het medicijn",
+   "ipa": "/meːdiˈsɛin/",
+   "fa": "دارو",
+   "ex": "Je kunt er medicijnen, shampoo en tandpasta kopen.",
+   "m": [
+    11,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "tandpasta",
+   "art": "de",
+   "w": "de tandpasta",
+   "ipa": "/ˈtɑntpɑstaː/",
+   "fa": "خمیردندان",
+   "ex": "Je kunt er medicijnen, shampoo en tandpasta kopen.",
+   "m": [
+    34,
+    43
+   ],
+   "book": 1
+  },
+  {
+   "id": "prijs",
+   "art": "de",
+   "w": "de prijs",
+   "ipa": "/prɛis/",
+   "fa": "قیمت",
+   "ex": "Wat is de prijs van deze tas?",
+   "m": [
+    10,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "rusten",
+   "art": "",
+   "w": "rusten",
+   "ipa": "/ˈrʏstə(n)/",
+   "fa": "استراحت کردن",
+   "ex": "En veel water drinken en rusten!",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "beterschap",
+   "art": "",
+   "w": "Beterschap!",
+   "ipa": "/ˈbeːtərsxɑp/",
+   "fa": "زود خوب شوی!",
+   "ex": "\"Beterschap!\" zegt de juf.",
+   "m": [
+    1,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "honing",
+   "art": "de",
+   "w": "de honing",
+   "ipa": "/ˈɦoːnɪŋ/",
+   "fa": "عسل",
+   "ex": "Thuis maak ik thee met honing.",
+   "m": [
+    23,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "loopneus",
+   "art": "de",
+   "w": "de loopneus",
+   "ipa": "/ˈloːpnøːs/",
+   "fa": "آبریزش بینی",
+   "ex": "Ze hoest en ze heeft een loopneus.",
+   "m": [
+    25,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "deken",
+   "art": "de",
+   "w": "de deken",
+   "ipa": "/ˈdeːkə(n)/",
+   "fa": "پتو",
+   "ex": "Mia ligt op de bank onder een deken.",
+   "m": [
+    30,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "shampoo",
+   "art": "de",
+   "w": "de shampoo",
+   "ipa": "/ˈʃɑmpoː/",
+   "fa": "شامپو",
+   "ex": "Je kunt er medicijnen, shampoo en tandpasta kopen.",
+   "m": [
+    23,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "tissue",
+   "art": "de",
+   "w": "de tissue",
+   "ipa": "/ˈtɪʃu/",
+   "fa": "دستمال کاغذی",
+   "ex": "Ik koop tissues en paracetamol.",
+   "m": [
+    8,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "hoestdrank",
+   "art": "de",
+   "w": "de hoestdrank",
+   "ipa": "/ˈɦustdrɑŋk/",
+   "fa": "شربت سرفه",
+   "ex": "Deze hoestdrank is goed voor kinderen.",
+   "m": [
+    5,
+    15
+   ],
+   "book": 0
+  },
+  {
+   "id": "verpleegster",
+   "art": "de",
+   "w": "de verpleegster",
+   "ipa": "/vərˈpleːxstər/",
+   "fa": "پرستار (زن)",
+   "ex": "Lucy is ook een verpleegster, net als jij, mama!",
+   "m": [
+    16,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "beter",
+   "art": "",
+   "w": "beter",
+   "ipa": "/ˈbeːtər/",
+   "fa": "بهتر",
+   "ex": "Morgen is ze vast beter.",
+   "m": [
+    18,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "liggen",
+   "art": "",
+   "w": "liggen",
+   "ipa": "/ˈlɪɣə(n)/",
+   "fa": "دراز کشیدن",
+   "ex": "Mia ligt op de bank onder een deken.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Mia is ziek.",
+   "fa": "میا بیمار است.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Ze blijft vandaag thuis.",
+   "fa": "امروز در خانه می‌ماند.",
+   "alt": [
+    "Vandaag blijft ze thuis."
+   ]
+  },
+  {
+   "id": "s3",
+   "en": "Twee voor de prijs van één!",
+   "fa": "دو تا به قیمت یکی!",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Veel water drinken en rusten!",
+   "fa": "زیاد آب بخور و استراحت کن!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Morgen is ze vast beter.",
+   "fa": "فردا حتماً حالش بهتر است.",
+   "alt": [
+    "Ze is morgen vast beter."
+   ]
+  }
+ ]
+}

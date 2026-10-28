@@ -1,0 +1,445 @@
+{
+ "day": 16,
+ "level": "A1",
+ "title": "In de OBA",
+ "fa_title": "در کتابخانه‌ی OBA",
+ "audio": "audio/day16.mp3",
+ "img": "img/day16.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Het regent weer.",
+   "s": 4.74
+  },
+  {
+   "p": 0,
+   "t": "“Wat doen we vandaag?” vraagt Mia.",
+   "s": 7.37
+  },
+  {
+   "p": 1,
+   "t": "“We gaan naar de bibliotheek,” zeg ik.",
+   "s": 12.38
+  },
+  {
+   "p": 1,
+   "t": "In Amsterdam heet die de OBA.",
+   "s": 16.2
+  },
+  {
+   "p": 2,
+   "t": "De grote OBA staat vlak bij het Centraal Station.",
+   "s": 19.99
+  },
+  {
+   "p": 2,
+   "t": "Het gebouw is wit en heel hoog.",
+   "s": 24.73
+  },
+  {
+   "p": 2,
+   "t": "Binnen is het licht en stil.",
+   "s": 28.42
+  },
+  {
+   "p": 2,
+   "t": "Er zijn duizenden boeken!",
+   "s": 31.74
+  },
+  {
+   "p": 3,
+   "t": "Bij de balie vraag ik: “Hoe word ik lid?”",
+   "s": 34.74
+  },
+  {
+   "p": 4,
+   "t": "“Kinderen zijn gratis lid,” zegt de man.",
+   "s": 38.9
+  },
+  {
+   "p": 4,
+   "t": "“Voor volwassenen moet u betalen, maar het is niet duur.”",
+   "s": 42.85
+  },
+  {
+   "p": 5,
+   "t": "Op de kinderafdeling kiest Mia drie boeken over dieren.",
+   "s": 47.59
+  },
+  {
+   "p": 5,
+   "t": "Ik vind makkelijke Nederlandse boeken voor volwassenen.",
+   "s": 52.31
+  },
+  {
+   "p": 6,
+   "t": "“Wij hebben ook een Taalhuis,” zegt de man.",
+   "s": 56.81
+  },
+  {
+   "p": 6,
+   "t": "“Daar kunt u gratis Nederlands oefenen met vrijwilligers.”",
+   "s": 60.77
+  },
+  {
+   "p": 7,
+   "t": "“Echt?",
+   "s": 65.67
+  },
+  {
+   "p": 7,
+   "t": "Wat goed!”",
+   "s": 67.38
+  },
+  {
+   "p": 7,
+   "t": "Ik schrijf de tijden op.",
+   "s": 69.46
+  },
+  {
+   "p": 8,
+   "t": "Dan gaan we met de roltrap naar de bovenste verdieping.",
+   "s": 72.32
+  },
+  {
+   "p": 8,
+   "t": "Daar is een restaurant.",
+   "s": 76.82
+  },
+  {
+   "p": 8,
+   "t": "Door het grote raam zien we de hele stad.",
+   "s": 79.74
+  },
+  {
+   "p": 8,
+   "t": "“Mama, ik zie ons huis!” roept Mia.",
+   "s": 83.65
+  }
+ ],
+ "comp": [
+  {
+   "q": "Waarom gaan ze naar de OBA?",
+   "o": [
+    "het is warm",
+    "het regent",
+    "Mia is ziek",
+    "Alex werkt daar"
+   ],
+   "a": 1,
+   "fa": "چرا به OBA می‌روند؟"
+  },
+  {
+   "q": "Waar staat de grote OBA?",
+   "o": [
+    "in Noord",
+    "in De Pijp",
+    "bij het Centraal Station",
+    "op de Dam"
+   ],
+   "a": 2,
+   "fa": "OBAی بزرگ کجاست؟"
+  },
+  {
+   "q": "Wat kost het lidmaatschap voor kinderen?",
+   "o": [
+    "het is gratis",
+    "tien euro",
+    "twintig euro",
+    "vijf euro"
+   ],
+   "a": 0,
+   "fa": "عضویت برای بچه‌ها چقدر است؟"
+  },
+  {
+   "q": "Wat kiest Mia?",
+   "o": [
+    "een film",
+    "een spel",
+    "een strip",
+    "boeken over dieren"
+   ],
+   "a": 3,
+   "fa": "میا چه انتخاب می‌کند؟"
+  },
+  {
+   "q": "Wat kan Sara in het Taalhuis doen?",
+   "o": [
+    "eten",
+    "Nederlands oefenen",
+    "boeken kopen",
+    "werken"
+   ],
+   "a": 1,
+   "fa": "سارا در «خانه‌ی زبان» (Taalhuis) چه کاری می‌تواند بکند؟"
+  },
+  {
+   "q": "Wat is er op de bovenste verdieping?",
+   "o": [
+    "een restaurant",
+    "een school",
+    "een winkel",
+    "een bioscoop"
+   ],
+   "a": 0,
+   "fa": "در طبقه‌ی آخر چه هست؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "bibliotheek",
+   "art": "de",
+   "w": "de bibliotheek",
+   "ipa": "/biblioːˈteːk/",
+   "fa": "کتابخانه",
+   "ex": "We gaan naar de bibliotheek.",
+   "m": [
+    16,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "boek",
+   "art": "het",
+   "w": "het boek",
+   "ipa": "/buk/",
+   "fa": "کتاب",
+   "ex": "Ik vind makkelijke Nederlandse boeken voor volwassenen.",
+   "m": [
+    31,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "lezen",
+   "art": "",
+   "w": "lezen",
+   "ipa": "/ˈleːzə(n)/",
+   "fa": "خواندن",
+   "ex": "Mia leest elke avond.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 1
+  },
+  {
+   "id": "lenen",
+   "art": "",
+   "w": "lenen",
+   "ipa": "/ˈleːnə(n)/",
+   "fa": "قرض گرفتن (امانت گرفتن)",
+   "ex": "Mag ik je pen lenen?",
+   "m": [
+    14,
+    19
+   ],
+   "book": 1
+  },
+  {
+   "id": "lid",
+   "art": "het",
+   "w": "het lid",
+   "ipa": "/lɪt/",
+   "fa": "عضو",
+   "ex": "Ik ben lid van de sportclub.",
+   "m": [
+    7,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "balie",
+   "art": "de",
+   "w": "de balie",
+   "ipa": "/ˈbaːli/",
+   "fa": "پیشخوان، باجه",
+   "ex": "Bij de balie vraag ik.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "stil",
+   "art": "",
+   "w": "stil",
+   "ipa": "/stɪl/",
+   "fa": "ساکت",
+   "ex": "In de bibliotheek is het stil.",
+   "m": [
+    25,
+    29
+   ],
+   "book": 1
+  },
+  {
+   "id": "oefenen",
+   "art": "",
+   "w": "oefenen",
+   "ipa": "/ˈufənə(n)/",
+   "fa": "تمرین کردن",
+   "ex": "Daar kunt u gratis Nederlands oefenen met vrijwilligers.",
+   "m": [
+    30,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "verdieping",
+   "art": "de",
+   "w": "de verdieping",
+   "ipa": "/vərˈdipɪŋ/",
+   "fa": "طبقه",
+   "ex": "Dan gaan we met de roltrap naar de bovenste verdieping.",
+   "m": [
+    44,
+    54
+   ],
+   "book": 1
+  },
+  {
+   "id": "volwassen",
+   "art": "",
+   "w": "volwassen",
+   "ipa": "/vɔlˈʋɑsə(n)/",
+   "fa": "بزرگسال",
+   "ex": "Ik vind makkelijke Nederlandse boeken voor volwassenen.",
+   "m": [
+    43,
+    54
+   ],
+   "book": 1
+  },
+  {
+   "id": "restaurant",
+   "art": "het",
+   "w": "het restaurant",
+   "ipa": "/rɛstoːˈrɑnt/",
+   "fa": "رستوران",
+   "ex": "Daar is een restaurant.",
+   "m": [
+    12,
+    22
+   ],
+   "book": 0
+  },
+  {
+   "id": "roltrap",
+   "art": "de",
+   "w": "de roltrap",
+   "ipa": "/ˈrɔltrɑp/",
+   "fa": "پله‌برقی",
+   "ex": "Dan gaan we met de roltrap naar de bovenste verdieping.",
+   "m": [
+    19,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "betalen",
+   "art": "",
+   "w": "betalen",
+   "ipa": "/bəˈtaːlə(n)/",
+   "fa": "پرداختن، پول دادن",
+   "ex": "Voor volwassenen moet u betalen, maar het is niet duur.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "tijd",
+   "art": "de",
+   "w": "de tijd",
+   "ipa": "/tɛit/",
+   "fa": "زمان، وقت",
+   "ex": "Ik schrijf de tijden op.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 0
+  },
+  {
+   "id": "bovenste",
+   "art": "",
+   "w": "bovenste",
+   "ipa": "/ˈboːvənstə/",
+   "fa": "بالاترین",
+   "ex": "Dan gaan we met de roltrap naar de bovenste verdieping.",
+   "m": [
+    35,
+    43
+   ],
+   "book": 0
+  },
+  {
+   "id": "nederlands",
+   "art": "",
+   "w": "Nederlands",
+   "ipa": "/ˈneːdərˌlɑnts/",
+   "fa": "زبان هلندی؛ هلندی",
+   "ex": "Ik vind makkelijke Nederlandse boeken voor volwassenen.",
+   "m": [
+    19,
+    30
+   ],
+   "book": 0
+  },
+  {
+   "id": "vlak-bij",
+   "art": "",
+   "w": "vlak bij",
+   "ipa": "/ˈvlɑk ˈbɛi/",
+   "fa": "خیلی نزدیکِ",
+   "ex": "De grote OBA staat vlak bij het Centraal Station.",
+   "m": [
+    19,
+    27
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Hoe word ik lid?",
+   "fa": "چطور عضو می‌شوم؟",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Kinderen zijn gratis lid.",
+   "fa": "بچه‌ها رایگان عضو می‌شوند.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Binnen is het licht en stil.",
+   "fa": "داخل روشن و ساکت است.",
+   "alt": [
+    "Het is binnen licht en stil."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Ik wil Nederlands oefenen.",
+   "fa": "می‌خواهم هلندی تمرین کنم.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik zie ons huis!",
+   "fa": "خانه‌مان را می‌بینم!",
+   "alt": []
+  }
+ ]
+}

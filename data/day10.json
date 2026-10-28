@@ -1,0 +1,485 @@
+{
+ "day": 10,
+ "level": "A1",
+ "title": "Koffie bij de buren",
+ "fa_title": "قهوه پیش همسایه‌ها",
+ "audio": "audio/day10.mp3",
+ "img": "img/day10.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "Er ligt een kaartje in de brievenbus: “Kom zondag om drie uur koffie drinken!",
+   "s": 4.77
+  },
+  {
+   "p": 0,
+   "t": "Groetjes, Dani en Emma.”",
+   "s": 10.81
+  },
+  {
+   "p": 1,
+   "t": "Om drie uur bellen we aan.",
+   "s": 14.42
+  },
+  {
+   "p": 1,
+   "t": "Emma doet open.",
+   "s": 17.38
+  },
+  {
+   "p": 1,
+   "t": "Ze heeft lang rood haar en een vriendelijke lach.",
+   "s": 19.92
+  },
+  {
+   "p": 1,
+   "t": "“Welkom!",
+   "s": 23.93
+  },
+  {
+   "p": 1,
+   "t": "Kom binnen!”",
+   "s": 26.03
+  },
+  {
+   "p": 2,
+   "t": "Het huis van Dani en Emma is klein, maar mooi.",
+   "s": 28.07
+  },
+  {
+   "p": 2,
+   "t": "Er zijn veel planten en kaarsen.",
+   "s": 33.02
+  },
+  {
+   "p": 2,
+   "t": "Lucy ligt op de bank.",
+   "s": 36.59
+  },
+  {
+   "p": 3,
+   "t": "Emma zet koffie.",
+   "s": 39.4
+  },
+  {
+   "p": 3,
+   "t": "Dani pakt de koektrommel.",
+   "s": 41.92
+  },
+  {
+   "p": 3,
+   "t": "Iedereen neemt één koekje.",
+   "s": 44.7
+  },
+  {
+   "p": 3,
+   "t": "Dan gaat de trommel weer dicht.",
+   "s": 47.68
+  },
+  {
+   "p": 3,
+   "t": "Alex kijkt mij aan en lacht.",
+   "s": 51.09
+  },
+  {
+   "p": 4,
+   "t": "“In Nederland neem je één koekje bij de koffie,” zegt Dani.",
+   "s": 54.68
+  },
+  {
+   "p": 4,
+   "t": "“Dat is hier normaal!”",
+   "s": 59.32
+  },
+  {
+   "p": 5,
+   "t": "We praten over Amsterdam, over werk en over school.",
+   "s": 62.17
+  },
+  {
+   "p": 5,
+   "t": "Dan vertelt Emma: “Wij krijgen in februari een baby!”",
+   "s": 66.98
+  },
+  {
+   "p": 6,
+   "t": "“Gefeliciteerd!” zeggen we.",
+   "s": 72.09
+  },
+  {
+   "p": 7,
+   "t": "Mia speelt met Lucy.",
+   "s": 76.84
+  },
+  {
+   "p": 7,
+   "t": "Lucy springt op haar schoot en valt in slaap.",
+   "s": 79.79
+  },
+  {
+   "p": 8,
+   "t": "“Wat gezellig,” zegt Emma.",
+   "s": 83.98
+  },
+  {
+   "p": 8,
+   "t": "Gezellig?",
+   "s": 87.43
+  },
+  {
+   "p": 8,
+   "t": "Dat woord hoor ik vaak.",
+   "s": 89.56
+  },
+  {
+   "p": 8,
+   "t": "Het is warm, fijn en samen.",
+   "s": 92.24
+  },
+  {
+   "p": 8,
+   "t": "Nu begrijp ik het.",
+   "s": 96.04
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoe nodigen Dani en Emma hen uit?",
+   "o": [
+    "met een kaartje",
+    "met een sms",
+    "met een telefoontje",
+    "op straat"
+   ],
+   "a": 0,
+   "fa": "دانی و اِما چطور آن‌ها را دعوت می‌کنند؟"
+  },
+  {
+   "q": "Hoe laat gaan ze naar de buren?",
+   "o": [
+    "om twee uur",
+    "om drie uur",
+    "om vier uur",
+    "om acht uur"
+   ],
+   "a": 1,
+   "fa": "ساعت چند به خانه‌ی همسایه‌ها می‌روند؟"
+  },
+  {
+   "q": "Wat is er veel in het huis van Dani en Emma?",
+   "o": [
+    "boeken",
+    "speelgoed",
+    "fietsen",
+    "planten en kaarsen"
+   ],
+   "a": 3,
+   "fa": "در خانه‌ی دانی و اما چه چیزی زیاد است؟"
+  },
+  {
+   "q": "Hoeveel koekjes neemt iedereen?",
+   "o": [
+    "twee",
+    "vijf",
+    "één",
+    "geen"
+   ],
+   "a": 2,
+   "fa": "هر کس چند بیسکویت برمی‌دارد؟"
+  },
+  {
+   "q": "Wat is het nieuws van Emma?",
+   "o": [
+    "ze verhuizen",
+    "ze krijgen een baby",
+    "een nieuwe kat",
+    "ze gaan op vakantie"
+   ],
+   "a": 1,
+   "fa": "خبر اما چیست؟"
+  },
+  {
+   "q": "Waar valt Lucy in slaap?",
+   "o": [
+    "op de bank",
+    "in de keuken",
+    "op schoot bij Mia",
+    "buiten"
+   ],
+   "a": 2,
+   "fa": "لوسی کجا خوابش می‌برد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "buren",
+   "art": "de",
+   "w": "de buren",
+   "ipa": "/ˈbyːrə(n)/",
+   "fa": "همسایه‌ها",
+   "ex": "Onze buren zijn heel aardig.",
+   "m": [
+    5,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "brievenbus",
+   "art": "de",
+   "w": "de brievenbus",
+   "ipa": "/ˈbrivə(n)bʏs/",
+   "fa": "صندوق نامه",
+   "ex": "Er ligt een kaartje in de brievenbus.",
+   "m": [
+    26,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "aanbellen",
+   "art": "",
+   "w": "aanbellen",
+   "ipa": "/ˈaːmbɛlə(n)/",
+   "fa": "زنگ در را زدن",
+   "ex": "Ik bel aan bij de buren.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "binnen",
+   "art": "",
+   "w": "binnen",
+   "ipa": "/ˈbɪnə(n)/",
+   "fa": "داخل",
+   "ex": "Kom maar binnen!",
+   "m": [
+    9,
+    15
+   ],
+   "book": 1
+  },
+  {
+   "id": "kaars",
+   "art": "de",
+   "w": "de kaars",
+   "ipa": "/kaːrs/",
+   "fa": "شمع",
+   "ex": "Er zijn veel planten en kaarsen.",
+   "m": [
+    24,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "koektrommel",
+   "art": "de",
+   "w": "de koektrommel",
+   "ipa": "/ˈkuktrɔməl/",
+   "fa": "قوطی بیسکویت",
+   "ex": "Dani pakt de koektrommel.",
+   "m": [
+    13,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "koekje",
+   "art": "het",
+   "w": "het koekje",
+   "ipa": "/ˈkukjə/",
+   "fa": "بیسکویت، کلوچه",
+   "ex": "In Nederland neem je één koekje bij de koffie.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 1
+  },
+  {
+   "id": "baby",
+   "art": "de",
+   "w": "de baby",
+   "ipa": "/ˈbeːbi/",
+   "fa": "نوزاد",
+   "ex": "Wij krijgen in februari een baby!",
+   "m": [
+    28,
+    32
+   ],
+   "book": 1
+  },
+  {
+   "id": "schoot",
+   "art": "de",
+   "w": "de schoot",
+   "ipa": "/sxoːt/",
+   "fa": "دامن، روی پا",
+   "ex": "Lucy springt op haar schoot en valt in slaap.",
+   "m": [
+    21,
+    27
+   ],
+   "book": 1
+  },
+  {
+   "id": "samen",
+   "art": "",
+   "w": "samen",
+   "ipa": "/ˈsaːmə(n)/",
+   "fa": "با هم",
+   "ex": "Het is warm, fijn en samen.",
+   "m": [
+    21,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "kaartje",
+   "art": "het",
+   "w": "het kaartje",
+   "ipa": "/ˈkaːrtjə/",
+   "fa": "کارت کوچک (دعوت‌نامه)؛ بلیت",
+   "ex": "Er ligt een kaartje in de brievenbus.",
+   "m": [
+    12,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "haar",
+   "art": "het",
+   "w": "het haar",
+   "ipa": "/ɦaːr/",
+   "fa": "مو",
+   "ex": "Om drie uur bellen we aan.",
+   "m": [
+    19,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "lach",
+   "art": "de",
+   "w": "de lach",
+   "ipa": "/lɑx/",
+   "fa": "خنده",
+   "ex": "Ze heeft lang rood haar en een vriendelijke lach.",
+   "m": [
+    44,
+    48
+   ],
+   "book": 0
+  },
+  {
+   "id": "woord",
+   "art": "het",
+   "w": "het woord",
+   "ipa": "/ʋoːrt/",
+   "fa": "کلمه",
+   "ex": "Dat woord hoor ik vaak.",
+   "m": [
+    4,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "normaal",
+   "art": "",
+   "w": "normaal",
+   "ipa": "/nɔrˈmaːl/",
+   "fa": "عادی، معمول",
+   "ex": "Dat is hier normaal!",
+   "m": [
+    12,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "praten",
+   "art": "",
+   "w": "praten",
+   "ipa": "/ˈpraːtə(n)/",
+   "fa": "حرف زدن، گپ زدن",
+   "ex": "We praten over Amsterdam, over werk en over school.",
+   "m": [
+    3,
+    9
+   ],
+   "book": 0
+  },
+  {
+   "id": "slaap",
+   "art": "de",
+   "w": "de slaap",
+   "ipa": "/slaːp/",
+   "fa": "خواب",
+   "ex": "Lucy springt op haar schoot en valt in slaap.",
+   "m": [
+    39,
+    44
+   ],
+   "book": 0
+  },
+  {
+   "id": "vaak",
+   "art": "",
+   "w": "vaak",
+   "ipa": "/vaːk/",
+   "fa": "اغلب، زیاد",
+   "ex": "Dat woord hoor ik vaak.",
+   "m": [
+    18,
+    22
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Welkom, kom binnen!",
+   "fa": "خوش آمدید، بیایید داخل!",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Iedereen neemt één koekje.",
+   "fa": "هر کس یک بیسکویت برمی‌دارد.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Dat is hier normaal.",
+   "fa": "اینجا این عادی است.",
+   "alt": [
+    "Hier is dat normaal."
+   ]
+  },
+  {
+   "id": "s4",
+   "en": "Wij krijgen een baby!",
+   "fa": "ما بچه‌دار می‌شویم!",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Nu begrijp ik het.",
+   "fa": "حالا می‌فهمم.",
+   "alt": [
+    "Ik begrijp het nu."
+   ]
+  }
+ ]
+}

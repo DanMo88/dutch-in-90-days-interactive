@@ -1,0 +1,461 @@
+{
+ "day": 4,
+ "level": "A1",
+ "title": "Een fiets voor Sara",
+ "fa_title": "یک دوچرخه برای سارا",
+ "audio": "audio/day04.mp3",
+ "img": "img/day04.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In Amsterdam heeft iedereen een fiets.",
+   "s": 4.95
+  },
+  {
+   "p": 0,
+   "t": "Ik wil ook een fiets!",
+   "s": 8.81
+  },
+  {
+   "p": 0,
+   "t": "Dani gaat met mij mee naar de fietsenmaker.",
+   "s": 11.49
+  },
+  {
+   "p": 1,
+   "t": "De winkel is klein en vol.",
+   "s": 15.4
+  },
+  {
+   "p": 1,
+   "t": "Er staan nieuwe en oude fietsen.",
+   "s": 18.85
+  },
+  {
+   "p": 1,
+   "t": "De fietsenmaker is een vriendelijke man.",
+   "s": 22.15
+  },
+  {
+   "p": 2,
+   "t": "“Ik zoek een fiets,” zeg ik.",
+   "s": 25.79
+  },
+  {
+   "p": 2,
+   "t": "“Niet te duur, graag.”",
+   "s": 29.1
+  },
+  {
+   "p": 3,
+   "t": "“Kijk, deze omafiets is tweedehands.",
+   "s": 31.95
+  },
+  {
+   "p": 3,
+   "t": "Hij kost honderdvijftig euro.”",
+   "s": 36.59
+  },
+  {
+   "p": 4,
+   "t": "Het is een zwarte fiets met een mand voor.",
+   "s": 40.13
+  },
+  {
+   "p": 4,
+   "t": "Ik maak een rondje in de straat.",
+   "s": 43.67
+  },
+  {
+   "p": 4,
+   "t": "De fiets is groot, maar hij rijdt goed.",
+   "s": 46.87
+  },
+  {
+   "p": 4,
+   "t": "Hij heeft ook een bel en licht.",
+   "s": 50.99
+  },
+  {
+   "p": 5,
+   "t": "“Ik neem hem!” zeg ik.",
+   "s": 54.42
+  },
+  {
+   "p": 6,
+   "t": "“Je hebt ook twee sloten nodig,” zegt Dani.",
+   "s": 58.63
+  },
+  {
+   "p": 6,
+   "t": "“In Amsterdam stelen dieven veel fietsen.”",
+   "s": 62.68
+  },
+  {
+   "p": 7,
+   "t": "Ik koop een ringslot en een kettingslot.",
+   "s": 66.87
+  },
+  {
+   "p": 7,
+   "t": "Dani laat zien hoe het werkt.",
+   "s": 70.57
+  },
+  {
+   "p": 7,
+   "t": "Het kettingslot gaat om de fiets en om een paal of een brug.",
+   "s": 73.85
+  },
+  {
+   "p": 8,
+   "t": "Dan fiets ik naar huis.",
+   "s": 78.65
+  },
+  {
+   "p": 8,
+   "t": "Ik bel: tring tring!",
+   "s": 81.48
+  },
+  {
+   "p": 8,
+   "t": "Ik ben blij met mijn nieuwe, oude fiets.",
+   "s": 84.76
+  }
+ ],
+ "comp": [
+  {
+   "q": "Met wie gaat Sara naar de fietsenmaker?",
+   "o": [
+    "met Alex",
+    "met Dani",
+    "met Mia",
+    "met Emma"
+   ],
+   "a": 1,
+   "fa": "سارا با چه کسی پیش تعمیرکار دوچرخه می‌رود؟"
+  },
+  {
+   "q": "Wat voor fiets koopt Sara?",
+   "o": [
+    "een racefiets",
+    "een omafiets",
+    "een bakfiets",
+    "een kinderfiets"
+   ],
+   "a": 1,
+   "fa": "سارا چه نوع دوچرخه‌ای می‌خرد؟"
+  },
+  {
+   "q": "Hoeveel kost de fiets?",
+   "o": [
+    "vijftig euro",
+    "honderd euro",
+    "honderdvijftig euro",
+    "driehonderd euro"
+   ],
+   "a": 2,
+   "fa": "دوچرخه چقدر قیمت دارد؟"
+  },
+  {
+   "q": "Welke kleur heeft de fiets?",
+   "o": [
+    "rood",
+    "blauw",
+    "wit",
+    "zwart"
+   ],
+   "a": 3,
+   "fa": "دوچرخه چه رنگی است؟"
+  },
+  {
+   "q": "Hoeveel sloten koopt Sara?",
+   "o": [
+    "geen",
+    "één",
+    "twee",
+    "drie"
+   ],
+   "a": 2,
+   "fa": "سارا چند قفل می‌خرد؟"
+  },
+  {
+   "q": "Wat zegt de bel?",
+   "o": [
+    "piep piep",
+    "tring tring",
+    "toet toet",
+    "boem boem"
+   ],
+   "a": 1,
+   "fa": "زنگ دوچرخه چه صدایی می‌دهد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "fietsenmaker",
+   "art": "de",
+   "w": "de fietsenmaker",
+   "ipa": "/ˈfitsə(n)maːkər/",
+   "fa": "تعمیرکار دوچرخه",
+   "ex": "Dani gaat met mij mee naar de fietsenmaker.",
+   "m": [
+    30,
+    42
+   ],
+   "book": 1
+  },
+  {
+   "id": "tweedehands",
+   "art": "",
+   "w": "tweedehands",
+   "ipa": "/tʋeːdəˈɦɑnts/",
+   "fa": "دست دوم",
+   "ex": "Kijk, deze omafiets is tweedehands.",
+   "m": [
+    23,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "duur",
+   "art": "",
+   "w": "duur",
+   "ipa": "/dyːr/",
+   "fa": "گران",
+   "ex": "Niet te duur, graag.",
+   "m": [
+    8,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "kosten",
+   "art": "",
+   "w": "kosten",
+   "ipa": "/ˈkɔstə(n)/",
+   "fa": "قیمت داشتن",
+   "ex": "Hij kost honderdvijftig euro.",
+   "m": [
+    4,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "mand",
+   "art": "de",
+   "w": "de mand",
+   "ipa": "/mɑnt/",
+   "fa": "سبد",
+   "ex": "Het is een zwarte fiets met een mand voor.",
+   "m": [
+    32,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "bel",
+   "art": "de",
+   "w": "de bel",
+   "ipa": "/bɛl/",
+   "fa": "زنگ",
+   "ex": "Hij heeft ook een bel en licht.",
+   "m": [
+    18,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "licht",
+   "art": "het",
+   "w": "het licht",
+   "ipa": "/lɪxt/",
+   "fa": "چراغ",
+   "ex": "Doe je licht aan, het is donker.",
+   "m": [
+    7,
+    12
+   ],
+   "book": 1
+  },
+  {
+   "id": "slot",
+   "art": "het",
+   "w": "het slot",
+   "ipa": "/slɔt/",
+   "fa": "قفل",
+   "ex": "Mijn fiets staat op slot.",
+   "m": [
+    20,
+    24
+   ],
+   "book": 1
+  },
+  {
+   "id": "brug",
+   "art": "de",
+   "w": "de brug",
+   "ipa": "/brʏx/",
+   "fa": "پل",
+   "ex": "Het kettingslot gaat om de fiets en om een paal of een brug.",
+   "m": [
+    55,
+    59
+   ],
+   "book": 1
+  },
+  {
+   "id": "fietsen",
+   "art": "",
+   "w": "fietsen",
+   "ipa": "/ˈfitsə(n)/",
+   "fa": "دوچرخه‌سواری کردن",
+   "ex": "In Amsterdam heeft iedereen een fiets.",
+   "m": [
+    32,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "werken",
+   "art": "",
+   "w": "werken",
+   "ipa": "/ˈʋɛrkə(n)/",
+   "fa": "کار کردن (عمل کردن)",
+   "ex": "Dani laat zien hoe het werkt.",
+   "m": [
+    23,
+    28
+   ],
+   "book": 0
+  },
+  {
+   "id": "zwart",
+   "art": "",
+   "w": "zwart",
+   "ipa": "/zʋɑrt/",
+   "fa": "سیاه",
+   "ex": "Het is een zwarte fiets met een mand voor.",
+   "m": [
+    11,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "straat",
+   "art": "de",
+   "w": "de straat",
+   "ipa": "/straːt/",
+   "fa": "خیابان",
+   "ex": "Ik maak een rondje in de straat.",
+   "m": [
+    25,
+    31
+   ],
+   "book": 0
+  },
+  {
+   "id": "stelen",
+   "art": "",
+   "w": "stelen",
+   "ipa": "/ˈsteːlə(n)/",
+   "fa": "دزدیدن",
+   "ex": "In Amsterdam stelen dieven veel fietsen.",
+   "m": [
+    13,
+    19
+   ],
+   "book": 0
+  },
+  {
+   "id": "dief",
+   "art": "de",
+   "w": "de dief",
+   "ipa": "/dif/",
+   "fa": "دزد",
+   "ex": "In Amsterdam stelen dieven veel fietsen.",
+   "m": [
+    20,
+    26
+   ],
+   "book": 0
+  },
+  {
+   "id": "paal",
+   "art": "de",
+   "w": "de paal",
+   "ipa": "/paːl/",
+   "fa": "تیر، ستون",
+   "ex": "Het kettingslot gaat om de fiets en om een paal of een brug.",
+   "m": [
+    43,
+    47
+   ],
+   "book": 0
+  },
+  {
+   "id": "vriendelijk",
+   "art": "",
+   "w": "vriendelijk",
+   "ipa": "/ˈvrindələk/",
+   "fa": "مهربان، خوش‌برخورد",
+   "ex": "De fietsenmaker is een vriendelijke man.",
+   "m": [
+    23,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "rijden",
+   "art": "",
+   "w": "rijden",
+   "ipa": "/ˈrɛidə(n)/",
+   "fa": "حرکت کردن، راندن",
+   "ex": "De fiets is groot, maar hij rijdt goed.",
+   "m": [
+    28,
+    33
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Ik zoek een fiets.",
+   "fa": "دنبال یک دوچرخه می‌گردم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Hoeveel kost deze fiets?",
+   "fa": "این دوچرخه چند است؟",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "De fiets is niet te duur.",
+   "fa": "دوچرخه زیاد گران نیست.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Je hebt twee sloten nodig.",
+   "fa": "به دو قفل احتیاج داری.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik fiets naar huis.",
+   "fa": "با دوچرخه به خانه می‌روم.",
+   "alt": []
+  }
+ ]
+}

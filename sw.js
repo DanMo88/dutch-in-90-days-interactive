@@ -1,7 +1,7 @@
 // HTML: network-first · JSON data: network-first · css/js/manifest: stale-while-revalidate
 // media (audio/img/fonts/icons): cache-on-demand · cross-origin: never touched
-const V = 'nl90i-v1';
-const SHELL = ['./', 'index.html', 'style.css?v=1', 'app.js?v=1', 'install.js?v=1', 'manifest.webmanifest', 'data/index.json',
+const V = 'nl90i-v2';
+const SHELL = ['./', 'index.html', 'style.css?v=2', 'app.js?v=2', 'install.js?v=2', 'manifest.webmanifest', 'data/index.json',
   'fonts/Vazirmatn-Regular.woff2', 'fonts/Vazirmatn-Bold.woff2', 'fonts/Vazirmatn-Black.woff2',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-192.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'audio/sfx-correct.mp3', 'audio/sfx-wrong.mp3'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(V).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });

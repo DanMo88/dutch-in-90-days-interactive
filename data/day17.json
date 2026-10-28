@@ -1,0 +1,499 @@
+{
+ "day": 17,
+ "level": "A1",
+ "title": "Afval scheiden",
+ "fa_title": "تفکیک زباله",
+ "audio": "audio/day17.mp3",
+ "img": "img/day17.webp",
+ "sents": [
+  {
+   "p": 0,
+   "t": "In de keuken staan nu drie bakken.",
+   "s": 4.87
+  },
+  {
+   "p": 0,
+   "t": "“Wat moet waar?” vraagt Alex.",
+   "s": 8.43
+  },
+  {
+   "p": 1,
+   "t": "Dani legt het uit.",
+   "s": 13.04
+  },
+  {
+   "p": 1,
+   "t": "“In Amsterdam scheiden we ons afval.",
+   "s": 15.68
+  },
+  {
+   "p": 1,
+   "t": "Papier en karton gaan apart.",
+   "s": 19.44
+  },
+  {
+   "p": 1,
+   "t": "Glas ook.",
+   "s": 22.9
+  },
+  {
+   "p": 1,
+   "t": "En de rest is restafval.”",
+   "s": 25.02
+  },
+  {
+   "p": 2,
+   "t": "“En waar laat ik het?”",
+   "s": 28.13
+  },
+  {
+   "p": 3,
+   "t": "“Op straat staan containers.",
+   "s": 30.57
+  },
+  {
+   "p": 3,
+   "t": "Kom maar mee!”",
+   "s": 33.77
+  },
+  {
+   "p": 4,
+   "t": "Op de hoek staan drie grijze palen.",
+   "s": 35.87
+  },
+  {
+   "p": 4,
+   "t": "Dat zijn de containers.",
+   "s": 39.73
+  },
+  {
+   "p": 4,
+   "t": "Het grootste deel is onder de grond.",
+   "s": 42.57
+  },
+  {
+   "p": 4,
+   "t": "Elke paal heeft een eigen kleur of plaatje.",
+   "s": 46.33
+  },
+  {
+   "p": 4,
+   "t": "Blauw is voor papier, groen voor glas.",
+   "s": 50.58
+  },
+  {
+   "p": 5,
+   "t": "Mia gooit een oude doos in de papiercontainer.",
+   "s": 54.98
+  },
+  {
+   "p": 5,
+   "t": "Bonk!",
+   "s": 59.65
+  },
+  {
+   "p": 5,
+   "t": "Alex gooit een jampot in de glasbak.",
+   "s": 61.41
+  },
+  {
+   "p": 5,
+   "t": "Rinkel!",
+   "s": 65.33
+  },
+  {
+   "p": 6,
+   "t": "“En deze lege fles?” vraag ik.",
+   "s": 67.22
+  },
+  {
+   "p": 7,
+   "t": "“Die niet weggooien!” zegt Dani.",
+   "s": 72.08
+  },
+  {
+   "p": 7,
+   "t": "“Op flessen en blikjes zit statiegeld.",
+   "s": 76.87
+  },
+  {
+   "p": 7,
+   "t": "Breng ze terug naar de supermarkt.",
+   "s": 81.01
+  },
+  {
+   "p": 7,
+   "t": "Dan krijg je geld terug.”",
+   "s": 84.38
+  },
+  {
+   "p": 8,
+   "t": "In de supermarkt staat een automaat.",
+   "s": 87.3
+  },
+  {
+   "p": 8,
+   "t": "Mia stopt de flessen erin.",
+   "s": 91.08
+  },
+  {
+   "p": 8,
+   "t": "Er komt een bonnetje uit: vijfenzeventig cent.",
+   "s": 94.33
+  },
+  {
+   "p": 9,
+   "t": "“Ik ben rijk!” roept Mia.",
+   "s": 99.08
+  }
+ ],
+ "comp": [
+  {
+   "q": "Hoeveel bakken staan er in de keuken?",
+   "o": [
+    "twee",
+    "drie",
+    "vier",
+    "vijf"
+   ],
+   "a": 1,
+   "fa": "چند سطل در آشپزخانه هست؟"
+  },
+  {
+   "q": "Waar is het grootste deel van de containers?",
+   "o": [
+    "onder de grond",
+    "in de tuin",
+    "in het huis",
+    "op het dak"
+   ],
+   "a": 0,
+   "fa": "بیشترِ کانتینرها کجاست؟"
+  },
+  {
+   "q": "Welke kleur is voor papier?",
+   "o": [
+    "groen",
+    "rood",
+    "blauw",
+    "geel"
+   ],
+   "a": 2,
+   "fa": "کدام رنگ برای کاغذ است؟"
+  },
+  {
+   "q": "Wat gooit Alex in de glasbak?",
+   "o": [
+    "een doos",
+    "een fles",
+    "een blikje",
+    "een jampot"
+   ],
+   "a": 3,
+   "fa": "الکس چه چیزی در سطل شیشه می‌اندازد؟"
+  },
+  {
+   "q": "Wat zit er op flessen en blikjes?",
+   "o": [
+    "een sticker",
+    "statiegeld",
+    "een cadeau",
+    "niets"
+   ],
+   "a": 1,
+   "fa": "روی بطری‌ها و قوطی‌ها چه هست؟"
+  },
+  {
+   "q": "Hoeveel geld krijgt Mia?",
+   "o": [
+    "vijfentwintig cent",
+    "één euro",
+    "vijfenzeventig cent",
+    "vijf euro"
+   ],
+   "a": 2,
+   "fa": "میا چقدر پول می‌گیرد؟"
+  }
+ ],
+ "words": [
+  {
+   "id": "afval",
+   "art": "het",
+   "w": "het afval",
+   "ipa": "/ˈɑfɑl/",
+   "fa": "زباله",
+   "ex": "In Amsterdam scheiden we ons afval.",
+   "m": [
+    29,
+    34
+   ],
+   "book": 1
+  },
+  {
+   "id": "scheiden",
+   "art": "",
+   "w": "scheiden",
+   "ipa": "/ˈsxɛidə(n)/",
+   "fa": "جدا کردن، تفکیک کردن",
+   "ex": "In Amsterdam scheiden we ons afval.",
+   "m": [
+    13,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "papier",
+   "art": "het",
+   "w": "het papier",
+   "ipa": "/paːˈpir/",
+   "fa": "کاغذ",
+   "ex": "Blauw is voor papier, groen voor glas.",
+   "m": [
+    14,
+    20
+   ],
+   "book": 1
+  },
+  {
+   "id": "glas",
+   "art": "het",
+   "w": "het glas",
+   "ipa": "/ɣlɑs/",
+   "fa": "شیشه؛ لیوان",
+   "ex": "Blauw is voor papier, groen voor glas.",
+   "m": [
+    33,
+    37
+   ],
+   "book": 1
+  },
+  {
+   "id": "container",
+   "art": "de",
+   "w": "de container",
+   "ipa": "/kɔnˈteːnər/",
+   "fa": "کانتینر زباله",
+   "ex": "Op straat staan containers.",
+   "m": [
+    16,
+    26
+   ],
+   "book": 1
+  },
+  {
+   "id": "fles",
+   "art": "de",
+   "w": "de fles",
+   "ipa": "/flɛs/",
+   "fa": "بطری",
+   "ex": "Op flessen en blikjes zit statiegeld.",
+   "m": [
+    3,
+    10
+   ],
+   "book": 1
+  },
+  {
+   "id": "blikje",
+   "art": "het",
+   "w": "het blikje",
+   "ipa": "/ˈblɪkjə/",
+   "fa": "قوطی (نوشابه)",
+   "ex": "Op flessen en blikjes zit statiegeld.",
+   "m": [
+    14,
+    21
+   ],
+   "book": 1
+  },
+  {
+   "id": "statiegeld",
+   "art": "het",
+   "w": "het statiegeld",
+   "ipa": "/ˈstaː(t)siɣɛlt/",
+   "fa": "ودیعه‌ی بطری (پول پیش)",
+   "ex": "Op flessen en blikjes zit statiegeld.",
+   "m": [
+    26,
+    36
+   ],
+   "book": 1
+  },
+  {
+   "id": "weggooien",
+   "art": "",
+   "w": "weggooien",
+   "ipa": "/ˈʋɛxɣoːjə(n)/",
+   "fa": "دور انداختن",
+   "ex": "Die niet weggooien!",
+   "m": [
+    9,
+    18
+   ],
+   "book": 1
+  },
+  {
+   "id": "terugbrengen",
+   "art": "",
+   "w": "terugbrengen",
+   "ipa": "/təˈrʏɣbrɛŋə(n)/",
+   "fa": "پس بردن",
+   "ex": "Ik breng de flessen terug.",
+   "m": [
+    3,
+    8
+   ],
+   "book": 1
+  },
+  {
+   "id": "bak",
+   "art": "de",
+   "w": "de bak",
+   "ipa": "/bɑk/",
+   "fa": "سطل، ظرف",
+   "ex": "In de keuken staan nu drie bakken.",
+   "m": [
+    27,
+    33
+   ],
+   "book": 0
+  },
+  {
+   "id": "karton",
+   "art": "het",
+   "w": "het karton",
+   "ipa": "/kɑrˈtɔn/",
+   "fa": "مقوا",
+   "ex": "Papier en karton gaan apart.",
+   "m": [
+    10,
+    16
+   ],
+   "book": 0
+  },
+  {
+   "id": "restafval",
+   "art": "het",
+   "w": "het restafval",
+   "ipa": "/ˈrɛstɑˌfɑl/",
+   "fa": "زباله‌ی غیرقابل بازیافت",
+   "ex": "En de rest is restafval.",
+   "m": [
+    14,
+    23
+   ],
+   "book": 0
+  },
+  {
+   "id": "grond",
+   "art": "de",
+   "w": "de grond",
+   "ipa": "/ˈɣrɔnt/",
+   "fa": "زمین",
+   "ex": "Het grootste deel is onder de grond.",
+   "m": [
+    30,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "blauw",
+   "art": "",
+   "w": "blauw",
+   "ipa": "/blɑu/",
+   "fa": "آبی",
+   "ex": "Blauw is voor papier, groen voor glas.",
+   "m": [
+    0,
+    5
+   ],
+   "book": 0
+  },
+  {
+   "id": "jampot",
+   "art": "de",
+   "w": "de jampot",
+   "ipa": "/ˈʒɛmpɔt/",
+   "fa": "شیشه‌ی مربا",
+   "ex": "Alex gooit een jampot in de glasbak.",
+   "m": [
+    15,
+    21
+   ],
+   "book": 0
+  },
+  {
+   "id": "geld",
+   "art": "het",
+   "w": "het geld",
+   "ipa": "/ɣɛlt/",
+   "fa": "پول",
+   "ex": "Dan krijg je geld terug.",
+   "m": [
+    13,
+    17
+   ],
+   "book": 0
+  },
+  {
+   "id": "automaat",
+   "art": "de",
+   "w": "de automaat",
+   "ipa": "/ˌɑutoːˈmaːt/",
+   "fa": "دستگاه خودکار",
+   "ex": "In de supermarkt staat een automaat.",
+   "m": [
+    27,
+    35
+   ],
+   "book": 0
+  },
+  {
+   "id": "rijk",
+   "art": "",
+   "w": "rijk",
+   "ipa": "/rɛik/",
+   "fa": "پولدار",
+   "ex": "Ik ben rijk!",
+   "m": [
+    7,
+    11
+   ],
+   "book": 0
+  }
+ ],
+ "build": [
+  {
+   "id": "s1",
+   "en": "Wij scheiden ons afval.",
+   "fa": "ما زباله‌هایمان را تفکیک می‌کنیم.",
+   "alt": []
+  },
+  {
+   "id": "s2",
+   "en": "Blauw is voor papier.",
+   "fa": "آبی برای کاغذ است.",
+   "alt": []
+  },
+  {
+   "id": "s3",
+   "en": "Breng de flessen terug naar de supermarkt.",
+   "fa": "بطری‌ها را به سوپرمارکت برگردان.",
+   "alt": []
+  },
+  {
+   "id": "s4",
+   "en": "Dan krijg je geld terug.",
+   "fa": "آن‌وقت پولت را پس می‌گیری.",
+   "alt": []
+  },
+  {
+   "id": "s5",
+   "en": "Ik ben rijk!",
+   "fa": "من پولدارم!",
+   "alt": []
+  }
+ ]
+}
